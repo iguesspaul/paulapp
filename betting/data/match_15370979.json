@@ -1,0 +1,10004 @@
+{
+  "id": 15370979,
+  "feedEventId": 20848668,
+  "name": "Odra Opole vs. Polonia Warszawa",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 4569,
+    "name": "I Liga"
+  },
+  "category": {
+    "iso": "POL",
+    "hasLiveEvents": false,
+    "id": 561,
+    "name": "Poland"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 47755,
+      "name": "Odra Opole"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 71312,
+      "name": "Polonia Warszawa"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1572870053,
+        1572870047,
+        1572870016,
+        1572870039,
+        1572869987,
+        1572870071,
+        1572870098,
+        1572870056,
+        1572870101,
+        1572870042,
+        1572869990,
+        1572870087,
+        1572870062,
+        1572870136,
+        1572870103,
+        1572870002,
+        1572870006,
+        1572870059,
+        1572870105,
+        1572870081,
+        1572870082,
+        1572870361,
+        1572870364,
+        1572870365,
+        1572870063,
+        1572870143,
+        1572870139,
+        1572870131
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1572870053,
+        1572870016,
+        1572870047,
+        1572869990,
+        1572870039,
+        1572870002,
+        1572870006,
+        1572870361,
+        1572870054,
+        1572870048,
+        1572870020,
+        1572870008,
+        1572870010,
+        1572870040,
+        1572870362,
+        1572870042,
+        1572870116,
+        1572870022,
+        1572870012,
+        1572870013,
+        1572870041,
+        1572870106,
+        1572870107,
+        1572870108,
+        1572870109,
+        1572870110,
+        1572870111
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572870115,
+        1572870072,
+        1572870099,
+        1572870064,
+        1572870091,
+        1572870134,
+        1572870135,
+        1572870112,
+        1572870113,
+        1572870108,
+        1572870109,
+        1572870106,
+        1572870107,
+        1572870110,
+        1572870111,
+        1572870063,
+        1572870085,
+        1572870086,
+        1572870143
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572870054,
+        1572870048,
+        1572870020,
+        1572870088,
+        1572869994,
+        1572870116,
+        1572870040,
+        1572870008,
+        1572870010,
+        1572870078,
+        1572870075,
+        1572870044,
+        1572870132,
+        1572870065,
+        1572870092,
+        1572870362,
+        1572870366,
+        1572870367,
+        1572870144
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572870055,
+        1572870049,
+        1572870022,
+        1572870089,
+        1572870102,
+        1572870041,
+        1572870012,
+        1572870013,
+        1572870061,
+        1572870363,
+        1572870145
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572870077,
+        1572870074,
+        1572870090,
+        1572870140,
+        1572870050,
+        1572870043,
+        1572870146,
+        1572870147,
+        1572870148,
+        1572870114,
+        1572870141,
+        1572870149,
+        1572870150,
+        1572870151,
+        1572870152,
+        1572870153,
+        1572870154
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3999412447
+        ],
+        [
+          3999412448
+        ],
+        [
+          3999412449
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412447
+        ],
+        [
+          3999412448
+        ],
+        [
+          3999412449
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572870053,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3999412422
+        ],
+        [
+          3999412420
+        ],
+        [
+          3999412421
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412422,
+          3999412420,
+          3999412421
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572870047,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3999412312
+        ],
+        [
+          3999412313
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412312
+        ],
+        [
+          3999412313
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1572870016,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3999412358
+        ],
+        [
+          3999412359
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412358
+        ],
+        [
+          3999412359
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572870039,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Any team to win",
+      "desktopOddIds": [
+        [
+          3999412254
+        ],
+        [
+          3999412255
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412254
+        ],
+        [
+          3999412255
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 881,
+      "isMB": false,
+      "sportMarketId": 71124,
+      "id": 1572869987,
+      "name": "Any team to win"
+    },
+    {
+      "shortName": "Odra Opole to win",
+      "desktopOddIds": [
+        [
+          3999412547
+        ],
+        [
+          3999412549
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412547
+        ],
+        [
+          3999412549
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 880,
+      "isMB": false,
+      "sportMarketId": 71123,
+      "id": 1572870071,
+      "name": "Odra Opole to win"
+    },
+    {
+      "shortName": "Polonia Warszawa to win",
+      "desktopOddIds": [
+        [
+          3999412759
+        ],
+        [
+          3999412762
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412759
+        ],
+        [
+          3999412762
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 879,
+      "isMB": false,
+      "sportMarketId": 71122,
+      "id": 1572870098,
+      "name": "Polonia Warszawa to win"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3999412456
+        ],
+        [
+          3999412457
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412456
+        ],
+        [
+          3999412457
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1572870056,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3999412775
+        ],
+        [
+          3999412779
+        ],
+        [
+          3999412777
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412775
+        ],
+        [
+          3999412779
+        ],
+        [
+          3999412777
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1572870101,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3999412365,
+          3999412366,
+          3999412371,
+          3999412367,
+          3999412372,
+          3999412377,
+          3999412368,
+          3999412373,
+          3999412378,
+          3999412386
+        ],
+        [
+          3999412364,
+          3999412370,
+          3999412376,
+          3999412382,
+          3999412388,
+          3999412389
+        ],
+        [
+          3999412369,
+          3999412374,
+          3999412375,
+          3999412379,
+          3999412380,
+          3999412381,
+          3999412383,
+          3999412384,
+          3999412385,
+          3999412387
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412365,
+          3999412366,
+          3999412371,
+          3999412367,
+          3999412372,
+          3999412377,
+          3999412368,
+          3999412373,
+          3999412378,
+          3999412386
+        ],
+        [
+          3999412364,
+          3999412370,
+          3999412376,
+          3999412382,
+          3999412388,
+          3999412389
+        ],
+        [
+          3999412369,
+          3999412374,
+          3999412375,
+          3999412379,
+          3999412380,
+          3999412381,
+          3999412383,
+          3999412384,
+          3999412385,
+          3999412387
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572870042,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3999412260
+        ],
+        [
+          3999412261
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412260
+        ],
+        [
+          3999412261
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1572869990,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3999412703
+        ],
+        [
+          3999412704
+        ],
+        [
+          3999412705
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412703,
+          3999412704,
+          3999412705
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "1:0",
+      "id": 1572870087,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          3999412492,
+          3999412500,
+          3999412508
+        ],
+        [
+          3999412496,
+          3999412503,
+          3999412510
+        ],
+        [
+          3999412499,
+          3999412505,
+          3999412512
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412492,
+          3999412496,
+          3999412499,
+          3999412500,
+          3999412503,
+          3999412505,
+          3999412508,
+          3999412510,
+          3999412512
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "isMB": false,
+      "sportMarketId": 70568,
+      "id": 1572870062,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          3999414230
+        ],
+        [
+          3999414236
+        ],
+        [
+          3999414233
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414230
+        ],
+        [
+          3999414236
+        ],
+        [
+          3999414233
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "isMB": false,
+      "sportMarketId": 70493,
+      "id": 1572870136,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "Winning margin",
+      "desktopOddIds": [
+        [
+          3999412790,
+          3999412794,
+          3999412797
+        ],
+        [
+          3999412789
+        ],
+        [
+          3999412801,
+          3999412804,
+          3999412807
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412790,
+          3999412794,
+          3999412797,
+          3999412789,
+          3999412801,
+          3999412804,
+          3999412807
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15,
+      "isMB": false,
+      "sportMarketId": 71166,
+      "id": 1572870103,
+      "name": "Winning margin"
+    },
+    {
+      "shortName": "Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412284,
+          3999412286,
+          3999412288
+        ],
+        [
+          3999412285,
+          3999412287,
+          3999412289
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412284,
+          3999412286,
+          3999412288
+        ],
+        [
+          3999412285,
+          3999412287,
+          3999412289
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": false,
+      "sportMarketId": 70525,
+      "sv": "0.5",
+      "id": 1572870002,
+      "name": "Odra Opole total"
+    },
+    {
+      "shortName": "Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412290,
+          3999412292,
+          3999412294
+        ],
+        [
+          3999412291,
+          3999412293,
+          3999412295
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412290,
+          3999412292,
+          3999412294
+        ],
+        [
+          3999412291,
+          3999412293,
+          3999412295
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1572870006,
+      "name": "Polonia Warszawa total"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          3999412462,
+          3999412463,
+          3999412464,
+          3999412467
+        ],
+        [
+          3999412466,
+          3999412468
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412462,
+          3999412463,
+          3999412464,
+          3999412467,
+          3999412466,
+          3999412468
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "isMB": false,
+      "sportMarketId": 71660,
+      "id": 1572870059,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Which team to score",
+      "desktopOddIds": [
+        [
+          3999412831,
+          3999412836
+        ],
+        [
+          3999412834,
+          3999412830
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412831,
+          3999412836
+        ],
+        [
+          3999412834,
+          3999412830
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 30,
+      "isMB": false,
+      "sportMarketId": 70547,
+      "id": 1572870105,
+      "name": "Which team to score"
+    },
+    {
+      "shortName": "Odra Opole exact goals",
+      "desktopOddIds": [
+        [
+          3999412673,
+          3999412675,
+          3999412677,
+          3999412679
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412673,
+          3999412675,
+          3999412677,
+          3999412679
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 23,
+      "isMB": false,
+      "sportMarketId": 71654,
+      "id": 1572870081,
+      "name": "Odra Opole exact goals"
+    },
+    {
+      "shortName": "Polonia Warszawa exact goals",
+      "desktopOddIds": [
+        [
+          3999412680,
+          3999412682,
+          3999412683,
+          3999412684
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412680,
+          3999412682,
+          3999412683,
+          3999412684
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 24,
+      "isMB": false,
+      "sportMarketId": 71655,
+      "id": 1572870082,
+      "name": "Polonia Warszawa exact goals"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3999417523
+        ],
+        [
+          3999417525
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417523
+        ],
+        [
+          3999417525
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572870361,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Odra Opole odd/even",
+      "desktopOddIds": [
+        [
+          3999417535
+        ],
+        [
+          3999417537
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417535
+        ],
+        [
+          3999417537
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1572870364,
+      "name": "Odra Opole odd/even"
+    },
+    {
+      "shortName": "Polonia Warszawa odd/even",
+      "desktopOddIds": [
+        [
+          3999417539
+        ],
+        [
+          3999417541
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417539
+        ],
+        [
+          3999417541
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1572870365,
+      "name": "Polonia Warszawa odd/even"
+    },
+    {
+      "shortName": "Half With most Goals",
+      "desktopOddIds": [
+        [
+          3999412513
+        ],
+        [
+          3999412518
+        ],
+        [
+          3999412515
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412513,
+          3999412515,
+          3999412518
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 52,
+      "isMB": false,
+      "sportMarketId": 70577,
+      "id": 1572870063,
+      "name": "Half With most Goals"
+    },
+    {
+      "shortName": "Multiscores",
+      "desktopOddIds": [
+        [
+          3999414488,
+          3999414506,
+          3999414515,
+          3999414498,
+          3999414523
+        ],
+        [
+          3999414536
+        ],
+        [
+          3999414493,
+          3999414509,
+          3999414519,
+          3999414502,
+          3999414527
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414488,
+          3999414506,
+          3999414515,
+          3999414498,
+          3999414523,
+          3999414536,
+          3999414493,
+          3999414509,
+          3999414519,
+          3999414502,
+          3999414527
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 551,
+      "isMB": false,
+      "sportMarketId": 71017,
+      "id": 1572870143,
+      "name": "Multiscores"
+    },
+    {
+      "shortName": "Halftime/fulltime correct score",
+      "desktopOddIds": [
+        [
+          3999414334,
+          3999414336,
+          3999414344,
+          3999414346,
+          3999414350,
+          3999414341,
+          3999414357,
+          3999414388,
+          3999414389,
+          3999414393,
+          3999414397,
+          3999414402,
+          3999414404,
+          3999414407,
+          3999414411
+        ],
+        [
+          3999414253,
+          3999414270,
+          3999414271,
+          3999414259,
+          3999414281,
+          3999414284,
+          3999414262,
+          3999414273,
+          3999414287,
+          3999414266,
+          3999414290,
+          3999414364,
+          3999414373,
+          3999414367,
+          3999414378,
+          3999414413
+        ],
+        [
+          3999414294,
+          3999414295,
+          3999414297,
+          3999414300,
+          3999414304,
+          3999414307,
+          3999414310,
+          3999414314,
+          3999414317,
+          3999414319,
+          3999414321,
+          3999414322,
+          3999414325,
+          3999414380,
+          3999414384
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414334,
+          3999414336,
+          3999414344,
+          3999414346,
+          3999414350,
+          3999414341,
+          3999414357,
+          3999414388,
+          3999414389,
+          3999414393,
+          3999414397,
+          3999414402,
+          3999414404,
+          3999414407,
+          3999414411,
+          3999414253,
+          3999414270,
+          3999414271,
+          3999414259,
+          3999414281,
+          3999414284,
+          3999414262,
+          3999414273
+        ],
+        [
+          3999414287,
+          3999414266,
+          3999414290,
+          3999414364,
+          3999414373,
+          3999414367,
+          3999414378,
+          3999414413,
+          3999414294,
+          3999414295,
+          3999414297,
+          3999414300,
+          3999414304,
+          3999414307,
+          3999414310,
+          3999414314,
+          3999414317,
+          3999414319,
+          3999414321,
+          3999414322,
+          3999414325,
+          3999414380,
+          3999414384
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 46,
+      "isMB": false,
+      "sportMarketId": 70567,
+      "id": 1572870139,
+      "name": "Halftime/fulltime correct score"
+    },
+    {
+      "shortName": "Multigoals",
+      "desktopOddIds": [
+        [
+          3999413192,
+          3999413188,
+          3999413169,
+          3999413171,
+          3999413112,
+          3999413119,
+          3999413174,
+          3999413131,
+          3999413137,
+          3999413141,
+          3999413145,
+          3999413193,
+          3999413151,
+          3999413200,
+          3999413183,
+          3999413186,
+          3999413196
+        ],
+        [
+          3999413162,
+          3999413159,
+          3999413166,
+          3999413108,
+          3999413116,
+          3999413123,
+          3999413126,
+          3999413134,
+          3999413177,
+          3999413144,
+          3999413179,
+          3999413148,
+          3999413181,
+          3999413154,
+          3999413157,
+          3999413197
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999413192,
+          3999413188,
+          3999413169,
+          3999413171,
+          3999413112,
+          3999413119,
+          3999413174,
+          3999413131,
+          3999413137,
+          3999413141,
+          3999413145,
+          3999413193,
+          3999413151,
+          3999413200,
+          3999413183,
+          3999413186,
+          3999413196
+        ],
+        [
+          3999413162,
+          3999413159,
+          3999413166,
+          3999413108,
+          3999413116,
+          3999413123,
+          3999413126,
+          3999413134,
+          3999413177,
+          3999413144,
+          3999413179,
+          3999413148,
+          3999413181,
+          3999413154,
+          3999413157,
+          3999413197
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 548,
+      "isMB": false,
+      "sportMarketId": 71014,
+      "id": 1572870131,
+      "name": "Multigoals"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3999412447
+        ],
+        [
+          3999412448
+        ],
+        [
+          3999412449
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412447
+        ],
+        [
+          3999412448
+        ],
+        [
+          3999412449
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572870053,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3999412312
+        ],
+        [
+          3999412313
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412312
+        ],
+        [
+          3999412313
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1572870016,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3999412422
+        ],
+        [
+          3999412420
+        ],
+        [
+          3999412421
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412422,
+          3999412420,
+          3999412421
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572870047,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3999412260
+        ],
+        [
+          3999412261
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412260
+        ],
+        [
+          3999412261
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1572869990,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3999412358
+        ],
+        [
+          3999412359
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412358
+        ],
+        [
+          3999412359
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572870039,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412284,
+          3999412286,
+          3999412288
+        ],
+        [
+          3999412285,
+          3999412287,
+          3999412289
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412284,
+          3999412286,
+          3999412288
+        ],
+        [
+          3999412285,
+          3999412287,
+          3999412289
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": false,
+      "sportMarketId": 70525,
+      "sv": "0.5",
+      "id": 1572870002,
+      "name": "Odra Opole total"
+    },
+    {
+      "shortName": "Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412290,
+          3999412292,
+          3999412294
+        ],
+        [
+          3999412291,
+          3999412293,
+          3999412295
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412290,
+          3999412292,
+          3999412294
+        ],
+        [
+          3999412291,
+          3999412293,
+          3999412295
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1572870006,
+      "name": "Polonia Warszawa total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3999417523
+        ],
+        [
+          3999417525
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417523
+        ],
+        [
+          3999417525
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572870361,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3999412450
+        ],
+        [
+          3999412451
+        ],
+        [
+          3999412452
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412450,
+          3999412451,
+          3999412452
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572870054,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3999412425
+        ],
+        [
+          3999412423
+        ],
+        [
+          3999412424
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412425,
+          3999412423,
+          3999412424
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572870048,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3999412320
+        ],
+        [
+          3999412321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412320
+        ],
+        [
+          3999412321
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572870020,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412296
+        ],
+        [
+          3999412297
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412296
+        ],
+        [
+          3999412297
+        ]
+      ],
+      "isBB": true,
+      "so": 20,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1572870008,
+      "name": "1st half - Odra Opole total"
+    },
+    {
+      "shortName": "1st half - Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412300
+        ],
+        [
+          3999412301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412300
+        ],
+        [
+          3999412301
+        ]
+      ],
+      "isBB": true,
+      "so": 21,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1572870010,
+      "name": "1st half - Polonia Warszawa total"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999412360
+        ],
+        [
+          3999412361
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412360
+        ],
+        [
+          3999412361
+        ]
+      ],
+      "isBB": true,
+      "so": 22,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1572870040,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3999417527
+        ],
+        [
+          3999417529
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417527
+        ],
+        [
+          3999417529
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572870362,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3999412365,
+          3999412366,
+          3999412371,
+          3999412367,
+          3999412372,
+          3999412377,
+          3999412368,
+          3999412373,
+          3999412378,
+          3999412386
+        ],
+        [
+          3999412364,
+          3999412370,
+          3999412376,
+          3999412382,
+          3999412388,
+          3999412389
+        ],
+        [
+          3999412369,
+          3999412374,
+          3999412375,
+          3999412379,
+          3999412380,
+          3999412381,
+          3999412383,
+          3999412384,
+          3999412385,
+          3999412387
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412365,
+          3999412366,
+          3999412371,
+          3999412367,
+          3999412372,
+          3999412377,
+          3999412368,
+          3999412373,
+          3999412378,
+          3999412386
+        ],
+        [
+          3999412364,
+          3999412370,
+          3999412376,
+          3999412382,
+          3999412388,
+          3999412389
+        ],
+        [
+          3999412369,
+          3999412374,
+          3999412375,
+          3999412379,
+          3999412380,
+          3999412381,
+          3999412383,
+          3999412384,
+          3999412385,
+          3999412387
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572870042,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3999412893,
+          3999412897,
+          3999412904
+        ],
+        [
+          3999412892,
+          3999412902,
+          3999412910,
+          3999412912
+        ],
+        [
+          3999412899,
+          3999412906,
+          3999412908
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412893,
+          3999412897,
+          3999412904
+        ],
+        [
+          3999412892,
+          3999412902,
+          3999412910,
+          3999412912
+        ],
+        [
+          3999412899,
+          3999412906,
+          3999412908
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 47,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1572870116,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          3999412324
+        ],
+        [
+          3999412325
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412324
+        ],
+        [
+          3999412325
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 48,
+      "typeId": 90,
+      "isMB": true,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1572870022,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "2nd half - Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412304
+        ],
+        [
+          3999412305
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412304
+        ],
+        [
+          3999412305
+        ]
+      ],
+      "isBB": true,
+      "so": 49,
+      "typeId": 91,
+      "isMB": true,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1572870012,
+      "name": "2nd half - Odra Opole total"
+    },
+    {
+      "shortName": "2nd half - Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412306
+        ],
+        [
+          3999412307
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412306
+        ],
+        [
+          3999412307
+        ]
+      ],
+      "isBB": true,
+      "so": 50,
+      "typeId": 92,
+      "isMB": true,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1572870013,
+      "name": "2nd half - Polonia Warszawa total"
+    },
+    {
+      "shortName": "2nd half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999412362
+        ],
+        [
+          3999412363
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412362
+        ],
+        [
+          3999412363
+        ]
+      ],
+      "isBB": true,
+      "so": 51,
+      "typeId": 95,
+      "isMB": false,
+      "sportMarketId": 70665,
+      "id": 1572870041,
+      "name": "2nd half - both teams to score"
+    },
+    {
+      "shortName": "Odra Opole to win both halves",
+      "desktopOddIds": [
+        [
+          3999412839
+        ],
+        [
+          3999412841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412839
+        ],
+        [
+          3999412841
+        ]
+      ],
+      "isBB": true,
+      "so": 60,
+      "typeId": 48,
+      "isMB": false,
+      "sportMarketId": 70573,
+      "id": 1572870106,
+      "name": "Odra Opole to win both halves"
+    },
+    {
+      "shortName": "Polonia Warszawa to win both halves",
+      "desktopOddIds": [
+        [
+          3999412843
+        ],
+        [
+          3999412845
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412843
+        ],
+        [
+          3999412845
+        ]
+      ],
+      "isBB": true,
+      "so": 61,
+      "typeId": 49,
+      "isMB": false,
+      "sportMarketId": 70574,
+      "id": 1572870107,
+      "name": "Polonia Warszawa to win both halves"
+    },
+    {
+      "shortName": "Odra Opole to win either half",
+      "desktopOddIds": [
+        [
+          3999412847
+        ],
+        [
+          3999412849
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412847
+        ],
+        [
+          3999412849
+        ]
+      ],
+      "isBB": true,
+      "so": 62,
+      "typeId": 50,
+      "isMB": false,
+      "sportMarketId": 70575,
+      "id": 1572870108,
+      "name": "Odra Opole to win either half"
+    },
+    {
+      "shortName": "Polonia Warszawa to win either half",
+      "desktopOddIds": [
+        [
+          3999412851
+        ],
+        [
+          3999412852
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412851
+        ],
+        [
+          3999412852
+        ]
+      ],
+      "isBB": true,
+      "so": 63,
+      "typeId": 51,
+      "isMB": false,
+      "sportMarketId": 70576,
+      "id": 1572870109,
+      "name": "Polonia Warszawa to win either half"
+    },
+    {
+      "shortName": "Odra Opole to score in both halves",
+      "desktopOddIds": [
+        [
+          3999412854
+        ],
+        [
+          3999412858
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412854
+        ],
+        [
+          3999412858
+        ]
+      ],
+      "isBB": true,
+      "so": 64,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1572870110,
+      "name": "Odra Opole to score in both halves"
+    },
+    {
+      "shortName": "Polonia Warszawa to score in both halves",
+      "desktopOddIds": [
+        [
+          3999412860
+        ],
+        [
+          3999412862
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412860
+        ],
+        [
+          3999412862
+        ]
+      ],
+      "isBB": true,
+      "so": 65,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1572870111,
+      "name": "Polonia Warszawa to score in both halves"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          3999412885,
+          3999412880,
+          3999412883,
+          3999412888
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412885
+        ],
+        [
+          3999412880,
+          3999412883,
+          3999412888
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "isMB": false,
+      "sportMarketId": 72136,
+      "id": 1572870115,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "Odra Opole win to nil",
+      "desktopOddIds": [
+        [
+          3999412551
+        ],
+        [
+          3999412554
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412551
+        ],
+        [
+          3999412554
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 33,
+      "isMB": false,
+      "sportMarketId": 70553,
+      "id": 1572870072,
+      "name": "Odra Opole win to nil"
+    },
+    {
+      "shortName": "Polonia Warszawa win to nil",
+      "desktopOddIds": [
+        [
+          3999412764
+        ],
+        [
+          3999412766
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412764
+        ],
+        [
+          3999412766
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 34,
+      "isMB": false,
+      "sportMarketId": 70554,
+      "id": 1572870099,
+      "name": "Polonia Warszawa win to nil"
+    },
+    {
+      "shortName": "Odra Opole clean sheet",
+      "desktopOddIds": [
+        [
+          3999412521
+        ],
+        [
+          3999412524
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412521
+        ],
+        [
+          3999412524
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31,
+      "isMB": false,
+      "sportMarketId": 70549,
+      "id": 1572870064,
+      "name": "Odra Opole clean sheet"
+    },
+    {
+      "shortName": "Polonia Warszawa Clean sheet",
+      "desktopOddIds": [
+        [
+          3999412724
+        ],
+        [
+          3999412726
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412724
+        ],
+        [
+          3999412726
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 32,
+      "isMB": false,
+      "sportMarketId": 70551,
+      "id": 1572870091,
+      "name": "Polonia Warszawa Clean sheet"
+    },
+    {
+      "shortName": "Odra Opole multigoals",
+      "desktopOddIds": [
+        [
+          3999413505,
+          3999413503,
+          3999413477,
+          3999413482,
+          3999413407,
+          3999413414,
+          3999413490,
+          3999413427,
+          3999413432,
+          3999413437,
+          3999413446,
+          3999413508,
+          3999413455,
+          3999413523,
+          3999413500,
+          3999413502,
+          3999413512
+        ],
+        [
+          3999413470,
+          3999413466,
+          3999413473,
+          3999413404,
+          3999413410,
+          3999413421,
+          3999413424,
+          3999413430,
+          3999413492,
+          3999413442,
+          3999413494,
+          3999413450,
+          3999413497,
+          3999413461,
+          3999413463,
+          3999413519
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999413505,
+          3999413503,
+          3999413477,
+          3999413482,
+          3999413407,
+          3999413414,
+          3999413490,
+          3999413427,
+          3999413432,
+          3999413437,
+          3999413446,
+          3999413508,
+          3999413455,
+          3999413523,
+          3999413500,
+          3999413502,
+          3999413512
+        ],
+        [
+          3999413470,
+          3999413466,
+          3999413473,
+          3999413404,
+          3999413410,
+          3999413421,
+          3999413424,
+          3999413430,
+          3999413492,
+          3999413442,
+          3999413494,
+          3999413450,
+          3999413497,
+          3999413461,
+          3999413463,
+          3999413519
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 549,
+      "isMB": false,
+      "sportMarketId": 71015,
+      "id": 1572870134,
+      "name": "Odra Opole multigoals"
+    },
+    {
+      "shortName": "Polonia Warszawa multigoals",
+      "desktopOddIds": [
+        [
+          3999414214,
+          3999414212,
+          3999413601,
+          3999414188,
+          3999413532,
+          3999413540,
+          3999414194,
+          3999413556,
+          3999413563,
+          3999413566,
+          3999413571,
+          3999414218,
+          3999413576,
+          3999414227,
+          3999414206,
+          3999414209,
+          3999414220
+        ],
+        [
+          3999413589,
+          3999413585,
+          3999413593,
+          3999413527,
+          3999413535,
+          3999413543,
+          3999413551,
+          3999413561,
+          3999414197,
+          3999413569,
+          3999414200,
+          3999413574,
+          3999414204,
+          3999413578,
+          3999413582,
+          3999414221
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414214,
+          3999414212,
+          3999413601,
+          3999414188,
+          3999413532,
+          3999413540,
+          3999414194,
+          3999413556,
+          3999413563,
+          3999413566,
+          3999413571,
+          3999414218,
+          3999413576,
+          3999414227,
+          3999414206,
+          3999414209,
+          3999414220
+        ],
+        [
+          3999413589,
+          3999413585,
+          3999413593,
+          3999413527,
+          3999413535,
+          3999413543,
+          3999413551,
+          3999413561,
+          3999414197,
+          3999413569,
+          3999414200,
+          3999413574,
+          3999414204,
+          3999413578,
+          3999413582,
+          3999414221
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 550,
+      "isMB": false,
+      "sportMarketId": 71016,
+      "id": 1572870135,
+      "name": "Polonia Warszawa multigoals"
+    },
+    {
+      "shortName": "Both halves over 0.5",
+      "desktopOddIds": [
+        [
+          3999412863
+        ],
+        [
+          3999412865
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412863
+        ],
+        [
+          3999412865
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 58,
+      "isMB": true,
+      "sportMarketId": 70589,
+      "sv": "0.5",
+      "id": 1572870112,
+      "name": "Both halves over 0.5"
+    },
+    {
+      "shortName": "Both halves under 1.5",
+      "desktopOddIds": [
+        [
+          3999412867
+        ],
+        [
+          3999412869
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412867
+        ],
+        [
+          3999412869
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 59,
+      "isMB": true,
+      "sportMarketId": 70590,
+      "sv": "1.5",
+      "id": 1572870113,
+      "name": "Both halves under 1.5"
+    },
+    {
+      "shortName": "Odra Opole to win either half",
+      "desktopOddIds": [
+        [
+          3999412847
+        ],
+        [
+          3999412849
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412847
+        ],
+        [
+          3999412849
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 50,
+      "isMB": false,
+      "sportMarketId": 70575,
+      "id": 1572870108,
+      "name": "Odra Opole to win either half"
+    },
+    {
+      "shortName": "Polonia Warszawa to win either half",
+      "desktopOddIds": [
+        [
+          3999412851
+        ],
+        [
+          3999412852
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412851
+        ],
+        [
+          3999412852
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 51,
+      "isMB": false,
+      "sportMarketId": 70576,
+      "id": 1572870109,
+      "name": "Polonia Warszawa to win either half"
+    },
+    {
+      "shortName": "Odra Opole to win both halves",
+      "desktopOddIds": [
+        [
+          3999412839
+        ],
+        [
+          3999412841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412839
+        ],
+        [
+          3999412841
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 48,
+      "isMB": false,
+      "sportMarketId": 70573,
+      "id": 1572870106,
+      "name": "Odra Opole to win both halves"
+    },
+    {
+      "shortName": "Polonia Warszawa to win both halves",
+      "desktopOddIds": [
+        [
+          3999412843
+        ],
+        [
+          3999412845
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412843
+        ],
+        [
+          3999412845
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 49,
+      "isMB": false,
+      "sportMarketId": 70574,
+      "id": 1572870107,
+      "name": "Polonia Warszawa to win both halves"
+    },
+    {
+      "shortName": "Odra Opole to score in both halves",
+      "desktopOddIds": [
+        [
+          3999412854
+        ],
+        [
+          3999412858
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412854
+        ],
+        [
+          3999412858
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1572870110,
+      "name": "Odra Opole to score in both halves"
+    },
+    {
+      "shortName": "Polonia Warszawa to score in both halves",
+      "desktopOddIds": [
+        [
+          3999412860
+        ],
+        [
+          3999412862
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412860
+        ],
+        [
+          3999412862
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1572870111,
+      "name": "Polonia Warszawa to score in both halves"
+    },
+    {
+      "shortName": "Odra Opole highest scoring half",
+      "desktopOddIds": [
+        [
+          3999412696
+        ],
+        [
+          3999412698
+        ],
+        [
+          3999412697
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412696,
+          3999412698,
+          3999412697
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 53,
+      "isMB": false,
+      "sportMarketId": 70582,
+      "id": 1572870085,
+      "name": "Odra Opole highest scoring half"
+    },
+    {
+      "shortName": "Polonia Warszawa highest scoring half",
+      "desktopOddIds": [
+        [
+          3999412699
+        ],
+        [
+          3999412702
+        ],
+        [
+          3999412700
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412699,
+          3999412702,
+          3999412700
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 54,
+      "isMB": false,
+      "sportMarketId": 70584,
+      "id": 1572870086,
+      "name": "Polonia Warszawa highest scoring half"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3999412450
+        ],
+        [
+          3999412451
+        ],
+        [
+          3999412452
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412450,
+          3999412451,
+          3999412452
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572870054,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3999412425
+        ],
+        [
+          3999412423
+        ],
+        [
+          3999412424
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412425,
+          3999412423,
+          3999412424
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572870048,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3999412320
+        ],
+        [
+          3999412321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412320
+        ],
+        [
+          3999412321
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572870020,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - handicap 1X2",
+      "desktopOddIds": [
+        [
+          3999412706
+        ],
+        [
+          3999412707
+        ],
+        [
+          3999412710
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412706,
+          3999412707,
+          3999412710
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 65,
+      "isMB": false,
+      "sportMarketId": 70607,
+      "sv": "1:0",
+      "id": 1572870088,
+      "name": "1st half - handicap 1X2"
+    },
+    {
+      "shortName": "1st half - handicap",
+      "desktopOddIds": [
+        [
+          3999412268
+        ],
+        [
+          3999412269
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412268,
+          3999412269
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 66,
+      "isMB": true,
+      "sportMarketId": 70610,
+      "sv": "+0.5",
+      "id": 1572869994,
+      "name": "1st half - handicap"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3999412893,
+          3999412897,
+          3999412904
+        ],
+        [
+          3999412892,
+          3999412902,
+          3999412910,
+          3999412912
+        ],
+        [
+          3999412899,
+          3999412906,
+          3999412908
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412893,
+          3999412897,
+          3999412904
+        ],
+        [
+          3999412892,
+          3999412902,
+          3999412910,
+          3999412912
+        ],
+        [
+          3999412899,
+          3999412906,
+          3999412908
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1572870116,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999412360
+        ],
+        [
+          3999412361
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412360
+        ],
+        [
+          3999412361
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1572870040,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412296
+        ],
+        [
+          3999412297
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412296
+        ],
+        [
+          3999412297
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1572870008,
+      "name": "1st half - Odra Opole total"
+    },
+    {
+      "shortName": "1st half - Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412300
+        ],
+        [
+          3999412301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412300
+        ],
+        [
+          3999412301
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1572870010,
+      "name": "1st half - Polonia Warszawa total"
+    },
+    {
+      "shortName": "1st half - 1x2 & total",
+      "desktopOddIds": [
+        [
+          3999412647,
+          3999412643
+        ],
+        [
+          3999412651,
+          3999412649
+        ],
+        [
+          3999412648,
+          3999412645
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412647,
+          3999412651,
+          3999412648,
+          3999412643,
+          3999412649,
+          3999412645
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 79,
+      "isMB": false,
+      "sportMarketId": 70639,
+      "sv": "1.5",
+      "id": 1572870078,
+      "name": "1st half - 1x2 & total"
+    },
+    {
+      "shortName": "1st half - 1x2 & both teams to score",
+      "desktopOddIds": [
+        [
+          3999412579,
+          3999412582
+        ],
+        [
+          3999412584,
+          3999412586
+        ],
+        [
+          3999412588,
+          3999412591
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412579,
+          3999412582,
+          3999412584,
+          3999412586,
+          3999412588,
+          3999412591
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 78,
+      "isMB": false,
+      "sportMarketId": 70638,
+      "id": 1572870075,
+      "name": "1st half - 1x2 & both teams to score"
+    },
+    {
+      "shortName": "1st half - double chance & both teams to score",
+      "desktopOddIds": [
+        [
+          3999412396,
+          3999412397
+        ],
+        [
+          3999412398,
+          3999412399
+        ],
+        [
+          3999412400,
+          3999412401
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412396,
+          3999412398,
+          3999412400,
+          3999412397,
+          3999412399,
+          3999412401
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 542,
+      "isMB": false,
+      "sportMarketId": 71008,
+      "id": 1572870044,
+      "name": "1st half - double chance & both teams to score"
+    },
+    {
+      "shortName": "1st half - multigoals",
+      "desktopOddIds": [
+        [
+          3999413272,
+          3999413269,
+          3999413250,
+          3999413252,
+          3999413207,
+          3999413214,
+          3999413253,
+          3999413220,
+          3999413225,
+          3999413227,
+          3999413230,
+          3999413276,
+          3999413237,
+          3999413283,
+          3999413263,
+          3999413267,
+          3999413278
+        ],
+        [
+          3999413247,
+          3999413245,
+          3999413248,
+          3999413204,
+          3999413212,
+          3999413218,
+          3999413219,
+          3999413222,
+          3999413255,
+          3999413229,
+          3999413258,
+          3999413235,
+          3999413261,
+          3999413239,
+          3999413242,
+          3999413281
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999413272,
+          3999413269,
+          3999413250,
+          3999413252,
+          3999413207,
+          3999413214,
+          3999413253,
+          3999413220,
+          3999413225,
+          3999413227,
+          3999413230,
+          3999413276,
+          3999413237,
+          3999413283,
+          3999413263,
+          3999413267,
+          3999413278
+        ],
+        [
+          3999413247,
+          3999413245,
+          3999413248,
+          3999413204,
+          3999413212,
+          3999413218,
+          3999413219,
+          3999413222,
+          3999413255,
+          3999413229,
+          3999413258,
+          3999413235,
+          3999413261,
+          3999413239,
+          3999413242,
+          3999413281
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 552,
+      "isMB": false,
+      "sportMarketId": 71018,
+      "id": 1572870132,
+      "name": "1st half - multigoals"
+    },
+    {
+      "shortName": "1st half - Odra Opole Clean sheet",
+      "desktopOddIds": [
+        [
+          3999412525
+        ],
+        [
+          3999412527
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412525
+        ],
+        [
+          3999412527
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 76,
+      "isMB": false,
+      "sportMarketId": 70636,
+      "id": 1572870065,
+      "name": "1st half - Odra Opole Clean sheet"
+    },
+    {
+      "shortName": "1st half - Polonia Warszawa Clean sheet",
+      "desktopOddIds": [
+        [
+          3999412729
+        ],
+        [
+          3999412731
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412729
+        ],
+        [
+          3999412731
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 77,
+      "isMB": false,
+      "sportMarketId": 70637,
+      "id": 1572870092,
+      "name": "1st half - Polonia Warszawa Clean sheet"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3999417527
+        ],
+        [
+          3999417529
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417527
+        ],
+        [
+          3999417529
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572870362,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1st half - Odra Opole odd/even",
+      "desktopOddIds": [
+        [
+          3999417543
+        ],
+        [
+          3999417545
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417543
+        ],
+        [
+          3999417545
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 618,
+      "isMB": false,
+      "sportMarketId": 74491,
+      "id": 1572870366,
+      "name": "1st half - Odra Opole odd/even"
+    },
+    {
+      "shortName": "1st half - Polonia Warszawa odd/even",
+      "desktopOddIds": [
+        [
+          3999417547
+        ],
+        [
+          3999417548
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417547
+        ],
+        [
+          3999417548
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 619,
+      "isMB": false,
+      "sportMarketId": 74492,
+      "id": 1572870367,
+      "name": "1st half - Polonia Warszawa odd/even"
+    },
+    {
+      "shortName": "1x2 (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          3999414539,
+          3999414543
+        ],
+        [
+          3999414548,
+          3999414552
+        ],
+        [
+          3999414556,
+          3999414561
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414539,
+          3999414543
+        ],
+        [
+          3999414548,
+          3999414552
+        ],
+        [
+          3999414556,
+          3999414561
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31065,
+      "isMB": false,
+      "sportMarketId": 74493,
+      "id": 1572870144,
+      "name": "1x2 (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          3999412453
+        ],
+        [
+          3999412454
+        ],
+        [
+          3999412455
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412453,
+          3999412454,
+          3999412455
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "isMB": false,
+      "sportMarketId": 70643,
+      "id": 1572870055,
+      "name": "2nd half - 1x2"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          3999412428
+        ],
+        [
+          3999412426
+        ],
+        [
+          3999412427
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412428,
+          3999412426,
+          3999412427
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "isMB": false,
+      "sportMarketId": 70648,
+      "id": 1572870049,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          3999412324
+        ],
+        [
+          3999412325
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412324
+        ],
+        [
+          3999412325
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 90,
+      "isMB": true,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1572870022,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "2nd half - handicap 1X2",
+      "desktopOddIds": [
+        [
+          3999412711
+        ],
+        [
+          3999412712
+        ],
+        [
+          3999412713
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412711,
+          3999412712,
+          3999412713
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 87,
+      "isMB": false,
+      "sportMarketId": 70653,
+      "sv": "1:0",
+      "id": 1572870089,
+      "name": "2nd half - handicap 1X2"
+    },
+    {
+      "shortName": "2nd half - first goal",
+      "desktopOddIds": [
+        [
+          3999412782
+        ],
+        [
+          3999412787
+        ],
+        [
+          3999412786
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412782,
+          3999412787,
+          3999412786
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 84,
+      "isMB": false,
+      "sportMarketId": 70647,
+      "sv": "1",
+      "id": 1572870102,
+      "name": "2nd half - first goal"
+    },
+    {
+      "shortName": "2nd half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999412362
+        ],
+        [
+          3999412363
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412362
+        ],
+        [
+          3999412363
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 95,
+      "isMB": false,
+      "sportMarketId": 70665,
+      "id": 1572870041,
+      "name": "2nd half - both teams to score"
+    },
+    {
+      "shortName": "2nd half - Odra Opole total",
+      "desktopOddIds": [
+        [
+          3999412304
+        ],
+        [
+          3999412305
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412304
+        ],
+        [
+          3999412305
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 91,
+      "isMB": true,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1572870012,
+      "name": "2nd half - Odra Opole total"
+    },
+    {
+      "shortName": "2nd half - Polonia Warszawa total",
+      "desktopOddIds": [
+        [
+          3999412306
+        ],
+        [
+          3999412307
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412306
+        ],
+        [
+          3999412307
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 92,
+      "isMB": true,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1572870013,
+      "name": "2nd half - Polonia Warszawa total"
+    },
+    {
+      "shortName": "2nd half - exact goals",
+      "desktopOddIds": [
+        [
+          3999412478,
+          3999412481,
+          3999412483,
+          3999412487
+        ],
+        [
+          3999412485,
+          3999412490
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412478,
+          3999412481,
+          3999412483,
+          3999412487
+        ],
+        [
+          3999412485,
+          3999412490
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 93,
+      "isMB": false,
+      "sportMarketId": 71659,
+      "id": 1572870061,
+      "name": "2nd half - exact goals"
+    },
+    {
+      "shortName": "2nd half - odd/ even",
+      "desktopOddIds": [
+        [
+          3999417531
+        ],
+        [
+          3999417533
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417531
+        ],
+        [
+          3999417533
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 94,
+      "isMB": false,
+      "sportMarketId": 70662,
+      "id": 1572870363,
+      "name": "2nd half - odd/ even"
+    },
+    {
+      "shortName": "1x2 (match) & 2nd half both teams score",
+      "desktopOddIds": [
+        [
+          3999414568,
+          3999414571,
+          3999414574,
+          3999414577,
+          3999414567,
+          3999414579
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414568,
+          3999414571,
+          3999414574,
+          3999414577,
+          3999414567,
+          3999414579
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31066,
+      "isMB": false,
+      "sportMarketId": 74494,
+      "id": 1572870145,
+      "name": "1x2 (match) & 2nd half both teams score"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          3999412636,
+          3999412634
+        ],
+        [
+          3999412641,
+          3999412639
+        ],
+        [
+          3999412637,
+          3999412635
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412636,
+          3999412641,
+          3999412637,
+          3999412634,
+          3999412639,
+          3999412635
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "isMB": false,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1572870077,
+      "name": "1x2 & total"
+    },
+    {
+      "shortName": "1x2 & GG/NG",
+      "desktopOddIds": [
+        [
+          3999412562,
+          3999412564
+        ],
+        [
+          3999412567,
+          3999412569
+        ],
+        [
+          3999412572,
+          3999412575
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412562,
+          3999412564,
+          3999412567,
+          3999412569,
+          3999412572,
+          3999412575
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 35,
+      "isMB": false,
+      "sportMarketId": 70555,
+      "id": 1572870074,
+      "name": "1x2 & GG/NG"
+    },
+    {
+      "shortName": "Total & GG/NG",
+      "desktopOddIds": [
+        [
+          3999412714
+        ],
+        [
+          3999412718
+        ],
+        [
+          3999412716
+        ],
+        [
+          3999412721
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412714,
+          3999412716,
+          3999412718,
+          3999412721
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 36,
+      "isMB": false,
+      "sportMarketId": 70557,
+      "sv": "2.5",
+      "id": 1572870090,
+      "name": "Total & GG/NG"
+    },
+    {
+      "shortName": "First goal & 1x2",
+      "desktopOddIds": [
+        [
+          3999414416,
+          3999414419,
+          3999414426
+        ],
+        [
+          3999414437
+        ],
+        [
+          3999414429,
+          3999414431,
+          3999414435
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414416,
+          3999414419,
+          3999414426,
+          3999414437,
+          3999414429,
+          3999414431,
+          3999414435
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 184,
+      "isMB": false,
+      "sportMarketId": 70753,
+      "sv": "1",
+      "id": 1572870140,
+      "name": "First goal & 1x2"
+    },
+    {
+      "shortName": "Double chance & total 2.5",
+      "desktopOddIds": [
+        [
+          3999412432,
+          3999412429
+        ],
+        [
+          3999412434,
+          3999412431
+        ],
+        [
+          3999412433,
+          3999412430
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412432,
+          3999412433,
+          3999412434,
+          3999412429,
+          3999412430,
+          3999412431
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "isMB": false,
+      "sportMarketId": 71013,
+      "sv": "2.5",
+      "id": 1572870050,
+      "name": "Double chance & total 2.5"
+    },
+    {
+      "shortName": "Double chance & both teams to score",
+      "desktopOddIds": [
+        [
+          3999412390,
+          3999412391
+        ],
+        [
+          3999412392,
+          3999412393
+        ],
+        [
+          3999412394,
+          3999412395
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412390,
+          3999412392,
+          3999412394,
+          3999412391,
+          3999412393,
+          3999412395
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 546,
+      "isMB": false,
+      "sportMarketId": 71012,
+      "id": 1572870043,
+      "name": "Double chance & both teams to score"
+    },
+    {
+      "shortName": "Halftime/fulltime & total 2.5",
+      "desktopOddIds": [
+        [
+          3999414641,
+          3999414598,
+          3999414604,
+          3999414647,
+          3999414609,
+          3999414653,
+          3999414656,
+          3999414666,
+          3999414670
+        ],
+        [
+          3999414614,
+          3999414582,
+          3999414588,
+          3999414619,
+          3999414593,
+          3999414624,
+          3999414630,
+          3999414634,
+          3999414637
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414641,
+          3999414598,
+          3999414604,
+          3999414647,
+          3999414609,
+          3999414653,
+          3999414656,
+          3999414666,
+          3999414670,
+          3999414614,
+          3999414582,
+          3999414588,
+          3999414619,
+          3999414593,
+          3999414624,
+          3999414630,
+          3999414634,
+          3999414637
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 818,
+      "isMB": false,
+      "sportMarketId": 71099,
+      "sv": "2.5",
+      "id": 1572870146,
+      "name": "Halftime/fulltime & total 2.5"
+    },
+    {
+      "shortName": "Halftime/fulltime & 1st half total 1.5",
+      "desktopOddIds": [
+        [
+          3999414721,
+          3999414685,
+          3999414689,
+          3999414724,
+          3999414693,
+          3999414727,
+          3999414728,
+          3999414731,
+          3999414734
+        ],
+        [
+          3999414695,
+          3999414672,
+          3999414675,
+          3999414698,
+          3999414677,
+          3999414701,
+          3999414705,
+          3999414708,
+          3999414717
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414721,
+          3999414685,
+          3999414689,
+          3999414724,
+          3999414693,
+          3999414727,
+          3999414728,
+          3999414731,
+          3999414734,
+          3999414695,
+          3999414672,
+          3999414675,
+          3999414698,
+          3999414677,
+          3999414701,
+          3999414705,
+          3999414708,
+          3999414717
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 819,
+      "isMB": false,
+      "sportMarketId": 71100,
+      "sv": "1.5",
+      "id": 1572870147,
+      "name": "Halftime/fulltime & 1st half total 1.5"
+    },
+    {
+      "shortName": "Halftime/fulltime & exact goals",
+      "desktopOddIds": [
+        [
+          3999414741,
+          3999414764,
+          3999414770,
+          3999414799,
+          3999414802,
+          3999415451,
+          3999415459,
+          3999415463,
+          3999415478,
+          3999415480,
+          3999415483
+        ],
+        [
+          3999414738,
+          3999414753,
+          3999414757,
+          3999414772,
+          3999414776,
+          3999414785,
+          3999414806,
+          3999414808,
+          3999415465,
+          3999415466,
+          3999415468,
+          3999415485,
+          3999415488,
+          3999415491
+        ],
+        [
+          3999414761,
+          3999414794,
+          3999414790,
+          3999415447,
+          3999415442,
+          3999415473,
+          3999415471,
+          3999415470,
+          3999415501,
+          3999415498,
+          3999415494
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414741,
+          3999414764,
+          3999414770,
+          3999414799,
+          3999414802,
+          3999415451,
+          3999415459,
+          3999415463,
+          3999415478,
+          3999415480,
+          3999415483,
+          3999414738,
+          3999414753,
+          3999414757,
+          3999414772,
+          3999414776,
+          3999414785,
+          3999414806,
+          3999414808,
+          3999415465,
+          3999415466,
+          3999415468,
+          3999415485,
+          3999415488,
+          3999415491,
+          3999414761,
+          3999414794,
+          3999414790,
+          3999415447,
+          3999415442,
+          3999415473,
+          3999415471,
+          3999415470,
+          3999415501,
+          3999415498,
+          3999415494
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 820,
+      "isMB": false,
+      "sportMarketId": 71101,
+      "id": 1572870148,
+      "name": "Halftime/fulltime & exact goals"
+    },
+    {
+      "shortName": "1st/2nd half both teams to score",
+      "desktopOddIds": [
+        [
+          3999412871
+        ],
+        [
+          3999412878
+        ],
+        [
+          3999412873
+        ],
+        [
+          3999412875
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999412871,
+          3999412873
+        ],
+        [
+          3999412878,
+          3999412875
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 55,
+      "isMB": false,
+      "sportMarketId": 70586,
+      "id": 1572870114,
+      "name": "1st/2nd half both teams to score"
+    },
+    {
+      "shortName": "Double chance (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          3999414439,
+          3999414443
+        ],
+        [
+          3999414446,
+          3999414451
+        ],
+        [
+          3999414454,
+          3999414460
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414439,
+          3999414443,
+          3999414446,
+          3999414451,
+          3999414454,
+          3999414460
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 540,
+      "isMB": false,
+      "sportMarketId": 71006,
+      "id": 1572870141,
+      "name": "Double chance (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "Odra Opole or both teams to score",
+      "desktopOddIds": [
+        [
+          3999415507
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415507
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 860,
+      "isMB": false,
+      "sportMarketId": 71116,
+      "id": 1572870149,
+      "name": "Odra Opole or both teams to score"
+    },
+    {
+      "shortName": "Draw or both teams to score",
+      "desktopOddIds": [
+        [
+          3999415512
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415512
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 861,
+      "isMB": false,
+      "sportMarketId": 71117,
+      "id": 1572870150,
+      "name": "Draw or both teams to score"
+    },
+    {
+      "shortName": "Polonia Warszawa or both teams to score",
+      "desktopOddIds": [
+        [
+          3999415515
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415515
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 862,
+      "isMB": false,
+      "sportMarketId": 71118,
+      "id": 1572870151,
+      "name": "Polonia Warszawa or both teams to score"
+    },
+    {
+      "shortName": "Odra Opole or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999415520
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415520
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 863,
+      "isMB": false,
+      "sportMarketId": 71119,
+      "id": 1572870152,
+      "name": "Odra Opole or any clean sheet"
+    },
+    {
+      "shortName": "Draw or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999415528
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415528
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 864,
+      "isMB": false,
+      "sportMarketId": 71120,
+      "id": 1572870153,
+      "name": "Draw or any clean sheet"
+    },
+    {
+      "shortName": "Polonia Warszawa or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999415534
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415534
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 865,
+      "isMB": false,
+      "sportMarketId": 71121,
+      "id": 1572870154,
+      "name": "Polonia Warszawa or any clean sheet"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412447,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412448,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412449,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412422,
+      "name": "Odra Opole or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412420,
+      "name": "Odra Opole or Polonia Warszawa"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412421,
+      "name": "Draw or Polonia Warszawa"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412312,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412313,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412358,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412359,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412254,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412255,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412547,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412549,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412759,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412762,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412456,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 3,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412457,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412775,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 7,
+      "price": 12.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 3999412779,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412777,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 114,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412365,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412366,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412371,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412367,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412372,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412377,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412368,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412373,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412378,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412386,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412364,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412370,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412376,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412382,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412388,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412389,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412369,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412374,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412375,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412379,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412380,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412381,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412383,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412384,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412385,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412387,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412260,
+      "name": "Odra Opole (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412261,
+      "name": "Polonia Warszawa (-0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 47755,
+      "id": 3999412703,
+      "name": "Odra Opole (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3999412704,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 71312,
+      "id": 3999412705,
+      "name": "Polonia Warszawa (1:0)"
+    },
+    {
+      "typeId": 418,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412492,
+      "name": "Odra Opole/Odra Opole"
+    },
+    {
+      "typeId": 420,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412496,
+      "name": "Odra Opole/X"
+    },
+    {
+      "typeId": 422,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412499,
+      "name": "Odra Opole/Polonia Warszawa"
+    },
+    {
+      "typeId": 424,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412500,
+      "name": "X/Odra Opole"
+    },
+    {
+      "typeId": 426,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412503,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412505,
+      "name": "X/Polonia Warszawa"
+    },
+    {
+      "typeId": 430,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412508,
+      "name": "Polonia Warszawa/Odra Opole"
+    },
+    {
+      "typeId": 432,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412510,
+      "name": "Polonia Warszawa/X"
+    },
+    {
+      "typeId": 434,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412512,
+      "name": "Polonia Warszawa/Polonia Warszawa"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414230,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 7,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414236,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414233,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 630,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412790,
+      "name": "Odra Opole by 1"
+    },
+    {
+      "typeId": 632,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412794,
+      "name": "Odra Opole by 2"
+    },
+    {
+      "typeId": 634,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412797,
+      "name": "Odra Opole by 3+"
+    },
+    {
+      "typeId": 2,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412789,
+      "name": "Draw"
+    },
+    {
+      "typeId": 636,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412801,
+      "name": "Polonia Warszawa by 1"
+    },
+    {
+      "typeId": 638,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412804,
+      "name": "Polonia Warszawa by 2"
+    },
+    {
+      "typeId": 640,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412807,
+      "name": "Polonia Warszawa by 3+"
+    },
+    {
+      "typeId": 12,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412284,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.7143,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412286,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412288,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412285,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412287,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0715,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412289,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412290,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412292,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412294,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412291,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412293,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999412295,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 54,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412462,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412463,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412464,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412467,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412466,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412468,
+      "name": "5+"
+    },
+    {
+      "typeId": 788,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412831,
+      "name": "Only Odra Opole"
+    },
+    {
+      "typeId": 790,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412834,
+      "name": "Only Polonia Warszawa"
+    },
+    {
+      "typeId": 7,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412830,
+      "name": "None"
+    },
+    {
+      "typeId": 792,
+      "price": 1.68,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412836,
+      "name": "Both teams"
+    },
+    {
+      "typeId": 54,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412673,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412675,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412677,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412679,
+      "name": "3+"
+    },
+    {
+      "typeId": 54,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412680,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412682,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412683,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412684,
+      "name": "3+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417523,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417525,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417535,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417537,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417539,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417541,
+      "name": "Even"
+    },
+    {
+      "typeId": 436,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412513,
+      "name": "1st half"
+    },
+    {
+      "typeId": 438,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412515,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 440,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412518,
+      "name": "Equal"
+    },
+    {
+      "typeId": 1750,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414488,
+      "name": "1:0, 2:0 or 3:0"
+    },
+    {
+      "typeId": 1754,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414506,
+      "name": "2:1, 3:1 or 4:1"
+    },
+    {
+      "typeId": 1756,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414515,
+      "name": "3:2, 4:2, 4:3 or 5:1"
+    },
+    {
+      "typeId": 1752,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414498,
+      "name": "4:0, 5:0 or 6:0"
+    },
+    {
+      "typeId": 1758,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414523,
+      "name": "Other homewin"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414536,
+      "name": "Draw"
+    },
+    {
+      "typeId": 1751,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414493,
+      "name": "0:1, 0:2 or 0:3"
+    },
+    {
+      "typeId": 1755,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414509,
+      "name": "1:2, 1:3 or 1:4"
+    },
+    {
+      "typeId": 1757,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414519,
+      "name": "2:3, 2:4, 3:4 or 1:5"
+    },
+    {
+      "typeId": 1753,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414502,
+      "name": "0:4, 0:5 or 0:6"
+    },
+    {
+      "typeId": 1759,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414527,
+      "name": "Other awaywin"
+    },
+    {
+      "typeId": 374,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414334,
+      "name": "1:0 1:0"
+    },
+    {
+      "typeId": 376,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414336,
+      "name": "1:0 1:1"
+    },
+    {
+      "typeId": 380,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414344,
+      "name": "1:0 2:0"
+    },
+    {
+      "typeId": 382,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414346,
+      "name": "1:0 2:1"
+    },
+    {
+      "typeId": 384,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414350,
+      "name": "1:0 3:0"
+    },
+    {
+      "typeId": 378,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414341,
+      "name": "1:0 1:2"
+    },
+    {
+      "typeId": 386,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414357,
+      "name": "1:0 4+"
+    },
+    {
+      "typeId": 400,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414388,
+      "name": "2:0 2:0"
+    },
+    {
+      "typeId": 402,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414389,
+      "name": "2:0 2:1"
+    },
+    {
+      "typeId": 404,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414393,
+      "name": "2:0 3:0"
+    },
+    {
+      "typeId": 406,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414397,
+      "name": "2:0 4+"
+    },
+    {
+      "typeId": 408,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414402,
+      "name": "2:1 2:1"
+    },
+    {
+      "typeId": 410,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414404,
+      "name": "2:1 4+"
+    },
+    {
+      "typeId": 412,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414407,
+      "name": "3:0 3:0"
+    },
+    {
+      "typeId": 414,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414411,
+      "name": "3:0 4+"
+    },
+    {
+      "typeId": 326,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414253,
+      "name": "0:0 0:0"
+    },
+    {
+      "typeId": 334,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414270,
+      "name": "0:0 1:0"
+    },
+    {
+      "typeId": 336,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414271,
+      "name": "0:0 1:1"
+    },
+    {
+      "typeId": 328,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414259,
+      "name": "0:0 0:1"
+    },
+    {
+      "typeId": 340,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414281,
+      "name": "0:0 2:0"
+    },
+    {
+      "typeId": 342,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414284,
+      "name": "0:0 2:1"
+    },
+    {
+      "typeId": 330,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414262,
+      "name": "0:0 0:2"
+    },
+    {
+      "typeId": 338,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414273,
+      "name": "0:0 1:2"
+    },
+    {
+      "typeId": 344,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414287,
+      "name": "0:0 3:0"
+    },
+    {
+      "typeId": 332,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414266,
+      "name": "0:0 0:3"
+    },
+    {
+      "typeId": 346,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414290,
+      "name": "0:0 4+"
+    },
+    {
+      "typeId": 388,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414364,
+      "name": "1:1 1:1"
+    },
+    {
+      "typeId": 392,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414373,
+      "name": "1:1 2:1"
+    },
+    {
+      "typeId": 390,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414367,
+      "name": "1:1 1:2"
+    },
+    {
+      "typeId": 394,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414378,
+      "name": "1:1 4+"
+    },
+    {
+      "typeId": 416,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414413,
+      "name": "4+ 4+"
+    },
+    {
+      "typeId": 348,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414294,
+      "name": "0:1 0:1"
+    },
+    {
+      "typeId": 350,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414295,
+      "name": "0:1 0:2"
+    },
+    {
+      "typeId": 352,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414297,
+      "name": "0:1 0:3"
+    },
+    {
+      "typeId": 354,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414300,
+      "name": "0:1 1:1"
+    },
+    {
+      "typeId": 356,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414304,
+      "name": "0:1 1:2"
+    },
+    {
+      "typeId": 358,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414307,
+      "name": "0:1 2:1"
+    },
+    {
+      "typeId": 360,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414310,
+      "name": "0:1 4+"
+    },
+    {
+      "typeId": 362,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414314,
+      "name": "0:2 0:2"
+    },
+    {
+      "typeId": 364,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414317,
+      "name": "0:2 0:3"
+    },
+    {
+      "typeId": 366,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414319,
+      "name": "0:2 1:2"
+    },
+    {
+      "typeId": 368,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414321,
+      "name": "0:2 4+"
+    },
+    {
+      "typeId": 370,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414322,
+      "name": "0:3 0:3"
+    },
+    {
+      "typeId": 372,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414325,
+      "name": "0:3 4+"
+    },
+    {
+      "typeId": 396,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414380,
+      "name": "1:2 1:2"
+    },
+    {
+      "typeId": 398,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414384,
+      "name": "1:2 4+"
+    },
+    {
+      "typeId": 730,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413192,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413162,
+      "name": "0-2"
+    },
+    {
+      "typeId": 1988,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413159,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413188,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413169,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413166,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413171,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413108,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413112,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413116,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.0667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413123,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413119,
+      "name": "1-5"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413174,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413126,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413131,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413134,
+      "name": "2-5"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413177,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413137,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413144,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413141,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413179,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413145,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413148,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413193,
+      "name": "4+"
+    },
+    {
+      "typeId": 5251,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413181,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413151,
+      "name": "4-6"
+    },
+    {
+      "typeId": 966,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413200,
+      "name": "5+"
+    },
+    {
+      "typeId": 1744,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413154,
+      "name": "5-6"
+    },
+    {
+      "typeId": 5252,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413183,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413157,
+      "name": "6+"
+    },
+    {
+      "typeId": 5253,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413186,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413197,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413196,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412447,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412448,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412449,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412312,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412313,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412422,
+      "name": "Odra Opole or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412420,
+      "name": "Odra Opole or Polonia Warszawa"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412421,
+      "name": "Draw or Polonia Warszawa"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412260,
+      "name": "Odra Opole (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412261,
+      "name": "Polonia Warszawa (-0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412358,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412359,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412284,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.7143,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412286,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412288,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412285,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412287,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0715,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412289,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412290,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412292,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412294,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412291,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412293,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412295,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417523,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417525,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412450,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412451,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412452,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412425,
+      "name": "Odra Opole or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412423,
+      "name": "Odra Opole or Polonia Warszawa"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412424,
+      "name": "Draw or Polonia Warszawa"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412320,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412321,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412296,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5295,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412297,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412300,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412301,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412360,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412361,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417527,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417529,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412365,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412366,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412371,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412367,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412372,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412377,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412368,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412373,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412378,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412386,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412364,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412370,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412376,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412382,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412388,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412389,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412369,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412374,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412375,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412379,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412380,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412381,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412383,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412384,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412385,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412387,
+      "name": "3:4"
+    },
+    {
+      "typeId": 114,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412893,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412897,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412904,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412892,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412902,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412910,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412912,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412899,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412906,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412908,
+      "name": "1:2"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412324,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412325,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412304,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412305,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412306,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412307,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 74,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412362,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412363,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412839,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412841,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412843,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412845,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412847,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5834,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412849,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412851,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412852,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412854,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412858,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412860,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999412862,
+      "name": "No"
+    },
+    {
+      "typeId": 730,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412885,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412880,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412883,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412888,
+      "name": "7+"
+    },
+    {
+      "typeId": 74,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412551,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412554,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412764,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412766,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412521,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412524,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412724,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412726,
+      "name": "No"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413470,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413505,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413466,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413503,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413473,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413477,
+      "name": "0-5"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413482,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413404,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413410,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413407,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413414,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413421,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413424,
+      "name": "2-3"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413490,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413427,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413430,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413432,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413492,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1739,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413437,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1740,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413442,
+      "name": "3-5"
+    },
+    {
+      "typeId": 5250,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413494,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413446,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413508,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413450,
+      "name": "4-5"
+    },
+    {
+      "typeId": 1743,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413455,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413497,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413461,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413523,
+      "name": "5+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413500,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413463,
+      "name": "6+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413502,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413519,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413512,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413589,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414214,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413585,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414212,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413601,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413593,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999414188,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.5834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413527,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413535,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413532,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413543,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413540,
+      "name": "1-5"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414194,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413551,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413561,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413556,
+      "name": "2-4"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414197,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413563,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413569,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413566,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1741,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413571,
+      "name": "3-6"
+    },
+    {
+      "typeId": 5250,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414200,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1742,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413574,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414218,
+      "name": "4+"
+    },
+    {
+      "typeId": 1743,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413576,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414204,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413578,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414227,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413582,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414206,
+      "name": "5-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414221,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414209,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414220,
+      "name": "No goal"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6471,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3999412863,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.9412,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3999412865,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999412867,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4445,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999412869,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412847,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5834,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412849,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412851,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412852,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412839,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412841,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412843,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412845,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412854,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412858,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412860,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412862,
+      "name": "No"
+    },
+    {
+      "typeId": 436,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412696,
+      "name": "1st half"
+    },
+    {
+      "typeId": 440,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412698,
+      "name": "Equal"
+    },
+    {
+      "typeId": 438,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412697,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 436,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412699,
+      "name": "1st half"
+    },
+    {
+      "typeId": 440,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412702,
+      "name": "Equal"
+    },
+    {
+      "typeId": 438,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412700,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412450,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412451,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412452,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "isDBB": true,
+      "id": 3999412425,
+      "name": "Odra Opole or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412423,
+      "name": "Odra Opole or Polonia Warszawa"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "isDBB": true,
+      "id": 3999412424,
+      "name": "Draw or Polonia Warszawa"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412320,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412321,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 47755,
+      "id": 3999412706,
+      "name": "Odra Opole (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3999412707,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 71312,
+      "id": 3999412710,
+      "name": "Polonia Warszawa (1:0)"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.35,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 47755,
+      "id": 3999412268,
+      "name": "Odra Opole (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 71312,
+      "id": 3999412269,
+      "name": "Polonia Warszawa (-0.5)"
+    },
+    {
+      "typeId": 114,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412893,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412897,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412904,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412892,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412902,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412910,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412912,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412899,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412906,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412908,
+      "name": "1:2"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412360,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412361,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412296,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5295,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412297,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412300,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412301,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 660,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999412647,
+      "name": "Odra Opole & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999412651,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999412648,
+      "name": "Polonia Warszawa & over 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999412643,
+      "name": "Odra Opole & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999412649,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999412645,
+      "name": "Polonia Warszawa & under 1.5"
+    },
+    {
+      "typeId": 78,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412579,
+      "name": "Odra Opole & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412582,
+      "name": "Odra Opole & no"
+    },
+    {
+      "typeId": 82,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412584,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412586,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 86,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412588,
+      "name": "Polonia Warszawa & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412591,
+      "name": "Polonia Warszawa & no"
+    },
+    {
+      "typeId": 1718,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412396,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1720,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412398,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1722,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412400,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412397,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1721,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412399,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1723,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412401,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 730,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413272,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413247,
+      "name": "0-2"
+    },
+    {
+      "typeId": 710,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413269,
+      "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413245,
+      "name": "0-4"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413250,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413248,
+      "name": "0-6"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413204,
+      "name": "1-2"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999413252,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413212,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413207,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413218,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413214,
+      "name": "1-5"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413253,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413219,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413222,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413220,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1738,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413225,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413255,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1739,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413227,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1740,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413229,
+      "name": "3-5"
+    },
+    {
+      "typeId": 5250,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413258,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413230,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413276,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413235,
+      "name": "4-5"
+    },
+    {
+      "typeId": 5251,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413261,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413237,
+      "name": "4-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413283,
+      "name": "5+"
+    },
+    {
+      "typeId": 1744,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413239,
+      "name": "5-6"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413242,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413263,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413267,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413281,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999413278,
+      "name": "No goal"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412525,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412527,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412729,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412731,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417527,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417529,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417543,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417545,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417547,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417548,
+      "name": "Even"
+    },
+    {
+      "typeId": 78,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414539,
+      "name": "Odra Opole & yes"
+    },
+    {
+      "typeId": 82,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414548,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 86,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414556,
+      "name": "Polonia Warszawa & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414543,
+      "name": "Odra Opole & no"
+    },
+    {
+      "typeId": 84,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414552,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 88,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414561,
+      "name": "Polonia Warszawa & no"
+    },
+    {
+      "typeId": 1,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412453,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 2,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412454,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412455,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4706,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412428,
+      "name": "Odra Opole or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412426,
+      "name": "Odra Opole or Polonia Warszawa"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412427,
+      "name": "Draw or Polonia Warszawa"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412324,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999412325,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 47755,
+      "id": 3999412711,
+      "name": "Odra Opole (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3999412712,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 71312,
+      "id": 3999412713,
+      "name": "Polonia Warszawa (1:0)"
+    },
+    {
+      "typeId": 1,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47755,
+      "id": 3999412782,
+      "name": "Odra Opole"
+    },
+    {
+      "typeId": 7,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999412787,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 71312,
+      "id": 3999412786,
+      "name": "Polonia Warszawa"
+    },
+    {
+      "typeId": 74,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412362,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999412363,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412304,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412305,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412306,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999412307,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 54,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412478,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412481,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412483,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412487,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412485,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412490,
+      "name": "5+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417531,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417533,
+      "name": "Even"
+    },
+    {
+      "typeId": 80,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414568,
+      "name": "Odra Opole & no"
+    },
+    {
+      "typeId": 82,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414571,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414574,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 86,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414577,
+      "name": "Polonia Warszawa & yes"
+    },
+    {
+      "typeId": 78,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414567,
+      "name": "Odra Opole & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414579,
+      "name": "Polonia Warszawa & no"
+    },
+    {
+      "typeId": 660,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999412636,
+      "name": "Odra Opole & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412641,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999412637,
+      "name": "Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999412634,
+      "name": "Odra Opole & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412639,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999412635,
+      "name": "Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 78,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412562,
+      "name": "Odra Opole & GG"
+    },
+    {
+      "typeId": 80,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412564,
+      "name": "Odra Opole & NG"
+    },
+    {
+      "typeId": 82,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412567,
+      "name": "Draw & GG"
+    },
+    {
+      "typeId": 84,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412569,
+      "name": "Draw & NG"
+    },
+    {
+      "typeId": 86,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412572,
+      "name": "Polonia Warszawa & GG"
+    },
+    {
+      "typeId": 88,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412575,
+      "name": "Polonia Warszawa & NG"
+    },
+    {
+      "typeId": 90,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412714,
+      "name": "Over 2.5 & GG"
+    },
+    {
+      "typeId": 92,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412716,
+      "name": "Under 2.5 & GG"
+    },
+    {
+      "typeId": 94,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412718,
+      "name": "Over 2.5 & NG"
+    },
+    {
+      "typeId": 96,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412721,
+      "name": "Under 2.5 & NG"
+    },
+    {
+      "typeId": 814,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47755,
+      "id": 3999414416,
+      "name": "Odra Opole goal & Odra Opole"
+    },
+    {
+      "typeId": 816,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47755,
+      "id": 3999414419,
+      "name": "Odra Opole goal & draw"
+    },
+    {
+      "typeId": 818,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999414426,
+      "name": "Odra Opole goal & Polonia Warszawa"
+    },
+    {
+      "typeId": 826,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999414437,
+      "name": "No goal"
+    },
+    {
+      "typeId": 820,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999414429,
+      "name": "Polonia Warszawa goal & Odra Opole"
+    },
+    {
+      "typeId": 822,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 71312,
+      "id": 3999414431,
+      "name": "Polonia Warszawa goal & draw"
+    },
+    {
+      "typeId": 824,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 71312,
+      "id": 3999414435,
+      "name": "Polonia Warszawa goal & Polonia Warszawa"
+    },
+    {
+      "typeId": 1727,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999412432,
+      "name": "Odra Opole/X & over 2.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412433,
+      "name": "Odra Opole/Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999412434,
+      "name": "X/Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999412429,
+      "name": "Odra Opole/X & under 2.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999412430,
+      "name": "Odra Opole/Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999412431,
+      "name": "X/Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 1718,
+      "price": 2.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412390,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1720,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412392,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1722,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412394,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999412391,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1721,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412393,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1723,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999412395,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 1845,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414641,
+      "name": "Odra Opole/Odra Opole & over 2.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414598,
+      "name": "Odra Opole/X & over 2.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999414604,
+      "name": "Odra Opole/Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 1848,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414647,
+      "name": "Draw/Odra Opole & over 2.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414609,
+      "name": "X/Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 1849,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999414653,
+      "name": "Draw/draw & over 2.5"
+    },
+    {
+      "typeId": 1851,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999414656,
+      "name": "Polonia Warszawa/Odra Opole & over 2.5"
+    },
+    {
+      "typeId": 1852,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414666,
+      "name": "Polonia Warszawa/draw & over 2.5"
+    },
+    {
+      "typeId": 1853,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414670,
+      "name": "Polonia Warszawa/Polonia Warszawa & over 2.5"
+    },
+    {
+      "typeId": 1836,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414614,
+      "name": "Odra Opole/Odra Opole & under 2.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414582,
+      "name": "Odra Opole/X & under 2.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 0.0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3999414588,
+      "name": "Odra Opole/Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 1839,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47755,
+      "id": 3999414619,
+      "name": "Draw/Odra Opole & under 2.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414593,
+      "name": "X/Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 1840,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999414624,
+      "name": "Draw/draw & under 2.5"
+    },
+    {
+      "typeId": 1842,
+      "price": 0.0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3999414630,
+      "name": "Polonia Warszawa/Odra Opole & under 2.5"
+    },
+    {
+      "typeId": 1843,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414634,
+      "name": "Polonia Warszawa/draw & under 2.5"
+    },
+    {
+      "typeId": 1844,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 71312,
+      "id": 3999414637,
+      "name": "Polonia Warszawa/Polonia Warszawa & under 2.5"
+    },
+    {
+      "typeId": 1845,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414721,
+      "name": "Odra Opole/Odra Opole & over 1.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414685,
+      "name": "Odra Opole/X & over 1.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414689,
+      "name": "Odra Opole/Polonia Warszawa & over 1.5"
+    },
+    {
+      "typeId": 1848,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414724,
+      "name": "Draw/Odra Opole & over 1.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414693,
+      "name": "X/Polonia Warszawa & over 1.5"
+    },
+    {
+      "typeId": 1849,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414727,
+      "name": "Draw/draw & over 1.5"
+    },
+    {
+      "typeId": 1851,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414728,
+      "name": "Polonia Warszawa/Odra Opole & over 1.5"
+    },
+    {
+      "typeId": 1852,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414731,
+      "name": "Polonia Warszawa/draw & over 1.5"
+    },
+    {
+      "typeId": 1853,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414734,
+      "name": "Polonia Warszawa/Polonia Warszawa & over 1.5"
+    },
+    {
+      "typeId": 1836,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414695,
+      "name": "Odra Opole/Odra Opole & under 1.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414672,
+      "name": "Odra Opole/X & under 1.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414675,
+      "name": "Odra Opole/Polonia Warszawa & under 1.5"
+    },
+    {
+      "typeId": 1839,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47755,
+      "id": 3999414698,
+      "name": "Draw/Odra Opole & under 1.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414677,
+      "name": "X/Polonia Warszawa & under 1.5"
+    },
+    {
+      "typeId": 1840,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414701,
+      "name": "Draw/draw & under 1.5"
+    },
+    {
+      "typeId": 1842,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999414705,
+      "name": "Polonia Warszawa/Odra Opole & under 1.5"
+    },
+    {
+      "typeId": 1843,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414708,
+      "name": "Polonia Warszawa/draw & under 1.5"
+    },
+    {
+      "typeId": 1844,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 71312,
+      "id": 3999414717,
+      "name": "Polonia Warszawa/Polonia Warszawa & under 1.5"
+    },
+    {
+      "typeId": 1855,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414741,
+      "name": "Odra Opole/Odra Opole & 1"
+    },
+    {
+      "typeId": 1859,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414764,
+      "name": "Odra Opole/Odra Opole & 2"
+    },
+    {
+      "typeId": 1860,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414770,
+      "name": "Odra Opole/draw & 2"
+    },
+    {
+      "typeId": 1866,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414799,
+      "name": "Odra Opole/Odra Opole & 3"
+    },
+    {
+      "typeId": 1867,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414802,
+      "name": "Odra Opole/Polonia Warszawa & 3"
+    },
+    {
+      "typeId": 1872,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415451,
+      "name": "Odra Opole/Odra Opole & 4"
+    },
+    {
+      "typeId": 1873,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415459,
+      "name": "Odra Opole/draw & 4"
+    },
+    {
+      "typeId": 1874,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415463,
+      "name": "Odra Opole/Polonia Warszawa & 4"
+    },
+    {
+      "typeId": 1881,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415478,
+      "name": "Odra Opole/Odra Opole & 5+"
+    },
+    {
+      "typeId": 1882,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415480,
+      "name": "Odra Opole/draw & 5+"
+    },
+    {
+      "typeId": 1883,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415483,
+      "name": "Odra Opole/Polonia Warszawa & 5+"
+    },
+    {
+      "typeId": 1854,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414738,
+      "name": "Draw/draw & 0"
+    },
+    {
+      "typeId": 1856,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414753,
+      "name": "Draw/Odra Opole & 1"
+    },
+    {
+      "typeId": 1857,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414757,
+      "name": "Draw/Polonia Warszawa & 1"
+    },
+    {
+      "typeId": 1861,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414772,
+      "name": "Draw/Odra Opole & 2"
+    },
+    {
+      "typeId": 1862,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414776,
+      "name": "Draw/draw & 2"
+    },
+    {
+      "typeId": 1863,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414785,
+      "name": "Draw/Polonia Warszawa & 2"
+    },
+    {
+      "typeId": 1868,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414806,
+      "name": "Draw/Odra Opole & 3"
+    },
+    {
+      "typeId": 1869,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414808,
+      "name": "Draw/Polonia Warszawa & 3"
+    },
+    {
+      "typeId": 1875,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415465,
+      "name": "Draw/Odra Opole & 4"
+    },
+    {
+      "typeId": 1876,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415466,
+      "name": "Draw/draw & 4"
+    },
+    {
+      "typeId": 1877,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415468,
+      "name": "Draw/Polonia Warszawa & 4"
+    },
+    {
+      "typeId": 1884,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999415485,
+      "name": "Draw/Odra Opole & 5+"
+    },
+    {
+      "typeId": 1885,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415488,
+      "name": "Draw/draw & 5+"
+    },
+    {
+      "typeId": 1886,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415491,
+      "name": "Draw/Polonia Warszawa & 5+"
+    },
+    {
+      "typeId": 1858,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414761,
+      "name": "Polonia Warszawa/Polonia Warszawa & 1"
+    },
+    {
+      "typeId": 1865,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414794,
+      "name": "Polonia Warszawa/Polonia Warszawa & 2"
+    },
+    {
+      "typeId": 1864,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414790,
+      "name": "Polonia Warszawa/draw & 2"
+    },
+    {
+      "typeId": 1871,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415447,
+      "name": "Polonia Warszawa/Polonia Warszawa & 3"
+    },
+    {
+      "typeId": 1870,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415442,
+      "name": "Polonia Warszawa/Odra Opole & 3"
+    },
+    {
+      "typeId": 1880,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415473,
+      "name": "Polonia Warszawa/Polonia Warszawa & 4"
+    },
+    {
+      "typeId": 1879,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415471,
+      "name": "Polonia Warszawa/draw & 4"
+    },
+    {
+      "typeId": 1878,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415470,
+      "name": "Polonia Warszawa/Odra Opole & 4"
+    },
+    {
+      "typeId": 1889,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415501,
+      "name": "Polonia Warszawa/Polonia Warszawa & 5+"
+    },
+    {
+      "typeId": 1888,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999415498,
+      "name": "Polonia Warszawa/draw & 5+"
+    },
+    {
+      "typeId": 1887,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415494,
+      "name": "Polonia Warszawa/Odra Opole & 5+"
+    },
+    {
+      "typeId": 806,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412871,
+      "name": "No/no"
+    },
+    {
+      "typeId": 808,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412873,
+      "name": "Yes/no"
+    },
+    {
+      "typeId": 812,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412878,
+      "name": "No/yes"
+    },
+    {
+      "typeId": 810,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999412875,
+      "name": "Yes/yes"
+    },
+    {
+      "typeId": 1718,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414439,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47755,
+      "id": 3999414443,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1720,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414446,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1721,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414451,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1722,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414454,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1723,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 71312,
+      "id": 3999414460,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 74,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415507,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415512,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415515,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415520,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415528,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415534,
+      "name": "Yes"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 608,
+  "rc": false,
+  "startDate": "2026-05-24T14:30:00Z",
+  "showAll": true
+}

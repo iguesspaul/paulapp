@@ -1,0 +1,4399 @@
+{
+  "id": 16497661,
+  "feedEventId": 20873762,
+  "name": "Maccabi Bnei Reineh vs. Maccabi Netanya FC",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 3087,
+    "name": "Premier League"
+  },
+  "category": {
+    "iso": "ISR",
+    "hasLiveEvents": false,
+    "id": 516,
+    "name": "Israel"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 51085,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 47039,
+      "name": "Maccabi Netanya FC"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1566411090,
+        1566411084,
+        1566411052,
+        1566411076,
+        1566411093,
+        1566411138,
+        1566411079,
+        1566411027,
+        1566411124,
+        1566411040,
+        1566411043,
+        1566411096,
+        1566411142,
+        1566411118,
+        1566411119,
+        1566411398,
+        1566411401,
+        1566411402,
+        1566411100
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 6,
+      "marketIds": [
+        1566411138,
+        1566411090,
+        1566411076,
+        1566411091
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1629,
+      "name": "Tips"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1566411090,
+        1566411052,
+        1566411084,
+        1566411027,
+        1566411076,
+        1566411040,
+        1566411043,
+        1566411398,
+        1566411091,
+        1566411085,
+        1566411057,
+        1566411045,
+        1566411047,
+        1566411077,
+        1566411399,
+        1568910420,
+        1566411079,
+        1566411153,
+        1566411147,
+        1566411148
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568910420
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 5,
+      "name": "Corners"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1566411152,
+        1566411101,
+        1566411128,
+        1566411149,
+        1566656973,
+        1566411147,
+        1566411148,
+        1566411100
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1566411091,
+        1566411085,
+        1566411057,
+        1566411031,
+        1571354464,
+        1566411153,
+        1566411077,
+        1566411045,
+        1566411047,
+        1566411399,
+        1566411403,
+        1566411404
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1566411086,
+        1566411400
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1566411114
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3978947299
+        ],
+        [
+          3978947300
+        ],
+        [
+          3978947301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947299
+        ],
+        [
+          3978947300
+        ],
+        [
+          3978947301
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "hint": "Maccabi Netanya FC have lost 6 of their last 8 away games",
+      "id": 1566411090,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3978947274
+        ],
+        [
+          3978947272
+        ],
+        [
+          3978947273
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947274,
+          3978947272,
+          3978947273
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1566411084,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3978947162
+        ],
+        [
+          3978947163
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947162
+        ],
+        [
+          3978947163
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1566411052,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3978947210
+        ],
+        [
+          3978947211
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947210
+        ],
+        [
+          3978947211
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "hint": "Both teams have scored in only 4 of the last 15 Maccabi Bnei Reineh games",
+      "id": 1566411076,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3978947308
+        ],
+        [
+          3978947309
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947308
+        ],
+        [
+          3978947309
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1566411093,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3978947464
+        ],
+        [
+          3978947466
+        ],
+        [
+          3978947465
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947464
+        ],
+        [
+          3978947466
+        ],
+        [
+          3978947465
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "hint": "Maccabi Netanya FC have conceded first in 15 of their last 20 away games",
+      "hintSpov": "1",
+      "id": 1566411138,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3978947217,
+          3978947218,
+          3978947223,
+          3978947219,
+          3978947224,
+          3978947229,
+          3978947220,
+          3978947225,
+          3978947230,
+          3978947238
+        ],
+        [
+          3978947216,
+          3978947222,
+          3978947228,
+          3978947234,
+          3978947240,
+          3978947241
+        ],
+        [
+          3978947221,
+          3978947226,
+          3978947227,
+          3978947231,
+          3978947232,
+          3978947233,
+          3978947235,
+          3978947236,
+          3978947237,
+          3978947239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947217,
+          3978947218,
+          3978947223,
+          3978947219,
+          3978947224,
+          3978947229,
+          3978947220,
+          3978947225,
+          3978947230,
+          3978947238
+        ],
+        [
+          3978947216,
+          3978947222,
+          3978947228,
+          3978947234,
+          3978947240,
+          3978947241
+        ],
+        [
+          3978947221,
+          3978947226,
+          3978947227,
+          3978947231,
+          3978947232,
+          3978947233,
+          3978947235,
+          3978947236,
+          3978947237,
+          3978947239
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1566411079,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3978947112
+        ],
+        [
+          3978947113
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947112
+        ],
+        [
+          3978947113
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1566411027,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3995017769,
+          3978947431,
+          3995017766
+        ],
+        [
+          3995017770,
+          3978947432,
+          3995017767
+        ],
+        [
+          3995017771,
+          3978947433,
+          3995017768
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995017769,
+          3978947431,
+          3995017766,
+          3995017770,
+          3978947432,
+          3995017767,
+          3995017771,
+          3978947433,
+          3995017768
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "1:0",
+      "id": 1566411124,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh total",
+      "desktopOddIds": [
+        [
+          3978947138
+        ],
+        [
+          3978947139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947138
+        ],
+        [
+          3978947139
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1566411040,
+      "name": "Maccabi Bnei Reineh total"
+    },
+    {
+      "shortName": "Maccabi Netanya FC total",
+      "desktopOddIds": [
+        [
+          3978947144
+        ],
+        [
+          3978947145
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947144
+        ],
+        [
+          3978947145
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1566411043,
+      "name": "Maccabi Netanya FC total"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          3978947314,
+          3978947315,
+          3978947316,
+          3978947318
+        ],
+        [
+          3978947317,
+          3978947319
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947314,
+          3978947315,
+          3978947316,
+          3978947318,
+          3978947317,
+          3978947319
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "isMB": false,
+      "sportMarketId": 71660,
+      "id": 1566411096,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Which team to score",
+      "desktopOddIds": [
+        [
+          3978947485,
+          3978947487
+        ],
+        [
+          3978947486,
+          3978947484
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947485,
+          3978947487
+        ],
+        [
+          3978947486,
+          3978947484
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 30,
+      "isMB": false,
+      "sportMarketId": 70547,
+      "id": 1566411142,
+      "name": "Which team to score"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh exact goals",
+      "desktopOddIds": [
+        [
+          3978947409,
+          3978947410,
+          3978947411,
+          3978947412
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947409,
+          3978947410,
+          3978947411,
+          3978947412
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 23,
+      "isMB": false,
+      "sportMarketId": 71654,
+      "id": 1566411118,
+      "name": "Maccabi Bnei Reineh exact goals"
+    },
+    {
+      "shortName": "Maccabi Netanya FC exact goals",
+      "desktopOddIds": [
+        [
+          3978947413,
+          3978947414,
+          3978947415,
+          3978947416
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947413,
+          3978947414,
+          3978947415,
+          3978947416
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 24,
+      "isMB": false,
+      "sportMarketId": 71655,
+      "id": 1566411119,
+      "name": "Maccabi Netanya FC exact goals"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3978948320
+        ],
+        [
+          3978948321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948320
+        ],
+        [
+          3978948321
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1566411398,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh odd/even",
+      "desktopOddIds": [
+        [
+          3978948326
+        ],
+        [
+          3978948327
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948326
+        ],
+        [
+          3978948327
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1566411401,
+      "name": "Maccabi Bnei Reineh odd/even"
+    },
+    {
+      "shortName": "Maccabi Netanya FC odd/even",
+      "desktopOddIds": [
+        [
+          3978948328
+        ],
+        [
+          3978948329
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948328
+        ],
+        [
+          3978948329
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1566411402,
+      "name": "Maccabi Netanya FC odd/even"
+    },
+    {
+      "shortName": "Half With most Goals",
+      "desktopOddIds": [
+        [
+          3978947341
+        ],
+        [
+          3978947343
+        ],
+        [
+          3978947342
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947343,
+          3978947341,
+          3978947342
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 52,
+      "isMB": false,
+      "sportMarketId": 70577,
+      "id": 1566411100,
+      "name": "Half With most Goals"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3978947302
+        ],
+        [
+          3978947303
+        ],
+        [
+          3978947304
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947302,
+          3978947303,
+          3978947304
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "hint": "Maccabi Bnei Reineh have lost the first half in 9 of their last 19 games",
+      "id": 1566411091,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3978947299
+        ],
+        [
+          3978947300
+        ],
+        [
+          3978947301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947299
+        ],
+        [
+          3978947300
+        ],
+        [
+          3978947301
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "hint": "Maccabi Netanya FC have lost 6 of their last 8 away games",
+      "id": 1566411090,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3978947162
+        ],
+        [
+          3978947163
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947162
+        ],
+        [
+          3978947163
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1566411052,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3978947274
+        ],
+        [
+          3978947272
+        ],
+        [
+          3978947273
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947274,
+          3978947272,
+          3978947273
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1566411084,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3978947112
+        ],
+        [
+          3978947113
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947112
+        ],
+        [
+          3978947113
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1566411027,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3978947210
+        ],
+        [
+          3978947211
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947210
+        ],
+        [
+          3978947211
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "hint": "Both teams have scored in only 4 of the last 15 Maccabi Bnei Reineh games",
+      "id": 1566411076,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh total",
+      "desktopOddIds": [
+        [
+          3978947138
+        ],
+        [
+          3978947139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947138
+        ],
+        [
+          3978947139
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1566411040,
+      "name": "Maccabi Bnei Reineh total"
+    },
+    {
+      "shortName": "Maccabi Netanya FC total",
+      "desktopOddIds": [
+        [
+          3978947144
+        ],
+        [
+          3978947145
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947144
+        ],
+        [
+          3978947145
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1566411043,
+      "name": "Maccabi Netanya FC total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3978948320
+        ],
+        [
+          3978948321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948320
+        ],
+        [
+          3978948321
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1566411398,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3978947302
+        ],
+        [
+          3978947303
+        ],
+        [
+          3978947304
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947302,
+          3978947303,
+          3978947304
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "hint": "Maccabi Bnei Reineh have lost the first half in 9 of their last 19 games",
+      "id": 1566411091,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3978947277
+        ],
+        [
+          3978947275
+        ],
+        [
+          3978947276
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947277,
+          3978947275,
+          3978947276
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1566411085,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3978947172
+        ],
+        [
+          3978947173
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947172
+        ],
+        [
+          3978947173
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1566411057,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Maccabi Bnei Reineh total",
+      "desktopOddIds": [
+        [
+          3978947148
+        ],
+        [
+          3978947149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947148
+        ],
+        [
+          3978947149
+        ]
+      ],
+      "isBB": true,
+      "so": 20,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1566411045,
+      "name": "1st half - Maccabi Bnei Reineh total"
+    },
+    {
+      "shortName": "1st half - Maccabi Netanya FC total",
+      "desktopOddIds": [
+        [
+          3978947152
+        ],
+        [
+          3978947153
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947152
+        ],
+        [
+          3978947153
+        ]
+      ],
+      "isBB": true,
+      "so": 21,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1566411047,
+      "name": "1st half - Maccabi Netanya FC total"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3978947212
+        ],
+        [
+          3978947213
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947212
+        ],
+        [
+          3978947213
+        ]
+      ],
+      "isBB": true,
+      "so": 22,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1566411077,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3978948322
+        ],
+        [
+          3978948323
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948322
+        ],
+        [
+          3978948323
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1566411399,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          3987296489
+        ],
+        [
+          3987296488
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3987296489
+        ],
+        [
+          3987296488
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 24,
+      "typeId": 166,
+      "isMB": true,
+      "sportMarketId": 70739,
+      "sv": "8.5",
+      "id": 1568910420,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3978947217,
+          3978947218,
+          3978947223,
+          3978947219,
+          3978947224,
+          3978947229,
+          3978947220,
+          3978947225,
+          3978947230,
+          3978947238
+        ],
+        [
+          3978947216,
+          3978947222,
+          3978947228,
+          3978947234,
+          3978947240,
+          3978947241
+        ],
+        [
+          3978947221,
+          3978947226,
+          3978947227,
+          3978947231,
+          3978947232,
+          3978947233,
+          3978947235,
+          3978947236,
+          3978947237,
+          3978947239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947217,
+          3978947218,
+          3978947223,
+          3978947219,
+          3978947224,
+          3978947229,
+          3978947220,
+          3978947225,
+          3978947230,
+          3978947238
+        ],
+        [
+          3978947216,
+          3978947222,
+          3978947228,
+          3978947234,
+          3978947240,
+          3978947241
+        ],
+        [
+          3978947221,
+          3978947226,
+          3978947227,
+          3978947231,
+          3978947232,
+          3978947233,
+          3978947235,
+          3978947236,
+          3978947237,
+          3978947239
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1566411079,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3978947513,
+          3978947514,
+          3978947517
+        ],
+        [
+          3978947512,
+          3978947516,
+          3978947520,
+          3978947521
+        ],
+        [
+          3978947515,
+          3978947518,
+          3978947519
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947513,
+          3978947514,
+          3978947517
+        ],
+        [
+          3978947512,
+          3978947516,
+          3978947520,
+          3978947521
+        ],
+        [
+          3978947515,
+          3978947518,
+          3978947519
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 47,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1566411153,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh to score in both halves",
+      "desktopOddIds": [
+        [
+          3978947496
+        ],
+        [
+          3978947497
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947496
+        ],
+        [
+          3978947497
+        ]
+      ],
+      "isBB": true,
+      "so": 64,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1566411147,
+      "name": "Maccabi Bnei Reineh to score in both halves"
+    },
+    {
+      "shortName": "Maccabi Netanya FC to score in both halves",
+      "desktopOddIds": [
+        [
+          3978947498
+        ],
+        [
+          3978947499
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947498
+        ],
+        [
+          3978947499
+        ]
+      ],
+      "isBB": true,
+      "so": 65,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1566411148,
+      "name": "Maccabi Netanya FC to score in both halves"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          3987296489
+        ],
+        [
+          3987296488
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3987296489
+        ],
+        [
+          3987296488
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 166,
+      "isMB": true,
+      "sportMarketId": 70739,
+      "sv": "8.5",
+      "id": 1568910420,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          3978947510,
+          3978947508,
+          3978947509,
+          3978947511
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947510
+        ],
+        [
+          3978947508,
+          3978947509,
+          3978947511
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "isMB": false,
+      "sportMarketId": 72136,
+      "id": 1566411152,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh clean sheet",
+      "desktopOddIds": [
+        [
+          3978947344
+        ],
+        [
+          3978947345
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947344
+        ],
+        [
+          3978947345
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31,
+      "isMB": false,
+      "sportMarketId": 70549,
+      "id": 1566411101,
+      "name": "Maccabi Bnei Reineh clean sheet"
+    },
+    {
+      "shortName": "Maccabi Netanya FC Clean sheet",
+      "desktopOddIds": [
+        [
+          3978947444
+        ],
+        [
+          3978947445
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947444
+        ],
+        [
+          3978947445
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 32,
+      "isMB": false,
+      "sportMarketId": 70551,
+      "id": 1566411128,
+      "name": "Maccabi Netanya FC Clean sheet"
+    },
+    {
+      "shortName": "Both halves over 0.5",
+      "desktopOddIds": [
+        [
+          3978947500
+        ],
+        [
+          3978947501
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947500
+        ],
+        [
+          3978947501
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 58,
+      "isMB": true,
+      "sportMarketId": 70589,
+      "sv": "0.5",
+      "id": 1566411149,
+      "name": "Both halves over 0.5"
+    },
+    {
+      "shortName": "Both halves under 2.5",
+      "desktopOddIds": [
+        [
+          3979602094
+        ],
+        [
+          3979602095
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3979602094
+        ],
+        [
+          3979602095
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 59,
+      "isMB": true,
+      "sportMarketId": 70590,
+      "sv": "2.5",
+      "id": 1566656973,
+      "name": "Both halves under 2.5"
+    },
+    {
+      "shortName": "Maccabi Bnei Reineh to score in both halves",
+      "desktopOddIds": [
+        [
+          3978947496
+        ],
+        [
+          3978947497
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947496
+        ],
+        [
+          3978947497
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1566411147,
+      "name": "Maccabi Bnei Reineh to score in both halves"
+    },
+    {
+      "shortName": "Maccabi Netanya FC to score in both halves",
+      "desktopOddIds": [
+        [
+          3978947498
+        ],
+        [
+          3978947499
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947498
+        ],
+        [
+          3978947499
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1566411148,
+      "name": "Maccabi Netanya FC to score in both halves"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3978947277
+        ],
+        [
+          3978947275
+        ],
+        [
+          3978947276
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947277,
+          3978947275,
+          3978947276
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1566411085,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3978947172
+        ],
+        [
+          3978947173
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947172
+        ],
+        [
+          3978947173
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1566411057,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - handicap",
+      "desktopOddIds": [
+        [
+          3978947120
+        ],
+        [
+          3978947121
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947120,
+          3978947121
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 66,
+      "isMB": true,
+      "sportMarketId": 70610,
+      "sv": "+0.5",
+      "id": 1566411031,
+      "name": "1st half - handicap"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          3995017772
+        ],
+        [
+          3995017774
+        ],
+        [
+          3995017773
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995017772,
+          3995017774,
+          3995017773
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "isMB": false,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1571354464,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3978947513,
+          3978947514,
+          3978947517
+        ],
+        [
+          3978947512,
+          3978947516,
+          3978947520,
+          3978947521
+        ],
+        [
+          3978947515,
+          3978947518,
+          3978947519
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947513,
+          3978947514,
+          3978947517
+        ],
+        [
+          3978947512,
+          3978947516,
+          3978947520,
+          3978947521
+        ],
+        [
+          3978947515,
+          3978947518,
+          3978947519
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1566411153,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3978947212
+        ],
+        [
+          3978947213
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947212
+        ],
+        [
+          3978947213
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1566411077,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Maccabi Bnei Reineh total",
+      "desktopOddIds": [
+        [
+          3978947148
+        ],
+        [
+          3978947149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947148
+        ],
+        [
+          3978947149
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1566411045,
+      "name": "1st half - Maccabi Bnei Reineh total"
+    },
+    {
+      "shortName": "1st half - Maccabi Netanya FC total",
+      "desktopOddIds": [
+        [
+          3978947152
+        ],
+        [
+          3978947153
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947152
+        ],
+        [
+          3978947153
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1566411047,
+      "name": "1st half - Maccabi Netanya FC total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3978948322
+        ],
+        [
+          3978948323
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948322
+        ],
+        [
+          3978948323
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1566411399,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1st half - Maccabi Bnei Reineh odd/even",
+      "desktopOddIds": [
+        [
+          3978948330
+        ],
+        [
+          3978948331
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948330
+        ],
+        [
+          3978948331
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 618,
+      "isMB": false,
+      "sportMarketId": 74491,
+      "id": 1566411403,
+      "name": "1st half - Maccabi Bnei Reineh odd/even"
+    },
+    {
+      "shortName": "1st half - Maccabi Netanya FC odd/even",
+      "desktopOddIds": [
+        [
+          3978948332
+        ],
+        [
+          3978948333
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948332
+        ],
+        [
+          3978948333
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 619,
+      "isMB": false,
+      "sportMarketId": 74492,
+      "id": 1566411404,
+      "name": "1st half - Maccabi Netanya FC odd/even"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          3978947280
+        ],
+        [
+          3978947278
+        ],
+        [
+          3978947279
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978947280,
+          3978947278,
+          3978947279
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "isMB": false,
+      "sportMarketId": 70648,
+      "id": 1566411086,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - odd/ even",
+      "desktopOddIds": [
+        [
+          3978948324
+        ],
+        [
+          3978948325
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3978948324
+        ],
+        [
+          3978948325
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 94,
+      "isMB": false,
+      "sportMarketId": 70662,
+      "id": 1566411400,
+      "name": "2nd half - odd/ even"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          3995017756,
+          3978947384,
+          3995017762,
+          3999535972,
+          3995017754,
+          3978947382,
+          3995017760,
+          3999535970
+        ],
+        [
+          3995017759,
+          3978947387,
+          3995017765,
+          3999535975,
+          3995017758,
+          3978947386,
+          3995017764,
+          3999535974
+        ],
+        [
+          3995017757,
+          3978947385,
+          3995017763,
+          3999535973,
+          3995017755,
+          3978947383,
+          3995017761,
+          3999535971
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995017756,
+          3978947384,
+          3995017762,
+          3999535972,
+          3995017759,
+          3978947387,
+          3995017765,
+          3999535975,
+          3995017757,
+          3978947385,
+          3995017763,
+          3999535973,
+          3995017754,
+          3978947382,
+          3995017760,
+          3999535970,
+          3995017758,
+          3978947386,
+          3995017764,
+          3999535974,
+          3995017755,
+          3978947383,
+          3995017761,
+          3999535971
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "isMB": false,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1566411114,
+      "name": "1x2 & total"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947299,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947300,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947301,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947274,
+      "name": "Maccabi Bnei Reineh or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947272,
+      "name": "Maccabi Bnei Reineh or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947273,
+      "name": "Draw or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3978947162,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3978947163,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947210,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947211,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "id": 3978947308,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 3,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "id": 3978947309,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947464,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 7,
+      "price": 16.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 3978947466,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947465,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 114,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947217,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947218,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947223,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947219,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947224,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947229,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947220,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947225,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947230,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947238,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947216,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947222,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947228,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947234,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947240,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947241,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947221,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947226,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947227,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947231,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947232,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947233,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947235,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947236,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947237,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947239,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947112,
+      "name": "Maccabi Bnei Reineh (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947113,
+      "name": "Maccabi Netanya FC (-0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "competitorId": 51085,
+      "id": 3995017769,
+      "name": "Maccabi Bnei Reineh (2:0)"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 51085,
+      "id": 3978947431,
+      "name": "Maccabi Bnei Reineh (1:0)"
+    },
+    {
+      "typeId": 1711,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 51085,
+      "id": 3995017766,
+      "name": "Maccabi Bnei Reineh (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "id": 3995017770,
+      "name": "Draw (2:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3978947432,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 3995017767,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "competitorId": 47039,
+      "id": 3995017771,
+      "name": "Maccabi Netanya FC (2:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 47039,
+      "id": 3978947433,
+      "name": "Maccabi Netanya FC (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 47039,
+      "id": 3995017768,
+      "name": "Maccabi Netanya FC (0:1)"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947138,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947139,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947144,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8462,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947145,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 54,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947314,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947315,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947316,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947318,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947317,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947319,
+      "name": "5+"
+    },
+    {
+      "typeId": 788,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "id": 3978947485,
+      "name": "Only Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 790,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "id": 3978947486,
+      "name": "Only Maccabi Netanya FC"
+    },
+    {
+      "typeId": 792,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947487,
+      "name": "Both teams"
+    },
+    {
+      "typeId": 7,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947484,
+      "name": "None"
+    },
+    {
+      "typeId": 54,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947409,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947410,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947411,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947412,
+      "name": "3+"
+    },
+    {
+      "typeId": 54,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947413,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947414,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947415,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947416,
+      "name": "3+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978948320,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978948321,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948326,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948327,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948328,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948329,
+      "name": "Even"
+    },
+    {
+      "typeId": 440,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947343,
+      "name": "Equal"
+    },
+    {
+      "typeId": 436,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947341,
+      "name": "1st half"
+    },
+    {
+      "typeId": 438,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947342,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947302,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947303,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947304,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 1,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947299,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947300,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947301,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947162,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947163,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.7778,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947274,
+      "name": "Maccabi Bnei Reineh or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947272,
+      "name": "Maccabi Bnei Reineh or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947273,
+      "name": "Draw or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947112,
+      "name": "Maccabi Bnei Reineh (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947113,
+      "name": "Maccabi Netanya FC (-0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947210,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947211,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947138,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947139,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947144,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8462,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947145,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978948320,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978948321,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947302,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947303,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947304,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947277,
+      "name": "Maccabi Bnei Reineh or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947275,
+      "name": "Maccabi Bnei Reineh or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947276,
+      "name": "Draw or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947172,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.48,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947173,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947148,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947149,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947152,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947153,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 74,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947212,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947213,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978948322,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978948323,
+      "name": "Even"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3987296489,
+      "name": "Over 8.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8462,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3987296488,
+      "name": "Under 8.5"
+    },
+    {
+      "typeId": 114,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947217,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947218,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947223,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947219,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947224,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947229,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947220,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947225,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947230,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947238,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947216,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947222,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947228,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947234,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947240,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947241,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947221,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947226,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947227,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947231,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947232,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947233,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947235,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947236,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947237,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947239,
+      "name": "3:4"
+    },
+    {
+      "typeId": 114,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947513,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947514,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947517,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947512,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947516,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947520,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947521,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947515,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947518,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947519,
+      "name": "1:2"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947496,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947497,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947498,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3978947499,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isDBB": true,
+      "id": 3987296489,
+      "name": "Over 8.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8462,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isDBB": true,
+      "id": 3987296488,
+      "name": "Under 8.5"
+    },
+    {
+      "typeId": 730,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947510,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947508,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947509,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947511,
+      "name": "7+"
+    },
+    {
+      "typeId": 74,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947344,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947345,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947444,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947445,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5385,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3978947500,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.125,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3978947501,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3979602094,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3979602095,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947496,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947497,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947498,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947499,
+      "name": "No"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "isDBB": true,
+      "id": 3978947277,
+      "name": "Maccabi Bnei Reineh or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947275,
+      "name": "Maccabi Bnei Reineh or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "isDBB": true,
+      "id": 3978947276,
+      "name": "Draw or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947172,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.48,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3978947173,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.4616,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 51085,
+      "id": 3978947120,
+      "name": "Maccabi Bnei Reineh (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.2858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 47039,
+      "id": 3978947121,
+      "name": "Maccabi Netanya FC (-0.5)"
+    },
+    {
+      "typeId": 1,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51085,
+      "id": 3995017772,
+      "name": "Maccabi Bnei Reineh"
+    },
+    {
+      "typeId": 7,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3995017774,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47039,
+      "id": 3995017773,
+      "name": "Maccabi Netanya FC"
+    },
+    {
+      "typeId": 114,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947513,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947514,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947517,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947512,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947516,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947520,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947521,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947515,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947518,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947519,
+      "name": "1:2"
+    },
+    {
+      "typeId": 74,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947212,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978947213,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3978947148,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3978947149,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3978947152,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3978947153,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978948322,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3978948323,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948330,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948331,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948332,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948333,
+      "name": "Even"
+    },
+    {
+      "typeId": 9,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51085,
+      "id": 3978947280,
+      "name": "Maccabi Bnei Reineh or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978947278,
+      "name": "Maccabi Bnei Reineh or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47039,
+      "id": 3978947279,
+      "name": "Draw or Maccabi Netanya FC"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948324,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3978948325,
+      "name": "Even"
+    },
+    {
+      "typeId": 660,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51085,
+      "id": 3995017756,
+      "name": "Maccabi Bnei Reineh & over 1.5"
+    },
+    {
+      "typeId": 660,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51085,
+      "id": 3978947384,
+      "name": "Maccabi Bnei Reineh & over 2.5"
+    },
+    {
+      "typeId": 660,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51085,
+      "id": 3995017762,
+      "name": "Maccabi Bnei Reineh & over 3.5"
+    },
+    {
+      "typeId": 660,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 51085,
+      "id": 3999535972,
+      "name": "Maccabi Bnei Reineh & over 4.5"
+    },
+    {
+      "typeId": 800,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3995017759,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3978947387,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3995017765,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 3999535975,
+      "name": "Draw & over 4.5"
+    },
+    {
+      "typeId": 662,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47039,
+      "id": 3995017757,
+      "name": "Maccabi Netanya FC & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 2.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47039,
+      "id": 3978947385,
+      "name": "Maccabi Netanya FC & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47039,
+      "id": 3995017763,
+      "name": "Maccabi Netanya FC & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47039,
+      "id": 3999535973,
+      "name": "Maccabi Netanya FC & over 4.5"
+    },
+    {
+      "typeId": 656,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51085,
+      "id": 3995017754,
+      "name": "Maccabi Bnei Reineh & under 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51085,
+      "id": 3978947382,
+      "name": "Maccabi Bnei Reineh & under 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51085,
+      "id": 3995017760,
+      "name": "Maccabi Bnei Reineh & under 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 51085,
+      "id": 3999535970,
+      "name": "Maccabi Bnei Reineh & under 4.5"
+    },
+    {
+      "typeId": 798,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3995017758,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3978947386,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3995017764,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 3999535974,
+      "name": "Draw & under 4.5"
+    },
+    {
+      "typeId": 658,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47039,
+      "id": 3995017755,
+      "name": "Maccabi Netanya FC & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47039,
+      "id": 3978947383,
+      "name": "Maccabi Netanya FC & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47039,
+      "id": 3995017761,
+      "name": "Maccabi Netanya FC & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47039,
+      "id": 3999535971,
+      "name": "Maccabi Netanya FC & under 4.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 4632,
+  "rc": false,
+  "startDate": "2026-05-18T17:00:00Z",
+  "showAll": true
+}

@@ -1,0 +1,9717 @@
+{
+  "id": 15307277,
+  "feedEventId": 20640382,
+  "name": "Everton vs. Sunderland",
+  "et": 0,
+  "liveTime": "88'",
+  "lst": "2026-05-17T14:20:05Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 2936,
+    "name": "Premier League"
+  },
+  "category": {
+    "iso": "ENG",
+    "hasLiveEvents": false,
+    "id": 497,
+    "name": "England"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 43692,
+      "name": "Everton"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 43974,
+      "name": "Sunderland"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1550686251,
+        1550686240,
+        1550686198,
+        1572780881,
+        1550686234,
+        1550686165,
+        1550686292,
+        1550686346,
+        1550686185,
+        1550686189,
+        1550686593,
+        1550686596,
+        1550686597
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1550686251,
+        1550686198,
+        1550686240,
+        1550686165,
+        21001,
+        20999,
+        1550686185,
+        1550686189,
+        1550686593,
+        1550686234
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 1,
+      "marketIds": [
+        1572785486
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 18,
+      "name": "1 minute"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1569428963,
+        1572640485,
+        1571407951,
+        1569428970,
+        1569428971,
+        1572623288,
+        1572623287,
+        1567821861
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 5,
+      "name": "Corners"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1571037340,
+        1572623340
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 6,
+      "name": "Bookings"
+    },
+    {
+      "type": 0,
+      "marketIds": [],
+      "childMarketGroupIds": [
+        28142,
+        28139,
+        28143
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 17,
+      "name": "Player Specials"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568793875,
+        1568811800,
+        1572018400,
+        1572017766,
+        1572019955
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1589,
+      "name": "Teams H2H"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568811810,
+        1568811802,
+        1568796048,
+        1572734656,
+        1572659637,
+        1572631225,
+        1572743776,
+        1572666005,
+        1572651206,
+        1572734017,
+        1572731263,
+        1572017759,
+        1572752496,
+        1572747411,
+        1572759856
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    }
+  ],
+  "childMarketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        21001,
+        20999
+      ],
+      "isBundle": true,
+      "sortOrder": 90,
+      "id": 28142,
+      "name": "Goalscorer"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        15736,
+        31155
+      ],
+      "isBundle": true,
+      "sortOrder": 100,
+      "id": 28139,
+      "name": "Assists"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        15734,
+        15735
+      ],
+      "isBundle": true,
+      "sortOrder": 106,
+      "id": 28143,
+      "name": "Shots"
+    }
+  ],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3929676943
+        ],
+        [
+          3929676944
+        ],
+        [
+          3929676945
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676943
+        ],
+        [
+          3929676944
+        ],
+        [
+          3929676945
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1550686251,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3929676888
+        ],
+        [
+          3929676886
+        ],
+        [
+          3929676887
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676888,
+          3929676886,
+          3929676887
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1550686240,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3929676752,
+          3929676754
+        ],
+        [
+          3929676753,
+          3929676755
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676752,
+          3929676754
+        ],
+        [
+          3929676753,
+          3929676755
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1550686198,
+      "name": "Total"
+    },
+    {
+      "shortName": "Fourth goal",
+      "desktopOddIds": [
+        [
+          3999193938
+        ],
+        [
+          3999193940
+        ],
+        [
+          3999193939
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999193938
+        ],
+        [
+          3999193940
+        ],
+        [
+          3999193939
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "4",
+      "id": 1572780881,
+      "name": "Fourth goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3929676837,
+          3929676838,
+          3929676846
+        ],
+        [
+          3929676836,
+          3929676842,
+          3929676848,
+          3929676849
+        ],
+        [
+          3929676835,
+          3929676840,
+          3929676841,
+          3929676844,
+          3929676845,
+          3929676847
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676837,
+          3929676838,
+          3929676846
+        ],
+        [
+          3929676836,
+          3929676842,
+          3929676848,
+          3929676849
+        ],
+        [
+          3929676835,
+          3929676840,
+          3929676841,
+          3929676844,
+          3929676845,
+          3929676847
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1550686234,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3929676688,
+          3929676686
+        ],
+        [
+          3929676689,
+          3929676687
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676688,
+          3929676686
+        ],
+        [
+          3929676689,
+          3929676687
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1550686165,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3929677112
+        ],
+        [
+          3929677113
+        ],
+        [
+          3929677114
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929677112,
+          3929677113,
+          3929677114
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "1:0",
+      "id": 1550686292,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          3929677431
+        ],
+        [
+          3929677433
+        ],
+        [
+          3929677432
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929677431
+        ],
+        [
+          3929677433
+        ],
+        [
+          3929677432
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "isMB": false,
+      "sportMarketId": 70493,
+      "id": 1550686346,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "Everton total",
+      "desktopOddIds": [
+        [
+          3929676726
+        ],
+        [
+          3929676727
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676726
+        ],
+        [
+          3929676727
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1550686185,
+      "name": "Everton total"
+    },
+    {
+      "shortName": "Sunderland total",
+      "desktopOddIds": [
+        [
+          3929676734
+        ],
+        [
+          3929676735
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676734
+        ],
+        [
+          3929676735
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "2.5",
+      "id": 1550686189,
+      "name": "Sunderland total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3929678145
+        ],
+        [
+          3929678146
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929678145
+        ],
+        [
+          3929678146
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1550686593,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Everton odd/even",
+      "desktopOddIds": [
+        [
+          3929678151
+        ],
+        [
+          3929678152
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929678151
+        ],
+        [
+          3929678152
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1550686596,
+      "name": "Everton odd/even"
+    },
+    {
+      "shortName": "Sunderland odd/even",
+      "desktopOddIds": [
+        [
+          3929678153
+        ],
+        [
+          3929678154
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929678153
+        ],
+        [
+          3929678154
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1550686597,
+      "name": "Sunderland odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3929676943
+        ],
+        [
+          3929676944
+        ],
+        [
+          3929676945
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676943
+        ],
+        [
+          3929676944
+        ],
+        [
+          3929676945
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1550686251,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3929676752,
+          3929676754
+        ],
+        [
+          3929676753,
+          3929676755
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676752,
+          3929676754
+        ],
+        [
+          3929676753,
+          3929676755
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1550686198,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3929676888
+        ],
+        [
+          3929676886
+        ],
+        [
+          3929676887
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676888,
+          3929676886,
+          3929676887
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1550686240,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3929676688,
+          3929676686
+        ],
+        [
+          3929676689,
+          3929676687
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676688,
+          3929676686
+        ],
+        [
+          3929676689,
+          3929676687
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1550686165,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Goalscorer",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3976099569,
+        3976073600,
+        3976120978,
+        3976041562,
+        3976192147,
+        3976084547,
+        3976075356,
+        3976186660,
+        3976190502,
+        3976120483,
+        3976095555,
+        3976208748,
+        3975951735,
+        3976093048,
+        3976179869,
+        3976128665,
+        3976107614,
+        3976110062,
+        3976082637
+      ],
+      "headers": [
+        {
+          "typeId": 21001,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2090,
+              "name": "Fourth"
+            },
+            {
+              "id": 2092,
+              "name": "Any"
+            }
+          ]
+        }
+      ],
+      "isBB": true,
+      "variant": 13,
+      "so": 6,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:294|4",
+      "id": 21001,
+      "name": "Goalscorer"
+    },
+    {
+      "shortName": "Multi Scorers",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3999164075,
+        3999178162,
+        3998749954,
+        3998749961,
+        3999163197,
+        3999212351,
+        3999123379,
+        3998749948,
+        3998749951,
+        3998749952,
+        3998749953,
+        3999178955,
+        3999177557,
+        3999212741,
+        3998749946,
+        3998749947,
+        3998859789,
+        3998749949,
+        3998749950
+      ],
+      "headers": [
+        {
+          "typeId": 20999,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2101,
+              "name": "2+"
+            }
+          ]
+        }
+      ],
+      "isBB": true,
+      "variant": 13,
+      "so": 7,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 20999,
+      "name": "Multi Scorers"
+    },
+    {
+      "shortName": "Everton total",
+      "desktopOddIds": [
+        [
+          3929676726
+        ],
+        [
+          3929676727
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676726
+        ],
+        [
+          3929676727
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1550686185,
+      "name": "Everton total"
+    },
+    {
+      "shortName": "Sunderland total",
+      "desktopOddIds": [
+        [
+          3929676734
+        ],
+        [
+          3929676735
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676734
+        ],
+        [
+          3929676735
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "2.5",
+      "id": 1550686189,
+      "name": "Sunderland total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3929678145
+        ],
+        [
+          3929678146
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929678145
+        ],
+        [
+          3929678146
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1550686593,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3929676837,
+          3929676838,
+          3929676846
+        ],
+        [
+          3929676836,
+          3929676842,
+          3929676848,
+          3929676849
+        ],
+        [
+          3929676835,
+          3929676840,
+          3929676841,
+          3929676844,
+          3929676845,
+          3929676847
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929676837,
+          3929676838,
+          3929676846
+        ],
+        [
+          3929676836,
+          3929676842,
+          3929676848,
+          3929676849
+        ],
+        [
+          3929676835,
+          3929676840,
+          3929676841,
+          3929676844,
+          3929676845,
+          3929676847
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1550686234,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "What will happen in next minute (88:00 - 88:59)",
+      "desktopOddIds": [
+        [
+          3999205879
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999205879
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "88:00|88:59",
+      "id": 1572785486,
+      "name": "What will happen in next minute (88:00 - 88:59)"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          3994145225,
+          3989095916,
+          3983778532
+        ],
+        [
+          3994145226,
+          3989095917,
+          3983778533
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994145225,
+          3989095916,
+          3983778532
+        ],
+        [
+          3994145226,
+          3989095917,
+          3983778533
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 166,
+      "isMB": false,
+      "sportMarketId": 70739,
+      "sv": "6.5",
+      "id": 1569428963,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Everton total corners",
+      "desktopOddIds": [
+        [
+          3998793661
+        ],
+        [
+          3998793662
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998793661
+        ],
+        [
+          3998793662
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 167,
+      "isMB": true,
+      "sportMarketId": 70740,
+      "sv": "3.5",
+      "id": 1572640485,
+      "name": "Everton total corners"
+    },
+    {
+      "shortName": "Sunderland total corners",
+      "desktopOddIds": [
+        [
+          3995329688
+        ],
+        [
+          3995329689
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995329688
+        ],
+        [
+          3995329689
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 168,
+      "isMB": true,
+      "sportMarketId": 70741,
+      "sv": "2.5",
+      "id": 1571407951,
+      "name": "Sunderland total corners"
+    },
+    {
+      "shortName": "Race to 5 corners",
+      "desktopOddIds": [
+        [
+          3989095939
+        ],
+        [
+          3989095941
+        ],
+        [
+          3989095940
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3989095939
+        ],
+        [
+          3989095941
+        ],
+        [
+          3989095940
+        ]
+      ],
+      "headers": [
+        {
+          "typeId": 601,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 1,
+              "name": "Everton"
+            },
+            {
+              "id": 7,
+              "name": "None"
+            },
+            {
+              "id": 3,
+              "name": "Sunderland"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 10,
+      "so": 0,
+      "typeId": 601,
+      "isMB": false,
+      "sportMarketId": 71058,
+      "sv": "5",
+      "id": 1569428970,
+      "name": "Race to 5 corners"
+    },
+    {
+      "shortName": "Race to 7 corners",
+      "desktopOddIds": [
+        [
+          3989095942
+        ],
+        [
+          3989095944
+        ],
+        [
+          3989095943
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3989095942
+        ],
+        [
+          3989095944
+        ],
+        [
+          3989095943
+        ]
+      ],
+      "headers": [
+        {
+          "typeId": 601,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 1,
+              "name": "Everton"
+            },
+            {
+              "id": 7,
+              "name": "None"
+            },
+            {
+              "id": 3,
+              "name": "Sunderland"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 10,
+      "so": 0,
+      "typeId": 601,
+      "isMB": false,
+      "sportMarketId": 71058,
+      "sv": "7",
+      "id": 1569428971,
+      "name": "Race to 7 corners"
+    },
+    {
+      "shortName": "Everton - Total corners Odd/Even",
+      "desktopOddIds": [
+        [
+          3998750287
+        ],
+        [
+          3998750286
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998750286,
+          3998750287
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 3286,
+      "isMB": false,
+      "sportMarketId": 73805,
+      "id": 1572623288,
+      "name": "Everton - Total corners Odd/Even"
+    },
+    {
+      "shortName": "Sunderland - Total corners Odd/Even",
+      "desktopOddIds": [
+        [
+          3998750285
+        ],
+        [
+          3998750284
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998750284,
+          3998750285
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 3287,
+      "isMB": false,
+      "sportMarketId": 73806,
+      "id": 1572623287,
+      "name": "Sunderland - Total corners Odd/Even"
+    },
+    {
+      "shortName": "Odd/even corners",
+      "desktopOddIds": [
+        [
+          3983778518
+        ],
+        [
+          3983778519
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983778518
+        ],
+        [
+          3983778519
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 172,
+      "isMB": false,
+      "sportMarketId": 70742,
+      "id": 1567821861,
+      "name": "Odd/even corners"
+    },
+    {
+      "shortName": "Total bookings",
+      "desktopOddIds": [
+        [
+          3994145207
+        ],
+        [
+          3994145208
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994145207
+        ],
+        [
+          3994145208
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 139,
+      "isMB": true,
+      "sportMarketId": 70714,
+      "sv": "2.5",
+      "id": 1571037340,
+      "name": "Total bookings"
+    },
+    {
+      "shortName": "Exact bookings",
+      "desktopOddIds": [
+        [
+          3998750421,
+          3998750422,
+          3998750423,
+          3998750424,
+          3998750428
+        ],
+        [
+          3998750425
+        ],
+        [
+          3998750426
+        ],
+        [
+          3998750427
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998750421,
+          3998750422,
+          3998750423,
+          3998750424,
+          3998750426,
+          3998750428
+        ],
+        [
+          3998750425,
+          3998750427
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 142,
+      "isMB": false,
+      "sportMarketId": 70717,
+      "id": 1572623340,
+      "name": "Exact bookings"
+    },
+    {
+      "shortName": "Goalscorer",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3976099569,
+        3976073600,
+        3976120978,
+        3976041562,
+        3976192147,
+        3976084547,
+        3976075356,
+        3976186660,
+        3976190502,
+        3976120483,
+        3976095555,
+        3976208748,
+        3975951735,
+        3976093048,
+        3976179869,
+        3976128665,
+        3976107614,
+        3976110062,
+        3976082637,
+        3999191313
+      ],
+      "headers": [
+        {
+          "typeId": 21001,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2090,
+              "name": "Fourth"
+            },
+            {
+              "id": 2092,
+              "name": "Any"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 13,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:294|4",
+      "id": 21001,
+      "name": "Goalscorer"
+    },
+    {
+      "shortName": "Multi Scorers",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3998749956,
+        3999164075,
+        3999178162,
+        3998749954,
+        3998749961,
+        3999163197,
+        3999212351,
+        3999123379,
+        3998749948,
+        3998749951,
+        3998749952,
+        3998749953,
+        3999178955,
+        3999177557,
+        3999212741,
+        3998749946,
+        3998749947,
+        3998859789,
+        3998749949,
+        3998749950
+      ],
+      "headers": [
+        {
+          "typeId": 20999,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2101,
+              "name": "2+"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 13,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 20999,
+      "name": "Multi Scorers"
+    },
+    {
+      "shortName": "Player or the substitute to get an assist",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568807744,
+        1568812103,
+        1568804609,
+        1568807207,
+        1568781015,
+        1568801499,
+        1568780080,
+        1568793558,
+        1568807392,
+        1568798284,
+        1568814341,
+        1568805443,
+        1568793338,
+        1568801524,
+        1568794206,
+        1568819035,
+        1568810448
+      ],
+      "headers": [
+        {
+          "typeId": 31155,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 31155,
+      "name": "Player or the substitute to get an assist"
+    },
+    {
+      "shortName": "Shots on Goal",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568798234,
+        1568811402,
+        1568821424,
+        1568773006,
+        1568808729,
+        1568797943,
+        1568822726,
+        1568819071,
+        1568823010,
+        1568804520,
+        1568819670,
+        1568797350,
+        1568797582,
+        1568820799,
+        1568792291,
+        1568793265,
+        1568794578,
+        1568798543,
+        1568820407
+      ],
+      "headers": [
+        {
+          "typeId": 15734,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15734,
+      "name": "Shots on Goal"
+    },
+    {
+      "shortName": "Shots",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568794980,
+        1568796490,
+        1568796361,
+        1568799850,
+        1568804199,
+        1568812420,
+        1568805358,
+        1568800006,
+        1568791912,
+        1568796730,
+        1568805865,
+        1568811252,
+        1568777127,
+        1568820030,
+        1568795681,
+        1568817029,
+        1572768161,
+        1572767851,
+        1568772276,
+        1568796213
+      ],
+      "headers": [
+        {
+          "typeId": 15735,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15735,
+      "name": "Shots"
+    },
+    {
+      "shortName": "Assists",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568807689,
+        1572782599,
+        1568812085,
+        1568804596,
+        1572752514,
+        1568807204,
+        1568780969,
+        1568801496,
+        1568780077,
+        1568793555,
+        1568807387,
+        1568798281,
+        1572697664,
+        1568814298,
+        1568805417,
+        1568793335,
+        1568801515,
+        1568794203,
+        1568819033,
+        1568810444
+      ],
+      "headers": [
+        {
+          "typeId": 15736,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15736,
+      "name": "Assists"
+    },
+    {
+      "shortName": "1X2 Total Shots",
+      "desktopOddIds": [
+        [
+          3986796855
+        ],
+        [
+          3986796856
+        ],
+        [
+          3986796857
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986796855
+        ],
+        [
+          3986796856
+        ],
+        [
+          3986796857
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15742,
+      "isMB": false,
+      "sportMarketId": 76210,
+      "id": 1568793875,
+      "name": "1X2 Total Shots"
+    },
+    {
+      "shortName": "1X2 Total Shots on Goal",
+      "desktopOddIds": [
+        [
+          3986861851
+        ],
+        [
+          3986861852
+        ],
+        [
+          3986861853
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986861851
+        ],
+        [
+          3986861852
+        ],
+        [
+          3986861853
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15741,
+      "isMB": false,
+      "sportMarketId": 76209,
+      "id": 1568811800,
+      "name": "1X2 Total Shots on Goal"
+    },
+    {
+      "shortName": "1X2 Offside",
+      "desktopOddIds": [
+        [
+          3996880499
+        ],
+        [
+          3996880500
+        ],
+        [
+          3996880501
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996880499
+        ],
+        [
+          3996880500
+        ],
+        [
+          3996880501
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15743,
+      "isMB": false,
+      "sportMarketId": 76211,
+      "id": 1572018400,
+      "name": "1X2 Offside"
+    },
+    {
+      "shortName": "1X2 Fouls",
+      "desktopOddIds": [
+        [
+          3996879038
+        ],
+        [
+          3996879039
+        ],
+        [
+          3996879040
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996879038
+        ],
+        [
+          3996879039
+        ],
+        [
+          3996879040
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15744,
+      "isMB": false,
+      "sportMarketId": 76212,
+      "id": 1572017766,
+      "name": "1X2 Fouls"
+    },
+    {
+      "shortName": "1x2 Tackles",
+      "desktopOddIds": [
+        [
+          3996883867
+        ],
+        [
+          3996883868
+        ],
+        [
+          3996883869
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996883867
+        ],
+        [
+          3996883868
+        ],
+        [
+          3996883869
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25165,
+      "isMB": false,
+      "sportMarketId": 76910,
+      "id": 1572019955,
+      "name": "1x2 Tackles"
+    },
+    {
+      "shortName": "Total shots on Target",
+      "desktopOddIds": [
+        [
+          3986861873,
+          3986861875
+        ],
+        [
+          3986861874,
+          3986861876
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986861873,
+          3986861875
+        ],
+        [
+          3986861874,
+          3986861876
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15737,
+      "isMB": true,
+      "sportMarketId": 76205,
+      "sv": "6.5",
+      "id": 1568811810,
+      "name": "Total shots on Target"
+    },
+    {
+      "shortName": "Everton Total shots on Target",
+      "desktopOddIds": [
+        [
+          3986861856,
+          3986861860
+        ],
+        [
+          3986861857,
+          3986861861
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986861856,
+          3986861860
+        ],
+        [
+          3986861857,
+          3986861861
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15726,
+      "isMB": true,
+      "sportMarketId": 76194,
+      "sv": "4.5|247",
+      "id": 1568811802,
+      "name": "Everton Total shots on Target"
+    },
+    {
+      "shortName": "Sunderland Total shots on Target",
+      "desktopOddIds": [
+        [
+          3986803094
+        ],
+        [
+          3986803095
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986803094
+        ],
+        [
+          3986803095
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15727,
+      "isMB": true,
+      "sportMarketId": 76195,
+      "sv": "2.5|21746",
+      "id": 1568796048,
+      "name": "Sunderland Total shots on Target"
+    },
+    {
+      "shortName": "Total shots",
+      "desktopOddIds": [
+        [
+          3999170782,
+          3999107779,
+          3999080595
+        ],
+        [
+          3999170783,
+          3999107780,
+          3999080596
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999170782,
+          3999107779,
+          3999080595
+        ],
+        [
+          3999170783,
+          3999107780,
+          3999080596
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15738,
+      "isMB": false,
+      "sportMarketId": 76206,
+      "sv": "18.5",
+      "id": 1572734656,
+      "name": "Total shots"
+    },
+    {
+      "shortName": "Everton Total shots",
+      "desktopOddIds": [
+        [
+          3998844944,
+          3998753528
+        ],
+        [
+          3998844945,
+          3998753529
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998844944,
+          3998753528
+        ],
+        [
+          3998844945,
+          3998753529
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15728,
+      "isMB": true,
+      "sportMarketId": 76196,
+      "sv": "10.5|247",
+      "id": 1572659637,
+      "name": "Everton Total shots"
+    },
+    {
+      "shortName": "Sunderland Total shots",
+      "desktopOddIds": [
+        [
+          3999155237,
+          3998770821
+        ],
+        [
+          3999155238,
+          3998770822
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999155237,
+          3998770821
+        ],
+        [
+          3999155238,
+          3998770822
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15729,
+      "isMB": false,
+      "sportMarketId": 76197,
+      "sv": "7.5|21746",
+      "id": 1572631225,
+      "name": "Sunderland Total shots"
+    },
+    {
+      "shortName": "Total Offside",
+      "desktopOddIds": [
+        [
+          3999105677
+        ],
+        [
+          3999105678
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999105677
+        ],
+        [
+          3999105678
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15739,
+      "isMB": true,
+      "sportMarketId": 76207,
+      "sv": "0.5",
+      "id": 1572743776,
+      "name": "Total Offside"
+    },
+    {
+      "shortName": "Everton total offside",
+      "desktopOddIds": [
+        [
+          3998862616
+        ],
+        [
+          3998862617
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998862616
+        ],
+        [
+          3998862617
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15730,
+      "isMB": true,
+      "sportMarketId": 76198,
+      "sv": "0.5|247",
+      "id": 1572666005,
+      "name": "Everton total offside"
+    },
+    {
+      "shortName": "Sunderland Total offside",
+      "desktopOddIds": [
+        [
+          3998820967
+        ],
+        [
+          3998820968
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998820967
+        ],
+        [
+          3998820968
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15731,
+      "isMB": true,
+      "sportMarketId": 76199,
+      "sv": "0.5|21746",
+      "id": 1572651206,
+      "name": "Sunderland Total offside"
+    },
+    {
+      "shortName": "Total Fouls",
+      "desktopOddIds": [
+        [
+          3999078956
+        ],
+        [
+          3999078957
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999078956
+        ],
+        [
+          3999078957
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15740,
+      "isMB": true,
+      "sportMarketId": 76208,
+      "sv": "23.5",
+      "id": 1572734017,
+      "name": "Total Fouls"
+    },
+    {
+      "shortName": "Everton Total fouls",
+      "desktopOddIds": [
+        [
+          3999072255
+        ],
+        [
+          3999072256
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999072255
+        ],
+        [
+          3999072256
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15732,
+      "isMB": true,
+      "sportMarketId": 76200,
+      "sv": "13.5|247",
+      "id": 1572731263,
+      "name": "Everton Total fouls"
+    },
+    {
+      "shortName": "Sunderland Total fouls",
+      "desktopOddIds": [
+        [
+          3996879023
+        ],
+        [
+          3996879024
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996879023
+        ],
+        [
+          3996879024
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15733,
+      "isMB": true,
+      "sportMarketId": 76201,
+      "sv": "10.5|21746",
+      "id": 1572017759,
+      "name": "Sunderland Total fouls"
+    },
+    {
+      "shortName": "Total Tackles",
+      "desktopOddIds": [
+        [
+          3999126577
+        ],
+        [
+          3999126578
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999126577
+        ],
+        [
+          3999126578
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25164,
+      "isMB": true,
+      "sportMarketId": 76909,
+      "sv": "27.5",
+      "id": 1572752496,
+      "name": "Total Tackles"
+    },
+    {
+      "shortName": "Everton Total tackles",
+      "desktopOddIds": [
+        [
+          3999114154
+        ],
+        [
+          3999114155
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114154
+        ],
+        [
+          3999114155
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25166,
+      "isMB": true,
+      "sportMarketId": 76911,
+      "sv": "14.5|247",
+      "id": 1572747411,
+      "name": "Everton Total tackles"
+    },
+    {
+      "shortName": "Sunderland Total tackles",
+      "desktopOddIds": [
+        [
+          3999144766
+        ],
+        [
+          3999144767
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999144766
+        ],
+        [
+          3999144767
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25167,
+      "isMB": true,
+      "sportMarketId": 76912,
+      "sv": "12.5|21746",
+      "id": 1572759856,
+      "name": "Sunderland Total tackles"
+    }
+  ],
+  "childMarkets": [
+    {
+      "shortName": "Thierno Barry",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3999191321
+        ],
+        [
+          3976099569
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191321
+        ],
+        [
+          3976099569
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:410066|4",
+      "id": 3976099569,
+      "name": "Goalscorer - Thierno Barry (EVE)"
+    },
+    {
+      "shortName": "Iliman Ndiaye",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3999191315
+        ],
+        [
+          3976073600
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191315
+        ],
+        [
+          3976073600
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:314517|4",
+      "id": 3976073600,
+      "name": "Goalscorer - Iliman Ndiaye (EVE)"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3999191312
+        ],
+        [
+          3976120978
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191312
+        ],
+        [
+          3976120978
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:588061|4",
+      "id": 3976120978,
+      "name": "Goalscorer - Kiernan Dewsbury-Hall (EVE)"
+    },
+    {
+      "shortName": "Tyrique George",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3999191320
+        ],
+        [
+          3976041562
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191320
+        ],
+        [
+          3976041562
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:402774|4",
+      "id": 3976041562,
+      "name": "Goalscorer - Tyrique George (EVE)"
+    },
+    {
+      "shortName": "Wilson Isidor",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3999191310
+        ],
+        [
+          3976192147
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191310
+        ],
+        [
+          3976192147
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:414284|4",
+      "id": 3976192147,
+      "name": "Goalscorer - Wilson Isidor (SUN)"
+    },
+    {
+      "shortName": "Dwight McNeil",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3999212352
+        ],
+        [
+          3976084547
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212352
+        ],
+        [
+          3976084547
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:283|4",
+      "id": 3976084547,
+      "name": "Goalscorer - Dwight McNeil (EVE)"
+    },
+    {
+      "shortName": "Chemsdine Talbi",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3999191319
+        ],
+        [
+          3976075356
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191319
+        ],
+        [
+          3976075356
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:13102|4",
+      "id": 3976075356,
+      "name": "Goalscorer - Chemsdine Talbi (SUN)"
+    },
+    {
+      "shortName": "Michael Keane",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3999191304
+        ],
+        [
+          3976186660
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191304
+        ],
+        [
+          3976186660
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:282|4",
+      "id": 3976186660,
+      "name": "Goalscorer - Michael Keane (EVE)"
+    },
+    {
+      "shortName": "Diarra Mouhamadou",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3999191317
+        ],
+        [
+          3976190502
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191317
+        ],
+        [
+          3976190502
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2364|4",
+      "id": 3976190502,
+      "name": "Goalscorer - Diarra Mouhamadou (SUN)"
+    },
+    {
+      "shortName": "Chris Rigg",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3999191318
+        ],
+        [
+          3976120483
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191318
+        ],
+        [
+          3976120483
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:532704|4",
+      "id": 3976120483,
+      "name": "Goalscorer - Chris Rigg (SUN)"
+    },
+    {
+      "shortName": "James Garner",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3999191311
+        ],
+        [
+          3976095555
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191311
+        ],
+        [
+          3976095555
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:294|4",
+      "id": 3976095555,
+      "name": "Goalscorer - James Garner (EVE)"
+    },
+    {
+      "shortName": "Nordi Mukiele",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3999191306
+        ],
+        [
+          3976208748
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191306
+        ],
+        [
+          3976208748
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:147|4",
+      "id": 3976208748,
+      "name": "Goalscorer - Nordi Mukiele (SUN)"
+    },
+    {
+      "shortName": "James Tarkowski",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3999191303
+        ],
+        [
+          3975951735
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191303
+        ],
+        [
+          3975951735
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:276|4",
+      "id": 3975951735,
+      "name": "Goalscorer - James Tarkowski (EVE)"
+    },
+    {
+      "shortName": "Granit Xhaka",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3999191302
+        ],
+        [
+          3976093048
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191302
+        ],
+        [
+          3976093048
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:501|4",
+      "id": 3976093048,
+      "name": "Goalscorer - Granit Xhaka (SUN)"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3999191308
+        ],
+        [
+          3976179869
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191308
+        ],
+        [
+          3976179869
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:289|4",
+      "id": 3976179869,
+      "name": "Goalscorer - Vitaliy Mykolenko (EVE)"
+    },
+    {
+      "shortName": "Seamus Coleman",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3999212742
+        ],
+        [
+          3976128665
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212742
+        ],
+        [
+          3976128665
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:288|4",
+      "id": 3976128665,
+      "name": "Goalscorer - Seamus Coleman (EVE)"
+    },
+    {
+      "shortName": "Luke Terry O'nien",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3999191305
+        ],
+        [
+          3976107614
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191305
+        ],
+        [
+          3976107614
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:579786|4",
+      "id": 3976107614,
+      "name": "Goalscorer - Luke Terry O'nien (SUN)"
+    },
+    {
+      "shortName": "Reinildo Mandava",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3999191307
+        ],
+        [
+          3976110062
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191307
+        ],
+        [
+          3976110062
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1571|4",
+      "id": 3976110062,
+      "name": "Goalscorer - Reinildo Mandava (SUN)"
+    },
+    {
+      "shortName": "Lutsharel Geertruida",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3999191309
+        ],
+        [
+          3976082637
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191309
+        ],
+        [
+          3976082637
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:8624|4",
+      "id": 3976082637,
+      "name": "Goalscorer - Lutsharel Geertruida (SUN)"
+    },
+    {
+      "shortName": "Thierno Barry",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3999164075
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999164075
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1516983",
+      "id": 3999164075,
+      "name": "Multi Scorers Thierno Barry"
+    },
+    {
+      "shortName": "Wilson Isidor",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3999178162
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999178162
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1063702",
+      "id": 3999178162,
+      "name": "Multi Scorers Wilson Isidor"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3998749954
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749954
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1068343",
+      "id": 3998749954,
+      "name": "Multi Scorers Kiernan Dewsbury-Hall"
+    },
+    {
+      "shortName": "Iliman Ndiaye",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3998749961
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749961
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1259876",
+      "id": 3998749961,
+      "name": "Multi Scorers Iliman Ndiaye"
+    },
+    {
+      "shortName": "Tyrique George",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3999163197
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163197
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1425614",
+      "id": 3999163197,
+      "name": "Multi Scorers Tyrique George"
+    },
+    {
+      "shortName": "Dwight McNeil",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3999212351
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212351
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1055025",
+      "id": 3999212351,
+      "name": "Multi Scorers Dwight McNeil"
+    },
+    {
+      "shortName": "Chemsdine Talbi",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3999123379
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999123379
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1388946",
+      "id": 3999123379,
+      "name": "Multi Scorers Chemsdine Talbi"
+    },
+    {
+      "shortName": "Michael Keane",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3998749948
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749948
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "575385",
+      "id": 3998749948,
+      "name": "Multi Scorers Michael Keane"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3998749951
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749951
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1002555",
+      "id": 3998749951,
+      "name": "Multi Scorers Vitaliy Mykolenko"
+    },
+    {
+      "shortName": "Lutsharel Geertruida",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3998749952
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749952
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1021794",
+      "id": 3998749952,
+      "name": "Multi Scorers Lutsharel Geertruida"
+    },
+    {
+      "shortName": "James Garner",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3998749953
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749953
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1065659",
+      "id": 3998749953,
+      "name": "Multi Scorers James Garner"
+    },
+    {
+      "shortName": "Diarra Mouhamadou",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3999178955
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999178955
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1298830",
+      "id": 3999178955,
+      "name": "Multi Scorers Diarra Mouhamadou"
+    },
+    {
+      "shortName": "Chris Rigg",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3999177557
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999177557
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1358776",
+      "id": 3999177557,
+      "name": "Multi Scorers Chris Rigg"
+    },
+    {
+      "shortName": "Seamus Coleman",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3999212741
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212741
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "501209",
+      "id": 3999212741,
+      "name": "Multi Scorers Seamus Coleman"
+    },
+    {
+      "shortName": "Granit Xhaka",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3998749946
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749946
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "533777",
+      "id": 3998749946,
+      "name": "Multi Scorers Granit Xhaka"
+    },
+    {
+      "shortName": "James Tarkowski",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3998749947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749947
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "552207",
+      "id": 3998749947,
+      "name": "Multi Scorers James Tarkowski"
+    },
+    {
+      "shortName": "Luke Terry O'nien",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3998859789
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998859789
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "754151",
+      "id": 3998859789,
+      "name": "Multi Scorers Luke Terry O'nien"
+    },
+    {
+      "shortName": "Nordi Mukiele",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3998749949
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749949
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "805755",
+      "id": 3998749949,
+      "name": "Multi Scorers Nordi Mukiele"
+    },
+    {
+      "shortName": "Reinildo Mandava",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3998749950
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749950
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "932434",
+      "id": 3998749950,
+      "name": "Multi Scorers Reinildo Mandava"
+    },
+    {
+      "shortName": "Thierno Barry",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3999191321
+        ],
+        [
+          3976099569
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191321
+        ],
+        [
+          3976099569
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:410066|4",
+      "id": 3976099569,
+      "name": "Goalscorer - Thierno Barry (EVE)"
+    },
+    {
+      "shortName": "Iliman Ndiaye",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3999191315
+        ],
+        [
+          3976073600
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191315
+        ],
+        [
+          3976073600
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:314517|4",
+      "id": 3976073600,
+      "name": "Goalscorer - Iliman Ndiaye (EVE)"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3999191312
+        ],
+        [
+          3976120978
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191312
+        ],
+        [
+          3976120978
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:588061|4",
+      "id": 3976120978,
+      "name": "Goalscorer - Kiernan Dewsbury-Hall (EVE)"
+    },
+    {
+      "shortName": "Tyrique George",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3999191320
+        ],
+        [
+          3976041562
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191320
+        ],
+        [
+          3976041562
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:402774|4",
+      "id": 3976041562,
+      "name": "Goalscorer - Tyrique George (EVE)"
+    },
+    {
+      "shortName": "Wilson Isidor",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3999191310
+        ],
+        [
+          3976192147
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191310
+        ],
+        [
+          3976192147
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:414284|4",
+      "id": 3976192147,
+      "name": "Goalscorer - Wilson Isidor (SUN)"
+    },
+    {
+      "shortName": "Dwight McNeil",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3999212352
+        ],
+        [
+          3976084547
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212352
+        ],
+        [
+          3976084547
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:283|4",
+      "id": 3976084547,
+      "name": "Goalscorer - Dwight McNeil (EVE)"
+    },
+    {
+      "shortName": "Chemsdine Talbi",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3999191319
+        ],
+        [
+          3976075356
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191319
+        ],
+        [
+          3976075356
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:13102|4",
+      "id": 3976075356,
+      "name": "Goalscorer - Chemsdine Talbi (SUN)"
+    },
+    {
+      "shortName": "Michael Keane",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3999191304
+        ],
+        [
+          3976186660
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191304
+        ],
+        [
+          3976186660
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:282|4",
+      "id": 3976186660,
+      "name": "Goalscorer - Michael Keane (EVE)"
+    },
+    {
+      "shortName": "Diarra Mouhamadou",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3999191317
+        ],
+        [
+          3976190502
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191317
+        ],
+        [
+          3976190502
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2364|4",
+      "id": 3976190502,
+      "name": "Goalscorer - Diarra Mouhamadou (SUN)"
+    },
+    {
+      "shortName": "Chris Rigg",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3999191318
+        ],
+        [
+          3976120483
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191318
+        ],
+        [
+          3976120483
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:532704|4",
+      "id": 3976120483,
+      "name": "Goalscorer - Chris Rigg (SUN)"
+    },
+    {
+      "shortName": "James Garner",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3999191311
+        ],
+        [
+          3976095555
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191311
+        ],
+        [
+          3976095555
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:294|4",
+      "id": 3976095555,
+      "name": "Goalscorer - James Garner (EVE)"
+    },
+    {
+      "shortName": "Nordi Mukiele",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3999191306
+        ],
+        [
+          3976208748
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191306
+        ],
+        [
+          3976208748
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:147|4",
+      "id": 3976208748,
+      "name": "Goalscorer - Nordi Mukiele (SUN)"
+    },
+    {
+      "shortName": "James Tarkowski",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3999191303
+        ],
+        [
+          3975951735
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191303
+        ],
+        [
+          3975951735
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:276|4",
+      "id": 3975951735,
+      "name": "Goalscorer - James Tarkowski (EVE)"
+    },
+    {
+      "shortName": "Granit Xhaka",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3999191302
+        ],
+        [
+          3976093048
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191302
+        ],
+        [
+          3976093048
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:501|4",
+      "id": 3976093048,
+      "name": "Goalscorer - Granit Xhaka (SUN)"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3999191308
+        ],
+        [
+          3976179869
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191308
+        ],
+        [
+          3976179869
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:289|4",
+      "id": 3976179869,
+      "name": "Goalscorer - Vitaliy Mykolenko (EVE)"
+    },
+    {
+      "shortName": "Seamus Coleman",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3999212742
+        ],
+        [
+          3976128665
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212742
+        ],
+        [
+          3976128665
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:288|4",
+      "id": 3976128665,
+      "name": "Goalscorer - Seamus Coleman (EVE)"
+    },
+    {
+      "shortName": "Luke Terry O'nien",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3999191305
+        ],
+        [
+          3976107614
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191305
+        ],
+        [
+          3976107614
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:579786|4",
+      "id": 3976107614,
+      "name": "Goalscorer - Luke Terry O'nien (SUN)"
+    },
+    {
+      "shortName": "Reinildo Mandava",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3999191307
+        ],
+        [
+          3976110062
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191307
+        ],
+        [
+          3976110062
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1571|4",
+      "id": 3976110062,
+      "name": "Goalscorer - Reinildo Mandava (SUN)"
+    },
+    {
+      "shortName": "Lutsharel Geertruida",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3999191309
+        ],
+        [
+          3976082637
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191309
+        ],
+        [
+          3976082637
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:8624|4",
+      "id": 3976082637,
+      "name": "Goalscorer - Lutsharel Geertruida (SUN)"
+    },
+    {
+      "shortName": "Enzo Le Fee",
+      "childName": "Enzo Le Fee",
+      "desktopOddIds": [
+        [
+          3999191313
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999191313
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "4|1118101",
+      "id": 3999191313,
+      "name": "Goalscorer - Enzo Le Fee (SUN)"
+    },
+    {
+      "shortName": "Enzo Le Fee",
+      "childName": "Enzo Le Fee",
+      "desktopOddIds": [
+        [
+          3998749956
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749956
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1118101",
+      "id": 3998749956,
+      "name": "Multi Scorers Enzo Le Fee"
+    },
+    {
+      "shortName": "Thierno Barry",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3999164075
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999164075
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1516983",
+      "id": 3999164075,
+      "name": "Multi Scorers Thierno Barry"
+    },
+    {
+      "shortName": "Wilson Isidor",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3999178162
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999178162
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1063702",
+      "id": 3999178162,
+      "name": "Multi Scorers Wilson Isidor"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3998749954
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749954
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1068343",
+      "id": 3998749954,
+      "name": "Multi Scorers Kiernan Dewsbury-Hall"
+    },
+    {
+      "shortName": "Iliman Ndiaye",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3998749961
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749961
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1259876",
+      "id": 3998749961,
+      "name": "Multi Scorers Iliman Ndiaye"
+    },
+    {
+      "shortName": "Tyrique George",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3999163197
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163197
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1425614",
+      "id": 3999163197,
+      "name": "Multi Scorers Tyrique George"
+    },
+    {
+      "shortName": "Dwight McNeil",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3999212351
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212351
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1055025",
+      "id": 3999212351,
+      "name": "Multi Scorers Dwight McNeil"
+    },
+    {
+      "shortName": "Chemsdine Talbi",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3999123379
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999123379
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1388946",
+      "id": 3999123379,
+      "name": "Multi Scorers Chemsdine Talbi"
+    },
+    {
+      "shortName": "Michael Keane",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3998749948
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749948
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "575385",
+      "id": 3998749948,
+      "name": "Multi Scorers Michael Keane"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3998749951
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749951
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1002555",
+      "id": 3998749951,
+      "name": "Multi Scorers Vitaliy Mykolenko"
+    },
+    {
+      "shortName": "Lutsharel Geertruida",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3998749952
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749952
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1021794",
+      "id": 3998749952,
+      "name": "Multi Scorers Lutsharel Geertruida"
+    },
+    {
+      "shortName": "James Garner",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3998749953
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749953
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1065659",
+      "id": 3998749953,
+      "name": "Multi Scorers James Garner"
+    },
+    {
+      "shortName": "Diarra Mouhamadou",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3999178955
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999178955
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1298830",
+      "id": 3999178955,
+      "name": "Multi Scorers Diarra Mouhamadou"
+    },
+    {
+      "shortName": "Chris Rigg",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3999177557
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999177557
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1358776",
+      "id": 3999177557,
+      "name": "Multi Scorers Chris Rigg"
+    },
+    {
+      "shortName": "Seamus Coleman",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3999212741
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999212741
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "501209",
+      "id": 3999212741,
+      "name": "Multi Scorers Seamus Coleman"
+    },
+    {
+      "shortName": "Granit Xhaka",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3998749946
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749946
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "533777",
+      "id": 3998749946,
+      "name": "Multi Scorers Granit Xhaka"
+    },
+    {
+      "shortName": "James Tarkowski",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3998749947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749947
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "552207",
+      "id": 3998749947,
+      "name": "Multi Scorers James Tarkowski"
+    },
+    {
+      "shortName": "Luke Terry O'nien",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3998859789
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998859789
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "754151",
+      "id": 3998859789,
+      "name": "Multi Scorers Luke Terry O'nien"
+    },
+    {
+      "shortName": "Nordi Mukiele",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3998749949
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749949
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "805755",
+      "id": 3998749949,
+      "name": "Multi Scorers Nordi Mukiele"
+    },
+    {
+      "shortName": "Reinildo Mandava",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3998749950
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998749950
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "932434",
+      "id": 3998749950,
+      "name": "Multi Scorers Reinildo Mandava"
+    },
+    {
+      "shortName": "Chemsdine Talbi",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3986845838
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986845838
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:13102",
+      "id": 1568807744,
+      "name": "Chemsdine Talbi (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Diarra Mouhamadou",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3986862982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986862982
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:2364",
+      "id": 1568812103,
+      "name": "Diarra Mouhamadou (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Dwight McNeil",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3986834613
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986834613
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:283",
+      "id": 1568804609,
+      "name": "Dwight McNeil (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Granit Xhaka",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3986843596
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986843596
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:501",
+      "id": 1568807207,
+      "name": "Granit Xhaka (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Iliman Ndiaye",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3986747708
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986747708
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:314517",
+      "id": 1568781015,
+      "name": "Iliman Ndiaye (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "James Garner",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3986823798
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986823798
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:294",
+      "id": 1568801499,
+      "name": "James Garner (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "James Tarkowski",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3986743577
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986743577
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:276",
+      "id": 1568780080,
+      "name": "James Tarkowski (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3986795526
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986795526
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:588061",
+      "id": 1568793558,
+      "name": "Kiernan Dewsbury-Hall (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Luke Terry O'nien",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3986844329
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986844329
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:579786",
+      "id": 1568807392,
+      "name": "Luke Terry O'nien (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Lutsharel Geertruida",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3986810040
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986810040
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:8624",
+      "id": 1568798284,
+      "name": "Lutsharel Geertruida (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Nordi Mukiele",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3986872248
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986872248
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:147",
+      "id": 1568814341,
+      "name": "Nordi Mukiele (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Reinildo Mandava",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3986837237
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986837237
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:1571",
+      "id": 1568805443,
+      "name": "Reinildo Mandava (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Seamus Coleman",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3986794752
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986794752
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:288",
+      "id": 1568793338,
+      "name": "Seamus Coleman (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Thierno Barry",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3986823824
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986823824
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:410066",
+      "id": 1568801524,
+      "name": "Thierno Barry (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Tyrique George",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3986797925
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986797925
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:402774",
+      "id": 1568794206,
+      "name": "Tyrique George (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3986892432
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986892432
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:289",
+      "id": 1568819035,
+      "name": "Vitaliy Mykolenko (EVE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Wilson Isidor",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3986856345
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986856345
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:414284",
+      "id": 1568810448,
+      "name": "Wilson Isidor (SUN) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Chemsdine Talbi (SUN)",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3986809922
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986809922
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:13102",
+      "id": 1568798234,
+      "name": "Shots on Goal - Chemsdine Talbi (SUN)"
+    },
+    {
+      "shortName": "Chris Rigg (SUN)",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3986860270
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986860270
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:532704",
+      "id": 1568811402,
+      "name": "Shots on Goal - Chris Rigg (SUN)"
+    },
+    {
+      "shortName": "Diarra Mouhamadou (SUN)",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3986902154
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986902154
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:2364",
+      "id": 1568821424,
+      "name": "Shots on Goal - Diarra Mouhamadou (SUN)"
+    },
+    {
+      "shortName": "Dwight McNeil (EVE)",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3986714678
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986714678
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:283",
+      "id": 1568773006,
+      "name": "Shots on Goal - Dwight McNeil (EVE)"
+    },
+    {
+      "shortName": "Enzo Le Fee (SUN)",
+      "childName": "Enzo Le Fee",
+      "desktopOddIds": [
+        [
+          3986849869
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986849869
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:2430",
+      "id": 1568808729,
+      "name": "Shots on Goal - Enzo Le Fee (SUN)"
+    },
+    {
+      "shortName": "Granit Xhaka (SUN)",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3986808860
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986808860
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:501",
+      "id": 1568797943,
+      "name": "Shots on Goal - Granit Xhaka (SUN)"
+    },
+    {
+      "shortName": "Iliman Ndiaye (EVE)",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3986906878
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986906878
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:314517",
+      "id": 1568822726,
+      "name": "Shots on Goal - Iliman Ndiaye (EVE)"
+    },
+    {
+      "shortName": "James Garner (EVE)",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3986892483
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986892483
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:294",
+      "id": 1568819071,
+      "name": "Shots on Goal - James Garner (EVE)"
+    },
+    {
+      "shortName": "James Tarkowski (EVE)",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3986908074
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986908074
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:276",
+      "id": 1568823010,
+      "name": "Shots on Goal - James Tarkowski (EVE)"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall (EVE)",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3986834424
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986834424
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:588061",
+      "id": 1568804520,
+      "name": "Shots on Goal - Kiernan Dewsbury-Hall (EVE)"
+    },
+    {
+      "shortName": "Luke Terry O'nien (SUN)",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3986895902
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986895902
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:579786",
+      "id": 1568819670,
+      "name": "Shots on Goal - Luke Terry O'nien (SUN)"
+    },
+    {
+      "shortName": "Lutsharel Geertruida (SUN)",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3986806681
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986806681
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:8624",
+      "id": 1568797350,
+      "name": "Shots on Goal - Lutsharel Geertruida (SUN)"
+    },
+    {
+      "shortName": "Michael Keane (EVE)",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3986807523
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986807523
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:282",
+      "id": 1568797582,
+      "name": "Shots on Goal - Michael Keane (EVE)"
+    },
+    {
+      "shortName": "Reinildo Mandava (SUN)",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3986899846
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986899846
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:1571",
+      "id": 1568820799,
+      "name": "Shots on Goal - Reinildo Mandava (SUN)"
+    },
+    {
+      "shortName": "Seamus Coleman (EVE)",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3986791674
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986791674
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:288",
+      "id": 1568792291,
+      "name": "Shots on Goal - Seamus Coleman (EVE)"
+    },
+    {
+      "shortName": "Thierno Barry (EVE)",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3986794630
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986794630
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:410066",
+      "id": 1568793265,
+      "name": "Shots on Goal - Thierno Barry (EVE)"
+    },
+    {
+      "shortName": "Tyrique George (EVE)",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3986798841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986798841
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:402774",
+      "id": 1568794578,
+      "name": "Shots on Goal - Tyrique George (EVE)"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko (EVE)",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3986810983
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986810983
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:289",
+      "id": 1568798543,
+      "name": "Shots on Goal - Vitaliy Mykolenko (EVE)"
+    },
+    {
+      "shortName": "Wilson Isidor (SUN)",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3986898410
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986898410
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:414284",
+      "id": 1568820407,
+      "name": "Shots on Goal - Wilson Isidor (SUN)"
+    },
+    {
+      "shortName": "Chemsdine Talbi (SUN)",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3986800000
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986800000
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:13102",
+      "id": 1568794980,
+      "name": "Shots - Chemsdine Talbi (SUN)"
+    },
+    {
+      "shortName": "Chris Rigg (SUN)",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3986804546
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986804546
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:532704",
+      "id": 1568796490,
+      "name": "Shots - Chris Rigg (SUN)"
+    },
+    {
+      "shortName": "Diarra Mouhamadou (SUN)",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3986804151
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986804151
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:2364",
+      "id": 1568796361,
+      "name": "Shots - Diarra Mouhamadou (SUN)"
+    },
+    {
+      "shortName": "Dwight McNeil (EVE)",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3986816796,
+          3999212722
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986816796,
+          3999212722
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:283",
+      "id": 1568799850,
+      "name": "Shots - Dwight McNeil (EVE)"
+    },
+    {
+      "shortName": "Enzo Le Fee (SUN)",
+      "childName": "Enzo Le Fee",
+      "desktopOddIds": [
+        [
+          3986833019
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986833019
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:2430",
+      "id": 1568804199,
+      "name": "Shots - Enzo Le Fee (SUN)"
+    },
+    {
+      "shortName": "Granit Xhaka (SUN)",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3986864222
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986864222
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:501",
+      "id": 1568812420,
+      "name": "Shots - Granit Xhaka (SUN)"
+    },
+    {
+      "shortName": "Iliman Ndiaye (EVE)",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3986836987,
+          3986836986
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986836987,
+          3986836986
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:314517",
+      "id": 1568805358,
+      "name": "Shots - Iliman Ndiaye (EVE)"
+    },
+    {
+      "shortName": "James Garner (EVE)",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3986817559,
+          3986817561
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986817559,
+          3986817561
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:294",
+      "id": 1568800006,
+      "name": "Shots - James Garner (EVE)"
+    },
+    {
+      "shortName": "James Tarkowski (EVE)",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3986790611
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986790611
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:276",
+      "id": 1568791912,
+      "name": "Shots - James Tarkowski (EVE)"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall (EVE)",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3986805077,
+          3986805079
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986805077,
+          3986805079
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:588061",
+      "id": 1568796730,
+      "name": "Shots - Kiernan Dewsbury-Hall (EVE)"
+    },
+    {
+      "shortName": "Luke Terry O'nien (SUN)",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3986838893
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986838893
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:579786",
+      "id": 1568805865,
+      "name": "Shots - Luke Terry O'nien (SUN)"
+    },
+    {
+      "shortName": "Lutsharel Geertruida (SUN)",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3986859560
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986859560
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:8624",
+      "id": 1568811252,
+      "name": "Shots - Lutsharel Geertruida (SUN)"
+    },
+    {
+      "shortName": "Michael Keane (EVE)",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3986731476
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986731476
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:282",
+      "id": 1568777127,
+      "name": "Shots - Michael Keane (EVE)"
+    },
+    {
+      "shortName": "Nordi Mukiele (SUN)",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3986896947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986896947
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:147",
+      "id": 1568820030,
+      "name": "Shots - Nordi Mukiele (SUN)"
+    },
+    {
+      "shortName": "Reinildo Mandava (SUN)",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3986802207
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986802207
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:1571",
+      "id": 1568795681,
+      "name": "Shots - Reinildo Mandava (SUN)"
+    },
+    {
+      "shortName": "Seamus Coleman (EVE)",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3986883857
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986883857
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:288",
+      "id": 1568817029,
+      "name": "Shots - Seamus Coleman (EVE)"
+    },
+    {
+      "shortName": "Thierno Barry (EVE)",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3999164493,
+          3986810273
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999164493,
+          3986810273
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:410066",
+      "id": 1572768161,
+      "name": "Shots - Thierno Barry (EVE)"
+    },
+    {
+      "shortName": "Tyrique George (EVE)",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3999163754,
+          3986794358
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163754,
+          3986794358
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:402774",
+      "id": 1572767851,
+      "name": "Shots - Tyrique George (EVE)"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko (EVE)",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3986712051
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986712051
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:289",
+      "id": 1568772276,
+      "name": "Shots - Vitaliy Mykolenko (EVE)"
+    },
+    {
+      "shortName": "Wilson Isidor (SUN)",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3986803636,
+          3999178513
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986803636,
+          3999178513
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:414284",
+      "id": 1568796213,
+      "name": "Shots - Wilson Isidor (SUN)"
+    },
+    {
+      "shortName": "Chemsdine Talbi (SUN)",
+      "childName": "Chemsdine Talbi",
+      "desktopOddIds": [
+        [
+          3986845661
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986845661
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:13102",
+      "id": 1568807689,
+      "name": "Assists - Chemsdine Talbi (SUN)"
+    },
+    {
+      "shortName": "Chris Rigg (SUN)",
+      "childName": "Chris Rigg",
+      "desktopOddIds": [
+        [
+          3999198301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999198301
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "1.5|ws:player:532704",
+      "id": 1572782599,
+      "name": "Assists - Chris Rigg (SUN)"
+    },
+    {
+      "shortName": "Diarra Mouhamadou (SUN)",
+      "childName": "Diarra Mouhamadou",
+      "desktopOddIds": [
+        [
+          3986862908
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986862908
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:2364",
+      "id": 1568812085,
+      "name": "Assists - Diarra Mouhamadou (SUN)"
+    },
+    {
+      "shortName": "Dwight McNeil (EVE)",
+      "childName": "Dwight McNeil",
+      "desktopOddIds": [
+        [
+          3986834570
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986834570
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:283",
+      "id": 1568804596,
+      "name": "Assists - Dwight McNeil (EVE)"
+    },
+    {
+      "shortName": "Enzo Le Fee (SUN)",
+      "childName": "Enzo Le Fee",
+      "desktopOddIds": [
+        [
+          3999126616
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999126616
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "1.5|ws:player:2430",
+      "id": 1572752514,
+      "name": "Assists - Enzo Le Fee (SUN)"
+    },
+    {
+      "shortName": "Granit Xhaka (SUN)",
+      "childName": "Granit Xhaka",
+      "desktopOddIds": [
+        [
+          3986843593
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986843593
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:501",
+      "id": 1568807204,
+      "name": "Assists - Granit Xhaka (SUN)"
+    },
+    {
+      "shortName": "Iliman Ndiaye (EVE)",
+      "childName": "Iliman Ndiaye",
+      "desktopOddIds": [
+        [
+          3986747494
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986747494
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:314517",
+      "id": 1568780969,
+      "name": "Assists - Iliman Ndiaye (EVE)"
+    },
+    {
+      "shortName": "James Garner (EVE)",
+      "childName": "James Garner",
+      "desktopOddIds": [
+        [
+          3986823795
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986823795
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:294",
+      "id": 1568801496,
+      "name": "Assists - James Garner (EVE)"
+    },
+    {
+      "shortName": "James Tarkowski (EVE)",
+      "childName": "James Tarkowski",
+      "desktopOddIds": [
+        [
+          3986743574
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986743574
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:276",
+      "id": 1568780077,
+      "name": "Assists - James Tarkowski (EVE)"
+    },
+    {
+      "shortName": "Kiernan Dewsbury-Hall (EVE)",
+      "childName": "Kiernan Dewsbury-Hall",
+      "desktopOddIds": [
+        [
+          3986795523
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986795523
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:588061",
+      "id": 1568793555,
+      "name": "Assists - Kiernan Dewsbury-Hall (EVE)"
+    },
+    {
+      "shortName": "Luke Terry O'nien (SUN)",
+      "childName": "Luke Terry O'nien",
+      "desktopOddIds": [
+        [
+          3986844324
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986844324
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:579786",
+      "id": 1568807387,
+      "name": "Assists - Luke Terry O'nien (SUN)"
+    },
+    {
+      "shortName": "Lutsharel Geertruida (SUN)",
+      "childName": "Lutsharel Geertruida",
+      "desktopOddIds": [
+        [
+          3986810037
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986810037
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:8624",
+      "id": 1568798281,
+      "name": "Assists - Lutsharel Geertruida (SUN)"
+    },
+    {
+      "shortName": "Michael Keane (EVE)",
+      "childName": "Michael Keane",
+      "desktopOddIds": [
+        [
+          3998970423
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998970423
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "1.5|ws:player:282",
+      "id": 1572697664,
+      "name": "Assists - Michael Keane (EVE)"
+    },
+    {
+      "shortName": "Nordi Mukiele (SUN)",
+      "childName": "Nordi Mukiele",
+      "desktopOddIds": [
+        [
+          3986872046
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986872046
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:147",
+      "id": 1568814298,
+      "name": "Assists - Nordi Mukiele (SUN)"
+    },
+    {
+      "shortName": "Reinildo Mandava (SUN)",
+      "childName": "Reinildo Mandava",
+      "desktopOddIds": [
+        [
+          3986837193
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986837193
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:1571",
+      "id": 1568805417,
+      "name": "Assists - Reinildo Mandava (SUN)"
+    },
+    {
+      "shortName": "Seamus Coleman (EVE)",
+      "childName": "Seamus Coleman",
+      "desktopOddIds": [
+        [
+          3986794749
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986794749
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:288",
+      "id": 1568793335,
+      "name": "Assists - Seamus Coleman (EVE)"
+    },
+    {
+      "shortName": "Thierno Barry (EVE)",
+      "childName": "Thierno Barry",
+      "desktopOddIds": [
+        [
+          3986823811
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986823811
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:410066",
+      "id": 1568801515,
+      "name": "Assists - Thierno Barry (EVE)"
+    },
+    {
+      "shortName": "Tyrique George (EVE)",
+      "childName": "Tyrique George",
+      "desktopOddIds": [
+        [
+          3986797922
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986797922
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:402774",
+      "id": 1568794203,
+      "name": "Assists - Tyrique George (EVE)"
+    },
+    {
+      "shortName": "Vitaliy Mykolenko (EVE)",
+      "childName": "Vitaliy Mykolenko",
+      "desktopOddIds": [
+        [
+          3986892430
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986892430
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43692,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:289",
+      "id": 1568819033,
+      "name": "Assists - Vitaliy Mykolenko (EVE)"
+    },
+    {
+      "shortName": "Wilson Isidor (SUN)",
+      "childName": "Wilson Isidor",
+      "desktopOddIds": [
+        [
+          3986856341
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986856341
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43974,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:414284",
+      "id": 1568810444,
+      "name": "Assists - Wilson Isidor (SUN)"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676943,
+      "name": "Everton"
+    },
+    {
+      "typeId": 2,
+      "price": 5.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676944,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676945,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 9,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676888,
+      "name": "Everton or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676886,
+      "name": "Everton or Sunderland"
+    },
+    {
+      "typeId": 11,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676887,
+      "name": "Draw or Sunderland"
+    },
+    {
+      "typeId": 12,
+      "price": 3.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3929676752,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 12,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isDBB": true,
+      "id": 3929676754,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3929676753,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isDBB": true,
+      "id": 3929676755,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 1,
+      "price": 4.2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4",
+      "competitorId": 43692,
+      "id": 3999193938,
+      "name": "Everton"
+    },
+    {
+      "typeId": 7,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4",
+      "id": 3999193940,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 10,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4",
+      "competitorId": 43974,
+      "id": 3999193939,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 144,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676837,
+      "name": "3:2"
+    },
+    {
+      "typeId": 146,
+      "price": 301,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676838,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676846,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676836,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 251,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676842,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676848,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676849,
+      "name": "Other"
+    },
+    {
+      "typeId": 140,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676835,
+      "name": "1:2"
+    },
+    {
+      "typeId": 150,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676840,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676841,
+      "name": "2:3"
+    },
+    {
+      "typeId": 158,
+      "price": 151,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676844,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676845,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929676847,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "+1.5",
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676688,
+      "name": "Everton (+1.5)"
+    },
+    {
+      "typeId": 1714,
+      "price": 4.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676686,
+      "name": "Everton (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "+1.5",
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676689,
+      "name": "Sunderland (-1.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.1819,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676687,
+      "name": "Sunderland (-0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 43692,
+      "id": 3929677112,
+      "name": "Everton (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 1.2353,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3929677113,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 43974,
+      "id": 3929677114,
+      "name": "Sunderland (1:0)"
+    },
+    {
+      "typeId": 1,
+      "price": 3.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43692,
+      "id": 3929677431,
+      "name": "Everton"
+    },
+    {
+      "typeId": 7,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3929677433,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43974,
+      "id": 3929677432,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 12,
+      "price": 4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3929676726,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.1905,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3929676727,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3929676734,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3929676735,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929678145,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929678146,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3929678151,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3929678152,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3929678153,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.0556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3929678154,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676943,
+      "name": "Everton"
+    },
+    {
+      "typeId": 2,
+      "price": 5.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676944,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676945,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 12,
+      "price": 3.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676752,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 12,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676754,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676753,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676755,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 9,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676888,
+      "name": "Everton or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676886,
+      "name": "Everton or Sunderland"
+    },
+    {
+      "typeId": 11,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676887,
+      "name": "Draw or Sunderland"
+    },
+    {
+      "typeId": 1714,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "+1.5",
+      "isBB": true,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676688,
+      "name": "Everton (+1.5)"
+    },
+    {
+      "typeId": 1714,
+      "price": 4.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 43692,
+      "isDBB": true,
+      "id": 3929676686,
+      "name": "Everton (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "+1.5",
+      "isBB": true,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676689,
+      "name": "Sunderland (-1.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.1819,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 43974,
+      "isDBB": true,
+      "id": 3929676687,
+      "name": "Sunderland (-0.5)"
+    },
+    {
+      "typeId": 12,
+      "price": 4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676726,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.1905,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676727,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676734,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676735,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929678145,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929678146,
+      "name": "Even"
+    },
+    {
+      "typeId": 144,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676837,
+      "name": "3:2"
+    },
+    {
+      "typeId": 146,
+      "price": 301,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676838,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676846,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676836,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 251,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676842,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676848,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676849,
+      "name": "Other"
+    },
+    {
+      "typeId": 140,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676835,
+      "name": "1:2"
+    },
+    {
+      "typeId": 150,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676840,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676841,
+      "name": "2:3"
+    },
+    {
+      "typeId": 158,
+      "price": 151,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676844,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676845,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 351,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929676847,
+      "name": "3:4"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "88:00|88:59",
+      "iconName": "goal",
+      "id": 3999205879,
+      "name": "Goal"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 3994145225,
+      "name": "Over 5.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "id": 3989095916,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "7.5",
+      "id": 3983778532,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 3994145226,
+      "name": "Under 5.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "id": 3989095917,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7.5",
+      "id": 3983778533,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3998793661,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.85,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3998793662,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3995329688,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2728,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3995329689,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 1,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5",
+      "competitorId": 43692,
+      "id": 3989095939,
+      "name": "Everton"
+    },
+    {
+      "typeId": 7,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5",
+      "id": 3989095941,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5",
+      "competitorId": 43974,
+      "id": 3989095940,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 1,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "7",
+      "competitorId": 43692,
+      "id": 3989095942,
+      "name": "Everton"
+    },
+    {
+      "typeId": 7,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7",
+      "id": 3989095944,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "7",
+      "competitorId": 43974,
+      "id": 3989095943,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 72,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750286,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750287,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750284,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750285,
+      "name": "Odd"
+    },
+    {
+      "typeId": 70,
+      "price": 1.6334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983778518,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983778519,
+      "name": "Even"
+    },
+    {
+      "typeId": 12,
+      "price": 1.825,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3994145207,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.825,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3994145208,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 54,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750421,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750422,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 1.65,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750423,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750424,
+      "name": "3"
+    },
+    {
+      "typeId": 714,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750426,
+      "name": "5"
+    },
+    {
+      "typeId": 718,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750428,
+      "name": "7"
+    },
+    {
+      "typeId": 712,
+      "price": 5.3,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750425,
+      "name": "4"
+    },
+    {
+      "typeId": 716,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998750427,
+      "name": "6"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43692,
+      "id": 3986796855,
+      "name": "Everton"
+    },
+    {
+      "typeId": 2,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3986796856,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "id": 3986796857,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43692,
+      "id": 3986861851,
+      "name": "Everton"
+    },
+    {
+      "typeId": 2,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3986861852,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "id": 3986861853,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 1,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43692,
+      "id": 3996880499,
+      "name": "Everton"
+    },
+    {
+      "typeId": 2,
+      "price": 1.13,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996880500,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "id": 3996880501,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 2,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996879039,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "id": 3996879040,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43692,
+      "id": 3996879038,
+      "name": "Everton"
+    },
+    {
+      "typeId": 1,
+      "price": 1.19,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43692,
+      "id": 3996883867,
+      "name": "Everton"
+    },
+    {
+      "typeId": 3,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43974,
+      "id": 3996883869,
+      "name": "Sunderland"
+    },
+    {
+      "typeId": 2,
+      "price": 7,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996883868,
+      "name": "Draw"
+    },
+    {
+      "typeId": 12,
+      "price": 1.42,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5",
+      "id": 3986861873,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.45,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5",
+      "id": 3986861874,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7.5",
+      "id": 3986861875,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7.5",
+      "id": 3986861876,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.9,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "4.5|247",
+      "id": 3986861856,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.72,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "4.5|247",
+      "id": 3986861857,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 12,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "5.5|247",
+      "id": 3986861860,
+      "name": "Over 5.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.08,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "5.5|247",
+      "id": 3986861861,
+      "name": "Under 5.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.2,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|21746",
+      "id": 3986803094,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.25,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|21746",
+      "id": 3986803095,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.16,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "16.5",
+      "id": 3999170782,
+      "name": "Over 16.5"
+    },
+    {
+      "typeId": 13,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "16.5",
+      "id": 3999170783,
+      "name": "Under 16.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "17.5",
+      "id": 3999107779,
+      "name": "Over 17.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "17.5",
+      "id": 3999107780,
+      "name": "Under 17.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.45,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "18.5",
+      "id": 3999080595,
+      "name": "Over 18.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.42,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "18.5",
+      "id": 3999080596,
+      "name": "Under 18.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.55,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|247",
+      "id": 3998844944,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.15,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|247",
+      "id": 3998844945,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.55,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "11.5|247",
+      "id": 3998753528,
+      "name": "Over 11.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "11.5|247",
+      "id": 3998753529,
+      "name": "Under 11.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5|21746",
+      "id": 3999155237,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5|21746",
+      "id": 3999155238,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7.5|21746",
+      "id": 3998770821,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "7.5|21746",
+      "id": 3998770822,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.6,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999105677,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999105678,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|247",
+      "id": 3998862616,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.06,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|247",
+      "id": 3998862617,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7.5,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|21746",
+      "id": 3998820967,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.03,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|21746",
+      "id": 3998820968,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.78,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "23.5",
+      "id": 3999078956,
+      "name": "Over 23.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.78,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "23.5",
+      "id": 3999078957,
+      "name": "Under 23.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.7,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "13.5|247",
+      "id": 3999072255,
+      "name": "Over 13.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "13.5|247",
+      "id": 3999072256,
+      "name": "Under 13.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.15,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|21746",
+      "id": 3996879023,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|21746",
+      "id": 3996879024,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "27.5",
+      "id": 3999126577,
+      "name": "Over 27.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "27.5",
+      "id": 3999126578,
+      "name": "Under 27.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.82,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "14.5|247",
+      "id": 3999114154,
+      "name": "Over 14.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.78,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "14.5|247",
+      "id": 3999114155,
+      "name": "Under 14.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.58,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "12.5|21746",
+      "id": 3999144766,
+      "name": "Over 12.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "12.5|21746",
+      "id": 3999144767,
+      "name": "Under 12.5"
+    },
+    {
+      "typeId": 2090,
+      "price": 13,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:410066|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191321,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 8.5,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:410066|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976099569,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:314517|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191315,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:314517|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976073600,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:588061|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191312,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:588061|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976120978,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 17,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:402774|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191320,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 13,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:402774|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976041562,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:414284|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191310,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 13,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:414284|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976192147,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:283|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999212352,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:283|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976084547,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:13102|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191319,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:13102|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976075356,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 27,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:282|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191304,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:282|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976186660,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2364|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191317,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2364|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976190502,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:532704|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191318,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:532704|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976120483,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 35,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:294|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191311,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:294|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976095555,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 37,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:147|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191306,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:147|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976208748,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:276|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191303,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:276|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3975951735,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:501|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191302,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:501|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976093048,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 45,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:289|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191308,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:289|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976179869,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:288|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999212742,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:288|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976128665,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:579786|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191305,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:579786|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976107614,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1571|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191307,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1571|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976110062,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:8624|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999191309,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:8624|4",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976082637,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2101,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1516983",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999164075,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1063702",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999178162,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1068343",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749954,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1259876",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749961,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1425614",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999163197,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1055025",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999212351,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1388946",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999123379,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "575385",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749948,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1002555",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749951,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1021794",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749952,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1065659",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749953,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1298830",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999178955,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1358776",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999177557,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "501209",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999212741,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "533777",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749946,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "552207",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749947,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "754151",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998859789,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "805755",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749949,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "932434",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998749950,
+      "name": "2+"
+    },
+    {
+      "typeId": 2090,
+      "price": 13,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:410066|4",
+      "isDBB": true,
+      "id": 3999191321,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:410066|4",
+      "isDBB": true,
+      "id": 3976099569,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:314517|4",
+      "isDBB": true,
+      "id": 3999191315,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:314517|4",
+      "isDBB": true,
+      "id": 3976073600,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:588061|4",
+      "isDBB": true,
+      "id": 3999191312,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:588061|4",
+      "isDBB": true,
+      "id": 3976120978,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:402774|4",
+      "isDBB": true,
+      "id": 3999191320,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 13,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:402774|4",
+      "isDBB": true,
+      "id": 3976041562,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:414284|4",
+      "isDBB": true,
+      "id": 3999191310,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 13,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:414284|4",
+      "isDBB": true,
+      "id": 3976192147,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:283|4",
+      "isDBB": true,
+      "id": 3999212352,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:283|4",
+      "isDBB": true,
+      "id": 3976084547,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:13102|4",
+      "isDBB": true,
+      "id": 3999191319,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:13102|4",
+      "isDBB": true,
+      "id": 3976075356,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 27,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:282|4",
+      "isDBB": true,
+      "id": 3999191304,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:282|4",
+      "isDBB": true,
+      "id": 3976186660,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2364|4",
+      "isDBB": true,
+      "id": 3999191317,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2364|4",
+      "isDBB": true,
+      "id": 3976190502,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:532704|4",
+      "isDBB": true,
+      "id": 3999191318,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:532704|4",
+      "isDBB": true,
+      "id": 3976120483,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 35,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:294|4",
+      "isDBB": true,
+      "id": 3999191311,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:294|4",
+      "isDBB": true,
+      "id": 3976095555,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 37,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:147|4",
+      "isDBB": true,
+      "id": 3999191306,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:147|4",
+      "isDBB": true,
+      "id": 3976208748,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:276|4",
+      "isDBB": true,
+      "id": 3999191303,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:276|4",
+      "isDBB": true,
+      "id": 3975951735,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:501|4",
+      "isDBB": true,
+      "id": 3999191302,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:501|4",
+      "isDBB": true,
+      "id": 3976093048,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 45,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:289|4",
+      "isDBB": true,
+      "id": 3999191308,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:289|4",
+      "isDBB": true,
+      "id": 3976179869,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:288|4",
+      "isDBB": true,
+      "id": 3999212742,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:288|4",
+      "isDBB": true,
+      "id": 3976128665,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:579786|4",
+      "isDBB": true,
+      "id": 3999191305,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:579786|4",
+      "isDBB": true,
+      "id": 3976107614,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1571|4",
+      "isDBB": true,
+      "id": 3999191307,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1571|4",
+      "isDBB": true,
+      "id": 3976110062,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:8624|4",
+      "isDBB": true,
+      "id": 3999191309,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:8624|4",
+      "isDBB": true,
+      "id": 3976082637,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "4|1118101",
+      "isDBB": true,
+      "id": 3999191313,
+      "name": "Fourth"
+    },
+    {
+      "typeId": 2101,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1118101",
+      "isDBB": true,
+      "id": 3998749956,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1516983",
+      "isDBB": true,
+      "id": 3999164075,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1063702",
+      "isDBB": true,
+      "id": 3999178162,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1068343",
+      "isDBB": true,
+      "id": 3998749954,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1259876",
+      "isDBB": true,
+      "id": 3998749961,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1425614",
+      "isDBB": true,
+      "id": 3999163197,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1055025",
+      "isDBB": true,
+      "id": 3999212351,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1388946",
+      "isDBB": true,
+      "id": 3999123379,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "575385",
+      "isDBB": true,
+      "id": 3998749948,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1002555",
+      "isDBB": true,
+      "id": 3998749951,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1021794",
+      "isDBB": true,
+      "id": 3998749952,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1065659",
+      "isDBB": true,
+      "id": 3998749953,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1298830",
+      "isDBB": true,
+      "id": 3999178955,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1358776",
+      "isDBB": true,
+      "id": 3999177557,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "501209",
+      "isDBB": true,
+      "id": 3999212741,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "533777",
+      "isDBB": true,
+      "id": 3998749946,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "552207",
+      "isDBB": true,
+      "id": 3998749947,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "754151",
+      "isDBB": true,
+      "id": 3998859789,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "805755",
+      "isDBB": true,
+      "id": 3998749949,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "932434",
+      "isDBB": true,
+      "id": 3998749950,
+      "name": "2+"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986845838,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986862982,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986834613,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986843596,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986747708,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986823798,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986743577,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986795526,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986844329,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986810040,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986872248,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986837237,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986794752,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986823824,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986797925,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986892432,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986856345,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986809922,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986860270,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986902154,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986714678,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986849869,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986808860,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986906878,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986892483,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986908074,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986834424,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986895902,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986806681,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986807523,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986899846,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986791674,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986794630,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.3,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986798841,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986810983,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986898410,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.85,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986800000,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.7,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986804546,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986804151,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986816796,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.82,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999212722,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.85,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986833019,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986864222,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.9,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986836987,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.55,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986836986,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986817559,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986817561,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986790611,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986805077,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986805079,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986838893,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986859560,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986731476,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986896947,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986802207,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986883857,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999164493,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.7,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986810273,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.55,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999163754,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986794358,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986712051,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 7,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986803636,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999178513,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986845661,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3999198301,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986862908,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 18,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986834570,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3999126616,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986843593,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986747494,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 18,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986823795,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986743574,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 18,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986795523,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986844324,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986810037,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3998970423,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986872046,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986837193,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986794749,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986823811,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986797922,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986892430,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986856341,
+      "name": "Over 0.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 8986,
+  "rc": false,
+  "startDate": "2026-05-17T14:00:00Z",
+  "offers": [
+    {
+      "type": 5
+    }
+  ],
+  "showAll": true
+}

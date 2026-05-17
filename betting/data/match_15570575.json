@@ -1,0 +1,2103 @@
+{
+  "id": 15570575,
+  "feedEventId": 20960453,
+  "name": "Rhode Island FC vs. Brooklyn FC",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 5005,
+    "name": "USL Championship"
+  },
+  "category": {
+    "iso": "USA",
+    "hasLiveEvents": false,
+    "id": 882,
+    "name": "USA"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 539389,
+      "name": "Rhode Island FC"
+    },
+    {
+      "id": 2896709,
+      "name": "Brooklyn FC"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1572141598,
+        1572141595,
+        1572141590,
+        1572141593,
+        1572141601,
+        1572141608,
+        1572141594,
+        1572141588,
+        1572141604,
+        1572141833
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1572141598,
+        1572141590,
+        1572141595,
+        1572141588,
+        1572141593,
+        1572141833,
+        1572141599,
+        1572141596,
+        1572141592,
+        1572141834,
+        1572141594
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572141599,
+        1572141596,
+        1572141592,
+        1572141834
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572141600
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3997266925
+        ],
+        [
+          3997266926
+        ],
+        [
+          3997266927
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266925
+        ],
+        [
+          3997266926
+        ],
+        [
+          3997266927
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572141598,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3997266918
+        ],
+        [
+          3997266916
+        ],
+        [
+          3997266917
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266918,
+          3997266916,
+          3997266917
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572141595,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3997266882
+        ],
+        [
+          3997266883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266882
+        ],
+        [
+          3997266883
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1572141590,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3997266888
+        ],
+        [
+          3997266889
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266888
+        ],
+        [
+          3997266889
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572141593,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3997266934
+        ],
+        [
+          3997266935
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266934
+        ],
+        [
+          3997266935
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1572141601,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3997266958
+        ],
+        [
+          3997266960
+        ],
+        [
+          3997266959
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266958
+        ],
+        [
+          3997266960
+        ],
+        [
+          3997266959
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1572141608,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3997266891,
+          3997266892,
+          3997266897,
+          3997266893,
+          3997266898,
+          3997266903,
+          3997266894,
+          3997266899,
+          3997266904,
+          3997266912
+        ],
+        [
+          3997266890,
+          3997266896,
+          3997266902,
+          3997266908,
+          3997266914,
+          3997266915
+        ],
+        [
+          3997266895,
+          3997266900,
+          3997266901,
+          3997266905,
+          3997266906,
+          3997266907,
+          3997266909,
+          3997266910,
+          3997266911,
+          3997266913
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266891,
+          3997266892,
+          3997266897,
+          3997266893,
+          3997266898,
+          3997266903,
+          3997266894,
+          3997266899,
+          3997266904,
+          3997266912
+        ],
+        [
+          3997266890,
+          3997266896,
+          3997266902,
+          3997266908,
+          3997266914,
+          3997266915
+        ],
+        [
+          3997266895,
+          3997266900,
+          3997266901,
+          3997266905,
+          3997266906,
+          3997266907,
+          3997266909,
+          3997266910,
+          3997266911,
+          3997266913
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572141594,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3997266878
+        ],
+        [
+          3997266879
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266878
+        ],
+        [
+          3997266879
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1572141588,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          3997266940,
+          3997266943,
+          3997266946
+        ],
+        [
+          3997266941,
+          3997266944,
+          3997266947
+        ],
+        [
+          3997266942,
+          3997266945,
+          3997266948
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266940,
+          3997266941,
+          3997266942,
+          3997266943,
+          3997266944,
+          3997266945,
+          3997266946,
+          3997266947,
+          3997266948
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "isMB": false,
+      "sportMarketId": 70568,
+      "id": 1572141604,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3997267575
+        ],
+        [
+          3997267576
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997267575
+        ],
+        [
+          3997267576
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572141833,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3997266925
+        ],
+        [
+          3997266926
+        ],
+        [
+          3997266927
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266925
+        ],
+        [
+          3997266926
+        ],
+        [
+          3997266927
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572141598,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3997266882
+        ],
+        [
+          3997266883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266882
+        ],
+        [
+          3997266883
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1572141590,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3997266918
+        ],
+        [
+          3997266916
+        ],
+        [
+          3997266917
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266918,
+          3997266916,
+          3997266917
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572141595,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3997266878
+        ],
+        [
+          3997266879
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266878
+        ],
+        [
+          3997266879
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1572141588,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3997266888
+        ],
+        [
+          3997266889
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266888
+        ],
+        [
+          3997266889
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572141593,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3997267575
+        ],
+        [
+          3997267576
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997267575
+        ],
+        [
+          3997267576
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572141833,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3997266928
+        ],
+        [
+          3997266929
+        ],
+        [
+          3997266930
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266928,
+          3997266929,
+          3997266930
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572141599,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3997266921
+        ],
+        [
+          3997266919
+        ],
+        [
+          3997266920
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266921,
+          3997266919,
+          3997266920
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572141596,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3997266886
+        ],
+        [
+          3997266887
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266886
+        ],
+        [
+          3997266887
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572141592,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3997267577
+        ],
+        [
+          3997267578
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997267577
+        ],
+        [
+          3997267578
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572141834,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3997266891,
+          3997266892,
+          3997266897,
+          3997266893,
+          3997266898,
+          3997266903,
+          3997266894,
+          3997266899,
+          3997266904,
+          3997266912
+        ],
+        [
+          3997266890,
+          3997266896,
+          3997266902,
+          3997266908,
+          3997266914,
+          3997266915
+        ],
+        [
+          3997266895,
+          3997266900,
+          3997266901,
+          3997266905,
+          3997266906,
+          3997266907,
+          3997266909,
+          3997266910,
+          3997266911,
+          3997266913
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266891,
+          3997266892,
+          3997266897,
+          3997266893,
+          3997266898,
+          3997266903,
+          3997266894,
+          3997266899,
+          3997266904,
+          3997266912
+        ],
+        [
+          3997266890,
+          3997266896,
+          3997266902,
+          3997266908,
+          3997266914,
+          3997266915
+        ],
+        [
+          3997266895,
+          3997266900,
+          3997266901,
+          3997266905,
+          3997266906,
+          3997266907,
+          3997266909,
+          3997266910,
+          3997266911,
+          3997266913
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572141594,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3997266928
+        ],
+        [
+          3997266929
+        ],
+        [
+          3997266930
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266928,
+          3997266929,
+          3997266930
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572141599,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3997266921
+        ],
+        [
+          3997266919
+        ],
+        [
+          3997266920
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266921,
+          3997266919,
+          3997266920
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572141596,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3997266886
+        ],
+        [
+          3997266887
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266886
+        ],
+        [
+          3997266887
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572141592,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3997267577
+        ],
+        [
+          3997267578
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997267577
+        ],
+        [
+          3997267578
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572141834,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          3997266931
+        ],
+        [
+          3997266932
+        ],
+        [
+          3997266933
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997266931,
+          3997266932,
+          3997266933
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "isMB": false,
+      "sportMarketId": 70643,
+      "id": 1572141600,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266925,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266926,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266927,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266918,
+      "name": "Rhode Island FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266916,
+      "name": "Rhode Island FC or Brooklyn FC"
+    },
+    {
+      "typeId": 11,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266917,
+      "name": "Draw or Brooklyn FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3997266882,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3997266883,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266888,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266889,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "id": 3997266934,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 3,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "id": 3997266935,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 1,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266958,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 7,
+      "price": 13.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 3997266960,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266959,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 114,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266891,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266892,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266897,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266893,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266898,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266903,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266894,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266899,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266904,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266912,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266890,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266896,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266902,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266908,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266914,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266915,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266895,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266900,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266901,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266905,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266906,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266907,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266909,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266910,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266911,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266913,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266878,
+      "name": "Rhode Island FC (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266879,
+      "name": "Brooklyn FC (+0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "id": 3997266940,
+      "name": "Rhode Island FC/Rhode Island FC"
+    },
+    {
+      "typeId": 420,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "id": 3997266941,
+      "name": "Rhode Island FC/X"
+    },
+    {
+      "typeId": 422,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3997266942,
+      "name": "Rhode Island FC/Brooklyn FC"
+    },
+    {
+      "typeId": 424,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "id": 3997266943,
+      "name": "X/Rhode Island FC"
+    },
+    {
+      "typeId": 426,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3997266944,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "id": 3997266945,
+      "name": "X/Brooklyn FC"
+    },
+    {
+      "typeId": 430,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3997266946,
+      "name": "Brooklyn FC/Rhode Island FC"
+    },
+    {
+      "typeId": 432,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "id": 3997266947,
+      "name": "Brooklyn FC/X"
+    },
+    {
+      "typeId": 434,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "id": 3997266948,
+      "name": "Brooklyn FC/Brooklyn FC"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997267575,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997267576,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266925,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266926,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266927,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266882,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9231,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266883,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266918,
+      "name": "Rhode Island FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266916,
+      "name": "Rhode Island FC or Brooklyn FC"
+    },
+    {
+      "typeId": 11,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266917,
+      "name": "Draw or Brooklyn FC"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266878,
+      "name": "Rhode Island FC (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266879,
+      "name": "Brooklyn FC (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266888,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266889,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997267575,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997267576,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266928,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266929,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266930,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266921,
+      "name": "Rhode Island FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266919,
+      "name": "Rhode Island FC or Brooklyn FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266920,
+      "name": "Draw or Brooklyn FC"
+    },
+    {
+      "typeId": 12,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266886,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266887,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997267577,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997267578,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266891,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266892,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266897,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266893,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266898,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266903,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266894,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266899,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266904,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266912,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266890,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266896,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266902,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266908,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266914,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266915,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266895,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266900,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266901,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266905,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266906,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266907,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266909,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266910,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266911,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3997266913,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266928,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266929,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266930,
+      "name": "Brooklyn FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "isDBB": true,
+      "id": 3997266921,
+      "name": "Rhode Island FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997266919,
+      "name": "Rhode Island FC or Brooklyn FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "isDBB": true,
+      "id": 3997266920,
+      "name": "Draw or Brooklyn FC"
+    },
+    {
+      "typeId": 12,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3997266886,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3997266887,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997267577,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3997267578,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 539389,
+      "id": 3997266931,
+      "name": "Rhode Island FC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3997266932,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2896709,
+      "id": 3997266933,
+      "name": "Brooklyn FC"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1320,
+  "rc": false,
+  "startDate": "2026-05-23T23:30:00Z",
+  "showAll": true
+}

@@ -1,0 +1,30 @@
+site_name: Sentinel Quant Agent Documentation
+theme:
+  name: simple-blog
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Overview: index.md
+  - Operational Guide: human.md
+  - Analytics:
+      - Performance Segmentation: PERFORMANCE_SEGMENTATION.md
+      - Session Log: SESSION_LOG.md
+  - Architecture:
+      - Source Root: src/SRC_DEBUG.md
+      - Core System: src/core/CORE_DEBUG.md
+      - Collectors & Scrapers: src/collectors/COLLECTORS_DEBUG.md
+      - Harvesters: src/collectors/harvesters/HARVESTERS_DEBUG.md
+      - Mathematical Models: src/math/MATH_DEBUG.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

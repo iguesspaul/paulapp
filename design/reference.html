@@ -1,0 +1,376 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: transparent; }
+  @import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;700&family=Geist:wght@400;500&display=swap');
+
+  :root {
+    --base: #111111;
+    --surface: #181818;
+    --raised: #1f1f1f;
+    --overlay: #282828;
+    --border: #2c2c2c;
+    --divider: #222222;
+    --text-p: #e8e6e0;
+    --text-s: #8a887e;
+    --text-t: #4a4845;
+    --cobalt: #2563eb;
+    --cobalt-b: #3b82f6;
+    --cobalt-g: #60a5fa;
+    --cobalt-d: #0f2a4a;
+    --amber: #d97706;
+    --amber-b: #f59e0b;
+    --amber-g: #fbbf24;
+    --amber-d: #2a1a04;
+  }
+
+  .wrap {
+    background: var(--base);
+    font-family: 'Geist Mono', 'JetBrains Mono', monospace;
+    color: var(--text-p);
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    min-width: 560px;
+  }
+
+  .full { grid-column: 1 / -1; }
+
+  .label {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-t);
+    margin-bottom: 8px;
+  }
+
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+
+  /* Color swatches */
+  .swatches { display: flex; gap: 6px; flex-wrap: wrap; }
+  .swatch {
+    width: 36px; height: 36px;
+    border-radius: 6px;
+    border: 1px solid rgba(255,255,255,0.05);
+    position: relative;
+  }
+  .swatch-label {
+    font-size: 9px; color: var(--text-t);
+    margin-top: 4px; text-align: center; width: 36px;
+    letter-spacing: 0.04em;
+  }
+  .swatch-group { display: flex; flex-direction: column; align-items: center; }
+
+  /* Type samples */
+  .type-row { display: flex; flex-direction: column; gap: 6px; }
+  .t-display { font-size: 36px; font-weight: 700; letter-spacing: -0.04em; line-height: 1; color: var(--text-p); }
+  .t-head { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; color: var(--text-p); }
+  .t-section { font-size: 13px; font-weight: 500; letter-spacing: -0.01em; color: var(--text-p); }
+  .t-body { font-size: 13px; font-weight: 400; font-family: 'Geist', sans-serif; color: var(--text-s); line-height: 1.6; }
+  .t-label { font-size: 10px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-t); }
+
+  /* Elevation demo */
+  .elev-stack { display: flex; flex-direction: column; gap: 4px; }
+  .elev-item {
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--text-s);
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .elev-chip {
+    font-size: 9px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: var(--overlay);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 2px 5px;
+    color: var(--text-t);
+  }
+
+  /* Tags & pills */
+  .tags-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .tag {
+    font-size: 10px; font-weight: 500;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 2px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-s);
+  }
+  .pill {
+    font-size: 10px; font-weight: 500;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 9999px;
+    border: none;
+  }
+  .pill-cobalt { background: var(--cobalt-d); color: var(--cobalt-g); }
+  .pill-amber  { background: var(--amber-d);  color: var(--amber-g); }
+
+  /* Component samples */
+  .todo-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 9px 12px;
+    border-radius: 6px;
+    transition: background 0.2s;
+    cursor: default;
+  }
+  .todo-item:hover { background: var(--raised); }
+  .todo-item + .todo-item { border-top: 1px solid var(--divider); }
+  .check {
+    width: 15px; height: 15px;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .check.done { border-color: var(--cobalt); background: var(--cobalt-d); }
+  .check.done::after { content: ""; width: 7px; height: 5px; border-left: 1.5px solid var(--cobalt-g); border-bottom: 1.5px solid var(--cobalt-g); transform: rotate(-45deg) translateY(-1px); display: block; }
+  .todo-text { font-size: 12px; color: var(--text-p); flex: 1; }
+  .todo-text.done { text-decoration: line-through; color: var(--text-t); }
+  .accent-left { border-left: 2px solid var(--amber); padding-left: 10px; }
+
+  /* Stat card */
+  .stat-num { font-size: 44px; font-weight: 700; letter-spacing: -0.04em; line-height: 1; }
+  .stat-num.cobalt { color: var(--cobalt-g); }
+  .stat-num.amber  { color: var(--amber-g); }
+  .stat-sub { font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-t); margin-top: 6px; }
+
+  /* Score row */
+  .score-row { display: flex; align-items: center; gap: 8px; padding: 8px 0; }
+  .score-row + .score-row { border-top: 1px solid var(--divider); }
+  .team { font-size: 12px; font-weight: 500; flex: 1; }
+  .score { font-size: 20px; font-weight: 700; letter-spacing: -0.02em; min-width: 28px; text-align: right; }
+
+  /* Accent border demo */
+  .border-demo { display: flex; flex-direction: column; gap: 4px; }
+  .b-item {
+    padding: 8px 12px;
+    font-size: 12px;
+    border-radius: 6px;
+    background: var(--raised);
+  }
+  .b-cobalt { border-left: 2px solid var(--cobalt); }
+  .b-amber  { border-left: 2px solid var(--amber);  }
+  .b-none   { border-left: 2px solid transparent;   color: var(--text-s); }
+
+  /* Habit grid */
+  .habit-grid { display: flex; gap: 3px; flex-wrap: wrap; }
+  .hab {
+    width: 18px; height: 18px;
+    border-radius: 3px;
+    background: transparent;
+    border: 1px solid var(--border);
+  }
+  .hab.on { background: var(--amber-d); border-color: var(--amber); }
+  .hab.on.today { background: var(--amber); border-color: var(--amber-g); }
+</style>
+
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="full" style="margin-bottom:4px;">
+    <div class="label">Design language</div>
+    <div style="font-size:22px;font-weight:700;letter-spacing:-0.03em;line-height:1;">Warm Brutalism</div>
+    <div style="font-size:11px;color:var(--text-s);margin-top:4px;font-family:'Geist',sans-serif;">Geist Mono · Dark · Cobalt × Amber · Precision</div>
+  </div>
+
+  <!-- Color palette -->
+  <div class="panel full">
+    <div class="label">Color system</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:flex-start;">
+      <!-- Backgrounds -->
+      <div>
+        <div style="font-size:9px;color:var(--text-t);margin-bottom:5px;letter-spacing:0.08em;text-transform:uppercase;">Backgrounds</div>
+        <div style="display:flex;gap:4px;">
+          <div class="swatch-group"><div class="swatch" style="background:#0d0d0d;"></div><div class="swatch-label">ground</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#111111;"></div><div class="swatch-label">base</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#181818;"></div><div class="swatch-label">surface</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#1f1f1f;"></div><div class="swatch-label">raised</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#282828;"></div><div class="swatch-label">overlay</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#2c2c2c;"></div><div class="swatch-label">border</div></div>
+        </div>
+      </div>
+      <!-- Cobalt -->
+      <div>
+        <div style="font-size:9px;color:var(--cobalt-g);margin-bottom:5px;letter-spacing:0.08em;text-transform:uppercase;">Cobalt</div>
+        <div style="display:flex;gap:4px;">
+          <div class="swatch-group"><div class="swatch" style="background:#0f2a4a;"></div><div class="swatch-label">dim</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#163d6e;"></div><div class="swatch-label">muted</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#2563eb;"></div><div class="swatch-label">base</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#3b82f6;"></div><div class="swatch-label">bright</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#60a5fa;"></div><div class="swatch-label">glow</div></div>
+        </div>
+      </div>
+      <!-- Amber -->
+      <div>
+        <div style="font-size:9px;color:var(--amber-g);margin-bottom:5px;letter-spacing:0.08em;text-transform:uppercase;">Amber</div>
+        <div style="display:flex;gap:4px;">
+          <div class="swatch-group"><div class="swatch" style="background:#2a1a04;"></div><div class="swatch-label">dim</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#6b3a0c;"></div><div class="swatch-label">muted</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#d97706;"></div><div class="swatch-label">base</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#f59e0b;"></div><div class="swatch-label">bright</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#fbbf24;"></div><div class="swatch-label">glow</div></div>
+        </div>
+      </div>
+      <!-- Text -->
+      <div>
+        <div style="font-size:9px;color:var(--text-t);margin-bottom:5px;letter-spacing:0.08em;text-transform:uppercase;">Text</div>
+        <div style="display:flex;gap:4px;">
+          <div class="swatch-group"><div class="swatch" style="background:#e8e6e0;"></div><div class="swatch-label">primary</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#8a887e;"></div><div class="swatch-label">second</div></div>
+          <div class="swatch-group"><div class="swatch" style="background:#4a4845;"></div><div class="swatch-label">tertiary</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Typography -->
+  <div class="panel">
+    <div class="label">Typography · Geist Mono</div>
+    <div class="type-row">
+      <div class="t-display">97.4%</div>
+      <div class="t-head">Ready to start?</div>
+      <div class="t-section">Section header</div>
+      <div class="t-body">Body text uses Geist Sans for longer prose passages that need better reading density at small sizes.</div>
+      <div class="t-label">Category tag</div>
+    </div>
+  </div>
+
+  <!-- Tags and pills -->
+  <div class="panel" style="display:flex;flex-direction:column;gap:12px;">
+    <div>
+      <div class="label">Tags (sharp)</div>
+      <div class="tags-row">
+        <span class="tag">design</span>
+        <span class="tag">dev</span>
+        <span class="tag">research</span>
+        <span class="tag">2025</span>
+      </div>
+    </div>
+    <div>
+      <div class="label">Pills (status)</div>
+      <div class="tags-row">
+        <span class="pill pill-cobalt">upcoming</span>
+        <span class="pill pill-amber">live</span>
+        <span class="pill pill-cobalt">in progress</span>
+        <span class="pill pill-amber">streak</span>
+      </div>
+    </div>
+    <div>
+      <div class="label">Accent borders</div>
+      <div class="border-demo">
+        <div class="b-item b-amber" style="font-size:12px;color:var(--text-p);">High priority task</div>
+        <div class="b-item b-cobalt" style="font-size:12px;color:var(--text-p);">In progress item</div>
+        <div class="b-item b-none" style="font-size:12px;">Default item</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Todo sample -->
+  <div class="panel">
+    <div class="label">Todo · Project</div>
+    <div style="margin-top:4px;">
+      <div class="todo-item">
+        <div class="check done"></div>
+        <span class="todo-text done">Finalize design system</span>
+      </div>
+      <div class="todo-item accent-left">
+        <div class="check"></div>
+        <span class="todo-text">Build SvelteKit scaffold</span>
+        <span class="pill pill-amber" style="font-size:9px;">high</span>
+      </div>
+      <div class="todo-item">
+        <div class="check"></div>
+        <span class="todo-text">Set up Tailwind theme</span>
+        <span class="pill pill-cobalt" style="font-size:9px;">dev</span>
+      </div>
+      <div class="todo-item">
+        <div class="check"></div>
+        <span class="todo-text">Movie rec module</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="panel" style="display:flex;gap:16px;">
+    <div>
+      <div class="stat-num amber">14</div>
+      <div class="stat-sub">day streak</div>
+    </div>
+    <div style="width:1px;background:var(--divider);"></div>
+    <div>
+      <div class="stat-num cobalt">8/12</div>
+      <div class="stat-sub">habits done</div>
+    </div>
+    <div style="width:1px;background:var(--divider);"></div>
+    <div>
+      <div class="stat-num" style="color:var(--text-p);">3</div>
+      <div class="stat-sub">open tasks</div>
+    </div>
+  </div>
+
+  <!-- Sports -->
+  <div class="panel">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+      <div class="label" style="margin-bottom:0;">Sports · Live</div>
+      <span class="pill pill-amber">live</span>
+    </div>
+    <div class="score-row">
+      <div class="team">Arsenal</div>
+      <div class="score" style="color:var(--amber-g);">3</div>
+    </div>
+    <div class="score-row">
+      <div class="team" style="color:var(--text-s);">Chelsea</div>
+      <div class="score" style="color:var(--text-s);">1</div>
+    </div>
+    <div style="margin-top:10px;font-size:10px;color:var(--text-t);letter-spacing:0.06em;">72' · Emirates Stadium</div>
+  </div>
+
+  <!-- Habit grid -->
+  <div class="panel">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+      <div class="label" style="margin-bottom:0;">Habits · March</div>
+      <span style="font-size:11px;color:var(--amber-g);font-weight:500;">14 🔥</span>
+    </div>
+    <div class="habit-grid" id="hg"></div>
+    <div style="margin-top:8px;font-size:10px;color:var(--text-t);">Morning run</div>
+  </div>
+
+  <!-- Elevation -->
+  <div class="panel full">
+    <div class="label">Elevation model</div>
+    <div class="elev-stack">
+      <div class="elev-item" style="background:#0d0d0d;"><span>Ground</span><span class="elev-chip">#0d0d0d</span></div>
+      <div class="elev-item" style="background:#111111;margin-left:12px;"><span>Base — app background</span><span class="elev-chip">#111111</span></div>
+      <div class="elev-item" style="background:#181818;margin-left:24px;"><span>Surface — cards, panels</span><span class="elev-chip">#181818</span></div>
+      <div class="elev-item" style="background:#1f1f1f;margin-left:36px;"><span>Raised — hover, expanded</span><span class="elev-chip">#1f1f1f</span></div>
+      <div class="elev-item" style="background:#282828;margin-left:48px;"><span>Overlay — modals, menus</span><span class="elev-chip">#282828</span></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  // Populate habit grid with realistic data
+  const hg = document.getElementById('hg');
+  const days = 31;
+  const done = [1,2,3,5,6,7,8,10,11,12,13,14,16,17,18]; // completed days
+  const today = 14;
+  for (let i = 1; i <= days; i++) {
+    const d = document.createElement('div');
+    d.className = 'hab' + (done.includes(i) ? (i === today ? ' on today' : ' on') : '');
+    hg.appendChild(d);
+  }
+</script>

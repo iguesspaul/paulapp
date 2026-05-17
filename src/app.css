@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+@theme inline {
+    /* ── Typography ─────────────────────────────────── */
+    --font-sans: var(--font-geist-sans);
+    --font-mono: var(--font-geist-mono);
+}
+
+@theme {
+  /* Scale — monospace-first, editorial contrast */
+  --text-xs:   0.6875rem;   /* 11px — metadata, timestamps */
+  --text-sm:   0.75rem;     /* 12px — labels, tags */
+  --text-base: 0.875rem;    /* 14px — body, list items */
+  --text-md:   1rem;        /* 16px — card titles */
+  --text-lg:   1.25rem;     /* 20px — section headers */
+  --text-xl:   1.75rem;     /* 28px — page headers */
+  --text-2xl:  2.5rem;      /* 40px — hero numbers (stats, scores) */
+  --text-3xl:  4rem;        /* 64px — editorial display */
+
+  --font-weight-normal:  400;
+  --font-weight-medium:  500;
+  --font-weight-bold:    700;
+
+  --leading-tight:  1.1;
+  --leading-normal: 1.5;
+  --leading-loose:  1.8;
+
+  --tracking-tighter: -0.04em;
+  --tracking-tight:   -0.02em;
+  --tracking-normal:   0;
+  --tracking-wide:     0.06em;
+  --tracking-widest:   0.12em;
+
+  /* ── Color Palette ──────────────────────────────── */
+
+  /* Backgrounds (dark-first) */
+  --color-ground:    #0d0d0d;   /* true base — used sparingly */
+  --color-base:      #111111;   /* app background */
+  --color-surface:   #181818;   /* primary card/panel */
+  --color-raised:    #1f1f1f;   /* elevated card, hover states */
+  --color-overlay:   #282828;   /* modals, dropdowns */
+  --color-border:    #2c2c2c;   /* default borders */
+  --color-divider:   #222222;   /* subtle lines */
+
+  /* Text */
+  --color-text-primary:   #e8e6e0;   /* main text — warm white */
+  --color-text-secondary: #8a887e;   /* muted */
+  --color-text-tertiary:  #4a4845;   /* placeholder, disabled */
+  --color-text-inverse:   #0d0d0d;   /* text on bright surfaces */
+
+  /* Accent — Cobalt (structural, informational) */
+  --color-cobalt-dim:    #0f2a4a;
+  --color-cobalt-muted:  #163d6e;
+  --color-cobalt:        #2563eb;   /* primary interactive */
+  --color-cobalt-bright: #3b82f6;   /* hover state */
+  --color-cobalt-glow:   #60a5fa;   /* active/focus rings */
+
+  /* Accent — Amber (warmth, urgency, alive) */
+  --color-amber-dim:    #2a1a04;
+  --color-amber-muted:  #6b3a0c;
+  --color-amber:        #d97706;   /* primary warm accent */
+  --color-amber-bright: #f59e0b;   /* hover/highlight */
+  --color-amber-glow:   #fbbf24;   /* active */
+
+  /* Semantic */
+  --color-success: #16a34a;
+  --color-danger:  #dc2626;
+  --color-warning: #ca8a04;
+  --color-info:    var(--color-cobalt);
+
+  /* Grain / Film */
+  --color-grain-light: rgba(232, 230, 224, 0.03);
+  --color-grain-heavy: rgba(232, 230, 224, 0.06);
+
+  /* ── Spacing ─────────────────────────────────────── */
+  --spacing-px:  1px;
+  --spacing-0-5: 0.125rem;   /* 2px */
+  --spacing-1:   0.25rem;    /* 4px */
+  --spacing-2:   0.5rem;     /* 8px */
+  --spacing-3:   0.75rem;    /* 12px */
+  --spacing-4:   1rem;       /* 16px */
+  --spacing-5:   1.25rem;    /* 20px */
+  --spacing-6:   1.5rem;     /* 24px */
+  --spacing-8:   2rem;       /* 32px */
+  --spacing-10:  2.5rem;     /* 40px */
+  --spacing-12:  3rem;       /* 48px */
+  --spacing-16:  4rem;       /* 64px */
+  --spacing-20:  5rem;       /* 80px */
+  --spacing-24:  6rem;       /* 96px */
+
+  /* ── Radius ──────────────────────────────────────── */
+  --radius-none: 0;
+  --radius-sm:   0.125rem;   /* 2px — tags, chips: nearly sharp */
+  --radius-md:   0.375rem;   /* 6px — buttons, inputs */
+  --radius-lg:   0.625rem;   /* 10px — cards */
+  --radius-xl:   1rem;       /* 16px — modals, large panels */
+  --radius-pill: 9999px;     /* tags, badges */
+
+  /* ── Shadows ─────────────────────────────────────── */
+  --shadow-sm:  0 1px 3px rgba(0,0,0,0.5);
+  --shadow-md:  0 4px 12px rgba(0,0,0,0.6);
+  --shadow-lg:  0 12px 32px rgba(0,0,0,0.7);
+  --shadow-cobalt: 0 0 0 1px var(--color-cobalt);
+  --shadow-amber:  0 0 12px rgba(217, 119, 6, 0.25);
+
+  /* ── Transitions ────────────────────────────────── */
+  --ease-out-expo:  cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-expo:   cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-bounce:    cubic-bezier(0.34, 1.56, 0.64, 1);
+  --duration-fast:  120ms;
+  --duration-base:  200ms;
+  --duration-slow:  350ms;
+}

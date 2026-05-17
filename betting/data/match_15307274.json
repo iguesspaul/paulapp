@@ -1,0 +1,8464 @@
+{
+  "id": 15307274,
+  "feedEventId": 20640385,
+  "name": "Leeds vs. Brighton & Hove Albion",
+  "et": 0,
+  "liveTime": "90'",
+  "lst": "2026-05-17T14:18:13Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 2936,
+    "name": "Premier League"
+  },
+  "category": {
+    "iso": "ENG",
+    "hasLiveEvents": false,
+    "id": 497,
+    "name": "England"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 43634,
+      "name": "Leeds"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 43693,
+      "name": "Brighton & Hove Albion"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1550688717,
+        1550688706,
+        1550688662,
+        1550688720,
+        1550688774,
+        1550688629,
+        1550688757,
+        1550689059
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1550688717,
+        1550688662,
+        1550688706,
+        1550688629,
+        21001,
+        20999,
+        1550689059
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572119213
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 5,
+      "name": "Corners"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572689009
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 6,
+      "name": "Bookings"
+    },
+    {
+      "type": 0,
+      "marketIds": [],
+      "childMarketGroupIds": [
+        28142,
+        28139,
+        28143
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 17,
+      "name": "Player Specials"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568794387,
+        1568815157,
+        1572015002,
+        1572015103,
+        1572014880
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1589,
+      "name": "Teams H2H"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568815160,
+        1572734366,
+        1568794391,
+        1572697480,
+        1572731250,
+        1572015006,
+        1572633133,
+        1572652159,
+        1572768590,
+        1572015100,
+        1572777144,
+        1572769859,
+        1572672568,
+        1572774895
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    }
+  ],
+  "childMarketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        21001,
+        20999
+      ],
+      "isBundle": true,
+      "sortOrder": 90,
+      "id": 28142,
+      "name": "Goalscorer"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        15736,
+        31155
+      ],
+      "isBundle": true,
+      "sortOrder": 100,
+      "id": 28139,
+      "name": "Assists"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        15734,
+        15735
+      ],
+      "isBundle": true,
+      "sortOrder": 106,
+      "id": 28143,
+      "name": "Shots"
+    }
+  ],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3929683697
+        ],
+        [
+          3929683698
+        ],
+        [
+          3929683699
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683697
+        ],
+        [
+          3929683698
+        ],
+        [
+          3929683699
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1550688717,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3929683642
+        ],
+        [
+          3929683640
+        ],
+        [
+          3929683641
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683642,
+          3929683640,
+          3929683641
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1550688706,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3929683500,
+          3929683502
+        ],
+        [
+          3929683501,
+          3929683503
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683500,
+          3929683502
+        ],
+        [
+          3929683501,
+          3929683503
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": false,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1550688662,
+      "name": "Total"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3929683706
+        ],
+        [
+          3929683707
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683706
+        ],
+        [
+          3929683707
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1550688720,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3929683906
+        ],
+        [
+          3929683908
+        ],
+        [
+          3929683907
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683906
+        ],
+        [
+          3929683908
+        ],
+        [
+          3929683907
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1550688774,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3929683438,
+          3929683436
+        ],
+        [
+          3929683439,
+          3929683437
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683438,
+          3929683436
+        ],
+        [
+          3929683439,
+          3929683437
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": false,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1550688629,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3929683863
+        ],
+        [
+          3929683864
+        ],
+        [
+          3929683865
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683863,
+          3929683864,
+          3929683865
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "1:0",
+      "id": 1550688757,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3929684901
+        ],
+        [
+          3929684902
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929684901
+        ],
+        [
+          3929684902
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1550689059,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3929683697
+        ],
+        [
+          3929683698
+        ],
+        [
+          3929683699
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683697
+        ],
+        [
+          3929683698
+        ],
+        [
+          3929683699
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1550688717,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3929683500,
+          3929683502
+        ],
+        [
+          3929683501,
+          3929683503
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683500,
+          3929683502
+        ],
+        [
+          3929683501,
+          3929683503
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": false,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1550688662,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3929683642
+        ],
+        [
+          3929683640
+        ],
+        [
+          3929683641
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683642,
+          3929683640,
+          3929683641
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1550688706,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3929683438,
+          3929683436
+        ],
+        [
+          3929683439,
+          3929683437
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929683438,
+          3929683436
+        ],
+        [
+          3929683439,
+          3929683437
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": false,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1550688629,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Goalscorer",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3976185485,
+        3976182335,
+        3976112073,
+        3975908539,
+        3975938645,
+        3976184229,
+        3976186397,
+        3976140982,
+        3976110636,
+        3976031675,
+        3976203871,
+        3976160841,
+        3976101447,
+        3976148739,
+        3976213153,
+        3976178582,
+        3976174359,
+        3976191036,
+        3975946892
+      ],
+      "headers": [
+        {
+          "typeId": 21001,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2090,
+              "name": "First"
+            },
+            {
+              "id": 2092,
+              "name": "Any"
+            }
+          ]
+        }
+      ],
+      "isBB": true,
+      "variant": 13,
+      "so": 6,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:437|1",
+      "id": 21001,
+      "name": "Goalscorer"
+    },
+    {
+      "shortName": "Multi Scorers",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3999188346,
+        3999133281,
+        3999133493,
+        3998745845,
+        3999188128,
+        3998745850,
+        3998745835,
+        3998745842,
+        3998745832,
+        3999114558,
+        3998745837,
+        3999163336,
+        3998745840,
+        3998745841,
+        3998745848,
+        3999114277,
+        3998745833,
+        3998745838,
+        3999115241
+      ],
+      "headers": [
+        {
+          "typeId": 20999,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2101,
+              "name": "2+"
+            }
+          ]
+        }
+      ],
+      "isBB": true,
+      "variant": 13,
+      "so": 7,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 20999,
+      "name": "Multi Scorers"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3929684901
+        ],
+        [
+          3929684902
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3929684901
+        ],
+        [
+          3929684902
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1550689059,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          3997207360,
+          3999084822,
+          3999149474
+        ],
+        [
+          3997207361,
+          3999084823,
+          3999149475
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3997207360,
+          3999084822,
+          3999149474
+        ],
+        [
+          3997207361,
+          3999084823,
+          3999149475
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 166,
+      "isMB": true,
+      "sportMarketId": 70739,
+      "sv": "15.5",
+      "id": 1572119213,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Total bookings",
+      "desktopOddIds": [
+        [
+          3998917287
+        ],
+        [
+          3998917288
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998917287
+        ],
+        [
+          3998917288
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 139,
+      "isMB": true,
+      "sportMarketId": 70714,
+      "sv": "0.5",
+      "id": 1572689009,
+      "name": "Total bookings"
+    },
+    {
+      "shortName": "Goalscorer",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3976185485,
+        3976182335,
+        3976112073,
+        3975908539,
+        3975938645,
+        3976184229,
+        3976186397,
+        3976140982,
+        3976110636,
+        3976031675,
+        3976203871,
+        3976160841,
+        3976101447,
+        3976148739,
+        3976213153,
+        3976178582,
+        3976174359,
+        3976191036,
+        3975946892,
+        3998745914
+      ],
+      "headers": [
+        {
+          "typeId": 21001,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2090,
+              "name": "First"
+            },
+            {
+              "id": 2092,
+              "name": "Any"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 13,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:437|1",
+      "id": 21001,
+      "name": "Goalscorer"
+    },
+    {
+      "shortName": "Multi Scorers",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3999188346,
+        3999133281,
+        3999133493,
+        3998745845,
+        3999188128,
+        3998745850,
+        3998745835,
+        3998745842,
+        3998745832,
+        3999114558,
+        3998745837,
+        3999163336,
+        3998745839,
+        3998745840,
+        3998745841,
+        3998745848,
+        3999114277,
+        3998745833,
+        3998745838,
+        3999115241
+      ],
+      "headers": [
+        {
+          "typeId": 20999,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2101,
+              "name": "2+"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 13,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 20999,
+      "name": "Multi Scorers"
+    },
+    {
+      "shortName": "Player or the substitute to get an assist",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568778132,
+        1568809892,
+        1568813310,
+        1568794725,
+        1568810174,
+        1568791116,
+        1568813048,
+        1568812731,
+        1568787927,
+        1568790719,
+        1568786120,
+        1568790940,
+        1568784012,
+        1568795564,
+        1568778417,
+        1568812469,
+        1568784310,
+        1568783249,
+        1568785049
+      ],
+      "headers": [
+        {
+          "typeId": 31155,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 31155,
+      "name": "Player or the substitute to get an assist"
+    },
+    {
+      "shortName": "Shots on Goal",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568786122,
+        1568792393,
+        1568791756,
+        1568785014,
+        1568791025,
+        1568795753,
+        1568811932,
+        1568791010,
+        1568787549,
+        1568789934,
+        1568810938,
+        1568812380,
+        1568772865,
+        1568778820,
+        1572696111,
+        1568792991,
+        1568778902,
+        1568781550,
+        1568783863
+      ],
+      "headers": [
+        {
+          "typeId": 15734,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15734,
+      "name": "Shots on Goal"
+    },
+    {
+      "shortName": "Shots",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568788947,
+        1568794166,
+        1568785313,
+        1568809559,
+        1568789149,
+        1568782709,
+        1568789213,
+        1568776157,
+        1568783612,
+        1568794822,
+        1568779580,
+        1568790599,
+        1572748304,
+        1568790075,
+        1568771607,
+        1568771892,
+        1568769562,
+        1568771560,
+        1568809979
+      ],
+      "headers": [
+        {
+          "typeId": 15735,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15735,
+      "name": "Shots"
+    },
+    {
+      "shortName": "Assists",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        1568778129,
+        1568809876,
+        1568813301,
+        1568794723,
+        1568810171,
+        1568791111,
+        1568813026,
+        1568812729,
+        1568787906,
+        1568790716,
+        1568786091,
+        1568790936,
+        1568783985,
+        1568795561,
+        1568778414,
+        1568812466,
+        1568784307,
+        1568783246,
+        1568785030
+      ],
+      "headers": [
+        {
+          "typeId": 15736,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 12,
+              "name": "Over"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 11,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5",
+      "id": 15736,
+      "name": "Assists"
+    },
+    {
+      "shortName": "1X2 Total Shots",
+      "desktopOddIds": [
+        [
+          3986798371
+        ],
+        [
+          3986798372
+        ],
+        [
+          3986798373
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986798371
+        ],
+        [
+          3986798372
+        ],
+        [
+          3986798373
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15742,
+      "isMB": false,
+      "sportMarketId": 76210,
+      "id": 1568794387,
+      "name": "1X2 Total Shots"
+    },
+    {
+      "shortName": "1X2 Total Shots on Goal",
+      "desktopOddIds": [
+        [
+          3986875318
+        ],
+        [
+          3986875319
+        ],
+        [
+          3986875320
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986875318
+        ],
+        [
+          3986875319
+        ],
+        [
+          3986875320
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15741,
+      "isMB": false,
+      "sportMarketId": 76209,
+      "id": 1568815157,
+      "name": "1X2 Total Shots on Goal"
+    },
+    {
+      "shortName": "1X2 Offside",
+      "desktopOddIds": [
+        [
+          3996872758
+        ],
+        [
+          3996872759
+        ],
+        [
+          3996872760
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996872758
+        ],
+        [
+          3996872759
+        ],
+        [
+          3996872760
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15743,
+      "isMB": false,
+      "sportMarketId": 76211,
+      "id": 1572015002,
+      "name": "1X2 Offside"
+    },
+    {
+      "shortName": "1X2 Fouls",
+      "desktopOddIds": [
+        [
+          3996872954
+        ],
+        [
+          3996872955
+        ],
+        [
+          3996872956
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996872954
+        ],
+        [
+          3996872955
+        ],
+        [
+          3996872956
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15744,
+      "isMB": false,
+      "sportMarketId": 76212,
+      "id": 1572015103,
+      "name": "1X2 Fouls"
+    },
+    {
+      "shortName": "1x2 Tackles",
+      "desktopOddIds": [
+        [
+          3996872499
+        ],
+        [
+          3996872500
+        ],
+        [
+          3996872501
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996872499
+        ],
+        [
+          3996872500
+        ],
+        [
+          3996872501
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25165,
+      "isMB": false,
+      "sportMarketId": 76910,
+      "id": 1572014880,
+      "name": "1x2 Tackles"
+    },
+    {
+      "shortName": "Total shots on Target",
+      "desktopOddIds": [
+        [
+          3986875326,
+          3986875324
+        ],
+        [
+          3986875327,
+          3986875325
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986875326,
+          3986875324
+        ],
+        [
+          3986875327,
+          3986875325
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15737,
+      "isMB": true,
+      "sportMarketId": 76205,
+      "sv": "8.5",
+      "id": 1568815160,
+      "name": "Total shots on Target"
+    },
+    {
+      "shortName": "Leeds Total shots on Target",
+      "desktopOddIds": [
+        [
+          3999079922
+        ],
+        [
+          3999079923
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999079922
+        ],
+        [
+          3999079923
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15726,
+      "isMB": true,
+      "sportMarketId": 76194,
+      "sv": "0.5|368",
+      "id": 1572734366,
+      "name": "Leeds Total shots on Target"
+    },
+    {
+      "shortName": "Total shots",
+      "desktopOddIds": [
+        [
+          3986798380,
+          3986798376,
+          3986798374
+        ],
+        [
+          3986798381,
+          3986798377,
+          3986798375
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986798380,
+          3986798376,
+          3986798374
+        ],
+        [
+          3986798381,
+          3986798377,
+          3986798375
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15738,
+      "isMB": true,
+      "sportMarketId": 76206,
+      "sv": "25.5",
+      "id": 1568794391,
+      "name": "Total shots"
+    },
+    {
+      "shortName": "Leeds Total shots",
+      "desktopOddIds": [
+        [
+          3999066383,
+          3998969981
+        ],
+        [
+          3999066384,
+          3998969982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999066383,
+          3998969981
+        ],
+        [
+          3999066384,
+          3998969982
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15728,
+      "isMB": true,
+      "sportMarketId": 76196,
+      "sv": "7.5|368",
+      "id": 1572697480,
+      "name": "Leeds Total shots"
+    },
+    {
+      "shortName": "Brighton & Hove Albion Total shots",
+      "desktopOddIds": [
+        [
+          3999072219
+        ],
+        [
+          3999072220
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999072219
+        ],
+        [
+          3999072220
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15729,
+      "isMB": true,
+      "sportMarketId": 76197,
+      "sv": "18.5|433",
+      "id": 1572731250,
+      "name": "Brighton & Hove Albion Total shots"
+    },
+    {
+      "shortName": "Total Offside",
+      "desktopOddIds": [
+        [
+          3996872768
+        ],
+        [
+          3996872769
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996872768
+        ],
+        [
+          3996872769
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15739,
+      "isMB": true,
+      "sportMarketId": 76207,
+      "sv": "4.5",
+      "id": 1572015006,
+      "name": "Total Offside"
+    },
+    {
+      "shortName": "Leeds total offside",
+      "desktopOddIds": [
+        [
+          3998775175
+        ],
+        [
+          3998775176
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998775175
+        ],
+        [
+          3998775176
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15730,
+      "isMB": true,
+      "sportMarketId": 76198,
+      "sv": "2.5|368",
+      "id": 1572633133,
+      "name": "Leeds total offside"
+    },
+    {
+      "shortName": "Brighton & Hove Albion Total offside",
+      "desktopOddIds": [
+        [
+          3998823267
+        ],
+        [
+          3998823268
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998823267
+        ],
+        [
+          3998823268
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15731,
+      "isMB": true,
+      "sportMarketId": 76199,
+      "sv": "2.5|433",
+      "id": 1572652159,
+      "name": "Brighton & Hove Albion Total offside"
+    },
+    {
+      "shortName": "Total Fouls",
+      "desktopOddIds": [
+        [
+          3999165452
+        ],
+        [
+          3999165453
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999165452
+        ],
+        [
+          3999165453
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15740,
+      "isMB": true,
+      "sportMarketId": 76208,
+      "sv": "16.5",
+      "id": 1572768590,
+      "name": "Total Fouls"
+    },
+    {
+      "shortName": "Leeds Total fouls",
+      "desktopOddIds": [
+        [
+          3996872948
+        ],
+        [
+          3996872949
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3996872948
+        ],
+        [
+          3996872949
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15732,
+      "isMB": true,
+      "sportMarketId": 76200,
+      "sv": "9.5|368",
+      "id": 1572015100,
+      "name": "Leeds Total fouls"
+    },
+    {
+      "shortName": "Brighton & Hove Albion Total fouls",
+      "desktopOddIds": [
+        [
+          3999185215
+        ],
+        [
+          3999185216
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999185215
+        ],
+        [
+          3999185216
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15733,
+      "isMB": true,
+      "sportMarketId": 76201,
+      "sv": "6.5|433",
+      "id": 1572777144,
+      "name": "Brighton & Hove Albion Total fouls"
+    },
+    {
+      "shortName": "Total Tackles",
+      "desktopOddIds": [
+        [
+          3999168384
+        ],
+        [
+          3999168385
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999168384
+        ],
+        [
+          3999168385
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25164,
+      "isMB": true,
+      "sportMarketId": 76909,
+      "sv": "17.5",
+      "id": 1572769859,
+      "name": "Total Tackles"
+    },
+    {
+      "shortName": "Leeds Total tackles",
+      "desktopOddIds": [
+        [
+          3998878860
+        ],
+        [
+          3998878861
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998878860
+        ],
+        [
+          3998878861
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25166,
+      "isMB": true,
+      "sportMarketId": 76911,
+      "sv": "10.5|368",
+      "id": 1572672568,
+      "name": "Leeds Total tackles"
+    },
+    {
+      "shortName": "Brighton & Hove Albion Total tackles",
+      "desktopOddIds": [
+        [
+          3999179915
+        ],
+        [
+          3999179916
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999179915
+        ],
+        [
+          3999179916
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25167,
+      "isMB": true,
+      "sportMarketId": 76912,
+      "sv": "7.5|433",
+      "id": 1572774895,
+      "name": "Brighton & Hove Albion Total tackles"
+    }
+  ],
+  "childMarkets": [
+    {
+      "shortName": "Charalampos Kostoulas",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3999188347
+        ],
+        [
+          3976185485
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188347
+        ],
+        [
+          3976185485
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:446001|1",
+      "id": 3976185485,
+      "name": "Goalscorer - Charalampos Kostoulas (BHA)"
+    },
+    {
+      "shortName": "Georginio Rutter",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3999133283
+        ],
+        [
+          3976182335
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133283
+        ],
+        [
+          3976182335
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427983|1",
+      "id": 3976182335,
+      "name": "Goalscorer - Georginio Rutter (LEE)"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3999133495
+        ],
+        [
+          3976112073
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133495
+        ],
+        [
+          3976112073
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:303645|1",
+      "id": 3976112073,
+      "name": "Goalscorer - Diego Alexander Gomez Amarilla (BHA)"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3998745910
+        ],
+        [
+          3975908539
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745910
+        ],
+        [
+          3975908539
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:277|1",
+      "id": 3975908539,
+      "name": "Goalscorer - Dominic Calvert-Lewin (LEE)"
+    },
+    {
+      "shortName": "Yankuba Minteh",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3998745925
+        ],
+        [
+          3975938645
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745925
+        ],
+        [
+          3975938645
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:314781|1",
+      "id": 3975938645,
+      "name": "Goalscorer - Yankuba Minteh (BHA)"
+    },
+    {
+      "shortName": "Lukas Nmecha",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3999114561
+        ],
+        [
+          3976184229
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114561
+        ],
+        [
+          3976184229
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2579|1",
+      "id": 3976184229,
+      "name": "Goalscorer - Lukas Nmecha (LEE)"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3999188129
+        ],
+        [
+          3976186397
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188129
+        ],
+        [
+          3976186397
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:6312|1",
+      "id": 3976186397,
+      "name": "Goalscorer - Yasin Abbas Ayari (BHA)"
+    },
+    {
+      "shortName": "Joel Piroe",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3999163339
+        ],
+        [
+          3976140982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163339
+        ],
+        [
+          3976140982
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427974|1",
+      "id": 3976140982,
+      "name": "Goalscorer - Joel Piroe (LEE)"
+    },
+    {
+      "shortName": "Maxime De Cuyper",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3998745920
+        ],
+        [
+          3976110636
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745920
+        ],
+        [
+          3976110636
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:11960|1",
+      "id": 3976110636,
+      "name": "Goalscorer - Maxime De Cuyper (BHA)"
+    },
+    {
+      "shortName": "Pascal Gross",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3998745907
+        ],
+        [
+          3976031675
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745907
+        ],
+        [
+          3976031675
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:437|1",
+      "id": 3976031675,
+      "name": "Goalscorer - Pascal Gross (BHA)"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3999114280
+        ],
+        [
+          3976203871
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114280
+        ],
+        [
+          3976203871
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427975|1",
+      "id": 3976203871,
+      "name": "Goalscorer - Degnand Wilfried Gnonto (LEE)"
+    },
+    {
+      "shortName": "Jan Paul van Hecke",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3998745917
+        ],
+        [
+          3976160841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745917
+        ],
+        [
+          3976160841
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:434|1",
+      "id": 3976160841,
+      "name": "Goalscorer - Jan Paul van Hecke (BHA)"
+    },
+    {
+      "shortName": "Ferdi Kadioglu",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3998745912
+        ],
+        [
+          3976101447
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745912
+        ],
+        [
+          3976101447
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:8594|1",
+      "id": 3976101447,
+      "name": "Goalscorer - Ferdi Kadioglu (BHA)"
+    },
+    {
+      "shortName": "Lewis Dunk",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3998745908
+        ],
+        [
+          3976148739
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745908
+        ],
+        [
+          3976148739
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:450|1",
+      "id": 3976148739,
+      "name": "Goalscorer - Lewis Dunk (BHA)"
+    },
+    {
+      "shortName": "Sean Longstaff",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3999115244
+        ],
+        [
+          3976213153
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999115244
+        ],
+        [
+          3976213153
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:82|1",
+      "id": 3976213153,
+      "name": "Goalscorer - Sean Longstaff (LEE)"
+    },
+    {
+      "shortName": "Jaka Bijol",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3998745916
+        ],
+        [
+          3976178582
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745916
+        ],
+        [
+          3976178582
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1309|1",
+      "id": 3976178582,
+      "name": "Goalscorer - Jaka Bijol (LEE)"
+    },
+    {
+      "shortName": "James Michael Justin",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3998745923
+        ],
+        [
+          3976174359
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745923
+        ],
+        [
+          3976174359
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:588086|1",
+      "id": 3976174359,
+      "name": "Goalscorer - James Michael Justin (LEE)"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3998745915
+        ],
+        [
+          3976191036
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745915
+        ],
+        [
+          3976191036
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2582|1",
+      "id": 3976191036,
+      "name": "Goalscorer - Sebastiaan Bornauw (LEE)"
+    },
+    {
+      "shortName": "Ethan Ampadu",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3998745913
+        ],
+        [
+          3975946892
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745913
+        ],
+        [
+          3975946892
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1196|1",
+      "id": 3975946892,
+      "name": "Goalscorer - Ethan Ampadu (LEE)"
+    },
+    {
+      "shortName": "Charalampos Kostoulas",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3999188346
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188346
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1511137",
+      "id": 3999188346,
+      "name": "Multi Scorers Charalampos Kostoulas"
+    },
+    {
+      "shortName": "Georginio Rutter",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3999133281
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133281
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1069860",
+      "id": 3999133281,
+      "name": "Multi Scorers Georginio Rutter"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3999133493
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133493
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1351797",
+      "id": 3999133493,
+      "name": "Multi Scorers Diego Alexander Gomez Amarilla"
+    },
+    {
+      "shortName": "Maxime De Cuyper",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3998745845
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745845
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1165193",
+      "id": 3998745845,
+      "name": "Multi Scorers Maxime De Cuyper"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3999188128
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188128
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1221770",
+      "id": 3999188128,
+      "name": "Multi Scorers Yasin Abbas Ayari"
+    },
+    {
+      "shortName": "Yankuba Minteh",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3998745850
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745850
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1363542",
+      "id": 3998745850,
+      "name": "Multi Scorers Yankuba Minteh"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3998745835
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745835
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "770848",
+      "id": 3998745835,
+      "name": "Multi Scorers Dominic Calvert-Lewin"
+    },
+    {
+      "shortName": "Jan Paul van Hecke",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3998745842
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745842
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1088913",
+      "id": 3998745842,
+      "name": "Multi Scorers Jan Paul van Hecke"
+    },
+    {
+      "shortName": "Pascal Gross",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3998745832
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745832
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "474586",
+      "id": 3998745832,
+      "name": "Multi Scorers Pascal Gross"
+    },
+    {
+      "shortName": "Lukas Nmecha",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3999114558
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114558
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "819558",
+      "id": 3999114558,
+      "name": "Multi Scorers Lukas Nmecha"
+    },
+    {
+      "shortName": "Ferdi Kadioglu",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3998745837
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745837
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "933210",
+      "id": 3998745837,
+      "name": "Multi Scorers Ferdi Kadioglu"
+    },
+    {
+      "shortName": "Joel Piroe",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3999163336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163336
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "995337",
+      "id": 3999163336,
+      "name": "Multi Scorers Joel Piroe"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3998745840
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745840
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1056257",
+      "id": 3998745840,
+      "name": "Multi Scorers Sebastiaan Bornauw"
+    },
+    {
+      "shortName": "Jaka Bijol",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3998745841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745841
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1063135",
+      "id": 3998745841,
+      "name": "Multi Scorers Jaka Bijol"
+    },
+    {
+      "shortName": "James Michael Justin",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3998745848
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745848
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1326182",
+      "id": 3998745848,
+      "name": "Multi Scorers James Michael Justin"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3999114277
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114277
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1347937",
+      "id": 3999114277,
+      "name": "Multi Scorers Degnand Wilfried Gnonto"
+    },
+    {
+      "shortName": "Lewis Dunk",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3998745833
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745833
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "527606",
+      "id": 3998745833,
+      "name": "Multi Scorers Lewis Dunk"
+    },
+    {
+      "shortName": "Ethan Ampadu",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3998745838
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745838
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "934889",
+      "id": 3998745838,
+      "name": "Multi Scorers Ethan Ampadu"
+    },
+    {
+      "shortName": "Sean Longstaff",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3999115241
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999115241
+        ]
+      ],
+      "isBB": true,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "965506",
+      "id": 3999115241,
+      "name": "Multi Scorers Sean Longstaff"
+    },
+    {
+      "shortName": "Charalampos Kostoulas",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3999188347
+        ],
+        [
+          3976185485
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188347
+        ],
+        [
+          3976185485
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:446001|1",
+      "id": 3976185485,
+      "name": "Goalscorer - Charalampos Kostoulas (BHA)"
+    },
+    {
+      "shortName": "Georginio Rutter",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3999133283
+        ],
+        [
+          3976182335
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133283
+        ],
+        [
+          3976182335
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427983|1",
+      "id": 3976182335,
+      "name": "Goalscorer - Georginio Rutter (LEE)"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3999133495
+        ],
+        [
+          3976112073
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133495
+        ],
+        [
+          3976112073
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:303645|1",
+      "id": 3976112073,
+      "name": "Goalscorer - Diego Alexander Gomez Amarilla (BHA)"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3998745910
+        ],
+        [
+          3975908539
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745910
+        ],
+        [
+          3975908539
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:277|1",
+      "id": 3975908539,
+      "name": "Goalscorer - Dominic Calvert-Lewin (LEE)"
+    },
+    {
+      "shortName": "Yankuba Minteh",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3998745925
+        ],
+        [
+          3975938645
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745925
+        ],
+        [
+          3975938645
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:314781|1",
+      "id": 3975938645,
+      "name": "Goalscorer - Yankuba Minteh (BHA)"
+    },
+    {
+      "shortName": "Lukas Nmecha",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3999114561
+        ],
+        [
+          3976184229
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114561
+        ],
+        [
+          3976184229
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2579|1",
+      "id": 3976184229,
+      "name": "Goalscorer - Lukas Nmecha (LEE)"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3999188129
+        ],
+        [
+          3976186397
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188129
+        ],
+        [
+          3976186397
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:6312|1",
+      "id": 3976186397,
+      "name": "Goalscorer - Yasin Abbas Ayari (BHA)"
+    },
+    {
+      "shortName": "Joel Piroe",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3999163339
+        ],
+        [
+          3976140982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163339
+        ],
+        [
+          3976140982
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427974|1",
+      "id": 3976140982,
+      "name": "Goalscorer - Joel Piroe (LEE)"
+    },
+    {
+      "shortName": "Maxime De Cuyper",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3998745920
+        ],
+        [
+          3976110636
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745920
+        ],
+        [
+          3976110636
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:11960|1",
+      "id": 3976110636,
+      "name": "Goalscorer - Maxime De Cuyper (BHA)"
+    },
+    {
+      "shortName": "Pascal Gross",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3998745907
+        ],
+        [
+          3976031675
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745907
+        ],
+        [
+          3976031675
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:437|1",
+      "id": 3976031675,
+      "name": "Goalscorer - Pascal Gross (BHA)"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3999114280
+        ],
+        [
+          3976203871
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114280
+        ],
+        [
+          3976203871
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:427975|1",
+      "id": 3976203871,
+      "name": "Goalscorer - Degnand Wilfried Gnonto (LEE)"
+    },
+    {
+      "shortName": "Jan Paul van Hecke",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3998745917
+        ],
+        [
+          3976160841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745917
+        ],
+        [
+          3976160841
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:434|1",
+      "id": 3976160841,
+      "name": "Goalscorer - Jan Paul van Hecke (BHA)"
+    },
+    {
+      "shortName": "Ferdi Kadioglu",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3998745912
+        ],
+        [
+          3976101447
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745912
+        ],
+        [
+          3976101447
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:8594|1",
+      "id": 3976101447,
+      "name": "Goalscorer - Ferdi Kadioglu (BHA)"
+    },
+    {
+      "shortName": "Lewis Dunk",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3998745908
+        ],
+        [
+          3976148739
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745908
+        ],
+        [
+          3976148739
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:450|1",
+      "id": 3976148739,
+      "name": "Goalscorer - Lewis Dunk (BHA)"
+    },
+    {
+      "shortName": "Sean Longstaff",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3999115244
+        ],
+        [
+          3976213153
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999115244
+        ],
+        [
+          3976213153
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:82|1",
+      "id": 3976213153,
+      "name": "Goalscorer - Sean Longstaff (LEE)"
+    },
+    {
+      "shortName": "Jaka Bijol",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3998745916
+        ],
+        [
+          3976178582
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745916
+        ],
+        [
+          3976178582
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1309|1",
+      "id": 3976178582,
+      "name": "Goalscorer - Jaka Bijol (LEE)"
+    },
+    {
+      "shortName": "James Michael Justin",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3998745923
+        ],
+        [
+          3976174359
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745923
+        ],
+        [
+          3976174359
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:588086|1",
+      "id": 3976174359,
+      "name": "Goalscorer - James Michael Justin (LEE)"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3998745915
+        ],
+        [
+          3976191036
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745915
+        ],
+        [
+          3976191036
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:2582|1",
+      "id": 3976191036,
+      "name": "Goalscorer - Sebastiaan Bornauw (LEE)"
+    },
+    {
+      "shortName": "Ethan Ampadu",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3998745913
+        ],
+        [
+          3975946892
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745913
+        ],
+        [
+          3975946892
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "0.5|ws:player:1196|1",
+      "id": 3975946892,
+      "name": "Goalscorer - Ethan Ampadu (LEE)"
+    },
+    {
+      "shortName": "Joe Rodon",
+      "childName": "Joe Rodon",
+      "desktopOddIds": [
+        [
+          3998745914
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745914
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|1028466",
+      "id": 3998745914,
+      "name": "Goalscorer - Joe Rodon (LEE)"
+    },
+    {
+      "shortName": "Charalampos Kostoulas",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3999188346
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188346
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1511137",
+      "id": 3999188346,
+      "name": "Multi Scorers Charalampos Kostoulas"
+    },
+    {
+      "shortName": "Georginio Rutter",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3999133281
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133281
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1069860",
+      "id": 3999133281,
+      "name": "Multi Scorers Georginio Rutter"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3999133493
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999133493
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1351797",
+      "id": 3999133493,
+      "name": "Multi Scorers Diego Alexander Gomez Amarilla"
+    },
+    {
+      "shortName": "Maxime De Cuyper",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3998745845
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745845
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1165193",
+      "id": 3998745845,
+      "name": "Multi Scorers Maxime De Cuyper"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3999188128
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999188128
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1221770",
+      "id": 3999188128,
+      "name": "Multi Scorers Yasin Abbas Ayari"
+    },
+    {
+      "shortName": "Yankuba Minteh",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3998745850
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745850
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1363542",
+      "id": 3998745850,
+      "name": "Multi Scorers Yankuba Minteh"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3998745835
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745835
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "770848",
+      "id": 3998745835,
+      "name": "Multi Scorers Dominic Calvert-Lewin"
+    },
+    {
+      "shortName": "Jan Paul van Hecke",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3998745842
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745842
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1088913",
+      "id": 3998745842,
+      "name": "Multi Scorers Jan Paul van Hecke"
+    },
+    {
+      "shortName": "Pascal Gross",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3998745832
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745832
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "474586",
+      "id": 3998745832,
+      "name": "Multi Scorers Pascal Gross"
+    },
+    {
+      "shortName": "Lukas Nmecha",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3999114558
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114558
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "819558",
+      "id": 3999114558,
+      "name": "Multi Scorers Lukas Nmecha"
+    },
+    {
+      "shortName": "Ferdi Kadioglu",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3998745837
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745837
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "933210",
+      "id": 3998745837,
+      "name": "Multi Scorers Ferdi Kadioglu"
+    },
+    {
+      "shortName": "Joel Piroe",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3999163336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999163336
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "995337",
+      "id": 3999163336,
+      "name": "Multi Scorers Joel Piroe"
+    },
+    {
+      "shortName": "Joe Rodon",
+      "childName": "Joe Rodon",
+      "desktopOddIds": [
+        [
+          3998745839
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745839
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1028466",
+      "id": 3998745839,
+      "name": "Multi Scorers Joe Rodon"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3998745840
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745840
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1056257",
+      "id": 3998745840,
+      "name": "Multi Scorers Sebastiaan Bornauw"
+    },
+    {
+      "shortName": "Jaka Bijol",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3998745841
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745841
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1063135",
+      "id": 3998745841,
+      "name": "Multi Scorers Jaka Bijol"
+    },
+    {
+      "shortName": "James Michael Justin",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3998745848
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745848
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1326182",
+      "id": 3998745848,
+      "name": "Multi Scorers James Michael Justin"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3999114277
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999114277
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1347937",
+      "id": 3999114277,
+      "name": "Multi Scorers Degnand Wilfried Gnonto"
+    },
+    {
+      "shortName": "Lewis Dunk",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3998745833
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745833
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "527606",
+      "id": 3998745833,
+      "name": "Multi Scorers Lewis Dunk"
+    },
+    {
+      "shortName": "Ethan Ampadu",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3998745838
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998745838
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "934889",
+      "id": 3998745838,
+      "name": "Multi Scorers Ethan Ampadu"
+    },
+    {
+      "shortName": "Sean Longstaff",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3999115241
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999115241
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 20999,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "965506",
+      "id": 3999115241,
+      "name": "Multi Scorers Sean Longstaff"
+    },
+    {
+      "shortName": "Charalampos Kostoulas",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3986735388
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986735388
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:446001",
+      "id": 1568778132,
+      "name": "Charalampos Kostoulas (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3986853977
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986853977
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:427975",
+      "id": 1568809892,
+      "name": "Degnand Wilfried Gnonto (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3986867393
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986867393
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:303645",
+      "id": 1568813310,
+      "name": "Diego Alexander Gomez Amarilla (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3986799330
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986799330
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:277",
+      "id": 1568794725,
+      "name": "Dominic Calvert-Lewin (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Ethan Ampadu",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3986855183
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986855183
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:1196",
+      "id": 1568810174,
+      "name": "Ethan Ampadu (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Ferdi Kadioglu",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3986788487
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986788487
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:8594",
+      "id": 1568791116,
+      "name": "Ferdi Kadioglu (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Georginio Rutter",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3986866414
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986866414
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:427983",
+      "id": 1568813048,
+      "name": "Georginio Rutter (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Jaka Bijol",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3986865606
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986865606
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:1309",
+      "id": 1568812731,
+      "name": "Jaka Bijol (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "James Michael Justin",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3986777871
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986777871
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:588086",
+      "id": 1568787927,
+      "name": "James Michael Justin (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Jan Paul van Hecke",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3986787151
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986787151
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:434",
+      "id": 1568790719,
+      "name": "Jan Paul van Hecke (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Joel Piroe",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3986769861
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986769861
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:427974",
+      "id": 1568786120,
+      "name": "Joel Piroe (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Lewis Dunk",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3986787970
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986787970
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:450",
+      "id": 1568790940,
+      "name": "Lewis Dunk (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Lukas Nmecha",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3986760904
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986760904
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:2579",
+      "id": 1568784012,
+      "name": "Lukas Nmecha (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Maxime De Cuyper",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3986801858
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986801858
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:11960",
+      "id": 1568795564,
+      "name": "Maxime De Cuyper (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Pascal Gross",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3986736240
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986736240
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:437",
+      "id": 1568778417,
+      "name": "Pascal Gross (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Sean Longstaff",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3986864423
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986864423
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:82",
+      "id": 1568812469,
+      "name": "Sean Longstaff (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3986762188
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986762188
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:2582",
+      "id": 1568784310,
+      "name": "Sebastiaan Bornauw (LEE) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Yankuba Minteh",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3986757305
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986757305
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:314781",
+      "id": 1568783249,
+      "name": "Yankuba Minteh (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3986765573
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986765573
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 31155,
+      "isMB": false,
+      "sportMarketId": 75793,
+      "sv": "0.5|ws:player:6312",
+      "id": 1568785049,
+      "name": "Yasin Abbas Ayari (BHA) or the substitute to get an assist"
+    },
+    {
+      "shortName": "Charalampos Kostoulas (BHA)",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3986769863
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986769863
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:446001",
+      "id": 1568786122,
+      "name": "Shots on Goal - Charalampos Kostoulas (BHA)"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto (LEE)",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3986791896
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986791896
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:427975",
+      "id": 1568792393,
+      "name": "Shots on Goal - Degnand Wilfried Gnonto (LEE)"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla (BHA)",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3986790183
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986790183
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:303645",
+      "id": 1568791756,
+      "name": "Shots on Goal - Diego Alexander Gomez Amarilla (BHA)"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin (LEE)",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3986765544
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986765544
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:277",
+      "id": 1568785014,
+      "name": "Shots on Goal - Dominic Calvert-Lewin (LEE)"
+    },
+    {
+      "shortName": "Ethan Ampadu (LEE)",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3986788385
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986788385
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:1196",
+      "id": 1568791025,
+      "name": "Shots on Goal - Ethan Ampadu (LEE)"
+    },
+    {
+      "shortName": "Ferdi Kadioglu (BHA)",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3986802380
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986802380
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:8594",
+      "id": 1568795753,
+      "name": "Shots on Goal - Ferdi Kadioglu (BHA)"
+    },
+    {
+      "shortName": "Georginio Rutter (LEE)",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3986862461
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986862461
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "1.5|ws:player:427983",
+      "id": 1568811932,
+      "name": "Shots on Goal - Georginio Rutter (LEE)"
+    },
+    {
+      "shortName": "Jaka Bijol (LEE)",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3986788216
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986788216
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:1309",
+      "id": 1568791010,
+      "name": "Shots on Goal - Jaka Bijol (LEE)"
+    },
+    {
+      "shortName": "James Michael Justin (LEE)",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3986776143
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986776143
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:588086",
+      "id": 1568787549,
+      "name": "Shots on Goal - James Michael Justin (LEE)"
+    },
+    {
+      "shortName": "Jan Paul van Hecke (BHA)",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3986784953
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986784953
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:434",
+      "id": 1568789934,
+      "name": "Shots on Goal - Jan Paul van Hecke (BHA)"
+    },
+    {
+      "shortName": "Joel Piroe (LEE)",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3986858336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986858336
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:427974",
+      "id": 1568810938,
+      "name": "Shots on Goal - Joel Piroe (LEE)"
+    },
+    {
+      "shortName": "Lewis Dunk (BHA)",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3986864104
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986864104
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:450",
+      "id": 1568812380,
+      "name": "Shots on Goal - Lewis Dunk (BHA)"
+    },
+    {
+      "shortName": "Lukas Nmecha (LEE)",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3986714220
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986714220
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:2579",
+      "id": 1568772865,
+      "name": "Shots on Goal - Lukas Nmecha (LEE)"
+    },
+    {
+      "shortName": "Maxime De Cuyper (BHA)",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3986738038
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986738038
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:11960",
+      "id": 1568778820,
+      "name": "Shots on Goal - Maxime De Cuyper (BHA)"
+    },
+    {
+      "shortName": "Pascal Gross (BHA)",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3998947478
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998947478
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "2.5|ws:player:437",
+      "id": 1572696111,
+      "name": "Shots on Goal - Pascal Gross (BHA)"
+    },
+    {
+      "shortName": "Sean Longstaff (LEE)",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3986793667
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986793667
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:82",
+      "id": 1568792991,
+      "name": "Shots on Goal - Sean Longstaff (LEE)"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw (LEE)",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3986738401
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986738401
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:2582",
+      "id": 1568778902,
+      "name": "Shots on Goal - Sebastiaan Bornauw (LEE)"
+    },
+    {
+      "shortName": "Yankuba Minteh (BHA)",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3986749917
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986749917
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:314781",
+      "id": 1568781550,
+      "name": "Shots on Goal - Yankuba Minteh (BHA)"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari (BHA)",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3986760129
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986760129
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15734,
+      "isMB": false,
+      "sportMarketId": 76202,
+      "sv": "0.5|ws:player:6312",
+      "id": 1568783863,
+      "name": "Shots on Goal - Yasin Abbas Ayari (BHA)"
+    },
+    {
+      "shortName": "Charalampos Kostoulas (BHA)",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3986781505,
+          3986781504
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986781505,
+          3986781504
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:446001",
+      "id": 1568788947,
+      "name": "Shots - Charalampos Kostoulas (BHA)"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto (LEE)",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3986797795,
+          3986797794
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986797795,
+          3986797794
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:427975",
+      "id": 1568794166,
+      "name": "Shots - Degnand Wilfried Gnonto (LEE)"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla (BHA)",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3986766627,
+          3986766625
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986766627,
+          3986766625
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:303645",
+      "id": 1568785313,
+      "name": "Shots - Diego Alexander Gomez Amarilla (BHA)"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin (LEE)",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3986853040,
+          3998844564
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986853040,
+          3998844564
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:277",
+      "id": 1568809559,
+      "name": "Shots - Dominic Calvert-Lewin (LEE)"
+    },
+    {
+      "shortName": "Ethan Ampadu (LEE)",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3986782154
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986782154
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:1196",
+      "id": 1568789149,
+      "name": "Shots - Ethan Ampadu (LEE)"
+    },
+    {
+      "shortName": "Ferdi Kadioglu (BHA)",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3986754833
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986754833
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:8594",
+      "id": 1568782709,
+      "name": "Shots - Ferdi Kadioglu (BHA)"
+    },
+    {
+      "shortName": "Georginio Rutter (LEE)",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3986782333,
+          3986782334
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986782333,
+          3986782334
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:427983",
+      "id": 1568789213,
+      "name": "Shots - Georginio Rutter (LEE)"
+    },
+    {
+      "shortName": "Jaka Bijol (LEE)",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3986727200
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986727200
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:1309",
+      "id": 1568776157,
+      "name": "Shots - Jaka Bijol (LEE)"
+    },
+    {
+      "shortName": "James Michael Justin (LEE)",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3986758909
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986758909
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:588086",
+      "id": 1568783612,
+      "name": "Shots - James Michael Justin (LEE)"
+    },
+    {
+      "shortName": "Jan Paul van Hecke (BHA)",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3986799517
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986799517
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:434",
+      "id": 1568794822,
+      "name": "Shots - Jan Paul van Hecke (BHA)"
+    },
+    {
+      "shortName": "Joel Piroe (LEE)",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3986741282,
+          3986741283
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986741282,
+          3986741283
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:427974",
+      "id": 1568779580,
+      "name": "Shots - Joel Piroe (LEE)"
+    },
+    {
+      "shortName": "Lewis Dunk (BHA)",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3986786840
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986786840
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:450",
+      "id": 1568790599,
+      "name": "Shots - Lewis Dunk (BHA)"
+    },
+    {
+      "shortName": "Lukas Nmecha (LEE)",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3999116179,
+          3986827903
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999116179,
+          3986827903
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:2579",
+      "id": 1572748304,
+      "name": "Shots - Lukas Nmecha (LEE)"
+    },
+    {
+      "shortName": "Maxime De Cuyper (BHA)",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3986785269
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986785269
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:11960",
+      "id": 1568790075,
+      "name": "Shots - Maxime De Cuyper (BHA)"
+    },
+    {
+      "shortName": "Pascal Gross (BHA)",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3986710081
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986710081
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "2.5|ws:player:437",
+      "id": 1568771607,
+      "name": "Shots - Pascal Gross (BHA)"
+    },
+    {
+      "shortName": "Sean Longstaff (LEE)",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3986710865
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986710865
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:82",
+      "id": 1568771892,
+      "name": "Shots - Sean Longstaff (LEE)"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw (LEE)",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3986702606
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986702606
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:2582",
+      "id": 1568769562,
+      "name": "Shots - Sebastiaan Bornauw (LEE)"
+    },
+    {
+      "shortName": "Yankuba Minteh (BHA)",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3986709930,
+          3986709928
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986709930,
+          3986709928
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "0.5|ws:player:314781",
+      "id": 1568771560,
+      "name": "Shots - Yankuba Minteh (BHA)"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari (BHA)",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3986854318,
+          3999188107
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986854318,
+          3999188107
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15735,
+      "isMB": false,
+      "sportMarketId": 76203,
+      "sv": "1.5|ws:player:6312",
+      "id": 1568809979,
+      "name": "Shots - Yasin Abbas Ayari (BHA)"
+    },
+    {
+      "shortName": "Charalampos Kostoulas (BHA)",
+      "childName": "Charalampos Kostoulas",
+      "desktopOddIds": [
+        [
+          3986735385
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986735385
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:446001",
+      "id": 1568778129,
+      "name": "Assists - Charalampos Kostoulas (BHA)"
+    },
+    {
+      "shortName": "Degnand Wilfried Gnonto (LEE)",
+      "childName": "Degnand Wilfried Gnonto",
+      "desktopOddIds": [
+        [
+          3986853932
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986853932
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:427975",
+      "id": 1568809876,
+      "name": "Assists - Degnand Wilfried Gnonto (LEE)"
+    },
+    {
+      "shortName": "Diego Alexander Gomez Amarilla (BHA)",
+      "childName": "Diego Alexander Gomez Amarilla",
+      "desktopOddIds": [
+        [
+          3986867382
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986867382
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:303645",
+      "id": 1568813301,
+      "name": "Assists - Diego Alexander Gomez Amarilla (BHA)"
+    },
+    {
+      "shortName": "Dominic Calvert-Lewin (LEE)",
+      "childName": "Dominic Calvert-Lewin",
+      "desktopOddIds": [
+        [
+          3986799328
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986799328
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:277",
+      "id": 1568794723,
+      "name": "Assists - Dominic Calvert-Lewin (LEE)"
+    },
+    {
+      "shortName": "Ethan Ampadu (LEE)",
+      "childName": "Ethan Ampadu",
+      "desktopOddIds": [
+        [
+          3986855179
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986855179
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:1196",
+      "id": 1568810171,
+      "name": "Assists - Ethan Ampadu (LEE)"
+    },
+    {
+      "shortName": "Ferdi Kadioglu (BHA)",
+      "childName": "Ferdi Kadioglu",
+      "desktopOddIds": [
+        [
+          3986788482
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986788482
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:8594",
+      "id": 1568791111,
+      "name": "Assists - Ferdi Kadioglu (BHA)"
+    },
+    {
+      "shortName": "Georginio Rutter (LEE)",
+      "childName": "Georginio Rutter",
+      "desktopOddIds": [
+        [
+          3986866371
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986866371
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:427983",
+      "id": 1568813026,
+      "name": "Assists - Georginio Rutter (LEE)"
+    },
+    {
+      "shortName": "Jaka Bijol (LEE)",
+      "childName": "Jaka Bijol",
+      "desktopOddIds": [
+        [
+          3986865604
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986865604
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:1309",
+      "id": 1568812729,
+      "name": "Assists - Jaka Bijol (LEE)"
+    },
+    {
+      "shortName": "James Michael Justin (LEE)",
+      "childName": "James Michael Justin",
+      "desktopOddIds": [
+        [
+          3986777786
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986777786
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:588086",
+      "id": 1568787906,
+      "name": "Assists - James Michael Justin (LEE)"
+    },
+    {
+      "shortName": "Jan Paul van Hecke (BHA)",
+      "childName": "Jan Paul van Hecke",
+      "desktopOddIds": [
+        [
+          3986787148
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986787148
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:434",
+      "id": 1568790716,
+      "name": "Assists - Jan Paul van Hecke (BHA)"
+    },
+    {
+      "shortName": "Joel Piroe (LEE)",
+      "childName": "Joel Piroe",
+      "desktopOddIds": [
+        [
+          3986769809
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986769809
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:427974",
+      "id": 1568786091,
+      "name": "Assists - Joel Piroe (LEE)"
+    },
+    {
+      "shortName": "Lewis Dunk (BHA)",
+      "childName": "Lewis Dunk",
+      "desktopOddIds": [
+        [
+          3986787960
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986787960
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:450",
+      "id": 1568790936,
+      "name": "Assists - Lewis Dunk (BHA)"
+    },
+    {
+      "shortName": "Lukas Nmecha (LEE)",
+      "childName": "Lukas Nmecha",
+      "desktopOddIds": [
+        [
+          3986760628
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986760628
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:2579",
+      "id": 1568783985,
+      "name": "Assists - Lukas Nmecha (LEE)"
+    },
+    {
+      "shortName": "Maxime De Cuyper (BHA)",
+      "childName": "Maxime De Cuyper",
+      "desktopOddIds": [
+        [
+          3986801855
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986801855
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:11960",
+      "id": 1568795561,
+      "name": "Assists - Maxime De Cuyper (BHA)"
+    },
+    {
+      "shortName": "Pascal Gross (BHA)",
+      "childName": "Pascal Gross",
+      "desktopOddIds": [
+        [
+          3986736237
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986736237
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:437",
+      "id": 1568778414,
+      "name": "Assists - Pascal Gross (BHA)"
+    },
+    {
+      "shortName": "Sean Longstaff (LEE)",
+      "childName": "Sean Longstaff",
+      "desktopOddIds": [
+        [
+          3986864420
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986864420
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:82",
+      "id": 1568812466,
+      "name": "Assists - Sean Longstaff (LEE)"
+    },
+    {
+      "shortName": "Sebastiaan Bornauw (LEE)",
+      "childName": "Sebastiaan Bornauw",
+      "desktopOddIds": [
+        [
+          3986762185
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986762185
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43634,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:2582",
+      "id": 1568784307,
+      "name": "Assists - Sebastiaan Bornauw (LEE)"
+    },
+    {
+      "shortName": "Yankuba Minteh (BHA)",
+      "childName": "Yankuba Minteh",
+      "desktopOddIds": [
+        [
+          3986757302
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986757302
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:314781",
+      "id": 1568783246,
+      "name": "Assists - Yankuba Minteh (BHA)"
+    },
+    {
+      "shortName": "Yasin Abbas Ayari (BHA)",
+      "childName": "Yasin Abbas Ayari",
+      "desktopOddIds": [
+        [
+          3986765548
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3986765548
+        ]
+      ],
+      "isBB": false,
+      "variant": 11,
+      "competitorId": 43693,
+      "so": 0,
+      "typeId": 15736,
+      "isMB": false,
+      "sportMarketId": 76204,
+      "sv": "0.5|ws:player:6312",
+      "id": 1568785030,
+      "name": "Assists - Yasin Abbas Ayari (BHA)"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683697,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929683698,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683699,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2106,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683642,
+      "name": "Leeds or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929683640,
+      "name": "Leeds or Brighton & Hove Albion"
+    },
+    {
+      "typeId": 11,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683641,
+      "name": "Draw or Brighton & Hove Albion"
+    },
+    {
+      "typeId": 12,
+      "price": 2.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3929683500,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3929683502,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.425,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3929683501,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3929683503,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43634,
+      "id": 3929683706,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 3,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 43693,
+      "id": 3929683707,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1,
+      "price": 8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 43634,
+      "id": 3929683906,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 7,
+      "price": 1.425,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3929683908,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 43693,
+      "id": 3929683907,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.2106,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683438,
+      "name": "Leeds (+0.5)"
+    },
+    {
+      "typeId": 1714,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683436,
+      "name": "Leeds (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 4.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683439,
+      "name": "Brighton & Hove Albion (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "-0.5",
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683437,
+      "name": "Brighton & Hove Albion (+0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.2106,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 43634,
+      "id": 3929683863,
+      "name": "Leeds (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3929683864,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 43693,
+      "id": 3929683865,
+      "name": "Brighton & Hove Albion (1:0)"
+    },
+    {
+      "typeId": 70,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929684901,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3929684902,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683697,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683698,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683699,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 12,
+      "price": 2.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683500,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683502,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.425,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683501,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683503,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2106,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683642,
+      "name": "Leeds or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929683640,
+      "name": "Leeds or Brighton & Hove Albion"
+    },
+    {
+      "typeId": 11,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683641,
+      "name": "Draw or Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.2106,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683438,
+      "name": "Leeds (+0.5)"
+    },
+    {
+      "typeId": 1714,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 43634,
+      "isDBB": true,
+      "id": 3929683436,
+      "name": "Leeds (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 4.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683439,
+      "name": "Brighton & Hove Albion (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 43693,
+      "isDBB": true,
+      "id": 3929683437,
+      "name": "Brighton & Hove Albion (+0.5)"
+    },
+    {
+      "typeId": 70,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929684901,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3929684902,
+      "name": "Even"
+    },
+    {
+      "typeId": 12,
+      "price": 1.575,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "15.5",
+      "id": 3997207360,
+      "name": "Over 15.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "16.5",
+      "id": 3999084822,
+      "name": "Over 16.5"
+    },
+    {
+      "typeId": 12,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "17.5",
+      "id": 3999149474,
+      "name": "Over 17.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.15,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "15.5",
+      "id": 3997207361,
+      "name": "Under 15.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2106,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "16.5",
+      "id": 3999084823,
+      "name": "Under 16.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "17.5",
+      "id": 3999149475,
+      "name": "Under 17.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3998917287,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3998917288,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 1,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43634,
+      "id": 3986798371,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3986798372,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43693,
+      "id": 3986798373,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43634,
+      "id": 3986875318,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3986875319,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43693,
+      "id": 3986875320,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43634,
+      "id": 3996872758,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 1.14,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996872759,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43693,
+      "id": 3996872760,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 2,
+      "price": 25,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996872955,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43693,
+      "id": 3996872956,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43634,
+      "id": 3996872954,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 2,
+      "price": 18,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3996872500,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43693,
+      "id": 3996872501,
+      "name": "Brighton & Hove Albion"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 43634,
+      "id": 3996872499,
+      "name": "Leeds"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "8.5",
+      "id": 3986875326,
+      "name": "Over 8.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "8.5",
+      "id": 3986875327,
+      "name": "Under 8.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "9.5",
+      "id": 3986875324,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "9.5",
+      "id": 3986875325,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|368",
+      "id": 3999079922,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|368",
+      "id": 3999079923,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "25.5",
+      "id": 3986798380,
+      "name": "Over 25.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "25.5",
+      "id": 3986798381,
+      "name": "Under 25.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "26.5",
+      "id": 3986798376,
+      "name": "Over 26.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "26.5",
+      "id": 3986798377,
+      "name": "Under 26.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "27.5",
+      "id": 3986798374,
+      "name": "Over 27.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "27.5",
+      "id": 3986798375,
+      "name": "Under 27.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "6.5|368",
+      "id": 3999066383,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "6.5|368",
+      "id": 3999066384,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "7.5|368",
+      "id": 3998969981,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "7.5|368",
+      "id": 3998969982,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "18.5|433",
+      "id": 3999072219,
+      "name": "Over 18.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "18.5|433",
+      "id": 3999072220,
+      "name": "Under 18.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.5,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "4.5",
+      "id": 3996872768,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.22,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "4.5",
+      "id": 3996872769,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|368",
+      "id": 3998775175,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 0,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|368",
+      "id": 3998775176,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|433",
+      "id": 3998823267,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.06,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "2.5|433",
+      "id": 3998823268,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "16.5",
+      "id": 3999165452,
+      "name": "Over 16.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.85,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "16.5",
+      "id": 3999165453,
+      "name": "Under 16.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "9.5|368",
+      "id": 3996872948,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "9.5|368",
+      "id": 3996872949,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.48,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5|433",
+      "id": 3999185215,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.2,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "6.5|433",
+      "id": 3999185216,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "17.5",
+      "id": 3999168384,
+      "name": "Over 17.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.65,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "17.5",
+      "id": 3999168385,
+      "name": "Under 17.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.35,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|368",
+      "id": 3998878860,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.45,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "10.5|368",
+      "id": 3998878861,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.45,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "7.5|433",
+      "id": 3999179915,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.42,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "7.5|433",
+      "id": 3999179916,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 2090,
+      "price": 13,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:446001|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999188347,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:446001|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976185485,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 15,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427983|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999133283,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427983|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976182335,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 17,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:303645|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999133495,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:303645|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976112073,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:277|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745910,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:277|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3975908539,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:314781|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745925,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:314781|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3975938645,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2579|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999114561,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2579|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976184229,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:6312|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999188129,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:6312|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976186397,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 23,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427974|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999163339,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 16,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427974|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976140982,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 24,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:11960|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745920,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:11960|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976110636,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 27,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:437|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745907,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:437|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976031675,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427975|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999114280,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427975|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976203871,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:434|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745917,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:434|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976160841,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:8594|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745912,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:8594|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976101447,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:450|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745908,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:450|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976148739,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:82|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999115244,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:82|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976213153,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1309|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745916,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1309|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976178582,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:588086|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745923,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:588086|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976174359,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2582|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745915,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2582|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3976191036,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 70,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1196|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745913,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": true,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1196|1",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3975946892,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2101,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1511137",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999188346,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1069860",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999133281,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1351797",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999133493,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1165193",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745845,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1221770",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999188128,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1363542",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745850,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "770848",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745835,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1088913",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745842,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "474586",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745832,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "819558",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999114558,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "933210",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745837,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "995337",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999163336,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1056257",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745840,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1063135",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745841,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1326182",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745848,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1347937",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999114277,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "527606",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745833,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "934889",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3998745838,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "965506",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999115241,
+      "name": "2+"
+    },
+    {
+      "typeId": 2090,
+      "price": 13,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:446001|1",
+      "isDBB": true,
+      "id": 3999188347,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:446001|1",
+      "isDBB": true,
+      "id": 3976185485,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427983|1",
+      "isDBB": true,
+      "id": 3999133283,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427983|1",
+      "isDBB": true,
+      "id": 3976182335,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:303645|1",
+      "isDBB": true,
+      "id": 3999133495,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:303645|1",
+      "isDBB": true,
+      "id": 3976112073,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:277|1",
+      "isDBB": true,
+      "id": 3998745910,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:277|1",
+      "isDBB": true,
+      "id": 3975908539,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:314781|1",
+      "isDBB": true,
+      "id": 3998745925,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:314781|1",
+      "isDBB": true,
+      "id": 3975938645,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2579|1",
+      "isDBB": true,
+      "id": 3999114561,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2579|1",
+      "isDBB": true,
+      "id": 3976184229,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:6312|1",
+      "isDBB": true,
+      "id": 3999188129,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:6312|1",
+      "isDBB": true,
+      "id": 3976186397,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 23,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427974|1",
+      "isDBB": true,
+      "id": 3999163339,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427974|1",
+      "isDBB": true,
+      "id": 3976140982,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 24,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:11960|1",
+      "isDBB": true,
+      "id": 3998745920,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:11960|1",
+      "isDBB": true,
+      "id": 3976110636,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 27,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:437|1",
+      "isDBB": true,
+      "id": 3998745907,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:437|1",
+      "isDBB": true,
+      "id": 3976031675,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:427975|1",
+      "isDBB": true,
+      "id": 3999114280,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:427975|1",
+      "isDBB": true,
+      "id": 3976203871,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:434|1",
+      "isDBB": true,
+      "id": 3998745917,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:434|1",
+      "isDBB": true,
+      "id": 3976160841,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:8594|1",
+      "isDBB": true,
+      "id": 3998745912,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:8594|1",
+      "isDBB": true,
+      "id": 3976101447,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:450|1",
+      "isDBB": true,
+      "id": 3998745908,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:450|1",
+      "isDBB": true,
+      "id": 3976148739,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:82|1",
+      "isDBB": true,
+      "id": 3999115244,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 30,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:82|1",
+      "isDBB": true,
+      "id": 3976213153,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1309|1",
+      "isDBB": true,
+      "id": 3998745916,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1309|1",
+      "isDBB": true,
+      "id": 3976178582,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 50,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:588086|1",
+      "isDBB": true,
+      "id": 3998745923,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 40,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:588086|1",
+      "isDBB": true,
+      "id": 3976174359,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:2582|1",
+      "isDBB": true,
+      "id": 3998745915,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:2582|1",
+      "isDBB": true,
+      "id": 3976191036,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 70,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5|ws:player:1196|1",
+      "isDBB": true,
+      "id": 3998745913,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5|ws:player:1196|1",
+      "isDBB": true,
+      "id": 3975946892,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1|1028466",
+      "isDBB": true,
+      "id": 3998745914,
+      "name": "First"
+    },
+    {
+      "typeId": 2101,
+      "price": 60,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1511137",
+      "isDBB": true,
+      "id": 3999188346,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1069860",
+      "isDBB": true,
+      "id": 3999133281,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1351797",
+      "isDBB": true,
+      "id": 3999133493,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1165193",
+      "isDBB": true,
+      "id": 3998745845,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1221770",
+      "isDBB": true,
+      "id": 3999188128,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1363542",
+      "isDBB": true,
+      "id": 3998745850,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 90,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "770848",
+      "isDBB": true,
+      "id": 3998745835,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1088913",
+      "isDBB": true,
+      "id": 3998745842,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "474586",
+      "isDBB": true,
+      "id": 3998745832,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "819558",
+      "isDBB": true,
+      "id": 3999114558,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "933210",
+      "isDBB": true,
+      "id": 3998745837,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 100,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "995337",
+      "isDBB": true,
+      "id": 3999163336,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1028466",
+      "isDBB": true,
+      "id": 3998745839,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1056257",
+      "isDBB": true,
+      "id": 3998745840,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1063135",
+      "isDBB": true,
+      "id": 3998745841,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1326182",
+      "isDBB": true,
+      "id": 3998745848,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1347937",
+      "isDBB": true,
+      "id": 3999114277,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "527606",
+      "isDBB": true,
+      "id": 3998745833,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "934889",
+      "isDBB": true,
+      "id": 3998745838,
+      "name": "2+"
+    },
+    {
+      "typeId": 2101,
+      "price": 110,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "965506",
+      "isDBB": true,
+      "id": 3999115241,
+      "name": "2+"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986735388,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986853977,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986867393,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986799330,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986855183,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986788487,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986866414,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986865606,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986777871,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986787151,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986769861,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986787970,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986760904,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986801858,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986736240,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986864423,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986762188,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986757305,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986765573,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986769863,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986791896,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986790183,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986765544,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986788385,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986802380,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986862461,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986788216,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986776143,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986784953,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986858336,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986864104,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986714220,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986738038,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3998947478,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986793667,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986738401,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986749917,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986760129,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986781505,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986781504,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986797795,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986797794,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986766627,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "3.5",
+      "id": 3986766625,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986853040,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3998844564,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986782154,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986754833,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986782333,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "3.5",
+      "id": 3986782334,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986727200,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986758909,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986799517,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986741282,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986741283,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986786840,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999116179,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986827903,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986785269,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "2.5",
+      "id": 3986710081,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986710865,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986702606,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986709930,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986709928,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "1.5",
+      "id": 3986854318,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3999188107,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986735385,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986853932,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986867382,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986799328,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986855179,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986788482,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986866371,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986865604,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986777786,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986787148,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986769809,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986787960,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986760628,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986801855,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986736237,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986864420,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986762185,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986757302,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "0.5",
+      "id": 3986765548,
+      "name": "Over 0.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1159,
+  "rc": false,
+  "startDate": "2026-05-17T14:00:00Z",
+  "offers": [
+    {
+      "type": 5
+    }
+  ],
+  "showAll": true
+}

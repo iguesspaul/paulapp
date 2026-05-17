@@ -1,0 +1,3595 @@
+{
+  "id": 16344890,
+  "feedEventId": 20873375,
+  "name": "Ferroviario vs. Atletico Cearense",
+  "et": 0,
+  "liveTime": "75'",
+  "lst": "2026-05-17T20:23:45Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 17204,
+    "name": "Brasileiro Serie D"
+  },
+  "category": {
+    "iso": "BRA",
+    "hasLiveEvents": false,
+    "id": 593,
+    "name": "Brazil"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 47628,
+      "name": "Ferroviario"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 47623,
+      "name": "Atletico Cearense"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1571424526,
+        1571424522,
+        1571424515,
+        1571424519,
+        1572444259,
+        1573265875,
+        1571424520,
+        1573265877,
+        1573265879,
+        1571424560,
+        1571614975,
+        1571424513,
+        1571424769,
+        1571424772,
+        1571424773,
+        1571424555
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1571424526,
+        1571424515,
+        1571424522,
+        1573265877,
+        1571424519,
+        1571614975,
+        1571424513,
+        1571424769,
+        1571424520
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 1,
+      "marketIds": [
+        1573268790,
+        1573269719,
+        1573270601
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 18,
+      "name": "1 minute"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1571424558,
+        1571424559
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1571424547,
+        1571424553,
+        1571424549,
+        1571424542,
+        1571424548,
+        1571424552,
+        1571424550,
+        1571424546,
+        1573265880,
+        1573265876,
+        1573265878
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3995369042
+        ],
+        [
+          3995369043
+        ],
+        [
+          3995369044
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369042
+        ],
+        [
+          3995369043
+        ],
+        [
+          3995369044
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1571424526,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3995369029
+        ],
+        [
+          3995369027
+        ],
+        [
+          3995369028
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369029,
+          3995369027,
+          3995369028
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1571424522,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3995368985,
+          3995368987
+        ],
+        [
+          3995368986,
+          3995368988
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368985,
+          3995368987
+        ],
+        [
+          3995368986,
+          3995368988
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1571424515,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3995368993
+        ],
+        [
+          3995368994
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368993
+        ],
+        [
+          3995368994
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1571424519,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Any team to win",
+      "desktopOddIds": [
+        [
+          3998309091
+        ],
+        [
+          3998309092
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998309091
+        ],
+        [
+          3998309092
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 881,
+      "isMB": false,
+      "sportMarketId": 71124,
+      "id": 1572444259,
+      "name": "Any team to win"
+    },
+    {
+      "shortName": "Third goal",
+      "desktopOddIds": [
+        [
+          4000484190
+        ],
+        [
+          4000484192
+        ],
+        [
+          4000484191
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484190
+        ],
+        [
+          4000484192
+        ],
+        [
+          4000484191
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "3",
+      "id": 1573265875,
+      "name": "Third goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3995368997,
+          3995369002,
+          3995368998,
+          3995369003,
+          3995369008,
+          3995368999,
+          3995369004,
+          3995369009,
+          3995369017
+        ],
+        [
+          3995369007,
+          3995369013,
+          3995369019,
+          3995369020
+        ],
+        [
+          3995369012,
+          3995369016,
+          3995369018
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368997,
+          3995369002,
+          3995368998,
+          3995369003,
+          3995369008,
+          3995368999,
+          3995369004,
+          3995369009,
+          3995369017
+        ],
+        [
+          3995369007,
+          3995369013,
+          3995369019,
+          3995369020
+        ],
+        [
+          3995369012,
+          3995369016,
+          3995369018
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1571424520,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4000484200
+        ],
+        [
+          4000484201
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484200
+        ],
+        [
+          4000484201
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-2.5",
+      "id": 1573265877,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          4000484208
+        ],
+        [
+          4000484209
+        ],
+        [
+          4000484210
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484208,
+          4000484209,
+          4000484210
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "0:2",
+      "id": 1573265879,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          3995369311
+        ],
+        [
+          3995369313
+        ],
+        [
+          3995369312
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369311
+        ],
+        [
+          3995369313
+        ],
+        [
+          3995369312
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "isMB": false,
+      "sportMarketId": 70493,
+      "id": 1571424560,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "Ferroviario total",
+      "desktopOddIds": [
+        [
+          3995875974
+        ],
+        [
+          3995875975
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995875974
+        ],
+        [
+          3995875975
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "2.5",
+      "id": 1571614975,
+      "name": "Ferroviario total"
+    },
+    {
+      "shortName": "Atletico Cearense total",
+      "desktopOddIds": [
+        [
+          3995368981
+        ],
+        [
+          3995368982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368981
+        ],
+        [
+          3995368982
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "0.5",
+      "id": 1571424513,
+      "name": "Atletico Cearense total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3995369800
+        ],
+        [
+          3995369801
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369800
+        ],
+        [
+          3995369801
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1571424769,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Ferroviario odd/even",
+      "desktopOddIds": [
+        [
+          3995369806
+        ],
+        [
+          3995369807
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369806
+        ],
+        [
+          3995369807
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1571424772,
+      "name": "Ferroviario odd/even"
+    },
+    {
+      "shortName": "Atletico Cearense odd/even",
+      "desktopOddIds": [
+        [
+          3995369808
+        ],
+        [
+          3995369809
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369808
+        ],
+        [
+          3995369809
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1571424773,
+      "name": "Atletico Cearense odd/even"
+    },
+    {
+      "shortName": "Multigoals",
+      "desktopOddIds": [
+        [
+          3995369174,
+          3995369173,
+          3995369165,
+          3995369166,
+          3995369147,
+          3995369149,
+          3995369167,
+          3995369152,
+          3995369154,
+          3995369155,
+          3995369157,
+          3995369175,
+          3995369159,
+          3995369178,
+          3995369171,
+          3995369172,
+          3995369176
+        ],
+        [
+          3995369163,
+          3995369162,
+          3995369164,
+          3995369146,
+          3995369148,
+          3995369150,
+          3995369151,
+          3995369153,
+          3995369168,
+          3995369156,
+          3995369169,
+          3995369158,
+          3995369170,
+          3995369160,
+          3995369161,
+          3995369177
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369174,
+          3995369173,
+          3995369165,
+          3995369166,
+          3995369147,
+          3995369149,
+          3995369167,
+          3995369152,
+          3995369154,
+          3995369155,
+          3995369157,
+          3995369175,
+          3995369159,
+          3995369178,
+          3995369171,
+          3995369172,
+          3995369176
+        ],
+        [
+          3995369163,
+          3995369162,
+          3995369164,
+          3995369146,
+          3995369148,
+          3995369150,
+          3995369151,
+          3995369153,
+          3995369168,
+          3995369156,
+          3995369169,
+          3995369158,
+          3995369170,
+          3995369160,
+          3995369161,
+          3995369177
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 548,
+      "isMB": false,
+      "sportMarketId": 71014,
+      "id": 1571424555,
+      "name": "Multigoals"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3995369042
+        ],
+        [
+          3995369043
+        ],
+        [
+          3995369044
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369042
+        ],
+        [
+          3995369043
+        ],
+        [
+          3995369044
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1571424526,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3995368985,
+          3995368987
+        ],
+        [
+          3995368986,
+          3995368988
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368985,
+          3995368987
+        ],
+        [
+          3995368986,
+          3995368988
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1571424515,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3995369029
+        ],
+        [
+          3995369027
+        ],
+        [
+          3995369028
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369029,
+          3995369027,
+          3995369028
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1571424522,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4000484200
+        ],
+        [
+          4000484201
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484200
+        ],
+        [
+          4000484201
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-2.5",
+      "id": 1573265877,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3995368993
+        ],
+        [
+          3995368994
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368993
+        ],
+        [
+          3995368994
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1571424519,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Ferroviario total",
+      "desktopOddIds": [
+        [
+          3995875974
+        ],
+        [
+          3995875975
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995875974
+        ],
+        [
+          3995875975
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "2.5",
+      "id": 1571614975,
+      "name": "Ferroviario total"
+    },
+    {
+      "shortName": "Atletico Cearense total",
+      "desktopOddIds": [
+        [
+          3995368981
+        ],
+        [
+          3995368982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368981
+        ],
+        [
+          3995368982
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "0.5",
+      "id": 1571424513,
+      "name": "Atletico Cearense total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3995369800
+        ],
+        [
+          3995369801
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369800
+        ],
+        [
+          3995369801
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1571424769,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3995368997,
+          3995369002,
+          3995368998,
+          3995369003,
+          3995369008,
+          3995368999,
+          3995369004,
+          3995369009,
+          3995369017
+        ],
+        [
+          3995369007,
+          3995369013,
+          3995369019,
+          3995369020
+        ],
+        [
+          3995369012,
+          3995369016,
+          3995369018
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995368997,
+          3995369002,
+          3995368998,
+          3995369003,
+          3995369008,
+          3995368999,
+          3995369004,
+          3995369009,
+          3995369017
+        ],
+        [
+          3995369007,
+          3995369013,
+          3995369019,
+          3995369020
+        ],
+        [
+          3995369012,
+          3995369016,
+          3995369018
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1571424520,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "What will happen in next minute (76:00 - 76:59)",
+      "desktopOddIds": [
+        [
+          4000491181
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000491181
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "76:00|76:59",
+      "id": 1573268790,
+      "name": "What will happen in next minute (76:00 - 76:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (77:00 - 77:59)",
+      "desktopOddIds": [
+        [
+          4000493405
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000493405
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "77:00|77:59",
+      "id": 1573269719,
+      "name": "What will happen in next minute (77:00 - 77:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (78:00 - 78:59)",
+      "desktopOddIds": [
+        [
+          4000495349
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000495349
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "78:00|78:59",
+      "id": 1573270601,
+      "name": "What will happen in next minute (78:00 - 78:59)"
+    },
+    {
+      "shortName": "Ferroviario multigoals",
+      "desktopOddIds": [
+        [
+          3995369273,
+          3995369272,
+          3995369264,
+          3995369265,
+          3995369246,
+          3995369248,
+          3995369266,
+          3995369251,
+          3995369253,
+          3995369254,
+          3995369256,
+          3995369274,
+          3995369258,
+          3995369277,
+          3995369270,
+          3995369271,
+          3995369275
+        ],
+        [
+          3995369262,
+          3995369261,
+          3995369263,
+          3995369245,
+          3995369247,
+          3995369249,
+          3995369250,
+          3995369252,
+          3995369267,
+          3995369255,
+          3995369268,
+          3995369257,
+          3995369269,
+          3995369259,
+          3995369260,
+          3995369276
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369273,
+          3995369272,
+          3995369264,
+          3995369265,
+          3995369246,
+          3995369248,
+          3995369266,
+          3995369251,
+          3995369253,
+          3995369254,
+          3995369256,
+          3995369274,
+          3995369258,
+          3995369277,
+          3995369270,
+          3995369271,
+          3995369275
+        ],
+        [
+          3995369262,
+          3995369261,
+          3995369263,
+          3995369245,
+          3995369247,
+          3995369249,
+          3995369250,
+          3995369252,
+          3995369267,
+          3995369255,
+          3995369268,
+          3995369257,
+          3995369269,
+          3995369259,
+          3995369260,
+          3995369276
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 549,
+      "isMB": false,
+      "sportMarketId": 71015,
+      "id": 1571424558,
+      "name": "Ferroviario multigoals"
+    },
+    {
+      "shortName": "Atletico Cearense multigoals",
+      "desktopOddIds": [
+        [
+          3995369306,
+          3995369305,
+          3995369297,
+          3995369298,
+          3995369279,
+          3995369281,
+          3995369299,
+          3995369284,
+          3995369286,
+          3995369287,
+          3995369289,
+          3995369307,
+          3995369291,
+          3995369310,
+          3995369303,
+          3995369304,
+          3995369308
+        ],
+        [
+          3995369295,
+          3995369294,
+          3995369296,
+          3995369278,
+          3995369280,
+          3995369282,
+          3995369283,
+          3995369285,
+          3995369300,
+          3995369288,
+          3995369301,
+          3995369290,
+          3995369302,
+          3995369292,
+          3995369293,
+          3995369309
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369306,
+          3995369305,
+          3995369297,
+          3995369298,
+          3995369279,
+          3995369281,
+          3995369299,
+          3995369284,
+          3995369286,
+          3995369287,
+          3995369289,
+          3995369307,
+          3995369291,
+          3995369310,
+          3995369303,
+          3995369304,
+          3995369308
+        ],
+        [
+          3995369295,
+          3995369294,
+          3995369296,
+          3995369278,
+          3995369280,
+          3995369282,
+          3995369283,
+          3995369285,
+          3995369300,
+          3995369288,
+          3995369301,
+          3995369290,
+          3995369302,
+          3995369292,
+          3995369293,
+          3995369309
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 550,
+      "isMB": false,
+      "sportMarketId": 71016,
+      "id": 1571424559,
+      "name": "Atletico Cearense multigoals"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-5",
+      "desktopOddIds": [
+        [
+          3995369122,
+          3995369123,
+          3995369124
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369122,
+          3995369123,
+          3995369124
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-5",
+      "id": 1571424547,
+      "name": "1x2 & Multigoals 1-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-6",
+      "desktopOddIds": [
+        [
+          3995369140,
+          3995369141,
+          3995369142
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369140,
+          3995369141,
+          3995369142
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-6",
+      "id": 1571424553,
+      "name": "1x2 & Multigoals 1-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-5",
+      "desktopOddIds": [
+        [
+          3995369128,
+          3995369129,
+          3995369130
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369128,
+          3995369129,
+          3995369130
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-5",
+      "id": 1571424549,
+      "name": "1x2 & Multigoals 2-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-6",
+      "desktopOddIds": [
+        [
+          3995369107,
+          3995369108,
+          3995369109
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369107,
+          3995369108,
+          3995369109
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-6",
+      "id": 1571424542,
+      "name": "1x2 & Multigoals 2-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 3-5",
+      "desktopOddIds": [
+        [
+          3995369125,
+          3995369126,
+          3995369127
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369125,
+          3995369126,
+          3995369127
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "3-5",
+      "id": 1571424548,
+      "name": "1x2 & Multigoals 3-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 3-6",
+      "desktopOddIds": [
+        [
+          3995369137,
+          3995369138,
+          3995369139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369137,
+          3995369138,
+          3995369139
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "3-6",
+      "id": 1571424552,
+      "name": "1x2 & Multigoals 3-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 4-5",
+      "desktopOddIds": [
+        [
+          3995369131,
+          3995369132,
+          3995369133
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369131,
+          3995369132,
+          3995369133
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "4-5",
+      "id": 1571424550,
+      "name": "1x2 & Multigoals 4-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 4-6",
+      "desktopOddIds": [
+        [
+          3995369119,
+          3995369120,
+          3995369121
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995369119,
+          3995369120,
+          3995369121
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "4-6",
+      "id": 1571424546,
+      "name": "1x2 & Multigoals 4-6"
+    },
+    {
+      "shortName": "Total & GG/NG",
+      "desktopOddIds": [
+        [
+          4000484211
+        ],
+        [
+          4000484213
+        ],
+        [
+          4000484212
+        ],
+        [
+          4000484214
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484211,
+          4000484212,
+          4000484213,
+          4000484214
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 36,
+      "isMB": false,
+      "sportMarketId": 70557,
+      "sv": "3.5",
+      "id": 1573265880,
+      "name": "Total & GG/NG"
+    },
+    {
+      "shortName": "Third goal & 1x2",
+      "desktopOddIds": [
+        [
+          4000484193,
+          4000484194,
+          4000484195
+        ],
+        [
+          4000484199
+        ],
+        [
+          4000484196,
+          4000484197,
+          4000484198
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484193,
+          4000484194,
+          4000484195,
+          4000484199,
+          4000484196,
+          4000484197,
+          4000484198
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 184,
+      "isMB": false,
+      "sportMarketId": 70753,
+      "sv": "3",
+      "id": 1573265876,
+      "name": "Third goal & 1x2"
+    },
+    {
+      "shortName": "Double chance & total 4.5",
+      "desktopOddIds": [
+        [
+          4000484205,
+          4000484202
+        ],
+        [
+          4000484207,
+          4000484204
+        ],
+        [
+          4000484206,
+          4000484203
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000484205,
+          4000484206,
+          4000484207,
+          4000484202,
+          4000484203,
+          4000484204
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "isMB": false,
+      "sportMarketId": 71013,
+      "sv": "4.5",
+      "id": 1573265878,
+      "name": "Double chance & total 4.5"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 3995369042,
+      "name": "Ferroviario"
+    },
+    {
+      "typeId": 2,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369043,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 3995369044,
+      "name": "Atletico Cearense"
+    },
+    {
+      "typeId": 9,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 3995369029,
+      "name": "Ferroviario or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isDBB": true,
+      "id": 3995369027,
+      "name": "Ferroviario or Atletico Cearense"
+    },
+    {
+      "typeId": 11,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 3995369028,
+      "name": "Draw or Atletico Cearense"
+    },
+    {
+      "typeId": 12,
+      "price": 1.84,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995368985,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3995368987,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.825,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995368986,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3995368988,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995368993,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2353,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995368994,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3998309091,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3998309092,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47628,
+      "id": 4000484190,
+      "name": "Ferroviario"
+    },
+    {
+      "typeId": 7,
+      "price": 1.825,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000484192,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 4.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47623,
+      "id": 4000484191,
+      "name": "Atletico Cearense"
+    },
+    {
+      "typeId": 116,
+      "price": 1.825,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995368997,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369002,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995368998,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369003,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369008,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995368999,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369004,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369009,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369017,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369007,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369013,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369019,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369020,
+      "name": "Other"
+    },
+    {
+      "typeId": 152,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369012,
+      "name": "2:3"
+    },
+    {
+      "typeId": 160,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369016,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369018,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-2.5",
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 4000484200,
+      "name": "Ferroviario (-2.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-2.5",
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 4000484201,
+      "name": "Atletico Cearense (+2.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 3,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 47628,
+      "id": 4000484208,
+      "name": "Ferroviario (0:2)"
+    },
+    {
+      "typeId": 1712,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "id": 4000484209,
+      "name": "Draw (0:2)"
+    },
+    {
+      "typeId": 1713,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 47623,
+      "id": 4000484210,
+      "name": "Atletico Cearense (0:2)"
+    },
+    {
+      "typeId": 1,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47628,
+      "id": 3995369311,
+      "name": "Ferroviario"
+    },
+    {
+      "typeId": 7,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369313,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47623,
+      "id": 3995369312,
+      "name": "Atletico Cearense"
+    },
+    {
+      "typeId": 12,
+      "price": 2.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995875974,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.425,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995875975,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3995368981,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2353,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3995368982,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369800,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.475,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995369801,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369806,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369807,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369808,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.1905,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369809,
+      "name": "Even"
+    },
+    {
+      "typeId": 730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369174,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369163,
+      "name": "0-2"
+    },
+    {
+      "typeId": 1988,
+      "price": 1.015,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369162,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369173,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369165,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369164,
+      "name": "0-6"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369146,
+      "name": "1-2"
+    },
+    {
+      "typeId": 5247,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369166,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369147,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.015,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369148,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1734,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369150,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369149,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369151,
+      "name": "2-3"
+    },
+    {
+      "typeId": 5248,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369167,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1736,
+      "price": 1.015,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369152,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369153,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369154,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369168,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1739,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369155,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1740,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369156,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1741,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369157,
+      "name": "3-6"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369169,
+      "name": "3-7"
+    },
+    {
+      "typeId": 736,
+      "price": 4.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369175,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369158,
+      "name": "4-5"
+    },
+    {
+      "typeId": 5251,
+      "price": 4.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369170,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 4.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369159,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369160,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369178,
+      "name": "5+"
+    },
+    {
+      "typeId": 5252,
+      "price": 14,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369171,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369161,
+      "name": "6+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369172,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369177,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369176,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 3995369042,
+      "name": "Ferroviario"
+    },
+    {
+      "typeId": 2,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369043,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 3995369044,
+      "name": "Atletico Cearense"
+    },
+    {
+      "typeId": 12,
+      "price": 1.84,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368985,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368987,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.825,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368986,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368988,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 3995369029,
+      "name": "Ferroviario or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369027,
+      "name": "Ferroviario or Atletico Cearense"
+    },
+    {
+      "typeId": 11,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 3995369028,
+      "name": "Draw or Atletico Cearense"
+    },
+    {
+      "typeId": 1714,
+      "price": 3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-2.5",
+      "isBB": true,
+      "competitorId": 47628,
+      "isDBB": true,
+      "id": 4000484200,
+      "name": "Ferroviario (-2.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.32,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-2.5",
+      "isBB": true,
+      "competitorId": 47623,
+      "isDBB": true,
+      "id": 4000484201,
+      "name": "Atletico Cearense (+2.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368993,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2353,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368994,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 2.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995875974,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.425,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995875975,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368981,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2353,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368982,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369800,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.475,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369801,
+      "name": "Even"
+    },
+    {
+      "typeId": 116,
+      "price": 1.825,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368997,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369002,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368998,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369003,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369008,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995368999,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369004,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369009,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369017,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369007,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369013,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369019,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369020,
+      "name": "Other"
+    },
+    {
+      "typeId": 152,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369012,
+      "name": "2:3"
+    },
+    {
+      "typeId": 160,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369016,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995369018,
+      "name": "3:4"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "76:00|76:59",
+      "iconName": "goal",
+      "id": 4000491181,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "77:00|77:59",
+      "iconName": "goal",
+      "id": 4000493405,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "78:00|78:59",
+      "iconName": "goal",
+      "id": 4000495349,
+      "name": "Goal"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369262,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369273,
+      "name": "0-1"
+    },
+    {
+      "typeId": 710,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369272,
+      "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369261,
+      "name": "0-4"
+    },
+    {
+      "typeId": 2359,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369264,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369263,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369265,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369245,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369247,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369246,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1734,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369249,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369248,
+      "name": "1-5"
+    },
+    {
+      "typeId": 5248,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369266,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369250,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369251,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369252,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369253,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369267,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1739,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369254,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1740,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369255,
+      "name": "3-5"
+    },
+    {
+      "typeId": 5250,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369268,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369256,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369274,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369257,
+      "name": "4-5"
+    },
+    {
+      "typeId": 1743,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369258,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369269,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369259,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369277,
+      "name": "5+"
+    },
+    {
+      "typeId": 5252,
+      "price": 31,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369270,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369260,
+      "name": "6+"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369276,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369271,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369275,
+      "name": "No goal"
+    },
+    {
+      "typeId": 730,
+      "price": 1.0134,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369306,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369295,
+      "name": "0-2"
+    },
+    {
+      "typeId": 710,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369305,
+      "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369294,
+      "name": "0-4"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369297,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369296,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369298,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369278,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369280,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369279,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1733,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369281,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369282,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369299,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369283,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369284,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369285,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369286,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 16,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369300,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369288,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369287,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369301,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369289,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369290,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369307,
+      "name": "4+"
+    },
+    {
+      "typeId": 1743,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369291,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369302,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369292,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369310,
+      "name": "5+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369303,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369293,
+      "name": "6+"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369309,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995369304,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 1.1905,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995369308,
+      "name": "No goal"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.0134,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "competitorId": 47628,
+      "id": 3995369122,
+      "name": "Ferroviario & 1-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "id": 3995369123,
+      "name": "Draw & 1-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "competitorId": 47623,
+      "id": 3995369124,
+      "name": "Atletico Cearense & 1-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "competitorId": 47628,
+      "id": 3995369140,
+      "name": "Ferroviario & 1-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "id": 3995369141,
+      "name": "Draw & 1-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "competitorId": 47623,
+      "id": 3995369142,
+      "name": "Atletico Cearense & 1-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.0134,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "competitorId": 47628,
+      "id": 3995369128,
+      "name": "Ferroviario & 2-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "id": 3995369129,
+      "name": "Draw & 2-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "competitorId": 47623,
+      "id": 3995369130,
+      "name": "Atletico Cearense & 2-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "competitorId": 47628,
+      "id": 3995369107,
+      "name": "Ferroviario & 2-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "id": 3995369108,
+      "name": "Draw & 2-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "competitorId": 47623,
+      "id": 3995369109,
+      "name": "Atletico Cearense & 2-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "competitorId": 47628,
+      "id": 3995369125,
+      "name": "Ferroviario & 3-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "id": 3995369126,
+      "name": "Draw & 3-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "competitorId": 47623,
+      "id": 3995369127,
+      "name": "Atletico Cearense & 3-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "competitorId": 47628,
+      "id": 3995369137,
+      "name": "Ferroviario & 3-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "id": 3995369138,
+      "name": "Draw & 3-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "competitorId": 47623,
+      "id": 3995369139,
+      "name": "Atletico Cearense & 3-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "competitorId": 47628,
+      "id": 3995369131,
+      "name": "Ferroviario & 4-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "id": 3995369132,
+      "name": "Draw & 4-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "competitorId": 47623,
+      "id": 3995369133,
+      "name": "Atletico Cearense & 4-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "competitorId": 47628,
+      "id": 3995369119,
+      "name": "Ferroviario & 4-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 26,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "id": 3995369120,
+      "name": "Draw & 4-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 101,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "competitorId": 47623,
+      "id": 3995369121,
+      "name": "Atletico Cearense & 4-6"
+    },
+    {
+      "typeId": 90,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000484211,
+      "name": "Over 3.5 & GG"
+    },
+    {
+      "typeId": 92,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000484212,
+      "name": "Under 3.5 & GG"
+    },
+    {
+      "typeId": 94,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000484213,
+      "name": "Over 3.5 & NG"
+    },
+    {
+      "typeId": 96,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000484214,
+      "name": "Under 3.5 & NG"
+    },
+    {
+      "typeId": 814,
+      "price": 2.53,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47628,
+      "id": 4000484193,
+      "name": "Ferroviario goal & Ferroviario"
+    },
+    {
+      "typeId": 816,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47628,
+      "id": 4000484194,
+      "name": "Ferroviario goal & draw"
+    },
+    {
+      "typeId": 818,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000484195,
+      "name": "Ferroviario goal & Atletico Cearense"
+    },
+    {
+      "typeId": 826,
+      "price": 1.68,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000484199,
+      "name": "No goal"
+    },
+    {
+      "typeId": 820,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000484196,
+      "name": "Atletico Cearense goal & Ferroviario"
+    },
+    {
+      "typeId": 822,
+      "price": 36,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47623,
+      "id": 4000484197,
+      "name": "Atletico Cearense goal & draw"
+    },
+    {
+      "typeId": 824,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 47623,
+      "id": 4000484198,
+      "name": "Atletico Cearense goal & Atletico Cearense"
+    },
+    {
+      "typeId": 1727,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47628,
+      "id": 4000484205,
+      "name": "Ferroviario/X & over 4.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4000484206,
+      "name": "Ferroviario/Atletico Cearense & over 4.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47623,
+      "id": 4000484207,
+      "name": "X/Atletico Cearense & over 4.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "4.5",
+      "competitorId": 47628,
+      "id": 4000484202,
+      "name": "Ferroviario/X & under 4.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "sv": "4.5",
+      "id": 4000484203,
+      "name": "Ferroviario/Atletico Cearense & under 4.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47623,
+      "id": 4000484204,
+      "name": "X/Atletico Cearense & under 4.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 8155,
+  "rc": false,
+  "startDate": "2026-05-17T20:00:00Z",
+  "showAll": true
+}

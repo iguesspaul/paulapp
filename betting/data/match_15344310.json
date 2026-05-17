@@ -1,0 +1,2104 @@
+{
+  "id": 15344310,
+  "feedEventId": 20890033,
+  "name": "New Mexico United vs. Tampa Bay Rowdies",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 5005,
+    "name": "USL Championship"
+  },
+  "category": {
+    "iso": "USA",
+    "hasLiveEvents": false,
+    "id": 882,
+    "name": "USA"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 73251,
+      "name": "New Mexico United"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 68873,
+      "name": "Tampa Bay Rowdies"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1567228168,
+        1567228165,
+        1567228160,
+        1567228163,
+        1567228171,
+        1567228178,
+        1567228164,
+        1567228158,
+        1567228174,
+        1567228402
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1567228168,
+        1567228160,
+        1567228165,
+        1567228158,
+        1567228163,
+        1567228402,
+        1567228169,
+        1567228166,
+        1567228162,
+        1567228403,
+        1567228164
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567228169,
+        1567228166,
+        1567228162,
+        1567228403
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567228170
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3981490419
+        ],
+        [
+          3981490420
+        ],
+        [
+          3981490421
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490419
+        ],
+        [
+          3981490420
+        ],
+        [
+          3981490421
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1567228168,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3981490412
+        ],
+        [
+          3981490410
+        ],
+        [
+          3981490411
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490412,
+          3981490410,
+          3981490411
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1567228165,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3981490376
+        ],
+        [
+          3981490377
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490376
+        ],
+        [
+          3981490377
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1567228160,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3981490382
+        ],
+        [
+          3981490383
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490382
+        ],
+        [
+          3981490383
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1567228163,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3981490428
+        ],
+        [
+          3981490429
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490428
+        ],
+        [
+          3981490429
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1567228171,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3981490452
+        ],
+        [
+          3981490454
+        ],
+        [
+          3981490453
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490452
+        ],
+        [
+          3981490454
+        ],
+        [
+          3981490453
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1567228178,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3981490385,
+          3981490386,
+          3981490391,
+          3981490387,
+          3981490392,
+          3981490397,
+          3981490388,
+          3981490393,
+          3981490398,
+          3981490406
+        ],
+        [
+          3981490384,
+          3981490390,
+          3981490396,
+          3981490402,
+          3981490408,
+          3981490409
+        ],
+        [
+          3981490389,
+          3981490394,
+          3981490395,
+          3981490399,
+          3981490400,
+          3981490401,
+          3981490403,
+          3981490404,
+          3981490405,
+          3981490407
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490385,
+          3981490386,
+          3981490391,
+          3981490387,
+          3981490392,
+          3981490397,
+          3981490388,
+          3981490393,
+          3981490398,
+          3981490406
+        ],
+        [
+          3981490384,
+          3981490390,
+          3981490396,
+          3981490402,
+          3981490408,
+          3981490409
+        ],
+        [
+          3981490389,
+          3981490394,
+          3981490395,
+          3981490399,
+          3981490400,
+          3981490401,
+          3981490403,
+          3981490404,
+          3981490405,
+          3981490407
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1567228164,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3981490372
+        ],
+        [
+          3981490373
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490372
+        ],
+        [
+          3981490373
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1567228158,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          3981490434,
+          3981490437,
+          3981490440
+        ],
+        [
+          3981490435,
+          3981490438,
+          3981490441
+        ],
+        [
+          3981490436,
+          3981490439,
+          3981490442
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490434,
+          3981490435,
+          3981490436,
+          3981490437,
+          3981490438,
+          3981490439,
+          3981490440,
+          3981490441,
+          3981490442
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "isMB": false,
+      "sportMarketId": 70568,
+      "id": 1567228174,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3981491068
+        ],
+        [
+          3981491069
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981491068
+        ],
+        [
+          3981491069
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1567228402,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3981490419
+        ],
+        [
+          3981490420
+        ],
+        [
+          3981490421
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490419
+        ],
+        [
+          3981490420
+        ],
+        [
+          3981490421
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1567228168,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3981490376
+        ],
+        [
+          3981490377
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490376
+        ],
+        [
+          3981490377
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1567228160,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3981490412
+        ],
+        [
+          3981490410
+        ],
+        [
+          3981490411
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490412,
+          3981490410,
+          3981490411
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1567228165,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3981490372
+        ],
+        [
+          3981490373
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490372
+        ],
+        [
+          3981490373
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1567228158,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3981490382
+        ],
+        [
+          3981490383
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490382
+        ],
+        [
+          3981490383
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1567228163,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3981491068
+        ],
+        [
+          3981491069
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981491068
+        ],
+        [
+          3981491069
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1567228402,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3981490422
+        ],
+        [
+          3981490423
+        ],
+        [
+          3981490424
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490422,
+          3981490423,
+          3981490424
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1567228169,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3981490415
+        ],
+        [
+          3981490413
+        ],
+        [
+          3981490414
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490415,
+          3981490413,
+          3981490414
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1567228166,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3981490380
+        ],
+        [
+          3981490381
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490380
+        ],
+        [
+          3981490381
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1567228162,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3981491070
+        ],
+        [
+          3981491071
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981491070
+        ],
+        [
+          3981491071
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1567228403,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3981490385,
+          3981490386,
+          3981490391,
+          3981490387,
+          3981490392,
+          3981490397,
+          3981490388,
+          3981490393,
+          3981490398,
+          3981490406
+        ],
+        [
+          3981490384,
+          3981490390,
+          3981490396,
+          3981490402,
+          3981490408,
+          3981490409
+        ],
+        [
+          3981490389,
+          3981490394,
+          3981490395,
+          3981490399,
+          3981490400,
+          3981490401,
+          3981490403,
+          3981490404,
+          3981490405,
+          3981490407
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490385,
+          3981490386,
+          3981490391,
+          3981490387,
+          3981490392,
+          3981490397,
+          3981490388,
+          3981490393,
+          3981490398,
+          3981490406
+        ],
+        [
+          3981490384,
+          3981490390,
+          3981490396,
+          3981490402,
+          3981490408,
+          3981490409
+        ],
+        [
+          3981490389,
+          3981490394,
+          3981490395,
+          3981490399,
+          3981490400,
+          3981490401,
+          3981490403,
+          3981490404,
+          3981490405,
+          3981490407
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1567228164,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3981490422
+        ],
+        [
+          3981490423
+        ],
+        [
+          3981490424
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490422,
+          3981490423,
+          3981490424
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1567228169,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3981490415
+        ],
+        [
+          3981490413
+        ],
+        [
+          3981490414
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490415,
+          3981490413,
+          3981490414
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1567228166,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3981490380
+        ],
+        [
+          3981490381
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490380
+        ],
+        [
+          3981490381
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1567228162,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3981491070
+        ],
+        [
+          3981491071
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981491070
+        ],
+        [
+          3981491071
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1567228403,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          3981490425
+        ],
+        [
+          3981490426
+        ],
+        [
+          3981490427
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3981490425,
+          3981490426,
+          3981490427
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "isMB": false,
+      "sportMarketId": 70643,
+      "id": 1567228170,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490419,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 2,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490420,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490421,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490412,
+      "name": "New Mexico United or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490410,
+      "name": "New Mexico United or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490411,
+      "name": "Draw or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3981490376,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3981490377,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490382,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490383,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "id": 3981490428,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 3,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "id": 3981490429,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490452,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 7,
+      "price": 11.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 3981490454,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490453,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 114,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490385,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490386,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490391,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490387,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490392,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490397,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490388,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490393,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490398,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490406,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490384,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490390,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490396,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490402,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490408,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490409,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490389,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490394,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490395,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490399,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490400,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490401,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490403,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490404,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490405,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490407,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490372,
+      "name": "New Mexico United (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490373,
+      "name": "Tampa Bay Rowdies (-0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "id": 3981490434,
+      "name": "New Mexico United/New Mexico United"
+    },
+    {
+      "typeId": 420,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "id": 3981490435,
+      "name": "New Mexico United/X"
+    },
+    {
+      "typeId": 422,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3981490436,
+      "name": "New Mexico United/Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 424,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "id": 3981490437,
+      "name": "X/New Mexico United"
+    },
+    {
+      "typeId": 426,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3981490438,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "id": 3981490439,
+      "name": "X/Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 430,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3981490440,
+      "name": "Tampa Bay Rowdies/New Mexico United"
+    },
+    {
+      "typeId": 432,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "id": 3981490441,
+      "name": "Tampa Bay Rowdies/X"
+    },
+    {
+      "typeId": 434,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "id": 3981490442,
+      "name": "Tampa Bay Rowdies/Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981491068,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981491069,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490419,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 2,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490420,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490421,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490376,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490377,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490412,
+      "name": "New Mexico United or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490410,
+      "name": "New Mexico United or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490411,
+      "name": "Draw or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490372,
+      "name": "New Mexico United (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490373,
+      "name": "Tampa Bay Rowdies (-0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490382,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490383,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981491068,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981491069,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490422,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490423,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490424,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490415,
+      "name": "New Mexico United or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490413,
+      "name": "New Mexico United or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490414,
+      "name": "Draw or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490380,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490381,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981491070,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981491071,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490385,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490386,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490391,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490387,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490392,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490397,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490388,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490393,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490398,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490406,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490384,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490390,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490396,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490402,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490408,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490409,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490389,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490394,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490395,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490399,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490400,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490401,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490403,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490404,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490405,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3981490407,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490422,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490423,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490424,
+      "name": "Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 9,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "isDBB": true,
+      "id": 3981490415,
+      "name": "New Mexico United or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981490413,
+      "name": "New Mexico United or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "isDBB": true,
+      "id": 3981490414,
+      "name": "Draw or Tampa Bay Rowdies"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3981490380,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3981490381,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981491070,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3981491071,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73251,
+      "id": 3981490425,
+      "name": "New Mexico United"
+    },
+    {
+      "typeId": 2,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3981490426,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 68873,
+      "id": 3981490427,
+      "name": "Tampa Bay Rowdies"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 3626,
+  "rc": false,
+  "startDate": "2026-05-21T01:00:00Z",
+  "showAll": true
+}

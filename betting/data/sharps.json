@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Pinnacle",
+    "odds": {}
+  },
+  {
+    "book": "bet365",
+    "odds": {}
+  },
+  {
+    "book": "SBOBET",
+    "odds": {}
+  },
+  {
+    "book": "188BET",
+    "odds": {}
+  },
+  {
+    "book": "Betfair",
+    "odds": {}
+  },
+  {
+    "book": "Pinnacle Direct",
+    "odds": {
+      "1": 3.5,
+      "2": 1.854,
+      "X": 4,
+      "Over2.5": 1.925,
+      "Under2.5": 1.862
+    }
+  }
+]

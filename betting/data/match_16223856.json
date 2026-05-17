@@ -1,0 +1,2887 @@
+{
+  "id": 16223856,
+  "feedEventId": 20896209,
+  "name": "Hapoel Haifa FC vs. Bnei Sakhnin FC",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 3087,
+    "name": "Premier League"
+  },
+  "category": {
+    "iso": "ISR",
+    "hasLiveEvents": false,
+    "id": 516,
+    "name": "Israel"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 46934,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 46525,
+      "name": "Bnei Sakhnin FC"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1567751848,
+        1567751842,
+        1567751811,
+        1567751834,
+        1567751851,
+        1567751896,
+        1567751837,
+        1567751785,
+        1567751882,
+        1567751798,
+        1567751800,
+        1567751854,
+        1567751900,
+        1567751876,
+        1567751877,
+        1567752157,
+        1567752160,
+        1567752161,
+        1567751858
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 6,
+      "marketIds": [
+        1567751834,
+        1567751800,
+        1567751896,
+        1567751848,
+        1567751849
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1629,
+      "name": "Tips"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1568875542
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 5,
+      "name": "Corners"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567751910,
+        1567751859,
+        1567751886,
+        1567751907,
+        1567751908,
+        1567751905,
+        1567751906,
+        1567751858
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567751849,
+        1567751843,
+        1567751815,
+        1567751789,
+        1571355005,
+        1567751911,
+        1567751835,
+        1567751803,
+        1567751805,
+        1567752158,
+        1567752162,
+        1567752163
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567751844,
+        1567752159
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1567751872
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3983603129
+        ],
+        [
+          3983603130
+        ],
+        [
+          3983603131
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603129
+        ],
+        [
+          3983603130
+        ],
+        [
+          3983603131
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "hint": "Hapoel Haifa FC have lost 7 of their last 11 home games",
+      "id": 1567751848,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3983603104
+        ],
+        [
+          3983603102
+        ],
+        [
+          3983603103
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603104,
+          3983603102,
+          3983603103
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1567751842,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3983602994
+        ],
+        [
+          3983602995
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602994
+        ],
+        [
+          3983602995
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1567751811,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3983603040
+        ],
+        [
+          3983603041
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603040
+        ],
+        [
+          3983603041
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "hint": "Both teams have scored in only 1 of the last 10 Bnei Sakhnin FC games",
+      "id": 1567751834,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3983603138
+        ],
+        [
+          3983603139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603138
+        ],
+        [
+          3983603139
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1567751851,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3983603294
+        ],
+        [
+          3983603296
+        ],
+        [
+          3983603295
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603294
+        ],
+        [
+          3983603296
+        ],
+        [
+          3983603295
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "hint": "Hapoel Haifa FC have conceded first in 8 of their last 12 home games",
+      "hintSpov": "1",
+      "id": 1567751896,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3983603047,
+          3983603048,
+          3983603053,
+          3983603049,
+          3983603054,
+          3983603059,
+          3983603050,
+          3983603055,
+          3983603060,
+          3983603068
+        ],
+        [
+          3983603046,
+          3983603052,
+          3983603058,
+          3983603064,
+          3983603070,
+          3983603071
+        ],
+        [
+          3983603051,
+          3983603056,
+          3983603057,
+          3983603061,
+          3983603062,
+          3983603063,
+          3983603065,
+          3983603066,
+          3983603067,
+          3983603069
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603047,
+          3983603048,
+          3983603053,
+          3983603049,
+          3983603054,
+          3983603059,
+          3983603050,
+          3983603055,
+          3983603060,
+          3983603068
+        ],
+        [
+          3983603046,
+          3983603052,
+          3983603058,
+          3983603064,
+          3983603070,
+          3983603071
+        ],
+        [
+          3983603051,
+          3983603056,
+          3983603057,
+          3983603061,
+          3983603062,
+          3983603063,
+          3983603065,
+          3983603066,
+          3983603067,
+          3983603069
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1567751837,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3983602942
+        ],
+        [
+          3983602943
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602942
+        ],
+        [
+          3983602943
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1567751785,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3995019227,
+          3983603261,
+          3995019224
+        ],
+        [
+          3995019228,
+          3983603262,
+          3995019225
+        ],
+        [
+          3995019229,
+          3983603263,
+          3995019226
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995019227,
+          3983603261,
+          3995019224,
+          3995019228,
+          3983603262,
+          3995019225,
+          3995019229,
+          3983603263,
+          3995019226
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "0:1",
+      "id": 1567751882,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Hapoel Haifa FC total",
+      "desktopOddIds": [
+        [
+          3983602968
+        ],
+        [
+          3983602969
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602968
+        ],
+        [
+          3983602969
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1567751798,
+      "name": "Hapoel Haifa FC total"
+    },
+    {
+      "shortName": "Bnei Sakhnin FC total",
+      "desktopOddIds": [
+        [
+          3983602972
+        ],
+        [
+          3983602973
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602972
+        ],
+        [
+          3983602973
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "0.5",
+      "hint": "Bnei Sakhnin FC have failed to score in 8 of their last 10 games",
+      "hintSpov": "0.5",
+      "id": 1567751800,
+      "name": "Bnei Sakhnin FC total"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          3983603144,
+          3983603145,
+          3983603146,
+          3983603148
+        ],
+        [
+          3983603147,
+          3983603149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603144,
+          3983603145,
+          3983603146,
+          3983603148,
+          3983603147,
+          3983603149
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "isMB": false,
+      "sportMarketId": 71660,
+      "id": 1567751854,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Which team to score",
+      "desktopOddIds": [
+        [
+          3983603315,
+          3983603317
+        ],
+        [
+          3983603316,
+          3983603314
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603315,
+          3983603317
+        ],
+        [
+          3983603316,
+          3983603314
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 30,
+      "isMB": false,
+      "sportMarketId": 70547,
+      "id": 1567751900,
+      "name": "Which team to score"
+    },
+    {
+      "shortName": "Hapoel Haifa FC exact goals",
+      "desktopOddIds": [
+        [
+          3983603239,
+          3983603240,
+          3983603241,
+          3983603242
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603239,
+          3983603240,
+          3983603241,
+          3983603242
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 23,
+      "isMB": false,
+      "sportMarketId": 71654,
+      "id": 1567751876,
+      "name": "Hapoel Haifa FC exact goals"
+    },
+    {
+      "shortName": "Bnei Sakhnin FC exact goals",
+      "desktopOddIds": [
+        [
+          3983603243,
+          3983603244,
+          3983603245,
+          3983603246
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603243,
+          3983603244,
+          3983603245,
+          3983603246
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 24,
+      "isMB": false,
+      "sportMarketId": 71655,
+      "id": 1567751877,
+      "name": "Bnei Sakhnin FC exact goals"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3983604151
+        ],
+        [
+          3983604152
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604151
+        ],
+        [
+          3983604152
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1567752157,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Hapoel Haifa FC odd/even",
+      "desktopOddIds": [
+        [
+          3983604157
+        ],
+        [
+          3983604158
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604157
+        ],
+        [
+          3983604158
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1567752160,
+      "name": "Hapoel Haifa FC odd/even"
+    },
+    {
+      "shortName": "Bnei Sakhnin FC odd/even",
+      "desktopOddIds": [
+        [
+          3983604159
+        ],
+        [
+          3983604160
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604159
+        ],
+        [
+          3983604160
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1567752161,
+      "name": "Bnei Sakhnin FC odd/even"
+    },
+    {
+      "shortName": "Half With most Goals",
+      "desktopOddIds": [
+        [
+          3983603171
+        ],
+        [
+          3983603173
+        ],
+        [
+          3983603172
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603171,
+          3983603172,
+          3983603173
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 52,
+      "isMB": false,
+      "sportMarketId": 70577,
+      "id": 1567751858,
+      "name": "Half With most Goals"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3983603132
+        ],
+        [
+          3983603133
+        ],
+        [
+          3983603134
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603132,
+          3983603133,
+          3983603134
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "hint": "Hapoel Haifa FC have drawn the first half in 8 of their last 14 games",
+      "id": 1567751849,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          3987083265
+        ],
+        [
+          3987083264
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3987083265
+        ],
+        [
+          3987083264
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 166,
+      "isMB": true,
+      "sportMarketId": 70739,
+      "sv": "9.5",
+      "id": 1568875542,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          3983603340,
+          3983603338,
+          3983603339,
+          3983603341
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603340
+        ],
+        [
+          3983603338,
+          3983603339,
+          3983603341
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "isMB": false,
+      "sportMarketId": 72136,
+      "id": 1567751910,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "Hapoel Haifa FC clean sheet",
+      "desktopOddIds": [
+        [
+          3983603174
+        ],
+        [
+          3983603175
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603174
+        ],
+        [
+          3983603175
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31,
+      "isMB": false,
+      "sportMarketId": 70549,
+      "id": 1567751859,
+      "name": "Hapoel Haifa FC clean sheet"
+    },
+    {
+      "shortName": "Bnei Sakhnin FC Clean sheet",
+      "desktopOddIds": [
+        [
+          3983603274
+        ],
+        [
+          3983603275
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603274
+        ],
+        [
+          3983603275
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 32,
+      "isMB": false,
+      "sportMarketId": 70551,
+      "id": 1567751886,
+      "name": "Bnei Sakhnin FC Clean sheet"
+    },
+    {
+      "shortName": "Both halves over 0.5",
+      "desktopOddIds": [
+        [
+          3983603330
+        ],
+        [
+          3983603331
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603330
+        ],
+        [
+          3983603331
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 58,
+      "isMB": true,
+      "sportMarketId": 70589,
+      "sv": "0.5",
+      "id": 1567751907,
+      "name": "Both halves over 0.5"
+    },
+    {
+      "shortName": "Both halves under 1.5",
+      "desktopOddIds": [
+        [
+          3983603332
+        ],
+        [
+          3983603333
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603332
+        ],
+        [
+          3983603333
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 59,
+      "isMB": true,
+      "sportMarketId": 70590,
+      "sv": "1.5",
+      "id": 1567751908,
+      "name": "Both halves under 1.5"
+    },
+    {
+      "shortName": "Hapoel Haifa FC to score in both halves",
+      "desktopOddIds": [
+        [
+          3983603326
+        ],
+        [
+          3983603327
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603326
+        ],
+        [
+          3983603327
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1567751905,
+      "name": "Hapoel Haifa FC to score in both halves"
+    },
+    {
+      "shortName": "Bnei Sakhnin FC to score in both halves",
+      "desktopOddIds": [
+        [
+          3983603328
+        ],
+        [
+          3983603329
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603328
+        ],
+        [
+          3983603329
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1567751906,
+      "name": "Bnei Sakhnin FC to score in both halves"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3983603107
+        ],
+        [
+          3983603105
+        ],
+        [
+          3983603106
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603107,
+          3983603105,
+          3983603106
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1567751843,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3983603002
+        ],
+        [
+          3983603003
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603002
+        ],
+        [
+          3983603003
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1567751815,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - handicap",
+      "desktopOddIds": [
+        [
+          3983602950
+        ],
+        [
+          3983602951
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602950,
+          3983602951
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 66,
+      "isMB": true,
+      "sportMarketId": 70610,
+      "sv": "-0.5",
+      "id": 1567751789,
+      "name": "1st half - handicap"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          3995019230
+        ],
+        [
+          3995019232
+        ],
+        [
+          3995019231
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995019230,
+          3995019232,
+          3995019231
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "isMB": false,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1571355005,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3983603343,
+          3983603344,
+          3983603347
+        ],
+        [
+          3983603342,
+          3983603346,
+          3983603350,
+          3983603351
+        ],
+        [
+          3983603345,
+          3983603348,
+          3983603349
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603343,
+          3983603344,
+          3983603347
+        ],
+        [
+          3983603342,
+          3983603346,
+          3983603350,
+          3983603351
+        ],
+        [
+          3983603345,
+          3983603348,
+          3983603349
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1567751911,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3983603042
+        ],
+        [
+          3983603043
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603042
+        ],
+        [
+          3983603043
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1567751835,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Hapoel Haifa FC total",
+      "desktopOddIds": [
+        [
+          3983602978
+        ],
+        [
+          3983602979
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602978
+        ],
+        [
+          3983602979
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1567751803,
+      "name": "1st half - Hapoel Haifa FC total"
+    },
+    {
+      "shortName": "1st half - Bnei Sakhnin FC total",
+      "desktopOddIds": [
+        [
+          3983602982
+        ],
+        [
+          3983602983
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983602982
+        ],
+        [
+          3983602983
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1567751805,
+      "name": "1st half - Bnei Sakhnin FC total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3983604153
+        ],
+        [
+          3983604154
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604153
+        ],
+        [
+          3983604154
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1567752158,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1st half - Hapoel Haifa FC odd/even",
+      "desktopOddIds": [
+        [
+          3983604161
+        ],
+        [
+          3983604162
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604161
+        ],
+        [
+          3983604162
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 618,
+      "isMB": false,
+      "sportMarketId": 74491,
+      "id": 1567752162,
+      "name": "1st half - Hapoel Haifa FC odd/even"
+    },
+    {
+      "shortName": "1st half - Bnei Sakhnin FC odd/even",
+      "desktopOddIds": [
+        [
+          3983604163
+        ],
+        [
+          3983604164
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604163
+        ],
+        [
+          3983604164
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 619,
+      "isMB": false,
+      "sportMarketId": 74492,
+      "id": 1567752163,
+      "name": "1st half - Bnei Sakhnin FC odd/even"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          3983603110
+        ],
+        [
+          3983603108
+        ],
+        [
+          3983603109
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983603110,
+          3983603108,
+          3983603109
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "isMB": false,
+      "sportMarketId": 70648,
+      "id": 1567751844,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - odd/ even",
+      "desktopOddIds": [
+        [
+          3983604155
+        ],
+        [
+          3983604156
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3983604155
+        ],
+        [
+          3983604156
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 94,
+      "isMB": false,
+      "sportMarketId": 70662,
+      "id": 1567752159,
+      "name": "2nd half - odd/ even"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          3995019214,
+          3983603214,
+          3995019220,
+          3999535780,
+          3995019212,
+          3983603212,
+          3995019218,
+          3999535778
+        ],
+        [
+          3995019217,
+          3983603217,
+          3995019223,
+          3999535783,
+          3995019216,
+          3983603216,
+          3995019222,
+          3999535782
+        ],
+        [
+          3995019215,
+          3983603215,
+          3995019221,
+          3999535781,
+          3995019213,
+          3983603213,
+          3995019219,
+          3999535779
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995019214,
+          3983603214,
+          3995019220,
+          3999535780,
+          3995019217,
+          3983603217,
+          3995019223,
+          3999535783,
+          3995019215,
+          3983603215,
+          3995019221,
+          3999535781,
+          3995019212,
+          3983603212,
+          3995019218,
+          3999535778,
+          3995019216,
+          3983603216,
+          3995019222,
+          3999535782,
+          3995019213,
+          3983603213,
+          3995019219,
+          3999535779
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "isMB": false,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1567751872,
+      "name": "1x2 & total"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603129,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603130,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603131,
+      "name": "Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603104,
+      "name": "Hapoel Haifa FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603102,
+      "name": "Hapoel Haifa FC or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603103,
+      "name": "Draw or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.85,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3983602994,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3983602995,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603040,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603041,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603138,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603139,
+      "name": "Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46934,
+      "id": 3983603294,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3983603296,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46525,
+      "id": 3983603295,
+      "name": "Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 114,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603047,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603048,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603053,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603049,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603054,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603059,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603050,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603055,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603060,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603068,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603046,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603052,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603058,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603064,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603070,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603071,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603051,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603056,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603057,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603061,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603062,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603063,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603065,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603066,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603067,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603069,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46934,
+      "id": 3983602942,
+      "name": "Hapoel Haifa FC (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.9091,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46525,
+      "id": 3983602943,
+      "name": "Bnei Sakhnin FC (+0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 46934,
+      "id": 3995019227,
+      "name": "Hapoel Haifa FC (1:0)"
+    },
+    {
+      "typeId": 1711,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 46934,
+      "id": 3983603261,
+      "name": "Hapoel Haifa FC (0:1)"
+    },
+    {
+      "typeId": 1711,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 46934,
+      "id": 3995019224,
+      "name": "Hapoel Haifa FC (0:2)"
+    },
+    {
+      "typeId": 1712,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 3995019228,
+      "name": "Draw (1:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 3983603262,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "id": 3995019225,
+      "name": "Draw (0:2)"
+    },
+    {
+      "typeId": 1713,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 46525,
+      "id": 3995019229,
+      "name": "Bnei Sakhnin FC (1:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 46525,
+      "id": 3983603263,
+      "name": "Bnei Sakhnin FC (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 46525,
+      "id": 3995019226,
+      "name": "Bnei Sakhnin FC (0:2)"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983602968,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983602969,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4616,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602972,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602973,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 54,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603144,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603145,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603146,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603148,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603147,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603149,
+      "name": "5+"
+    },
+    {
+      "typeId": 788,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603315,
+      "name": "Only Hapoel Haifa FC"
+    },
+    {
+      "typeId": 790,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603316,
+      "name": "Only Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 792,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603317,
+      "name": "Both teams"
+    },
+    {
+      "typeId": 7,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603314,
+      "name": "None"
+    },
+    {
+      "typeId": 54,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603239,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603240,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603241,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603242,
+      "name": "3+"
+    },
+    {
+      "typeId": 54,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603243,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603244,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603245,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603246,
+      "name": "3+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604151,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604152,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604157,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604158,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604159,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604160,
+      "name": "Even"
+    },
+    {
+      "typeId": 436,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603171,
+      "name": "1st half"
+    },
+    {
+      "typeId": 438,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603172,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 440,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603173,
+      "name": "Equal"
+    },
+    {
+      "typeId": 1,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603132,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603133,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603134,
+      "name": "Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "id": 3987083265,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "id": 3987083264,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 730,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603340,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603338,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603339,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603341,
+      "name": "7+"
+    },
+    {
+      "typeId": 74,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603174,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603175,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603274,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603275,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983603330,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983603331,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983603332,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.48,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983603333,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603326,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603327,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603328,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603329,
+      "name": "No"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603107,
+      "name": "Hapoel Haifa FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603105,
+      "name": "Hapoel Haifa FC or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603106,
+      "name": "Draw or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 12,
+      "price": 2.5455,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983603002,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3983603003,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46934,
+      "id": 3983602950,
+      "name": "Hapoel Haifa FC (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.48,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46525,
+      "id": 3983602951,
+      "name": "Bnei Sakhnin FC (+0.5)"
+    },
+    {
+      "typeId": 1,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46934,
+      "id": 3995019230,
+      "name": "Hapoel Haifa FC"
+    },
+    {
+      "typeId": 7,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3995019232,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46525,
+      "id": 3995019231,
+      "name": "Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 114,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603343,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603344,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603347,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603342,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603346,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603350,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603351,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603345,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603348,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603349,
+      "name": "1:2"
+    },
+    {
+      "typeId": 74,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603042,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603043,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7143,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602978,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602979,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602982,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3983602983,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604153,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604154,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604161,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604162,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604163,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604164,
+      "name": "Even"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46934,
+      "id": 3983603110,
+      "name": "Hapoel Haifa FC or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983603108,
+      "name": "Hapoel Haifa FC or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46525,
+      "id": 3983603109,
+      "name": "Draw or Bnei Sakhnin FC"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604155,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3983604156,
+      "name": "Even"
+    },
+    {
+      "typeId": 660,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46934,
+      "id": 3995019214,
+      "name": "Hapoel Haifa FC & over 1.5"
+    },
+    {
+      "typeId": 660,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 46934,
+      "id": 3983603214,
+      "name": "Hapoel Haifa FC & over 2.5"
+    },
+    {
+      "typeId": 660,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46934,
+      "id": 3995019220,
+      "name": "Hapoel Haifa FC & over 3.5"
+    },
+    {
+      "typeId": 660,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 46934,
+      "id": 3999535780,
+      "name": "Hapoel Haifa FC & over 4.5"
+    },
+    {
+      "typeId": 800,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3995019217,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3983603217,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3995019223,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 3999535783,
+      "name": "Draw & over 4.5"
+    },
+    {
+      "typeId": 662,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46525,
+      "id": 3995019215,
+      "name": "Bnei Sakhnin FC & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 46525,
+      "id": 3983603215,
+      "name": "Bnei Sakhnin FC & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46525,
+      "id": 3995019221,
+      "name": "Bnei Sakhnin FC & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 46525,
+      "id": 3999535781,
+      "name": "Bnei Sakhnin FC & over 4.5"
+    },
+    {
+      "typeId": 656,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46934,
+      "id": 3995019212,
+      "name": "Hapoel Haifa FC & under 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 46934,
+      "id": 3983603212,
+      "name": "Hapoel Haifa FC & under 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46934,
+      "id": 3995019218,
+      "name": "Hapoel Haifa FC & under 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 46934,
+      "id": 3999535778,
+      "name": "Hapoel Haifa FC & under 4.5"
+    },
+    {
+      "typeId": 798,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3995019216,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3983603216,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3995019222,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 3999535782,
+      "name": "Draw & under 4.5"
+    },
+    {
+      "typeId": 658,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46525,
+      "id": 3995019213,
+      "name": "Bnei Sakhnin FC & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 46525,
+      "id": 3983603213,
+      "name": "Bnei Sakhnin FC & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46525,
+      "id": 3995019219,
+      "name": "Bnei Sakhnin FC & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 46525,
+      "id": 3999535779,
+      "name": "Bnei Sakhnin FC & under 4.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 690,
+  "rc": false,
+  "startDate": "2026-05-18T17:00:00Z",
+  "showAll": true
+}

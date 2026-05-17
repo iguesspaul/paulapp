@@ -1,0 +1,1991 @@
+{
+  "id": 16316508,
+  "feedEventId": 20406002,
+  "name": "KuPS vs. FC Lahti",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 4593,
+    "name": "Veikkausliiga"
+  },
+  "category": {
+    "iso": "FIN",
+    "hasLiveEvents": false,
+    "id": 820,
+    "name": "Finland"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 43847,
+      "name": "KuPS"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 57096,
+      "name": "FC Lahti"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 0,
+      "marketIds": [],
+      "childMarketGroupIds": [
+        28142
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 17,
+      "name": "Player Specials"
+    }
+  ],
+  "childMarketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        21001
+      ],
+      "isBundle": true,
+      "sortOrder": 90,
+      "id": 28142,
+      "name": "Goalscorer"
+    }
+  ],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "Goalscorer",
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [
+        3994187025,
+        3994187036,
+        3994187022,
+        3994187013,
+        3994187028,
+        3994187000,
+        3994187030,
+        3994187003,
+        3994187033,
+        3994187017,
+        3994187015,
+        3994187007,
+        3994187009,
+        3994187016,
+        3994187001,
+        3994187006,
+        3994187023,
+        3994187014,
+        3994187018,
+        3994187004,
+        3994187021,
+        3994187011,
+        3994187019,
+        3994187032,
+        3994187031,
+        3994187010,
+        3994187037,
+        3994187020,
+        3994187029,
+        3994187034,
+        3994187024,
+        3994187008,
+        3994187027,
+        3994187035,
+        3994187005,
+        3994187002,
+        3994187026,
+        3994187012
+      ],
+      "headers": [
+        {
+          "typeId": 21001,
+          "mst": 0,
+          "odds": [
+            {
+              "id": 2090,
+              "name": "First"
+            },
+            {
+              "id": 2092,
+              "name": "Any"
+            }
+          ]
+        }
+      ],
+      "isBB": false,
+      "variant": 13,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1",
+      "id": 21001,
+      "name": "Goalscorer"
+    }
+  ],
+  "childMarkets": [
+    {
+      "shortName": "Gustav Engvall",
+      "childName": "Gustav Engvall",
+      "desktopOddIds": [
+        [
+          3994187025
+        ],
+        [
+          3994187041
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187025
+        ],
+        [
+          3994187041
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:172766",
+      "id": 3994187025,
+      "name": "Goalscorer - Gustav Engvall (KUP)"
+    },
+    {
+      "shortName": "Jaime Jose Moreno Ciorciari",
+      "childName": "Jaime Jose Moreno Ciorciari",
+      "desktopOddIds": [
+        [
+          3994187036
+        ],
+        [
+          3994187061
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187036
+        ],
+        [
+          3994187061
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:270802",
+      "id": 3994187036,
+      "name": "Goalscorer - Jaime Jose Moreno Ciorciari (KUP)"
+    },
+    {
+      "shortName": "Joslyn Luyeye-Lutumba",
+      "childName": "Joslyn Luyeye-Lutumba",
+      "desktopOddIds": [
+        [
+          3994187022
+        ],
+        [
+          3994187057
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187022
+        ],
+        [
+          3994187057
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:658898",
+      "id": 3994187022,
+      "name": "Goalscorer - Joslyn Luyeye-Lutumba (KUP)"
+    },
+    {
+      "shortName": "Otto Ruoppi",
+      "childName": "Otto Ruoppi",
+      "desktopOddIds": [
+        [
+          3994187013
+        ],
+        [
+          3994187043
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187013
+        ],
+        [
+          3994187043
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:658899",
+      "id": 3994187013,
+      "name": "Goalscorer - Otto Ruoppi (KUP)"
+    },
+    {
+      "shortName": "Calvin Kabuye",
+      "childName": "Calvin Kabuye",
+      "desktopOddIds": [
+        [
+          3994187028
+        ],
+        [
+          3994187063
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187028
+        ],
+        [
+          3994187063
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:676554",
+      "id": 3994187028,
+      "name": "Goalscorer - Calvin Kabuye (KUP)"
+    },
+    {
+      "shortName": "Petteri Pennanen",
+      "childName": "Petteri Pennanen",
+      "desktopOddIds": [
+        [
+          3994187000
+        ],
+        [
+          3994187040
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187000
+        ],
+        [
+          3994187040
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:232726",
+      "id": 3994187000,
+      "name": "Goalscorer - Petteri Pennanen (KUP)"
+    },
+    {
+      "shortName": "Niilo Kujasalo",
+      "childName": "Niilo Kujasalo",
+      "desktopOddIds": [
+        [
+          3994187030
+        ],
+        [
+          3994187056
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187030
+        ],
+        [
+          3994187056
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:663896",
+      "id": 3994187030,
+      "name": "Goalscorer - Niilo Kujasalo (KUP)"
+    },
+    {
+      "shortName": "Eemil Tanninen",
+      "childName": "Eemil Tanninen",
+      "desktopOddIds": [
+        [
+          3994187003
+        ],
+        [
+          3994187047
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187003
+        ],
+        [
+          3994187047
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:681315",
+      "id": 3994187003,
+      "name": "Goalscorer - Eemil Tanninen (KUP)"
+    },
+    {
+      "shortName": "Neemias",
+      "childName": "Neemias",
+      "desktopOddIds": [
+        [
+          3994187033
+        ],
+        [
+          3994187071
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187033
+        ],
+        [
+          3994187071
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:762787",
+      "id": 3994187033,
+      "name": "Goalscorer - Neemias (LAH)"
+    },
+    {
+      "shortName": "Valentin Gasc",
+      "childName": "Valentin Gasc",
+      "desktopOddIds": [
+        [
+          3994187017
+        ],
+        [
+          3994187053
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187017
+        ],
+        [
+          3994187053
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:308449",
+      "id": 3994187017,
+      "name": "Goalscorer - Valentin Gasc (KUP)"
+    },
+    {
+      "shortName": "Amir Belabid",
+      "childName": "Amir Belabid",
+      "desktopOddIds": [
+        [
+          3994187015
+        ],
+        [
+          3994187055
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187015
+        ],
+        [
+          3994187055
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:754483",
+      "id": 3994187015,
+      "name": "Goalscorer - Amir Belabid (LAH)"
+    },
+    {
+      "shortName": "Saku Savolainen",
+      "childName": "Saku Savolainen",
+      "desktopOddIds": [
+        [
+          3994187007
+        ],
+        [
+          3994187068
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187007
+        ],
+        [
+          3994187068
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:274200",
+      "id": 3994187007,
+      "name": "Goalscorer - Saku Savolainen (KUP)"
+    },
+    {
+      "shortName": "Aaron Lindholm",
+      "childName": "Aaron Lindholm",
+      "desktopOddIds": [
+        [
+          3994187009
+        ],
+        [
+          3994187078
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187009
+        ],
+        [
+          3994187078
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:762784",
+      "id": 3994187009,
+      "name": "Goalscorer - Aaron Lindholm (LAH)"
+    },
+    {
+      "shortName": "Samuel Pasanen",
+      "childName": "Samuel Pasanen",
+      "desktopOddIds": [
+        [
+          3994187016
+        ],
+        [
+          3994187050
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187016
+        ],
+        [
+          3994187050
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:631052",
+      "id": 3994187016,
+      "name": "Goalscorer - Samuel Pasanen (KUP)"
+    },
+    {
+      "shortName": "Otso Koskinen",
+      "childName": "Otso Koskinen",
+      "desktopOddIds": [
+        [
+          3994187001
+        ],
+        [
+          3994187051
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187001
+        ],
+        [
+          3994187051
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:210598",
+      "id": 3994187001,
+      "name": "Goalscorer - Otso Koskinen (LAH)"
+    },
+    {
+      "shortName": "Momodou Sarr",
+      "childName": "Momodou Sarr",
+      "desktopOddIds": [
+        [
+          3994187006
+        ],
+        [
+          3994187045
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187006
+        ],
+        [
+          3994187045
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:674841",
+      "id": 3994187006,
+      "name": "Goalscorer - Momodou Sarr (LAH)"
+    },
+    {
+      "shortName": "Martim Augusto Ferreira",
+      "childName": "Martim Augusto Ferreira",
+      "desktopOddIds": [
+        [
+          3994187023
+        ],
+        [
+          3994187087
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187023
+        ],
+        [
+          3994187087
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:765553",
+      "id": 3994187023,
+      "name": "Goalscorer - Martim Augusto Ferreira (LAH)"
+    },
+    {
+      "shortName": "Tofol Montiel",
+      "childName": "Tofol Montiel",
+      "desktopOddIds": [
+        [
+          3994187014
+        ],
+        [
+          3994187048
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187014
+        ],
+        [
+          3994187048
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:189284",
+      "id": 3994187014,
+      "name": "Goalscorer - Tofol Montiel (LAH)"
+    },
+    {
+      "shortName": "Justus Ojanen",
+      "childName": "Justus Ojanen",
+      "desktopOddIds": [
+        [
+          3994187018
+        ],
+        [
+          3994187049
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187018
+        ],
+        [
+          3994187049
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:680258",
+      "id": 3994187018,
+      "name": "Goalscorer - Justus Ojanen (LAH)"
+    },
+    {
+      "shortName": "Jerry Voutilainen",
+      "childName": "Jerry Voutilainen",
+      "desktopOddIds": [
+        [
+          3994187004
+        ],
+        [
+          3994187069
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187004
+        ],
+        [
+          3994187069
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:208318",
+      "id": 3994187004,
+      "name": "Goalscorer - Jerry Voutilainen (KUP)"
+    },
+    {
+      "shortName": "Kasim Nuhu",
+      "childName": "Kasim Nuhu",
+      "desktopOddIds": [
+        [
+          3994187021
+        ],
+        [
+          3994187042
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187021
+        ],
+        [
+          3994187042
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:593225",
+      "id": 3994187021,
+      "name": "Goalscorer - Kasim Nuhu (KUP)"
+    },
+    {
+      "shortName": "Saku Heiskanen",
+      "childName": "Saku Heiskanen",
+      "desktopOddIds": [
+        [
+          3994187011
+        ],
+        [
+          3994187038
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187011
+        ],
+        [
+          3994187038
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:193433",
+      "id": 3994187011,
+      "name": "Goalscorer - Saku Heiskanen (KUP)"
+    },
+    {
+      "shortName": "Erik Andersson",
+      "childName": "Erik Andersson",
+      "desktopOddIds": [
+        [
+          3994187019
+        ],
+        [
+          3994187039
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187019
+        ],
+        [
+          3994187039
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:206683",
+      "id": 3994187019,
+      "name": "Goalscorer - Erik Andersson (LAH)"
+    },
+    {
+      "shortName": "Bob Nii Armah",
+      "childName": "Bob Nii Armah",
+      "desktopOddIds": [
+        [
+          3994187032
+        ],
+        [
+          3994187081
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187032
+        ],
+        [
+          3994187081
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:657735",
+      "id": 3994187032,
+      "name": "Goalscorer - Bob Nii Armah (KUP)"
+    },
+    {
+      "shortName": "Rasmus Tikkanen",
+      "childName": "Rasmus Tikkanen",
+      "desktopOddIds": [
+        [
+          3994187031
+        ],
+        [
+          3994187090
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187031
+        ],
+        [
+          3994187090
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:683062",
+      "id": 3994187031,
+      "name": "Goalscorer - Rasmus Tikkanen (KUP)"
+    },
+    {
+      "shortName": "Clinton Antwi",
+      "childName": "Clinton Antwi",
+      "desktopOddIds": [
+        [
+          3994187010
+        ],
+        [
+          3994187065
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187010
+        ],
+        [
+          3994187065
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:197709",
+      "id": 3994187010,
+      "name": "Goalscorer - Clinton Antwi (KUP)"
+    },
+    {
+      "shortName": "Taneli Hamalainen",
+      "childName": "Taneli Hamalainen",
+      "desktopOddIds": [
+        [
+          3994187037
+        ],
+        [
+          3994187054
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187037
+        ],
+        [
+          3994187054
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:315872",
+      "id": 3994187037,
+      "name": "Goalscorer - Taneli Hamalainen (KUP)"
+    },
+    {
+      "shortName": "Tatu Hukkanen",
+      "childName": "Tatu Hukkanen",
+      "desktopOddIds": [
+        [
+          3994187020
+        ],
+        [
+          3994187052
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187020
+        ],
+        [
+          3994187052
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 43847,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:658892",
+      "id": 3994187020,
+      "name": "Goalscorer - Tatu Hukkanen (KUP)"
+    },
+    {
+      "shortName": "Armend Kabashi",
+      "childName": "Armend Kabashi",
+      "desktopOddIds": [
+        [
+          3994187029
+        ],
+        [
+          3994187058
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187029
+        ],
+        [
+          3994187058
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:231123",
+      "id": 3994187029,
+      "name": "Goalscorer - Armend Kabashi (LAH)"
+    },
+    {
+      "shortName": "Yohan Cassubie",
+      "childName": "Yohan Cassubie",
+      "desktopOddIds": [
+        [
+          3994187034
+        ],
+        [
+          3994187075
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187034
+        ],
+        [
+          3994187075
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:474175",
+      "id": 3994187034,
+      "name": "Goalscorer - Yohan Cassubie (LAH)"
+    },
+    {
+      "shortName": "Vaino Vehkonen",
+      "childName": "Vaino Vehkonen",
+      "desktopOddIds": [
+        [
+          3994187024
+        ],
+        [
+          3994187059
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187024
+        ],
+        [
+          3994187059
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:193430",
+      "id": 3994187024,
+      "name": "Goalscorer - Vaino Vehkonen (LAH)"
+    },
+    {
+      "shortName": "Matias Vainionpaa",
+      "childName": "Matias Vainionpaa",
+      "desktopOddIds": [
+        [
+          3994187008
+        ],
+        [
+          3994187044
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187008
+        ],
+        [
+          3994187044
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:628037",
+      "id": 3994187008,
+      "name": "Goalscorer - Matias Vainionpaa (LAH)"
+    },
+    {
+      "shortName": "Romaric Yapi",
+      "childName": "Romaric Yapi",
+      "desktopOddIds": [
+        [
+          3994187027
+        ],
+        [
+          3994187064
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187027
+        ],
+        [
+          3994187064
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:183889",
+      "id": 3994187027,
+      "name": "Goalscorer - Romaric Yapi (LAH)"
+    },
+    {
+      "shortName": "Nicolas Gianini Dantas",
+      "childName": "Nicolas Gianini Dantas",
+      "desktopOddIds": [
+        [
+          3994187035
+        ],
+        [
+          3994187060
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187035
+        ],
+        [
+          3994187060
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:207379",
+      "id": 3994187035,
+      "name": "Goalscorer - Nicolas Gianini Dantas (LAH)"
+    },
+    {
+      "shortName": "Romain Sans",
+      "childName": "Romain Sans",
+      "desktopOddIds": [
+        [
+          3994187005
+        ],
+        [
+          3994187046
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187005
+        ],
+        [
+          3994187046
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:241629",
+      "id": 3994187005,
+      "name": "Goalscorer - Romain Sans (LAH)"
+    },
+    {
+      "shortName": "Joel Lehtonen",
+      "childName": "Joel Lehtonen",
+      "desktopOddIds": [
+        [
+          3994187002
+        ],
+        [
+          3994187067
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187002
+        ],
+        [
+          3994187067
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:656600",
+      "id": 3994187002,
+      "name": "Goalscorer - Joel Lehtonen (LAH)"
+    },
+    {
+      "shortName": "Topias Inkinen",
+      "childName": "Topias Inkinen",
+      "desktopOddIds": [
+        [
+          3994187026
+        ],
+        [
+          3994187084
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187026
+        ],
+        [
+          3994187084
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:691831",
+      "id": 3994187026,
+      "name": "Goalscorer - Topias Inkinen (LAH)"
+    },
+    {
+      "shortName": "Jose Claro Muller",
+      "childName": "Jose Claro Muller",
+      "desktopOddIds": [
+        [
+          3994187012
+        ],
+        [
+          3994187062
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3994187012
+        ],
+        [
+          3994187062
+        ]
+      ],
+      "isBB": false,
+      "variant": 13,
+      "competitorId": 57096,
+      "so": 0,
+      "typeId": 21001,
+      "isMB": false,
+      "sportMarketId": 0,
+      "sv": "1|ls:player:694217",
+      "id": 3994187012,
+      "name": "Goalscorer - Jose Claro Muller (LAH)"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 2090,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:172766",
+      "id": 3994187025,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:172766",
+      "id": 3994187041,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:270802",
+      "id": 3994187036,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:270802",
+      "id": 3994187061,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658898",
+      "id": 3994187022,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658898",
+      "id": 3994187057,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658899",
+      "id": 3994187013,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658899",
+      "id": 3994187043,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:676554",
+      "id": 3994187028,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:676554",
+      "id": 3994187063,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:232726",
+      "id": 3994187000,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:232726",
+      "id": 3994187040,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:663896",
+      "id": 3994187030,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:663896",
+      "id": 3994187056,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:681315",
+      "id": 3994187003,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:681315",
+      "id": 3994187047,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:762787",
+      "id": 3994187033,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:762787",
+      "id": 3994187071,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:308449",
+      "id": 3994187017,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:308449",
+      "id": 3994187053,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:754483",
+      "id": 3994187015,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:754483",
+      "id": 3994187055,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:274200",
+      "id": 3994187007,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:274200",
+      "id": 3994187068,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:762784",
+      "id": 3994187009,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:762784",
+      "id": 3994187078,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:631052",
+      "id": 3994187016,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:631052",
+      "id": 3994187050,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:210598",
+      "id": 3994187001,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:210598",
+      "id": 3994187051,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:674841",
+      "id": 3994187006,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:674841",
+      "id": 3994187045,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:765553",
+      "id": 3994187023,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:765553",
+      "id": 3994187087,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:189284",
+      "id": 3994187014,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:189284",
+      "id": 3994187048,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:680258",
+      "id": 3994187018,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:680258",
+      "id": 3994187049,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:208318",
+      "id": 3994187004,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:208318",
+      "id": 3994187069,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:593225",
+      "id": 3994187021,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:593225",
+      "id": 3994187042,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:193433",
+      "id": 3994187011,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:193433",
+      "id": 3994187038,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:206683",
+      "id": 3994187019,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:206683",
+      "id": 3994187039,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:657735",
+      "id": 3994187032,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:657735",
+      "id": 3994187081,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:683062",
+      "id": 3994187031,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:683062",
+      "id": 3994187090,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:197709",
+      "id": 3994187010,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:197709",
+      "id": 3994187065,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:315872",
+      "id": 3994187037,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:315872",
+      "id": 3994187054,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658892",
+      "id": 3994187020,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:658892",
+      "id": 3994187052,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:231123",
+      "id": 3994187029,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:231123",
+      "id": 3994187058,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:474175",
+      "id": 3994187034,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:474175",
+      "id": 3994187075,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:193430",
+      "id": 3994187024,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:193430",
+      "id": 3994187059,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:628037",
+      "id": 3994187008,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:628037",
+      "id": 3994187044,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:183889",
+      "id": 3994187027,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:183889",
+      "id": 3994187064,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:207379",
+      "id": 3994187035,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:207379",
+      "id": 3994187060,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:241629",
+      "id": 3994187005,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:241629",
+      "id": 3994187046,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:656600",
+      "id": 3994187002,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:656600",
+      "id": 3994187067,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:691831",
+      "id": 3994187026,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:691831",
+      "id": 3994187084,
+      "name": "Anytime"
+    },
+    {
+      "typeId": 2090,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:694217",
+      "id": 3994187012,
+      "name": "First"
+    },
+    {
+      "typeId": 2092,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1|ls:player:694217",
+      "id": 3994187062,
+      "name": "Anytime"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 5818,
+  "rc": false,
+  "startDate": "2026-05-23T14:00:00Z",
+  "showAll": true
+}

@@ -1,0 +1,3776 @@
+{
+  "id": 16344887,
+  "feedEventId": 20873376,
+  "name": "Inhumas vs. Aparecidense",
+  "et": 0,
+  "liveTime": "76'",
+  "lst": "2026-05-17T20:23:13Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 17204,
+    "name": "Brasileiro Serie D"
+  },
+  "category": {
+    "iso": "BRA",
+    "hasLiveEvents": false,
+    "id": 593,
+    "name": "Brazil"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 115286,
+      "name": "Inhumas"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 54897,
+      "name": "Aparecidense"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1571364055,
+        1571364051,
+        1571364045,
+        1572444164,
+        1571364058,
+        1573229045,
+        1571364049,
+        1573257383,
+        1573257384,
+        1571364089,
+        1573229047,
+        1571364042,
+        1571364297,
+        1571364300,
+        1571364301,
+        1571364084
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1571364055,
+        1571364045,
+        1571364051,
+        1573257383,
+        1573229047,
+        1571364042,
+        1571364297,
+        1571364049
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 1,
+      "marketIds": [
+        1573269247,
+        1573270227,
+        1573270896
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 18,
+      "name": "1 minute"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1571364087,
+        1571364088
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1571364075,
+        1571364076,
+        1571364078,
+        1571364073,
+        1571364082,
+        1571364077,
+        1571364079,
+        1571364080,
+        1571364070,
+        1571364071,
+        1571364083,
+        1571364074,
+        1571364081,
+        1573229046,
+        1573188699
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3995224319
+        ],
+        [
+          3995224320
+        ],
+        [
+          3995224321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224319
+        ],
+        [
+          3995224320
+        ],
+        [
+          3995224321
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1571364055,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3995224306
+        ],
+        [
+          3995224304
+        ],
+        [
+          3995224305
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224306,
+          3995224304,
+          3995224305
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1571364051,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3995224262,
+          3995224264
+        ],
+        [
+          3995224263,
+          3995224265
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224262,
+          3995224264
+        ],
+        [
+          3995224263,
+          3995224265
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": false,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1571364045,
+      "name": "Total"
+    },
+    {
+      "shortName": "Any team to win",
+      "desktopOddIds": [
+        [
+          3998308862
+        ],
+        [
+          3998308863
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3998308862
+        ],
+        [
+          3998308863
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 881,
+      "isMB": false,
+      "sportMarketId": 71124,
+      "id": 1572444164,
+      "name": "Any team to win"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3995224328
+        ],
+        [
+          3995224329
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224328
+        ],
+        [
+          3995224329
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1571364058,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "Third goal",
+      "desktopOddIds": [
+        [
+          4000391269
+        ],
+        [
+          4000391271
+        ],
+        [
+          4000391270
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000391269
+        ],
+        [
+          4000391271
+        ],
+        [
+          4000391270
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "3",
+      "id": 1573229045,
+      "name": "Third goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3995224279,
+          3995224280,
+          3995224285,
+          3995224281,
+          3995224286,
+          3995224294
+        ],
+        [
+          3995224278,
+          3995224284,
+          3995224290,
+          3995224296,
+          3995224297
+        ],
+        [
+          3995224283,
+          3995224288,
+          3995224289,
+          3995224292,
+          3995224293,
+          3995224295
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224279,
+          3995224280,
+          3995224285,
+          3995224281,
+          3995224286,
+          3995224294
+        ],
+        [
+          3995224278,
+          3995224284,
+          3995224290,
+          3995224296,
+          3995224297
+        ],
+        [
+          3995224283,
+          3995224288,
+          3995224289,
+          3995224292,
+          3995224293,
+          3995224295
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1571364049,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4000463061
+        ],
+        [
+          4000463062
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000463061
+        ],
+        [
+          4000463062
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1573257383,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          4000463063
+        ],
+        [
+          4000463064
+        ],
+        [
+          4000463065
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000463063,
+          4000463064,
+          4000463065
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "0:1",
+      "id": 1573257384,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          3995224588
+        ],
+        [
+          3995224590
+        ],
+        [
+          3995224589
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224588
+        ],
+        [
+          3995224590
+        ],
+        [
+          3995224589
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "isMB": false,
+      "sportMarketId": 70493,
+      "id": 1571364089,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "Inhumas total",
+      "desktopOddIds": [
+        [
+          4000391279
+        ],
+        [
+          4000391280
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000391279
+        ],
+        [
+          4000391280
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1573229047,
+      "name": "Inhumas total"
+    },
+    {
+      "shortName": "Aparecidense total",
+      "desktopOddIds": [
+        [
+          3995224258
+        ],
+        [
+          3995224259
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224258
+        ],
+        [
+          3995224259
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1571364042,
+      "name": "Aparecidense total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3995225077
+        ],
+        [
+          3995225078
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995225077
+        ],
+        [
+          3995225078
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1571364297,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Inhumas odd/even",
+      "desktopOddIds": [
+        [
+          3995225083
+        ],
+        [
+          3995225084
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995225083
+        ],
+        [
+          3995225084
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1571364300,
+      "name": "Inhumas odd/even"
+    },
+    {
+      "shortName": "Aparecidense odd/even",
+      "desktopOddIds": [
+        [
+          3995225085
+        ],
+        [
+          3995225086
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995225085
+        ],
+        [
+          3995225086
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1571364301,
+      "name": "Aparecidense odd/even"
+    },
+    {
+      "shortName": "Multigoals",
+      "desktopOddIds": [
+        [
+          3995224451,
+          3995224450,
+          3995224442,
+          3995224443,
+          3995224424,
+          3995224426,
+          3995224444,
+          3995224429,
+          3995224431,
+          3995224432,
+          3995224434,
+          3995224452,
+          3995224436,
+          3995224455,
+          3995224448,
+          3995224449,
+          3995224453
+        ],
+        [
+          3995224440,
+          3995224439,
+          3995224441,
+          3995224423,
+          3995224425,
+          3995224427,
+          3995224428,
+          3995224430,
+          3995224445,
+          3995224433,
+          3995224446,
+          3995224435,
+          3995224447,
+          3995224437,
+          3995224438,
+          3995224454
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224451,
+          3995224450,
+          3995224442,
+          3995224443,
+          3995224424,
+          3995224426,
+          3995224444,
+          3995224429,
+          3995224431,
+          3995224432,
+          3995224434,
+          3995224452,
+          3995224436,
+          3995224455,
+          3995224448,
+          3995224449,
+          3995224453
+        ],
+        [
+          3995224440,
+          3995224439,
+          3995224441,
+          3995224423,
+          3995224425,
+          3995224427,
+          3995224428,
+          3995224430,
+          3995224445,
+          3995224433,
+          3995224446,
+          3995224435,
+          3995224447,
+          3995224437,
+          3995224438,
+          3995224454
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 548,
+      "isMB": false,
+      "sportMarketId": 71014,
+      "id": 1571364084,
+      "name": "Multigoals"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3995224319
+        ],
+        [
+          3995224320
+        ],
+        [
+          3995224321
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224319
+        ],
+        [
+          3995224320
+        ],
+        [
+          3995224321
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1571364055,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3995224262,
+          3995224264
+        ],
+        [
+          3995224263,
+          3995224265
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224262,
+          3995224264
+        ],
+        [
+          3995224263,
+          3995224265
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": false,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1571364045,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3995224306
+        ],
+        [
+          3995224304
+        ],
+        [
+          3995224305
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224306,
+          3995224304,
+          3995224305
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1571364051,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4000463061
+        ],
+        [
+          4000463062
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000463061
+        ],
+        [
+          4000463062
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1573257383,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Inhumas total",
+      "desktopOddIds": [
+        [
+          4000391279
+        ],
+        [
+          4000391280
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000391279
+        ],
+        [
+          4000391280
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": true,
+      "sportMarketId": 70525,
+      "sv": "1.5",
+      "id": 1573229047,
+      "name": "Inhumas total"
+    },
+    {
+      "shortName": "Aparecidense total",
+      "desktopOddIds": [
+        [
+          3995224258
+        ],
+        [
+          3995224259
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224258
+        ],
+        [
+          3995224259
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1571364042,
+      "name": "Aparecidense total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3995225077
+        ],
+        [
+          3995225078
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995225077
+        ],
+        [
+          3995225078
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1571364297,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3995224279,
+          3995224280,
+          3995224285,
+          3995224281,
+          3995224286,
+          3995224294
+        ],
+        [
+          3995224278,
+          3995224284,
+          3995224290,
+          3995224296,
+          3995224297
+        ],
+        [
+          3995224283,
+          3995224288,
+          3995224289,
+          3995224292,
+          3995224293,
+          3995224295
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224279,
+          3995224280,
+          3995224285,
+          3995224281,
+          3995224286,
+          3995224294
+        ],
+        [
+          3995224278,
+          3995224284,
+          3995224290,
+          3995224296,
+          3995224297
+        ],
+        [
+          3995224283,
+          3995224288,
+          3995224289,
+          3995224292,
+          3995224293,
+          3995224295
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1571364049,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "What will happen in next minute (77:00 - 77:59)",
+      "desktopOddIds": [
+        [
+          4000492337
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000492337
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "77:00|77:59",
+      "id": 1573269247,
+      "name": "What will happen in next minute (77:00 - 77:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (78:00 - 78:59)",
+      "desktopOddIds": [
+        [
+          4000494532
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000494532
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "78:00|78:59",
+      "id": 1573270227,
+      "name": "What will happen in next minute (78:00 - 78:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (79:00 - 79:59)",
+      "desktopOddIds": [
+        [
+          4000496012
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000496012
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "isMB": false,
+      "sportMarketId": 71735,
+      "sv": "79:00|79:59",
+      "id": 1573270896,
+      "name": "What will happen in next minute (79:00 - 79:59)"
+    },
+    {
+      "shortName": "Inhumas multigoals",
+      "desktopOddIds": [
+        [
+          3995224550,
+          3995224549,
+          3995224541,
+          3995224542,
+          3995224523,
+          3995224525,
+          3995224543,
+          3995224528,
+          3995224530,
+          3995224531,
+          3995224533,
+          3995224551,
+          3995224535,
+          3995224554,
+          3995224547,
+          3995224548,
+          3995224552
+        ],
+        [
+          3995224539,
+          3995224538,
+          3995224540,
+          3995224522,
+          3995224524,
+          3995224526,
+          3995224527,
+          3995224529,
+          3995224544,
+          3995224532,
+          3995224545,
+          3995224534,
+          3995224546,
+          3995224536,
+          3995224537,
+          3995224553
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224550,
+          3995224549,
+          3995224541,
+          3995224542,
+          3995224523,
+          3995224525,
+          3995224543,
+          3995224528,
+          3995224530,
+          3995224531,
+          3995224533,
+          3995224551,
+          3995224535,
+          3995224554,
+          3995224547,
+          3995224548,
+          3995224552
+        ],
+        [
+          3995224539,
+          3995224538,
+          3995224540,
+          3995224522,
+          3995224524,
+          3995224526,
+          3995224527,
+          3995224529,
+          3995224544,
+          3995224532,
+          3995224545,
+          3995224534,
+          3995224546,
+          3995224536,
+          3995224537,
+          3995224553
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 549,
+      "isMB": false,
+      "sportMarketId": 71015,
+      "id": 1571364087,
+      "name": "Inhumas multigoals"
+    },
+    {
+      "shortName": "Aparecidense multigoals",
+      "desktopOddIds": [
+        [
+          3995224583,
+          3995224582,
+          3995224574,
+          3995224575,
+          3995224556,
+          3995224558,
+          3995224576,
+          3995224561,
+          3995224563,
+          3995224564,
+          3995224566,
+          3995224584,
+          3995224568,
+          3995224587,
+          3995224580,
+          3995224581,
+          3995224585
+        ],
+        [
+          3995224572,
+          3995224571,
+          3995224573,
+          3995224555,
+          3995224557,
+          3995224559,
+          3995224560,
+          3995224562,
+          3995224577,
+          3995224565,
+          3995224578,
+          3995224567,
+          3995224579,
+          3995224569,
+          3995224570,
+          3995224586
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224583,
+          3995224582,
+          3995224574,
+          3995224575,
+          3995224556,
+          3995224558,
+          3995224576,
+          3995224561,
+          3995224563,
+          3995224564,
+          3995224566,
+          3995224584,
+          3995224568,
+          3995224587,
+          3995224580,
+          3995224581,
+          3995224585
+        ],
+        [
+          3995224572,
+          3995224571,
+          3995224573,
+          3995224555,
+          3995224557,
+          3995224559,
+          3995224560,
+          3995224562,
+          3995224577,
+          3995224565,
+          3995224578,
+          3995224567,
+          3995224579,
+          3995224569,
+          3995224570,
+          3995224586
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 550,
+      "isMB": false,
+      "sportMarketId": 71016,
+      "id": 1571364088,
+      "name": "Aparecidense multigoals"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-3",
+      "desktopOddIds": [
+        [
+          3995224396,
+          3995224397,
+          3995224398
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224396,
+          3995224397,
+          3995224398
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-3",
+      "id": 1571364075,
+      "name": "1x2 & Multigoals 1-3"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-4",
+      "desktopOddIds": [
+        [
+          3995224399,
+          3995224400,
+          3995224401
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224399,
+          3995224400,
+          3995224401
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-4",
+      "id": 1571364076,
+      "name": "1x2 & Multigoals 1-4"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-5",
+      "desktopOddIds": [
+        [
+          3995224405,
+          3995224406,
+          3995224407
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224405,
+          3995224406,
+          3995224407
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-5",
+      "id": 1571364078,
+      "name": "1x2 & Multigoals 1-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 1-6",
+      "desktopOddIds": [
+        [
+          3995224390,
+          3995224391,
+          3995224392
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224390,
+          3995224391,
+          3995224392
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "1-6",
+      "id": 1571364073,
+      "name": "1x2 & Multigoals 1-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-3",
+      "desktopOddIds": [
+        [
+          3995224417,
+          3995224418,
+          3995224419
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224417,
+          3995224418,
+          3995224419
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-3",
+      "id": 1571364082,
+      "name": "1x2 & Multigoals 2-3"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-4",
+      "desktopOddIds": [
+        [
+          3995224402,
+          3995224403,
+          3995224404
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224402,
+          3995224403,
+          3995224404
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-4",
+      "id": 1571364077,
+      "name": "1x2 & Multigoals 2-4"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-5",
+      "desktopOddIds": [
+        [
+          3995224408,
+          3995224409,
+          3995224410
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224408,
+          3995224409,
+          3995224410
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-5",
+      "id": 1571364079,
+      "name": "1x2 & Multigoals 2-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 2-6",
+      "desktopOddIds": [
+        [
+          3995224411,
+          3995224412,
+          3995224413
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224411,
+          3995224412,
+          3995224413
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "2-6",
+      "id": 1571364080,
+      "name": "1x2 & Multigoals 2-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 3-4",
+      "desktopOddIds": [
+        [
+          3995224381,
+          3995224382,
+          3995224383
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224381,
+          3995224382,
+          3995224383
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "3-4",
+      "id": 1571364070,
+      "name": "1x2 & Multigoals 3-4"
+    },
+    {
+      "shortName": "1x2 & Multigoals 3-5",
+      "desktopOddIds": [
+        [
+          3995224384,
+          3995224385,
+          3995224386
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224384,
+          3995224385,
+          3995224386
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "3-5",
+      "id": 1571364071,
+      "name": "1x2 & Multigoals 3-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 3-6",
+      "desktopOddIds": [
+        [
+          3995224420,
+          3995224421,
+          3995224422
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224420,
+          3995224421,
+          3995224422
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "3-6",
+      "id": 1571364083,
+      "name": "1x2 & Multigoals 3-6"
+    },
+    {
+      "shortName": "1x2 & Multigoals 4-5",
+      "desktopOddIds": [
+        [
+          3995224393,
+          3995224394,
+          3995224395
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224393,
+          3995224394,
+          3995224395
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "4-5",
+      "id": 1571364074,
+      "name": "1x2 & Multigoals 4-5"
+    },
+    {
+      "shortName": "1x2 & Multigoals 4-6",
+      "desktopOddIds": [
+        [
+          3995224414,
+          3995224415,
+          3995224416
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3995224414,
+          3995224415,
+          3995224416
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 17709,
+      "isMB": false,
+      "sportMarketId": 72229,
+      "sv": "4-6",
+      "id": 1571364081,
+      "name": "1x2 & Multigoals 4-6"
+    },
+    {
+      "shortName": "Third goal & 1x2",
+      "desktopOddIds": [
+        [
+          4000391272,
+          4000391273,
+          4000391274
+        ],
+        [
+          4000391278
+        ],
+        [
+          4000391275,
+          4000391276,
+          4000391277
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000391272,
+          4000391273,
+          4000391274,
+          4000391278,
+          4000391275,
+          4000391276,
+          4000391277
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 184,
+      "isMB": false,
+      "sportMarketId": 70753,
+      "sv": "3",
+      "id": 1573229046,
+      "name": "Third goal & 1x2"
+    },
+    {
+      "shortName": "Double chance & total 3.5",
+      "desktopOddIds": [
+        [
+          4000293758,
+          4000293755
+        ],
+        [
+          4000293760,
+          4000293757
+        ],
+        [
+          4000293759,
+          4000293756
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4000293758,
+          4000293759,
+          4000293760,
+          4000293755,
+          4000293756,
+          4000293757
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "isMB": false,
+      "sportMarketId": 71013,
+      "sv": "3.5",
+      "id": 1573188699,
+      "name": "Double chance & total 3.5"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 3995224319,
+      "name": "Inhumas"
+    },
+    {
+      "typeId": 2,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224320,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 3995224321,
+      "name": "Aparecidense"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1053,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 3995224306,
+      "name": "Inhumas or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224304,
+      "name": "Inhumas or Aparecidense"
+    },
+    {
+      "typeId": 11,
+      "price": 1.174,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 3995224305,
+      "name": "Draw or Aparecidense"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995224262,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3995224264,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3995224263,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3995224265,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3998308862,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3998308863,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 115286,
+      "id": 3995224328,
+      "name": "Inhumas"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54897,
+      "id": 3995224329,
+      "name": "Aparecidense"
+    },
+    {
+      "typeId": 1,
+      "price": 3.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 115286,
+      "id": 4000391269,
+      "name": "Inhumas"
+    },
+    {
+      "typeId": 7,
+      "price": 1.6334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000391271,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 4.2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 54897,
+      "id": 4000391270,
+      "name": "Aparecidense"
+    },
+    {
+      "typeId": 130,
+      "price": 3.15,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224279,
+      "name": "2:1"
+    },
+    {
+      "typeId": 132,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224280,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224285,
+      "name": "3:2"
+    },
+    {
+      "typeId": 134,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224281,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224286,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224294,
+      "name": "4:3"
+    },
+    {
+      "typeId": 128,
+      "price": 1.6334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224278,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224284,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224290,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224296,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224297,
+      "name": "Other"
+    },
+    {
+      "typeId": 140,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224283,
+      "name": "1:2"
+    },
+    {
+      "typeId": 150,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224288,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224289,
+      "name": "2:3"
+    },
+    {
+      "typeId": 158,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224292,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224293,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995224295,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 3.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 4000463061,
+      "name": "Inhumas (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.174,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 4000463062,
+      "name": "Aparecidense (+0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 115286,
+      "id": 4000463063,
+      "name": "Inhumas (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 4000463064,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.174,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 54897,
+      "id": 4000463065,
+      "name": "Aparecidense (0:1)"
+    },
+    {
+      "typeId": 1,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 115286,
+      "id": 3995224588,
+      "name": "Inhumas"
+    },
+    {
+      "typeId": 7,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224590,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 54897,
+      "id": 3995224589,
+      "name": "Aparecidense"
+    },
+    {
+      "typeId": 12,
+      "price": 3.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4000391279,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2728,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4000391280,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3995224258,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2106,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3995224259,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995225077,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3995225078,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995225083,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995225084,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.175,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995225085,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995225086,
+      "name": "Even"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.5667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224440,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224451,
+      "name": "0-1"
+    },
+    {
+      "typeId": 710,
+      "price": 1.0625,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224450,
+      "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224439,
+      "name": "0-4"
+    },
+    {
+      "typeId": 2359,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224442,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224441,
+      "name": "0-6"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.5667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224423,
+      "name": "1-2"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224443,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.0625,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224424,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224425,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1733,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224426,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224427,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224444,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.0625,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224428,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224430,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224429,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1738,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224431,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224445,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1739,
+      "price": 2.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224432,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1740,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224433,
+      "name": "3-5"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.9524,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224446,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 1.9524,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224434,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224452,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224435,
+      "name": "4-5"
+    },
+    {
+      "typeId": 1743,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224436,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224447,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224437,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224455,
+      "name": "5+"
+    },
+    {
+      "typeId": 5252,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224448,
+      "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224438,
+      "name": "6+"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224454,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224449,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224453,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 3995224319,
+      "name": "Inhumas"
+    },
+    {
+      "typeId": 2,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224320,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 4.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 3995224321,
+      "name": "Aparecidense"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224262,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224264,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224263,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.0667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224265,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1053,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 3995224306,
+      "name": "Inhumas or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224304,
+      "name": "Inhumas or Aparecidense"
+    },
+    {
+      "typeId": 11,
+      "price": 1.174,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 3995224305,
+      "name": "Draw or Aparecidense"
+    },
+    {
+      "typeId": 1714,
+      "price": 3.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 115286,
+      "isDBB": true,
+      "id": 4000463061,
+      "name": "Inhumas (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.174,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 54897,
+      "isDBB": true,
+      "id": 4000463062,
+      "name": "Aparecidense (+0.5)"
+    },
+    {
+      "typeId": 12,
+      "price": 3.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4000391279,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2728,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4000391280,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224258,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2106,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224259,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995225077,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995225078,
+      "name": "Even"
+    },
+    {
+      "typeId": 130,
+      "price": 3.15,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224279,
+      "name": "2:1"
+    },
+    {
+      "typeId": 132,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224280,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224285,
+      "name": "3:2"
+    },
+    {
+      "typeId": 134,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224281,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224286,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224294,
+      "name": "4:3"
+    },
+    {
+      "typeId": 128,
+      "price": 1.6334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224278,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224284,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224290,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224296,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224297,
+      "name": "Other"
+    },
+    {
+      "typeId": 140,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224283,
+      "name": "1:2"
+    },
+    {
+      "typeId": 150,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224288,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224289,
+      "name": "2:3"
+    },
+    {
+      "typeId": 158,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224292,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224293,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3995224295,
+      "name": "3:4"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "77:00|77:59",
+      "iconName": "goal",
+      "id": 4000492337,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "78:00|78:59",
+      "iconName": "goal",
+      "id": 4000494532,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "79:00|79:59",
+      "iconName": "goal",
+      "id": 4000496012,
+      "name": "Goal"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224539,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.24,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224550,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224538,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224549,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224540,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224541,
+      "name": "0-5"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.02,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224522,
+      "name": "1-2"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224542,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1731,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224523,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224524,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1734,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224526,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224525,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224527,
+      "name": "2-3"
+    },
+    {
+      "typeId": 5248,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224543,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224528,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224529,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224530,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224544,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224532,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224531,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224545,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 12,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224533,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224551,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224534,
+      "name": "4-5"
+    },
+    {
+      "typeId": 5251,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224546,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224535,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224536,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224554,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224537,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224547,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224548,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224553,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224552,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.0134,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224572,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224583,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224571,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224582,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224573,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224574,
+      "name": "0-5"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.0134,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224555,
+      "name": "1-2"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224575,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1731,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224556,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224557,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1734,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224559,
+      "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224558,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1735,
+      "price": 3.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224560,
+      "name": "2-3"
+    },
+    {
+      "typeId": 5248,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224576,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1736,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224561,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224562,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224563,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224577,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224565,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224564,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224578,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224566,
+      "name": "3-6"
+    },
+    {
+      "typeId": 736,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224584,
+      "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224567,
+      "name": "4-5"
+    },
+    {
+      "typeId": 5251,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224579,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224568,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224569,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224587,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224570,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224580,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224581,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3995224586,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3995224585,
+      "name": "No goal"
+    },
+    {
+      "typeId": 2252,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-3",
+      "competitorId": 115286,
+      "id": 3995224396,
+      "name": "Inhumas & 1-3"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-3",
+      "id": 3995224397,
+      "name": "Draw & 1-3"
+    },
+    {
+      "typeId": 2254,
+      "price": 5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-3",
+      "competitorId": 54897,
+      "id": 3995224398,
+      "name": "Aparecidense & 1-3"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-4",
+      "competitorId": 115286,
+      "id": 3995224399,
+      "name": "Inhumas & 1-4"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-4",
+      "id": 3995224400,
+      "name": "Draw & 1-4"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-4",
+      "competitorId": 54897,
+      "id": 3995224401,
+      "name": "Aparecidense & 1-4"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "competitorId": 115286,
+      "id": 3995224405,
+      "name": "Inhumas & 1-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "id": 3995224406,
+      "name": "Draw & 1-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-5",
+      "competitorId": 54897,
+      "id": 3995224407,
+      "name": "Aparecidense & 1-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "competitorId": 115286,
+      "id": 3995224390,
+      "name": "Inhumas & 1-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "id": 3995224391,
+      "name": "Draw & 1-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1-6",
+      "competitorId": 54897,
+      "id": 3995224392,
+      "name": "Aparecidense & 1-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-3",
+      "competitorId": 115286,
+      "id": 3995224417,
+      "name": "Inhumas & 2-3"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-3",
+      "id": 3995224418,
+      "name": "Draw & 2-3"
+    },
+    {
+      "typeId": 2254,
+      "price": 5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-3",
+      "competitorId": 54897,
+      "id": 3995224419,
+      "name": "Aparecidense & 2-3"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-4",
+      "competitorId": 115286,
+      "id": 3995224402,
+      "name": "Inhumas & 2-4"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-4",
+      "id": 3995224403,
+      "name": "Draw & 2-4"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-4",
+      "competitorId": 54897,
+      "id": 3995224404,
+      "name": "Aparecidense & 2-4"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "competitorId": 115286,
+      "id": 3995224408,
+      "name": "Inhumas & 2-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "id": 3995224409,
+      "name": "Draw & 2-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-5",
+      "competitorId": 54897,
+      "id": 3995224410,
+      "name": "Aparecidense & 2-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "competitorId": 115286,
+      "id": 3995224411,
+      "name": "Inhumas & 2-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "id": 3995224412,
+      "name": "Draw & 2-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2-6",
+      "competitorId": 54897,
+      "id": 3995224413,
+      "name": "Aparecidense & 2-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-4",
+      "competitorId": 115286,
+      "id": 3995224381,
+      "name": "Inhumas & 3-4"
+    },
+    {
+      "typeId": 2253,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-4",
+      "id": 3995224382,
+      "name": "Draw & 3-4"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-4",
+      "competitorId": 54897,
+      "id": 3995224383,
+      "name": "Aparecidense & 3-4"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "competitorId": 115286,
+      "id": 3995224384,
+      "name": "Inhumas & 3-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "id": 3995224385,
+      "name": "Draw & 3-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-5",
+      "competitorId": 54897,
+      "id": 3995224386,
+      "name": "Aparecidense & 3-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "competitorId": 115286,
+      "id": 3995224420,
+      "name": "Inhumas & 3-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "id": 3995224421,
+      "name": "Draw & 3-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3-6",
+      "competitorId": 54897,
+      "id": 3995224422,
+      "name": "Aparecidense & 3-6"
+    },
+    {
+      "typeId": 2252,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "competitorId": 115286,
+      "id": 3995224393,
+      "name": "Inhumas & 4-5"
+    },
+    {
+      "typeId": 2253,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "id": 3995224394,
+      "name": "Draw & 4-5"
+    },
+    {
+      "typeId": 2254,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-5",
+      "competitorId": 54897,
+      "id": 3995224395,
+      "name": "Aparecidense & 4-5"
+    },
+    {
+      "typeId": 2252,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "competitorId": 115286,
+      "id": 3995224414,
+      "name": "Inhumas & 4-6"
+    },
+    {
+      "typeId": 2253,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "id": 3995224415,
+      "name": "Draw & 4-6"
+    },
+    {
+      "typeId": 2254,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4-6",
+      "competitorId": 54897,
+      "id": 3995224416,
+      "name": "Aparecidense & 4-6"
+    },
+    {
+      "typeId": 814,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 115286,
+      "id": 4000391272,
+      "name": "Inhumas goal & Inhumas"
+    },
+    {
+      "typeId": 816,
+      "price": 46,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 115286,
+      "id": 4000391273,
+      "name": "Inhumas goal & draw"
+    },
+    {
+      "typeId": 818,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000391274,
+      "name": "Inhumas goal & Aparecidense"
+    },
+    {
+      "typeId": 826,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000391278,
+      "name": "No goal"
+    },
+    {
+      "typeId": 820,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "id": 4000391275,
+      "name": "Aparecidense goal & Inhumas"
+    },
+    {
+      "typeId": 822,
+      "price": 46,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 54897,
+      "id": 4000391276,
+      "name": "Aparecidense goal & draw"
+    },
+    {
+      "typeId": 824,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3",
+      "competitorId": 54897,
+      "id": 4000391277,
+      "name": "Aparecidense goal & Aparecidense"
+    },
+    {
+      "typeId": 1727,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 115286,
+      "id": 4000293758,
+      "name": "Inhumas/X & over 3.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000293759,
+      "name": "Inhumas/Aparecidense & over 3.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 54897,
+      "id": 4000293760,
+      "name": "X/Aparecidense & over 3.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 115286,
+      "id": 4000293755,
+      "name": "Inhumas/X & under 3.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4000293756,
+      "name": "Inhumas/Aparecidense & under 3.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 54897,
+      "id": 4000293757,
+      "name": "X/Aparecidense & under 3.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1198,
+  "rc": false,
+  "startDate": "2026-05-17T20:00:00Z",
+  "showAll": true
+}

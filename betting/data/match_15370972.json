@@ -1,0 +1,10004 @@
+{
+  "id": 15370972,
+  "feedEventId": 20848719,
+  "name": "GKS Tychy vs. Stal Rzeszow",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 4569,
+    "name": "I Liga"
+  },
+  "category": {
+    "iso": "POL",
+    "hasLiveEvents": false,
+    "id": 561,
+    "name": "Poland"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 46845,
+      "name": "GKS Tychy"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 47769,
+      "name": "Stal Rzeszow"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1572871166,
+        1572871153,
+        1572871098,
+        1572871140,
+        1572871039,
+        1572871203,
+        1572871243,
+        1572871172,
+        1572871249,
+        1572871143,
+        1572871051,
+        1572871226,
+        1572871183,
+        1572871288,
+        1572871255,
+        1572871072,
+        1572871080,
+        1572871177,
+        1572871257,
+        1572871217,
+        1572871219,
+        1572871514,
+        1572871517,
+        1572871518,
+        1572871185,
+        1572871295,
+        1572871291,
+        1572871283
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1572871166,
+        1572871098,
+        1572871153,
+        1572871051,
+        1572871140,
+        1572871072,
+        1572871080,
+        1572871514,
+        1572871168,
+        1572871155,
+        1572871104,
+        1572871083,
+        1572871086,
+        1572871141,
+        1572871515,
+        1572871143,
+        1572871268,
+        1572871106,
+        1572871089,
+        1572871093,
+        1572871142,
+        1572871258,
+        1572871259,
+        1572871260,
+        1572871261,
+        1572871262,
+        1572871263
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572871267,
+        1572871204,
+        1572871245,
+        1572871187,
+        1572871234,
+        1572871286,
+        1572871287,
+        1572871264,
+        1572871265,
+        1572871260,
+        1572871261,
+        1572871258,
+        1572871259,
+        1572871262,
+        1572871263,
+        1572871185,
+        1572871222,
+        1572871224,
+        1572871295
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572871168,
+        1572871155,
+        1572871104,
+        1572871228,
+        1572871058,
+        1572871268,
+        1572871141,
+        1572871083,
+        1572871086,
+        1572871212,
+        1572871209,
+        1572871147,
+        1572871284,
+        1572871189,
+        1572871235,
+        1572871515,
+        1572871519,
+        1572871520,
+        1572871296
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572871170,
+        1572871157,
+        1572871106,
+        1572871230,
+        1572871254,
+        1572871142,
+        1572871089,
+        1572871093,
+        1572871181,
+        1572871516,
+        1572871297
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1572871211,
+        1572871208,
+        1572871232,
+        1572871292,
+        1572871159,
+        1572871145,
+        1572871298,
+        1572871299,
+        1572871300,
+        1572871266,
+        1572871293,
+        1572871301,
+        1572871302,
+        1572871303,
+        1572871304,
+        1572871305,
+        1572871306
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "isMB": false,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3999414751
+        ],
+        [
+          3999414754
+        ],
+        [
+          3999414759
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414751
+        ],
+        [
+          3999414754
+        ],
+        [
+          3999414759
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572871166,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3999414645
+        ],
+        [
+          3999414638
+        ],
+        [
+          3999414642
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414645,
+          3999414638,
+          3999414642
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572871153,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3999414258
+        ],
+        [
+          3999414261
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414258
+        ],
+        [
+          3999414261
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1572871098,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3999414387
+        ],
+        [
+          3999414391
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414387
+        ],
+        [
+          3999414391
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572871140,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Any team to win",
+      "desktopOddIds": [
+        [
+          3999414127
+        ],
+        [
+          3999414136
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414127
+        ],
+        [
+          3999414136
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 881,
+      "isMB": false,
+      "sportMarketId": 71124,
+      "id": 1572871039,
+      "name": "Any team to win"
+    },
+    {
+      "shortName": "GKS Tychy to win",
+      "desktopOddIds": [
+        [
+          3999414953
+        ],
+        [
+          3999414957
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414953
+        ],
+        [
+          3999414957
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 880,
+      "isMB": false,
+      "sportMarketId": 71123,
+      "id": 1572871203,
+      "name": "GKS Tychy to win"
+    },
+    {
+      "shortName": "Stal Rzeszow to win",
+      "desktopOddIds": [
+        [
+          3999415268
+        ],
+        [
+          3999415270
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415268
+        ],
+        [
+          3999415270
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 879,
+      "isMB": false,
+      "sportMarketId": 71122,
+      "id": 1572871243,
+      "name": "Stal Rzeszow to win"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          3999414782
+        ],
+        [
+          3999414784
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414782
+        ],
+        [
+          3999414784
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1572871172,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          3999415284
+        ],
+        [
+          3999415287
+        ],
+        [
+          3999415285
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415284
+        ],
+        [
+          3999415287
+        ],
+        [
+          3999415285
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "isMB": true,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1572871249,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3999414406,
+          3999414410,
+          3999414425,
+          3999414414,
+          3999414427,
+          3999414449,
+          3999414418,
+          3999414433,
+          3999414453,
+          3999414490
+        ],
+        [
+          3999414403,
+          3999414423,
+          3999414445,
+          3999414470,
+          3999414500,
+          3999414504
+        ],
+        [
+          3999414421,
+          3999414436,
+          3999414441,
+          3999414456,
+          3999414459,
+          3999414467,
+          3999414477,
+          3999414482,
+          3999414486,
+          3999414495
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414406,
+          3999414410,
+          3999414425,
+          3999414414,
+          3999414427,
+          3999414449,
+          3999414418,
+          3999414433,
+          3999414453,
+          3999414490
+        ],
+        [
+          3999414403,
+          3999414423,
+          3999414445,
+          3999414470,
+          3999414500,
+          3999414504
+        ],
+        [
+          3999414421,
+          3999414436,
+          3999414441,
+          3999414456,
+          3999414459,
+          3999414467,
+          3999414477,
+          3999414482,
+          3999414486,
+          3999414495
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572871143,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3999414148
+        ],
+        [
+          3999414149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414148
+        ],
+        [
+          3999414149
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1572871051,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          3999415199
+        ],
+        [
+          3999415204
+        ],
+        [
+          3999415208
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415199,
+          3999415204,
+          3999415208
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "isMB": false,
+      "sportMarketId": 70510,
+      "sv": "0:1",
+      "id": 1572871226,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          3999414857,
+          3999414868,
+          3999414879
+        ],
+        [
+          3999414861,
+          3999414871,
+          3999414882
+        ],
+        [
+          3999414864,
+          3999414875,
+          3999414885
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414857,
+          3999414861,
+          3999414864,
+          3999414868,
+          3999414871,
+          3999414875,
+          3999414879,
+          3999414882,
+          3999414885
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "isMB": false,
+      "sportMarketId": 70568,
+      "id": 1572871183,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          3999416031
+        ],
+        [
+          3999416035
+        ],
+        [
+          3999416033
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416031
+        ],
+        [
+          3999416035
+        ],
+        [
+          3999416033
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "isMB": false,
+      "sportMarketId": 70493,
+      "id": 1572871288,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "Winning margin",
+      "desktopOddIds": [
+        [
+          3999415299,
+          3999415303,
+          3999415305
+        ],
+        [
+          3999415296
+        ],
+        [
+          3999415307,
+          3999415309,
+          3999415311
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415299,
+          3999415303,
+          3999415305,
+          3999415296,
+          3999415307,
+          3999415309,
+          3999415311
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 15,
+      "isMB": false,
+      "sportMarketId": 71166,
+      "id": 1572871255,
+      "name": "Winning margin"
+    },
+    {
+      "shortName": "GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414186,
+          3999414191,
+          3999414196
+        ],
+        [
+          3999414189,
+          3999414193,
+          3999414199
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414186,
+          3999414191,
+          3999414196
+        ],
+        [
+          3999414189,
+          3999414193,
+          3999414199
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "isMB": false,
+      "sportMarketId": 70525,
+      "sv": "0.5",
+      "id": 1572871072,
+      "name": "GKS Tychy total"
+    },
+    {
+      "shortName": "Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414201,
+          3999414205,
+          3999414210
+        ],
+        [
+          3999414203,
+          3999414208,
+          3999414213
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414201,
+          3999414205,
+          3999414210
+        ],
+        [
+          3999414203,
+          3999414208,
+          3999414213
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1572871080,
+      "name": "Stal Rzeszow total"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          3999414801,
+          3999414810,
+          3999414813,
+          3999414817
+        ],
+        [
+          3999414814,
+          3999414819
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414801,
+          3999414810,
+          3999414813,
+          3999414817,
+          3999414814,
+          3999414819
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "isMB": false,
+      "sportMarketId": 71660,
+      "id": 1572871177,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Which team to score",
+      "desktopOddIds": [
+        [
+          3999415335,
+          3999415341
+        ],
+        [
+          3999415339,
+          3999415333
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415335,
+          3999415341
+        ],
+        [
+          3999415339,
+          3999415333
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 30,
+      "isMB": false,
+      "sportMarketId": 70547,
+      "id": 1572871257,
+      "name": "Which team to score"
+    },
+    {
+      "shortName": "GKS Tychy exact goals",
+      "desktopOddIds": [
+        [
+          3999415137,
+          3999415140,
+          3999415144,
+          3999415148
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415137,
+          3999415140,
+          3999415144,
+          3999415148
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 23,
+      "isMB": false,
+      "sportMarketId": 71654,
+      "id": 1572871217,
+      "name": "GKS Tychy exact goals"
+    },
+    {
+      "shortName": "Stal Rzeszow exact goals",
+      "desktopOddIds": [
+        [
+          3999415151,
+          3999415154,
+          3999415157,
+          3999415159
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415151,
+          3999415154,
+          3999415157,
+          3999415159
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 24,
+      "isMB": false,
+      "sportMarketId": 71655,
+      "id": 1572871219,
+      "name": "Stal Rzeszow exact goals"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3999417544
+        ],
+        [
+          3999417546
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417544
+        ],
+        [
+          3999417546
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572871514,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "GKS Tychy odd/even",
+      "desktopOddIds": [
+        [
+          3999417557
+        ],
+        [
+          3999417558
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417557
+        ],
+        [
+          3999417558
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "isMB": false,
+      "sportMarketId": 70541,
+      "id": 1572871517,
+      "name": "GKS Tychy odd/even"
+    },
+    {
+      "shortName": "Stal Rzeszow odd/even",
+      "desktopOddIds": [
+        [
+          3999417559
+        ],
+        [
+          3999417560
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417559
+        ],
+        [
+          3999417560
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "isMB": false,
+      "sportMarketId": 70543,
+      "id": 1572871518,
+      "name": "Stal Rzeszow odd/even"
+    },
+    {
+      "shortName": "Half With most Goals",
+      "desktopOddIds": [
+        [
+          3999414889
+        ],
+        [
+          3999414899
+        ],
+        [
+          3999414893
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414899,
+          3999414893,
+          3999414889
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 52,
+      "isMB": false,
+      "sportMarketId": 70577,
+      "id": 1572871185,
+      "name": "Half With most Goals"
+    },
+    {
+      "shortName": "Multiscores",
+      "desktopOddIds": [
+        [
+          3999416221,
+          3999416235,
+          3999416241,
+          3999416227,
+          3999416245
+        ],
+        [
+          3999416249
+        ],
+        [
+          3999416224,
+          3999416238,
+          3999416243,
+          3999416232,
+          3999416247
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416221,
+          3999416235,
+          3999416241,
+          3999416227,
+          3999416245,
+          3999416249,
+          3999416224,
+          3999416238,
+          3999416243,
+          3999416232,
+          3999416247
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 551,
+      "isMB": false,
+      "sportMarketId": 71017,
+      "id": 1572871295,
+      "name": "Multiscores"
+    },
+    {
+      "shortName": "Halftime/fulltime correct score",
+      "desktopOddIds": [
+        [
+          3999416118,
+          3999416120,
+          3999416125,
+          3999416128,
+          3999416131,
+          3999416123,
+          3999416133,
+          3999416152,
+          3999416154,
+          3999416155,
+          3999416159,
+          3999416161,
+          3999416164,
+          3999416166,
+          3999416169
+        ],
+        [
+          3999416051,
+          3999416063,
+          3999416066,
+          3999416054,
+          3999416071,
+          3999416073,
+          3999416056,
+          3999416069,
+          3999416076,
+          3999416060,
+          3999416079,
+          3999416136,
+          3999416141,
+          3999416138,
+          3999416145,
+          3999416171
+        ],
+        [
+          3999416081,
+          3999416083,
+          3999416087,
+          3999416091,
+          3999416093,
+          3999416096,
+          3999416100,
+          3999416103,
+          3999416104,
+          3999416107,
+          3999416110,
+          3999416112,
+          3999416115,
+          3999416147,
+          3999416149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416118,
+          3999416120,
+          3999416125,
+          3999416128,
+          3999416131,
+          3999416123,
+          3999416133,
+          3999416152,
+          3999416154,
+          3999416155,
+          3999416159,
+          3999416161,
+          3999416164,
+          3999416166,
+          3999416169,
+          3999416051,
+          3999416063,
+          3999416066,
+          3999416054,
+          3999416071,
+          3999416073,
+          3999416056,
+          3999416069
+        ],
+        [
+          3999416076,
+          3999416060,
+          3999416079,
+          3999416136,
+          3999416141,
+          3999416138,
+          3999416145,
+          3999416171,
+          3999416081,
+          3999416083,
+          3999416087,
+          3999416091,
+          3999416093,
+          3999416096,
+          3999416100,
+          3999416103,
+          3999416104,
+          3999416107,
+          3999416110,
+          3999416112,
+          3999416115,
+          3999416147,
+          3999416149
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 46,
+      "isMB": false,
+      "sportMarketId": 70567,
+      "id": 1572871291,
+      "name": "Halftime/fulltime correct score"
+    },
+    {
+      "shortName": "Multigoals",
+      "desktopOddIds": [
+        [
+          3999415639,
+          3999415634,
+          3999415607,
+          3999415610,
+          3999415556,
+          3999415562,
+          3999415616,
+          3999415570,
+          3999415575,
+          3999415578,
+          3999415583,
+          3999415643,
+          3999415589,
+          3999415651,
+          3999415627,
+          3999415631,
+          3999415645
+        ],
+        [
+          3999415600,
+          3999415596,
+          3999415605,
+          3999415552,
+          3999415560,
+          3999415567,
+          3999415568,
+          3999415573,
+          3999415620,
+          3999415580,
+          3999415623,
+          3999415587,
+          3999415626,
+          3999415590,
+          3999415593,
+          3999415648
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415639,
+          3999415634,
+          3999415607,
+          3999415610,
+          3999415556,
+          3999415562,
+          3999415616,
+          3999415570,
+          3999415575,
+          3999415578,
+          3999415583,
+          3999415643,
+          3999415589,
+          3999415651,
+          3999415627,
+          3999415631,
+          3999415645
+        ],
+        [
+          3999415600,
+          3999415596,
+          3999415605,
+          3999415552,
+          3999415560,
+          3999415567,
+          3999415568,
+          3999415573,
+          3999415620,
+          3999415580,
+          3999415623,
+          3999415587,
+          3999415626,
+          3999415590,
+          3999415593,
+          3999415648
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 548,
+      "isMB": false,
+      "sportMarketId": 71014,
+      "id": 1572871283,
+      "name": "Multigoals"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3999414751
+        ],
+        [
+          3999414754
+        ],
+        [
+          3999414759
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414751
+        ],
+        [
+          3999414754
+        ],
+        [
+          3999414759
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1572871166,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3999414258
+        ],
+        [
+          3999414261
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414258
+        ],
+        [
+          3999414261
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1572871098,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3999414645
+        ],
+        [
+          3999414638
+        ],
+        [
+          3999414642
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414645,
+          3999414638,
+          3999414642
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1572871153,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3999414148
+        ],
+        [
+          3999414149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414148
+        ],
+        [
+          3999414149
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "isMB": true,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1572871051,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3999414387
+        ],
+        [
+          3999414391
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414387
+        ],
+        [
+          3999414391
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1572871140,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414186,
+          3999414191,
+          3999414196
+        ],
+        [
+          3999414189,
+          3999414193,
+          3999414199
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414186,
+          3999414191,
+          3999414196
+        ],
+        [
+          3999414189,
+          3999414193,
+          3999414199
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "isMB": false,
+      "sportMarketId": 70525,
+      "sv": "0.5",
+      "id": 1572871072,
+      "name": "GKS Tychy total"
+    },
+    {
+      "shortName": "Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414201,
+          3999414205,
+          3999414210
+        ],
+        [
+          3999414203,
+          3999414208,
+          3999414213
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414201,
+          3999414205,
+          3999414210
+        ],
+        [
+          3999414203,
+          3999414208,
+          3999414213
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "isMB": true,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1572871080,
+      "name": "Stal Rzeszow total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3999417544
+        ],
+        [
+          3999417546
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417544
+        ],
+        [
+          3999417546
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1572871514,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3999414762
+        ],
+        [
+          3999414763
+        ],
+        [
+          3999414767
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414762,
+          3999414763,
+          3999414767
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572871168,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3999414662
+        ],
+        [
+          3999414650
+        ],
+        [
+          3999414657
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414662,
+          3999414650,
+          3999414657
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572871155,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3999414279
+        ],
+        [
+          3999414282
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414279
+        ],
+        [
+          3999414282
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572871104,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414216
+        ],
+        [
+          3999414217
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414216
+        ],
+        [
+          3999414217
+        ]
+      ],
+      "isBB": true,
+      "so": 20,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1572871083,
+      "name": "1st half - GKS Tychy total"
+    },
+    {
+      "shortName": "1st half - Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414226
+        ],
+        [
+          3999414229
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414226
+        ],
+        [
+          3999414229
+        ]
+      ],
+      "isBB": true,
+      "so": 21,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1572871086,
+      "name": "1st half - Stal Rzeszow total"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999414394
+        ],
+        [
+          3999414396
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414394
+        ],
+        [
+          3999414396
+        ]
+      ],
+      "isBB": true,
+      "so": 22,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1572871141,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3999417550
+        ],
+        [
+          3999417552
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417550
+        ],
+        [
+          3999417552
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572871515,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3999414406,
+          3999414410,
+          3999414425,
+          3999414414,
+          3999414427,
+          3999414449,
+          3999414418,
+          3999414433,
+          3999414453,
+          3999414490
+        ],
+        [
+          3999414403,
+          3999414423,
+          3999414445,
+          3999414470,
+          3999414500,
+          3999414504
+        ],
+        [
+          3999414421,
+          3999414436,
+          3999414441,
+          3999414456,
+          3999414459,
+          3999414467,
+          3999414477,
+          3999414482,
+          3999414486,
+          3999414495
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414406,
+          3999414410,
+          3999414425,
+          3999414414,
+          3999414427,
+          3999414449,
+          3999414418,
+          3999414433,
+          3999414453,
+          3999414490
+        ],
+        [
+          3999414403,
+          3999414423,
+          3999414445,
+          3999414470,
+          3999414500,
+          3999414504
+        ],
+        [
+          3999414421,
+          3999414436,
+          3999414441,
+          3999414456,
+          3999414459,
+          3999414467,
+          3999414477,
+          3999414482,
+          3999414486,
+          3999414495
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "isMB": false,
+      "sportMarketId": 70566,
+      "id": 1572871143,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3999415403,
+          3999415407,
+          3999415416
+        ],
+        [
+          3999415400,
+          3999415412,
+          3999415422,
+          3999415424
+        ],
+        [
+          3999415409,
+          3999415418,
+          3999415420
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415403,
+          3999415407,
+          3999415416
+        ],
+        [
+          3999415400,
+          3999415412,
+          3999415422,
+          3999415424
+        ],
+        [
+          3999415409,
+          3999415418,
+          3999415420
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 47,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1572871268,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          3999414289
+        ],
+        [
+          3999414292
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414289
+        ],
+        [
+          3999414292
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 48,
+      "typeId": 90,
+      "isMB": true,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1572871106,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "2nd half - GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414235
+        ],
+        [
+          3999414239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414235
+        ],
+        [
+          3999414239
+        ]
+      ],
+      "isBB": true,
+      "so": 49,
+      "typeId": 91,
+      "isMB": true,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1572871089,
+      "name": "2nd half - GKS Tychy total"
+    },
+    {
+      "shortName": "2nd half - Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414242
+        ],
+        [
+          3999414245
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414242
+        ],
+        [
+          3999414245
+        ]
+      ],
+      "isBB": true,
+      "so": 50,
+      "typeId": 92,
+      "isMB": true,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1572871093,
+      "name": "2nd half - Stal Rzeszow total"
+    },
+    {
+      "shortName": "2nd half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999414398
+        ],
+        [
+          3999414400
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414398
+        ],
+        [
+          3999414400
+        ]
+      ],
+      "isBB": true,
+      "so": 51,
+      "typeId": 95,
+      "isMB": false,
+      "sportMarketId": 70665,
+      "id": 1572871142,
+      "name": "2nd half - both teams to score"
+    },
+    {
+      "shortName": "GKS Tychy to win both halves",
+      "desktopOddIds": [
+        [
+          3999415344
+        ],
+        [
+          3999415346
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415344
+        ],
+        [
+          3999415346
+        ]
+      ],
+      "isBB": true,
+      "so": 60,
+      "typeId": 48,
+      "isMB": false,
+      "sportMarketId": 70573,
+      "id": 1572871258,
+      "name": "GKS Tychy to win both halves"
+    },
+    {
+      "shortName": "Stal Rzeszow to win both halves",
+      "desktopOddIds": [
+        [
+          3999415349
+        ],
+        [
+          3999415350
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415349
+        ],
+        [
+          3999415350
+        ]
+      ],
+      "isBB": true,
+      "so": 61,
+      "typeId": 49,
+      "isMB": false,
+      "sportMarketId": 70574,
+      "id": 1572871259,
+      "name": "Stal Rzeszow to win both halves"
+    },
+    {
+      "shortName": "GKS Tychy to win either half",
+      "desktopOddIds": [
+        [
+          3999415353
+        ],
+        [
+          3999415356
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415353
+        ],
+        [
+          3999415356
+        ]
+      ],
+      "isBB": true,
+      "so": 62,
+      "typeId": 50,
+      "isMB": false,
+      "sportMarketId": 70575,
+      "id": 1572871260,
+      "name": "GKS Tychy to win either half"
+    },
+    {
+      "shortName": "Stal Rzeszow to win either half",
+      "desktopOddIds": [
+        [
+          3999415357
+        ],
+        [
+          3999415360
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415357
+        ],
+        [
+          3999415360
+        ]
+      ],
+      "isBB": true,
+      "so": 63,
+      "typeId": 51,
+      "isMB": false,
+      "sportMarketId": 70576,
+      "id": 1572871261,
+      "name": "Stal Rzeszow to win either half"
+    },
+    {
+      "shortName": "GKS Tychy to score in both halves",
+      "desktopOddIds": [
+        [
+          3999415361
+        ],
+        [
+          3999415366
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415361
+        ],
+        [
+          3999415366
+        ]
+      ],
+      "isBB": true,
+      "so": 64,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1572871262,
+      "name": "GKS Tychy to score in both halves"
+    },
+    {
+      "shortName": "Stal Rzeszow to score in both halves",
+      "desktopOddIds": [
+        [
+          3999415368
+        ],
+        [
+          3999415371
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415368
+        ],
+        [
+          3999415371
+        ]
+      ],
+      "isBB": true,
+      "so": 65,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1572871263,
+      "name": "Stal Rzeszow to score in both halves"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          3999415395,
+          3999415390,
+          3999415392,
+          3999415398
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415395
+        ],
+        [
+          3999415390,
+          3999415392,
+          3999415398
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "isMB": false,
+      "sportMarketId": 72136,
+      "id": 1572871267,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "GKS Tychy win to nil",
+      "desktopOddIds": [
+        [
+          3999414961
+        ],
+        [
+          3999414972
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414961
+        ],
+        [
+          3999414972
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 33,
+      "isMB": false,
+      "sportMarketId": 70553,
+      "id": 1572871204,
+      "name": "GKS Tychy win to nil"
+    },
+    {
+      "shortName": "Stal Rzeszow win to nil",
+      "desktopOddIds": [
+        [
+          3999415271
+        ],
+        [
+          3999415274
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415271
+        ],
+        [
+          3999415274
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 34,
+      "isMB": false,
+      "sportMarketId": 70554,
+      "id": 1572871245,
+      "name": "Stal Rzeszow win to nil"
+    },
+    {
+      "shortName": "GKS Tychy clean sheet",
+      "desktopOddIds": [
+        [
+          3999414906
+        ],
+        [
+          3999414909
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414906
+        ],
+        [
+          3999414909
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31,
+      "isMB": false,
+      "sportMarketId": 70549,
+      "id": 1572871187,
+      "name": "GKS Tychy clean sheet"
+    },
+    {
+      "shortName": "Stal Rzeszow Clean sheet",
+      "desktopOddIds": [
+        [
+          3999415237
+        ],
+        [
+          3999415238
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415237
+        ],
+        [
+          3999415238
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 32,
+      "isMB": false,
+      "sportMarketId": 70551,
+      "id": 1572871234,
+      "name": "Stal Rzeszow Clean sheet"
+    },
+    {
+      "shortName": "GKS Tychy multigoals",
+      "desktopOddIds": [
+        [
+          3999415927,
+          3999415924,
+          3999415894,
+          3999415896,
+          3999415839,
+          3999415845,
+          3999415901,
+          3999415859,
+          3999415865,
+          3999415867,
+          3999415871,
+          3999415931,
+          3999415876,
+          3999415941,
+          3999415917,
+          3999415921,
+          3999415936
+        ],
+        [
+          3999415888,
+          3999415885,
+          3999415891,
+          3999415837,
+          3999415843,
+          3999415853,
+          3999415856,
+          3999415864,
+          3999415905,
+          3999415869,
+          3999415909,
+          3999415873,
+          3999415915,
+          3999415879,
+          3999415882,
+          3999415940
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415927,
+          3999415924,
+          3999415894,
+          3999415896,
+          3999415839,
+          3999415845,
+          3999415901,
+          3999415859,
+          3999415865,
+          3999415867,
+          3999415871,
+          3999415931,
+          3999415876,
+          3999415941,
+          3999415917,
+          3999415921,
+          3999415936
+        ],
+        [
+          3999415888,
+          3999415885,
+          3999415891,
+          3999415837,
+          3999415843,
+          3999415853,
+          3999415856,
+          3999415864,
+          3999415905,
+          3999415869,
+          3999415909,
+          3999415873,
+          3999415915,
+          3999415879,
+          3999415882,
+          3999415940
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 549,
+      "isMB": false,
+      "sportMarketId": 71015,
+      "id": 1572871286,
+      "name": "GKS Tychy multigoals"
+    },
+    {
+      "shortName": "Stal Rzeszow multigoals",
+      "desktopOddIds": [
+        [
+          3999416022,
+          3999416020,
+          3999416003,
+          3999416006,
+          3999415948,
+          3999415956,
+          3999416007,
+          3999415966,
+          3999415976,
+          3999415979,
+          3999415984,
+          3999416024,
+          3999415989,
+          3999416030,
+          3999416016,
+          3999416018,
+          3999416026
+        ],
+        [
+          3999415999,
+          3999415997,
+          3999416002,
+          3999415945,
+          3999415952,
+          3999415958,
+          3999415963,
+          3999415968,
+          3999416010,
+          3999415982,
+          3999416012,
+          3999415986,
+          3999416014,
+          3999415992,
+          3999415995,
+          3999416028
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416022,
+          3999416020,
+          3999416003,
+          3999416006,
+          3999415948,
+          3999415956,
+          3999416007,
+          3999415966,
+          3999415976,
+          3999415979,
+          3999415984,
+          3999416024,
+          3999415989,
+          3999416030,
+          3999416016,
+          3999416018,
+          3999416026
+        ],
+        [
+          3999415999,
+          3999415997,
+          3999416002,
+          3999415945,
+          3999415952,
+          3999415958,
+          3999415963,
+          3999415968,
+          3999416010,
+          3999415982,
+          3999416012,
+          3999415986,
+          3999416014,
+          3999415992,
+          3999415995,
+          3999416028
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 550,
+      "isMB": false,
+      "sportMarketId": 71016,
+      "id": 1572871287,
+      "name": "Stal Rzeszow multigoals"
+    },
+    {
+      "shortName": "Both halves over 0.5",
+      "desktopOddIds": [
+        [
+          3999415375
+        ],
+        [
+          3999415376
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415375
+        ],
+        [
+          3999415376
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 58,
+      "isMB": true,
+      "sportMarketId": 70589,
+      "sv": "0.5",
+      "id": 1572871264,
+      "name": "Both halves over 0.5"
+    },
+    {
+      "shortName": "Both halves under 2.5",
+      "desktopOddIds": [
+        [
+          3999415378
+        ],
+        [
+          3999415380
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415378
+        ],
+        [
+          3999415380
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 59,
+      "isMB": true,
+      "sportMarketId": 70590,
+      "sv": "2.5",
+      "id": 1572871265,
+      "name": "Both halves under 2.5"
+    },
+    {
+      "shortName": "GKS Tychy to win either half",
+      "desktopOddIds": [
+        [
+          3999415353
+        ],
+        [
+          3999415356
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415353
+        ],
+        [
+          3999415356
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 50,
+      "isMB": false,
+      "sportMarketId": 70575,
+      "id": 1572871260,
+      "name": "GKS Tychy to win either half"
+    },
+    {
+      "shortName": "Stal Rzeszow to win either half",
+      "desktopOddIds": [
+        [
+          3999415357
+        ],
+        [
+          3999415360
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415357
+        ],
+        [
+          3999415360
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 51,
+      "isMB": false,
+      "sportMarketId": 70576,
+      "id": 1572871261,
+      "name": "Stal Rzeszow to win either half"
+    },
+    {
+      "shortName": "GKS Tychy to win both halves",
+      "desktopOddIds": [
+        [
+          3999415344
+        ],
+        [
+          3999415346
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415344
+        ],
+        [
+          3999415346
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 48,
+      "isMB": false,
+      "sportMarketId": 70573,
+      "id": 1572871258,
+      "name": "GKS Tychy to win both halves"
+    },
+    {
+      "shortName": "Stal Rzeszow to win both halves",
+      "desktopOddIds": [
+        [
+          3999415349
+        ],
+        [
+          3999415350
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415349
+        ],
+        [
+          3999415350
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 49,
+      "isMB": false,
+      "sportMarketId": 70574,
+      "id": 1572871259,
+      "name": "Stal Rzeszow to win both halves"
+    },
+    {
+      "shortName": "GKS Tychy to score in both halves",
+      "desktopOddIds": [
+        [
+          3999415361
+        ],
+        [
+          3999415366
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415361
+        ],
+        [
+          3999415366
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 56,
+      "isMB": false,
+      "sportMarketId": 70587,
+      "id": 1572871262,
+      "name": "GKS Tychy to score in both halves"
+    },
+    {
+      "shortName": "Stal Rzeszow to score in both halves",
+      "desktopOddIds": [
+        [
+          3999415368
+        ],
+        [
+          3999415371
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415368
+        ],
+        [
+          3999415371
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 57,
+      "isMB": false,
+      "sportMarketId": 70588,
+      "id": 1572871263,
+      "name": "Stal Rzeszow to score in both halves"
+    },
+    {
+      "shortName": "GKS Tychy highest scoring half",
+      "desktopOddIds": [
+        [
+          3999415180
+        ],
+        [
+          3999415185
+        ],
+        [
+          3999415182
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415180,
+          3999415185,
+          3999415182
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 53,
+      "isMB": false,
+      "sportMarketId": 70582,
+      "id": 1572871222,
+      "name": "GKS Tychy highest scoring half"
+    },
+    {
+      "shortName": "Stal Rzeszow highest scoring half",
+      "desktopOddIds": [
+        [
+          3999415188
+        ],
+        [
+          3999415194
+        ],
+        [
+          3999415193
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415188,
+          3999415194,
+          3999415193
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 54,
+      "isMB": false,
+      "sportMarketId": 70584,
+      "id": 1572871224,
+      "name": "Stal Rzeszow highest scoring half"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3999414762
+        ],
+        [
+          3999414763
+        ],
+        [
+          3999414767
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414762,
+          3999414763,
+          3999414767
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "isMB": false,
+      "sportMarketId": 70591,
+      "id": 1572871168,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3999414662
+        ],
+        [
+          3999414650
+        ],
+        [
+          3999414657
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414662,
+          3999414650,
+          3999414657
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "isMB": false,
+      "sportMarketId": 70599,
+      "id": 1572871155,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3999414279
+        ],
+        [
+          3999414282
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414279
+        ],
+        [
+          3999414282
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "isMB": true,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1572871104,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - handicap 1X2",
+      "desktopOddIds": [
+        [
+          3999415211
+        ],
+        [
+          3999415213
+        ],
+        [
+          3999415216
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415211,
+          3999415213,
+          3999415216
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 65,
+      "isMB": false,
+      "sportMarketId": 70607,
+      "sv": "0:1",
+      "id": 1572871228,
+      "name": "1st half - handicap 1X2"
+    },
+    {
+      "shortName": "1st half - handicap",
+      "desktopOddIds": [
+        [
+          3999414160
+        ],
+        [
+          3999414162
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414160,
+          3999414162
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 66,
+      "isMB": true,
+      "sportMarketId": 70610,
+      "sv": "-0.5",
+      "id": 1572871058,
+      "name": "1st half - handicap"
+    },
+    {
+      "shortName": "1st half - correct score",
+      "desktopOddIds": [
+        [
+          3999415403,
+          3999415407,
+          3999415416
+        ],
+        [
+          3999415400,
+          3999415412,
+          3999415422,
+          3999415424
+        ],
+        [
+          3999415409,
+          3999415418,
+          3999415420
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415403,
+          3999415407,
+          3999415416
+        ],
+        [
+          3999415400,
+          3999415412,
+          3999415422,
+          3999415424
+        ],
+        [
+          3999415409,
+          3999415418,
+          3999415420
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 81,
+      "isMB": false,
+      "sportMarketId": 70642,
+      "id": 1572871268,
+      "name": "1st half - correct score"
+    },
+    {
+      "shortName": "1st half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999414394
+        ],
+        [
+          3999414396
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414394
+        ],
+        [
+          3999414396
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 75,
+      "isMB": false,
+      "sportMarketId": 70635,
+      "id": 1572871141,
+      "name": "1st half - both teams to score"
+    },
+    {
+      "shortName": "1st half - GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414216
+        ],
+        [
+          3999414217
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414216
+        ],
+        [
+          3999414217
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 69,
+      "isMB": true,
+      "sportMarketId": 70620,
+      "sv": "0.5",
+      "id": 1572871083,
+      "name": "1st half - GKS Tychy total"
+    },
+    {
+      "shortName": "1st half - Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414226
+        ],
+        [
+          3999414229
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414226
+        ],
+        [
+          3999414229
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 70,
+      "isMB": true,
+      "sportMarketId": 70625,
+      "sv": "0.5",
+      "id": 1572871086,
+      "name": "1st half - Stal Rzeszow total"
+    },
+    {
+      "shortName": "1st half - 1x2 & total",
+      "desktopOddIds": [
+        [
+          3999415073,
+          3999415067
+        ],
+        [
+          3999415089,
+          3999415083
+        ],
+        [
+          3999415077,
+          3999415071
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415073,
+          3999415089,
+          3999415077,
+          3999415067,
+          3999415083,
+          3999415071
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 79,
+      "isMB": false,
+      "sportMarketId": 70639,
+      "sv": "1.5",
+      "id": 1572871212,
+      "name": "1st half - 1x2 & total"
+    },
+    {
+      "shortName": "1st half - 1x2 & both teams to score",
+      "desktopOddIds": [
+        [
+          3999415002,
+          3999415005
+        ],
+        [
+          3999415011,
+          3999415014
+        ],
+        [
+          3999415016,
+          3999415020
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415002,
+          3999415005,
+          3999415011,
+          3999415014,
+          3999415016,
+          3999415020
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 78,
+      "isMB": false,
+      "sportMarketId": 70638,
+      "id": 1572871209,
+      "name": "1st half - 1x2 & both teams to score"
+    },
+    {
+      "shortName": "1st half - double chance & both teams to score",
+      "desktopOddIds": [
+        [
+          3999414538,
+          3999414542
+        ],
+        [
+          3999414546,
+          3999414549
+        ],
+        [
+          3999414553,
+          3999414557
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414538,
+          3999414546,
+          3999414553,
+          3999414542,
+          3999414549,
+          3999414557
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 542,
+      "isMB": false,
+      "sportMarketId": 71008,
+      "id": 1572871147,
+      "name": "1st half - double chance & both teams to score"
+    },
+    {
+      "shortName": "1st half - multigoals",
+      "desktopOddIds": [
+        [
+          3999415730,
+          3999415728,
+          3999415710,
+          3999415713,
+          3999415658,
+          3999415668,
+          3999415715,
+          3999415678,
+          3999415683,
+          3999415686,
+          3999415692,
+          3999415734,
+          3999415696,
+          3999415743,
+          3999415724,
+          3999415725,
+          3999415737
+        ],
+        [
+          3999415706,
+          3999415703,
+          3999415708,
+          3999415655,
+          3999415665,
+          3999415669,
+          3999415675,
+          3999415680,
+          3999415719,
+          3999415689,
+          3999415721,
+          3999415695,
+          3999415723,
+          3999415698,
+          3999415700,
+          3999415740
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415730,
+          3999415728,
+          3999415710,
+          3999415713,
+          3999415658,
+          3999415668,
+          3999415715,
+          3999415678,
+          3999415683,
+          3999415686,
+          3999415692,
+          3999415734,
+          3999415696,
+          3999415743,
+          3999415724,
+          3999415725,
+          3999415737
+        ],
+        [
+          3999415706,
+          3999415703,
+          3999415708,
+          3999415655,
+          3999415665,
+          3999415669,
+          3999415675,
+          3999415680,
+          3999415719,
+          3999415689,
+          3999415721,
+          3999415695,
+          3999415723,
+          3999415698,
+          3999415700,
+          3999415740
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 552,
+      "isMB": false,
+      "sportMarketId": 71018,
+      "id": 1572871284,
+      "name": "1st half - multigoals"
+    },
+    {
+      "shortName": "1st half - GKS Tychy Clean sheet",
+      "desktopOddIds": [
+        [
+          3999414913
+        ],
+        [
+          3999414918
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414913
+        ],
+        [
+          3999414918
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 76,
+      "isMB": false,
+      "sportMarketId": 70636,
+      "id": 1572871189,
+      "name": "1st half - GKS Tychy Clean sheet"
+    },
+    {
+      "shortName": "1st half - Stal Rzeszow Clean sheet",
+      "desktopOddIds": [
+        [
+          3999415241
+        ],
+        [
+          3999415242
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415241
+        ],
+        [
+          3999415242
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 77,
+      "isMB": false,
+      "sportMarketId": 70637,
+      "id": 1572871235,
+      "name": "1st half - Stal Rzeszow Clean sheet"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3999417550
+        ],
+        [
+          3999417552
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417550
+        ],
+        [
+          3999417552
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "isMB": false,
+      "sportMarketId": 70630,
+      "id": 1572871515,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1st half - GKS Tychy odd/even",
+      "desktopOddIds": [
+        [
+          3999417561
+        ],
+        [
+          3999417562
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417561
+        ],
+        [
+          3999417562
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 618,
+      "isMB": false,
+      "sportMarketId": 74491,
+      "id": 1572871519,
+      "name": "1st half - GKS Tychy odd/even"
+    },
+    {
+      "shortName": "1st half - Stal Rzeszow odd/even",
+      "desktopOddIds": [
+        [
+          3999417563
+        ],
+        [
+          3999417564
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417563
+        ],
+        [
+          3999417564
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 619,
+      "isMB": false,
+      "sportMarketId": 74492,
+      "id": 1572871520,
+      "name": "1st half - Stal Rzeszow odd/even"
+    },
+    {
+      "shortName": "1x2 (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          3999416252,
+          3999416254
+        ],
+        [
+          3999416257,
+          3999416260
+        ],
+        [
+          3999416263,
+          3999416266
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416252,
+          3999416254
+        ],
+        [
+          3999416257,
+          3999416260
+        ],
+        [
+          3999416263,
+          3999416266
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31065,
+      "isMB": false,
+      "sportMarketId": 74493,
+      "id": 1572871296,
+      "name": "1x2 (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          3999414774
+        ],
+        [
+          3999414778
+        ],
+        [
+          3999414780
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414774,
+          3999414778,
+          3999414780
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "isMB": false,
+      "sportMarketId": 70643,
+      "id": 1572871170,
+      "name": "2nd half - 1x2"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          3999414680
+        ],
+        [
+          3999414665
+        ],
+        [
+          3999414676
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414680,
+          3999414665,
+          3999414676
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "isMB": false,
+      "sportMarketId": 70648,
+      "id": 1572871157,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          3999414289
+        ],
+        [
+          3999414292
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414289
+        ],
+        [
+          3999414292
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 90,
+      "isMB": true,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1572871106,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "2nd half - handicap 1X2",
+      "desktopOddIds": [
+        [
+          3999415219
+        ],
+        [
+          3999415221
+        ],
+        [
+          3999415225
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415219,
+          3999415221,
+          3999415225
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 87,
+      "isMB": false,
+      "sportMarketId": 70653,
+      "sv": "0:1",
+      "id": 1572871230,
+      "name": "2nd half - handicap 1X2"
+    },
+    {
+      "shortName": "2nd half - first goal",
+      "desktopOddIds": [
+        [
+          3999415290
+        ],
+        [
+          3999415295
+        ],
+        [
+          3999415292
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415290,
+          3999415295,
+          3999415292
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 84,
+      "isMB": false,
+      "sportMarketId": 70647,
+      "sv": "1",
+      "id": 1572871254,
+      "name": "2nd half - first goal"
+    },
+    {
+      "shortName": "2nd half - both teams to score",
+      "desktopOddIds": [
+        [
+          3999414398
+        ],
+        [
+          3999414400
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414398
+        ],
+        [
+          3999414400
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 95,
+      "isMB": false,
+      "sportMarketId": 70665,
+      "id": 1572871142,
+      "name": "2nd half - both teams to score"
+    },
+    {
+      "shortName": "2nd half - GKS Tychy total",
+      "desktopOddIds": [
+        [
+          3999414235
+        ],
+        [
+          3999414239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414235
+        ],
+        [
+          3999414239
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 91,
+      "isMB": true,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1572871089,
+      "name": "2nd half - GKS Tychy total"
+    },
+    {
+      "shortName": "2nd half - Stal Rzeszow total",
+      "desktopOddIds": [
+        [
+          3999414242
+        ],
+        [
+          3999414245
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414242
+        ],
+        [
+          3999414245
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 92,
+      "isMB": true,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1572871093,
+      "name": "2nd half - Stal Rzeszow total"
+    },
+    {
+      "shortName": "2nd half - exact goals",
+      "desktopOddIds": [
+        [
+          3999414838,
+          3999414843,
+          3999414846,
+          3999414851
+        ],
+        [
+          3999414849,
+          3999414854
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414838,
+          3999414843,
+          3999414846,
+          3999414851
+        ],
+        [
+          3999414849,
+          3999414854
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 93,
+      "isMB": false,
+      "sportMarketId": 71659,
+      "id": 1572871181,
+      "name": "2nd half - exact goals"
+    },
+    {
+      "shortName": "2nd half - odd/ even",
+      "desktopOddIds": [
+        [
+          3999417554
+        ],
+        [
+          3999417556
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999417554
+        ],
+        [
+          3999417556
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 94,
+      "isMB": false,
+      "sportMarketId": 70662,
+      "id": 1572871516,
+      "name": "2nd half - odd/ even"
+    },
+    {
+      "shortName": "1x2 (match) & 2nd half both teams score",
+      "desktopOddIds": [
+        [
+          3999416285,
+          3999416282,
+          3999416281,
+          3999416275,
+          3999416273,
+          3999416270
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416285,
+          3999416282,
+          3999416281,
+          3999416275,
+          3999416273,
+          3999416270
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31066,
+      "isMB": false,
+      "sportMarketId": 74494,
+      "id": 1572871297,
+      "name": "1x2 (match) & 2nd half both teams score"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          3999415052,
+          3999415041
+        ],
+        [
+          3999415064,
+          3999415062
+        ],
+        [
+          3999415056,
+          3999415047
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415052,
+          3999415064,
+          3999415056,
+          3999415041,
+          3999415062,
+          3999415047
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "isMB": false,
+      "sportMarketId": 70558,
+      "sv": "3.5",
+      "id": 1572871211,
+      "name": "1x2 & total"
+    },
+    {
+      "shortName": "1x2 & GG/NG",
+      "desktopOddIds": [
+        [
+          3999414983,
+          3999414987
+        ],
+        [
+          3999414991,
+          3999414994
+        ],
+        [
+          3999414997,
+          3999415000
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414983,
+          3999414987,
+          3999414991,
+          3999414994,
+          3999414997,
+          3999415000
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 35,
+      "isMB": false,
+      "sportMarketId": 70555,
+      "id": 1572871208,
+      "name": "1x2 & GG/NG"
+    },
+    {
+      "shortName": "Total & GG/NG",
+      "desktopOddIds": [
+        [
+          3999415227
+        ],
+        [
+          3999415233
+        ],
+        [
+          3999415230
+        ],
+        [
+          3999415236
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415227,
+          3999415230,
+          3999415233,
+          3999415236
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 36,
+      "isMB": false,
+      "sportMarketId": 70557,
+      "sv": "3.5",
+      "id": 1572871232,
+      "name": "Total & GG/NG"
+    },
+    {
+      "shortName": "First goal & 1x2",
+      "desktopOddIds": [
+        [
+          3999416174,
+          3999416177,
+          3999416181
+        ],
+        [
+          3999416192
+        ],
+        [
+          3999416184,
+          3999416187,
+          3999416189
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416174,
+          3999416177,
+          3999416181,
+          3999416192,
+          3999416184,
+          3999416187,
+          3999416189
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 184,
+      "isMB": false,
+      "sportMarketId": 70753,
+      "sv": "1",
+      "id": 1572871292,
+      "name": "First goal & 1x2"
+    },
+    {
+      "shortName": "Double chance & total 3.5",
+      "desktopOddIds": [
+        [
+          3999414696,
+          3999414682
+        ],
+        [
+          3999414706,
+          3999414690
+        ],
+        [
+          3999414702,
+          3999414686
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414696,
+          3999414702,
+          3999414706,
+          3999414682,
+          3999414686,
+          3999414690
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "isMB": false,
+      "sportMarketId": 71013,
+      "sv": "3.5",
+      "id": 1572871159,
+      "name": "Double chance & total 3.5"
+    },
+    {
+      "shortName": "Double chance & both teams to score",
+      "desktopOddIds": [
+        [
+          3999414512,
+          3999414517
+        ],
+        [
+          3999414521,
+          3999414524
+        ],
+        [
+          3999414529,
+          3999414532
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999414512,
+          3999414521,
+          3999414529,
+          3999414517,
+          3999414524,
+          3999414532
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 546,
+      "isMB": false,
+      "sportMarketId": 71012,
+      "id": 1572871145,
+      "name": "Double chance & both teams to score"
+    },
+    {
+      "shortName": "Halftime/fulltime & total 3.5",
+      "desktopOddIds": [
+        [
+          3999416315,
+          3999416293,
+          3999416296,
+          3999416317,
+          3999416297,
+          3999416321,
+          3999416323,
+          3999416325,
+          3999416327
+        ],
+        [
+          3999416300,
+          3999416287,
+          3999416290,
+          3999416301,
+          3999416291,
+          3999416303,
+          3999416306,
+          3999416309,
+          3999416313
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416315,
+          3999416293,
+          3999416296,
+          3999416317,
+          3999416297,
+          3999416321,
+          3999416323,
+          3999416325,
+          3999416327,
+          3999416300,
+          3999416287,
+          3999416290,
+          3999416301,
+          3999416291,
+          3999416303,
+          3999416306,
+          3999416309,
+          3999416313
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 818,
+      "isMB": false,
+      "sportMarketId": 71099,
+      "sv": "3.5",
+      "id": 1572871298,
+      "name": "Halftime/fulltime & total 3.5"
+    },
+    {
+      "shortName": "Halftime/fulltime & 1st half total 1.5",
+      "desktopOddIds": [
+        [
+          3999416360,
+          3999416337,
+          3999416338,
+          3999416365,
+          3999416341,
+          3999416367,
+          3999416370,
+          3999416371,
+          3999416373
+        ],
+        [
+          3999416343,
+          3999416330,
+          3999416333,
+          3999416346,
+          3999416334,
+          3999416349,
+          3999416352,
+          3999416355,
+          3999416358
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416360,
+          3999416337,
+          3999416338,
+          3999416365,
+          3999416341,
+          3999416367,
+          3999416370,
+          3999416371,
+          3999416373,
+          3999416343,
+          3999416330,
+          3999416333,
+          3999416346,
+          3999416334,
+          3999416349,
+          3999416352,
+          3999416355,
+          3999416358
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 819,
+      "isMB": false,
+      "sportMarketId": 71100,
+      "sv": "1.5",
+      "id": 1572871299,
+      "name": "Halftime/fulltime & 1st half total 1.5"
+    },
+    {
+      "shortName": "Halftime/fulltime & exact goals",
+      "desktopOddIds": [
+        [
+          3999416378,
+          3999416391,
+          3999416394,
+          3999416414,
+          3999416417,
+          3999416428,
+          3999416431,
+          3999416434,
+          3999416456,
+          3999416459,
+          3999416461
+        ],
+        [
+          3999416375,
+          3999416381,
+          3999416384,
+          3999416396,
+          3999416399,
+          3999416403,
+          3999416419,
+          3999416422,
+          3999416437,
+          3999416440,
+          3999416444,
+          3999416463,
+          3999416465,
+          3999416468
+        ],
+        [
+          3999416387,
+          3999416409,
+          3999416406,
+          3999416426,
+          3999416424,
+          3999416453,
+          3999416450,
+          3999416447,
+          3999416473,
+          3999416471,
+          3999416470
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416378,
+          3999416391,
+          3999416394,
+          3999416414,
+          3999416417,
+          3999416428,
+          3999416431,
+          3999416434,
+          3999416456,
+          3999416459,
+          3999416461,
+          3999416375,
+          3999416381,
+          3999416384,
+          3999416396,
+          3999416399,
+          3999416403,
+          3999416419,
+          3999416422,
+          3999416437,
+          3999416440,
+          3999416444,
+          3999416463,
+          3999416465,
+          3999416468,
+          3999416387,
+          3999416409,
+          3999416406,
+          3999416426,
+          3999416424,
+          3999416453,
+          3999416450,
+          3999416447,
+          3999416473,
+          3999416471,
+          3999416470
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 820,
+      "isMB": false,
+      "sportMarketId": 71101,
+      "id": 1572871300,
+      "name": "Halftime/fulltime & exact goals"
+    },
+    {
+      "shortName": "1st/2nd half both teams to score",
+      "desktopOddIds": [
+        [
+          3999415383
+        ],
+        [
+          3999415389
+        ],
+        [
+          3999415385
+        ],
+        [
+          3999415386
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999415383,
+          3999415385
+        ],
+        [
+          3999415389,
+          3999415386
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 55,
+      "isMB": false,
+      "sportMarketId": 70586,
+      "id": 1572871266,
+      "name": "1st/2nd half both teams to score"
+    },
+    {
+      "shortName": "Double chance (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          3999416193,
+          3999416196
+        ],
+        [
+          3999416198,
+          3999416201
+        ],
+        [
+          3999416204,
+          3999416205
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416193,
+          3999416196,
+          3999416198,
+          3999416201,
+          3999416204,
+          3999416205
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 540,
+      "isMB": false,
+      "sportMarketId": 71006,
+      "id": 1572871293,
+      "name": "Double chance (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "GKS Tychy or both teams to score",
+      "desktopOddIds": [
+        [
+          3999416476
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416476
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 860,
+      "isMB": false,
+      "sportMarketId": 71116,
+      "id": 1572871301,
+      "name": "GKS Tychy or both teams to score"
+    },
+    {
+      "shortName": "Draw or both teams to score",
+      "desktopOddIds": [
+        [
+          3999416480
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416480
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 861,
+      "isMB": false,
+      "sportMarketId": 71117,
+      "id": 1572871302,
+      "name": "Draw or both teams to score"
+    },
+    {
+      "shortName": "Stal Rzeszow or both teams to score",
+      "desktopOddIds": [
+        [
+          3999416483
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416483
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 862,
+      "isMB": false,
+      "sportMarketId": 71118,
+      "id": 1572871303,
+      "name": "Stal Rzeszow or both teams to score"
+    },
+    {
+      "shortName": "GKS Tychy or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999416488
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416488
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 863,
+      "isMB": false,
+      "sportMarketId": 71119,
+      "id": 1572871304,
+      "name": "GKS Tychy or any clean sheet"
+    },
+    {
+      "shortName": "Draw or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999416497
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416497
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 864,
+      "isMB": false,
+      "sportMarketId": 71120,
+      "id": 1572871305,
+      "name": "Draw or any clean sheet"
+    },
+    {
+      "shortName": "Stal Rzeszow or any clean sheet",
+      "desktopOddIds": [
+        [
+          3999416504
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3999416504
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 865,
+      "isMB": false,
+      "sportMarketId": 71121,
+      "id": 1572871306,
+      "name": "Stal Rzeszow or any clean sheet"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414751,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 2,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414754,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414759,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414645,
+      "name": "GKS Tychy or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414638,
+      "name": "GKS Tychy or Stal Rzeszow"
+    },
+    {
+      "typeId": 11,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414642,
+      "name": "Draw or Stal Rzeszow"
+    },
+    {
+      "typeId": 12,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3999414258,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 3999414261,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414387,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414391,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414127,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414136,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414953,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414957,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415268,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415270,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414782,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 3,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414784,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999415284,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 7,
+      "price": 26.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 3999415287,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999415285,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 114,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414406,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414410,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414425,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414414,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414427,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414449,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414418,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414433,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414453,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414490,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414403,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414423,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414445,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414470,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414500,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414504,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414421,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414436,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414441,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414456,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414459,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414467,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414477,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414482,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414486,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414495,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414148,
+      "name": "GKS Tychy (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414149,
+      "name": "Stal Rzeszow (+0.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 46845,
+      "id": 3999415199,
+      "name": "GKS Tychy (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 3999415204,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 47769,
+      "id": 3999415208,
+      "name": "Stal Rzeszow (0:1)"
+    },
+    {
+      "typeId": 418,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414857,
+      "name": "GKS Tychy/GKS Tychy"
+    },
+    {
+      "typeId": 420,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414861,
+      "name": "GKS Tychy/X"
+    },
+    {
+      "typeId": 422,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414864,
+      "name": "GKS Tychy/Stal Rzeszow"
+    },
+    {
+      "typeId": 424,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414868,
+      "name": "X/GKS Tychy"
+    },
+    {
+      "typeId": 426,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414871,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414875,
+      "name": "X/Stal Rzeszow"
+    },
+    {
+      "typeId": 430,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414879,
+      "name": "Stal Rzeszow/GKS Tychy"
+    },
+    {
+      "typeId": 432,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414882,
+      "name": "Stal Rzeszow/X"
+    },
+    {
+      "typeId": 434,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414885,
+      "name": "Stal Rzeszow/Stal Rzeszow"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416031,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 7,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416035,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416033,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 630,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415299,
+      "name": "GKS Tychy by 1"
+    },
+    {
+      "typeId": 632,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415303,
+      "name": "GKS Tychy by 2"
+    },
+    {
+      "typeId": 634,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415305,
+      "name": "GKS Tychy by 3+"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415296,
+      "name": "Draw"
+    },
+    {
+      "typeId": 636,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415307,
+      "name": "Stal Rzeszow by 1"
+    },
+    {
+      "typeId": 638,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415309,
+      "name": "Stal Rzeszow by 2"
+    },
+    {
+      "typeId": 640,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415311,
+      "name": "Stal Rzeszow by 3+"
+    },
+    {
+      "typeId": 12,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414186,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414191,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999414196,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414189,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414193,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999414199,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414201,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414205,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999414210,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414203,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414208,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 3999414213,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 54,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414801,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414810,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414813,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414817,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414814,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414819,
+      "name": "5+"
+    },
+    {
+      "typeId": 790,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415339,
+      "name": "Only Stal Rzeszow"
+    },
+    {
+      "typeId": 788,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415335,
+      "name": "Only GKS Tychy"
+    },
+    {
+      "typeId": 792,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415341,
+      "name": "Both teams"
+    },
+    {
+      "typeId": 7,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415333,
+      "name": "None"
+    },
+    {
+      "typeId": 54,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415137,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415140,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415144,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415148,
+      "name": "3+"
+    },
+    {
+      "typeId": 54,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415151,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415154,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415157,
+      "name": "2"
+    },
+    {
+      "typeId": 60,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415159,
+      "name": "3+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417544,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417546,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417557,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417558,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417559,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417560,
+      "name": "Even"
+    },
+    {
+      "typeId": 440,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414899,
+      "name": "Equal"
+    },
+    {
+      "typeId": 438,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414893,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 436,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414889,
+      "name": "1st half"
+    },
+    {
+      "typeId": 1750,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416221,
+      "name": "1:0, 2:0 or 3:0"
+    },
+    {
+      "typeId": 1754,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416235,
+      "name": "2:1, 3:1 or 4:1"
+    },
+    {
+      "typeId": 1756,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416241,
+      "name": "3:2, 4:2, 4:3 or 5:1"
+    },
+    {
+      "typeId": 1752,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416227,
+      "name": "4:0, 5:0 or 6:0"
+    },
+    {
+      "typeId": 1758,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416245,
+      "name": "Other homewin"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416249,
+      "name": "Draw"
+    },
+    {
+      "typeId": 1751,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416224,
+      "name": "0:1, 0:2 or 0:3"
+    },
+    {
+      "typeId": 1755,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416238,
+      "name": "1:2, 1:3 or 1:4"
+    },
+    {
+      "typeId": 1757,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416243,
+      "name": "2:3, 2:4, 3:4 or 1:5"
+    },
+    {
+      "typeId": 1753,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416232,
+      "name": "0:4, 0:5 or 0:6"
+    },
+    {
+      "typeId": 1759,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416247,
+      "name": "Other awaywin"
+    },
+    {
+      "typeId": 374,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416118,
+      "name": "1:0 1:0"
+    },
+    {
+      "typeId": 376,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416120,
+      "name": "1:0 1:1"
+    },
+    {
+      "typeId": 380,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416125,
+      "name": "1:0 2:0"
+    },
+    {
+      "typeId": 382,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416128,
+      "name": "1:0 2:1"
+    },
+    {
+      "typeId": 384,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416131,
+      "name": "1:0 3:0"
+    },
+    {
+      "typeId": 378,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416123,
+      "name": "1:0 1:2"
+    },
+    {
+      "typeId": 386,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416133,
+      "name": "1:0 4+"
+    },
+    {
+      "typeId": 400,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416152,
+      "name": "2:0 2:0"
+    },
+    {
+      "typeId": 402,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416154,
+      "name": "2:0 2:1"
+    },
+    {
+      "typeId": 404,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416155,
+      "name": "2:0 3:0"
+    },
+    {
+      "typeId": 406,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416159,
+      "name": "2:0 4+"
+    },
+    {
+      "typeId": 408,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416161,
+      "name": "2:1 2:1"
+    },
+    {
+      "typeId": 410,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416164,
+      "name": "2:1 4+"
+    },
+    {
+      "typeId": 412,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416166,
+      "name": "3:0 3:0"
+    },
+    {
+      "typeId": 414,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416169,
+      "name": "3:0 4+"
+    },
+    {
+      "typeId": 326,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416051,
+      "name": "0:0 0:0"
+    },
+    {
+      "typeId": 334,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416063,
+      "name": "0:0 1:0"
+    },
+    {
+      "typeId": 336,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416066,
+      "name": "0:0 1:1"
+    },
+    {
+      "typeId": 328,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416054,
+      "name": "0:0 0:1"
+    },
+    {
+      "typeId": 340,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416071,
+      "name": "0:0 2:0"
+    },
+    {
+      "typeId": 342,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416073,
+      "name": "0:0 2:1"
+    },
+    {
+      "typeId": 330,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416056,
+      "name": "0:0 0:2"
+    },
+    {
+      "typeId": 338,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416069,
+      "name": "0:0 1:2"
+    },
+    {
+      "typeId": 344,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416076,
+      "name": "0:0 3:0"
+    },
+    {
+      "typeId": 332,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416060,
+      "name": "0:0 0:3"
+    },
+    {
+      "typeId": 346,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416079,
+      "name": "0:0 4+"
+    },
+    {
+      "typeId": 388,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416136,
+      "name": "1:1 1:1"
+    },
+    {
+      "typeId": 392,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416141,
+      "name": "1:1 2:1"
+    },
+    {
+      "typeId": 390,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416138,
+      "name": "1:1 1:2"
+    },
+    {
+      "typeId": 394,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416145,
+      "name": "1:1 4+"
+    },
+    {
+      "typeId": 416,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416171,
+      "name": "4+ 4+"
+    },
+    {
+      "typeId": 348,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416081,
+      "name": "0:1 0:1"
+    },
+    {
+      "typeId": 350,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416083,
+      "name": "0:1 0:2"
+    },
+    {
+      "typeId": 352,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416087,
+      "name": "0:1 0:3"
+    },
+    {
+      "typeId": 354,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416091,
+      "name": "0:1 1:1"
+    },
+    {
+      "typeId": 356,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416093,
+      "name": "0:1 1:2"
+    },
+    {
+      "typeId": 358,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416096,
+      "name": "0:1 2:1"
+    },
+    {
+      "typeId": 360,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416100,
+      "name": "0:1 4+"
+    },
+    {
+      "typeId": 362,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416103,
+      "name": "0:2 0:2"
+    },
+    {
+      "typeId": 364,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416104,
+      "name": "0:2 0:3"
+    },
+    {
+      "typeId": 366,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416107,
+      "name": "0:2 1:2"
+    },
+    {
+      "typeId": 368,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416110,
+      "name": "0:2 4+"
+    },
+    {
+      "typeId": 370,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416112,
+      "name": "0:3 0:3"
+    },
+    {
+      "typeId": 372,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416115,
+      "name": "0:3 4+"
+    },
+    {
+      "typeId": 396,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416147,
+      "name": "1:2 1:2"
+    },
+    {
+      "typeId": 398,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416149,
+      "name": "1:2 4+"
+    },
+    {
+      "typeId": 1993,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415600,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415639,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415596,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415634,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415605,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415607,
+      "name": "0-5"
+    },
+    {
+      "typeId": 5247,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415610,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415552,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415556,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415560,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415562,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.0715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415567,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415616,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415568,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415570,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415573,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415575,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415620,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415580,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415578,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.4706,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415623,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415583,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415587,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415643,
+      "name": "4+"
+    },
+    {
+      "typeId": 5251,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415626,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415589,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415590,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415651,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415593,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415627,
+      "name": "5-7"
+    },
+    {
+      "typeId": 885,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415648,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415631,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415645,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414751,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 2,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414754,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414759,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 12,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414258,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414261,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414645,
+      "name": "GKS Tychy or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414638,
+      "name": "GKS Tychy or Stal Rzeszow"
+    },
+    {
+      "typeId": 11,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414642,
+      "name": "Draw or Stal Rzeszow"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414148,
+      "name": "GKS Tychy (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414149,
+      "name": "Stal Rzeszow (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414387,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414391,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414186,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414191,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414196,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414189,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414193,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414199,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414201,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414205,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414210,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414203,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414208,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414213,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417544,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417546,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414762,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 2,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414763,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414767,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414662,
+      "name": "GKS Tychy or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414650,
+      "name": "GKS Tychy or Stal Rzeszow"
+    },
+    {
+      "typeId": 11,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414657,
+      "name": "Draw or Stal Rzeszow"
+    },
+    {
+      "typeId": 12,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414279,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6471,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414282,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414216,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414217,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.85,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414226,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414229,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414394,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414396,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417550,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999417552,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414406,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414410,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414425,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414414,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414427,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414449,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414418,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414433,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414453,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414490,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414403,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414423,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414445,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414470,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414500,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414504,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414421,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414436,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414441,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414456,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414459,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414467,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414477,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414482,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414486,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414495,
+      "name": "3:4"
+    },
+    {
+      "typeId": 114,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415403,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415407,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415416,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415400,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415412,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415422,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415424,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415409,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415418,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415420,
+      "name": "1:2"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414289,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414292,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414235,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414239,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6471,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414242,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414245,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414398,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999414400,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415344,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415346,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415349,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415350,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415353,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415356,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415357,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415360,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415361,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415366,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415368,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3999415371,
+      "name": "No"
+    },
+    {
+      "typeId": 730,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415395,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415390,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415392,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415398,
+      "name": "7+"
+    },
+    {
+      "typeId": 74,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414961,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414972,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415271,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.0715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415274,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414906,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414909,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415237,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415238,
+      "name": "No"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415888,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415927,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 1.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415885,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415924,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415891,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415894,
+      "name": "0-5"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415896,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415837,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415843,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415839,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.1334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415845,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415853,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415901,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415856,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415859,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415864,
+      "name": "2-5"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415905,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.6154,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415865,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415869,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415867,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415909,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415871,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415873,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415931,
+      "name": "4+"
+    },
+    {
+      "typeId": 5251,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415915,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415876,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415879,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415941,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415882,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415917,
+      "name": "5-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415940,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415921,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415936,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415999,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416022,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415997,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416020,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999416002,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999416003,
+      "name": "0-5"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999416006,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415945,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415952,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415948,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415956,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415958,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416007,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415963,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415966,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415968,
+      "name": "2-5"
+    },
+    {
+      "typeId": 5249,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416010,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415976,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415982,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415979,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416012,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415984,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415986,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416024,
+      "name": "4+"
+    },
+    {
+      "typeId": 5251,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416014,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415989,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415992,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416030,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415995,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416016,
+      "name": "5-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416028,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416018,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416026,
+      "name": "No goal"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3999415375,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "id": 3999415376,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999415378,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 3999415380,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415353,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415356,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415357,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415360,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415344,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415346,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415349,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415350,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415361,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415366,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415368,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415371,
+      "name": "No"
+    },
+    {
+      "typeId": 436,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415180,
+      "name": "1st half"
+    },
+    {
+      "typeId": 440,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415185,
+      "name": "Equal"
+    },
+    {
+      "typeId": 438,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415182,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 436,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415188,
+      "name": "1st half"
+    },
+    {
+      "typeId": 440,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415194,
+      "name": "Equal"
+    },
+    {
+      "typeId": 438,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415193,
+      "name": "2nd half"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414762,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 2,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414763,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414767,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "isDBB": true,
+      "id": 3999414662,
+      "name": "GKS Tychy or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414650,
+      "name": "GKS Tychy or Stal Rzeszow"
+    },
+    {
+      "typeId": 11,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "isDBB": true,
+      "id": 3999414657,
+      "name": "Draw or Stal Rzeszow"
+    },
+    {
+      "typeId": 12,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414279,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6471,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414282,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1711,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 46845,
+      "id": 3999415211,
+      "name": "GKS Tychy (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 3999415213,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 47769,
+      "id": 3999415216,
+      "name": "Stal Rzeszow (0:1)"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46845,
+      "id": 3999414160,
+      "name": "GKS Tychy (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 47769,
+      "id": 3999414162,
+      "name": "Stal Rzeszow (+0.5)"
+    },
+    {
+      "typeId": 114,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415403,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415407,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415416,
+      "name": "2:1"
+    },
+    {
+      "typeId": 110,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415400,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415412,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415422,
+      "name": "2:2"
+    },
+    {
+      "typeId": 324,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415424,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415409,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415418,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999415420,
+      "name": "1:2"
+    },
+    {
+      "typeId": 74,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414394,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414396,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414216,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414217,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.85,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414226,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7273,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414229,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 660,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999415073,
+      "name": "GKS Tychy & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999415089,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999415077,
+      "name": "Stal Rzeszow & over 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999415067,
+      "name": "GKS Tychy & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999415083,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999415071,
+      "name": "Stal Rzeszow & under 1.5"
+    },
+    {
+      "typeId": 78,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415002,
+      "name": "GKS Tychy & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999415005,
+      "name": "GKS Tychy & no"
+    },
+    {
+      "typeId": 82,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415011,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415014,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 86,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415016,
+      "name": "Stal Rzeszow & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415020,
+      "name": "Stal Rzeszow & no"
+    },
+    {
+      "typeId": 1718,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414538,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1720,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414546,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1722,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414553,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414542,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1721,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414549,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1723,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414557,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415706,
+      "name": "0-2"
+    },
+    {
+      "typeId": 730,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415730,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415703,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415728,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415708,
+      "name": "0-6"
+    },
+    {
+      "typeId": 2359,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415710,
+      "name": "0-5"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3999415713,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415655,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415658,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415665,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415668,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415669,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415715,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415675,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415678,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415680,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415683,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415719,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415689,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415686,
+      "name": "3-4"
+    },
+    {
+      "typeId": 5250,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415721,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415692,
+      "name": "3-6"
+    },
+    {
+      "typeId": 1742,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415695,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415734,
+      "name": "4+"
+    },
+    {
+      "typeId": 5251,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415723,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415696,
+      "name": "4-6"
+    },
+    {
+      "typeId": 1744,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415698,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415743,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415700,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415724,
+      "name": "5-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415740,
+      "name": "7+"
+    },
+    {
+      "typeId": 5253,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415725,
+      "name": "6-7"
+    },
+    {
+      "typeId": 826,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415737,
+      "name": "No goal"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414913,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414918,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415241,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415242,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417550,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999417552,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417561,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417562,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417563,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417564,
+      "name": "Even"
+    },
+    {
+      "typeId": 86,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416263,
+      "name": "Stal Rzeszow & yes"
+    },
+    {
+      "typeId": 82,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416257,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 78,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416252,
+      "name": "GKS Tychy & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416266,
+      "name": "Stal Rzeszow & no"
+    },
+    {
+      "typeId": 84,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416260,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 80,
+      "price": 2.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416254,
+      "name": "GKS Tychy & no"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414774,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 2,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414778,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414780,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414680,
+      "name": "GKS Tychy or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414665,
+      "name": "GKS Tychy or Stal Rzeszow"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414676,
+      "name": "Draw or Stal Rzeszow"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414289,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3999414292,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1711,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 46845,
+      "id": 3999415219,
+      "name": "GKS Tychy (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "id": 3999415221,
+      "name": "Draw (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 47769,
+      "id": 3999415225,
+      "name": "Stal Rzeszow (0:1)"
+    },
+    {
+      "typeId": 1,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46845,
+      "id": 3999415290,
+      "name": "GKS Tychy"
+    },
+    {
+      "typeId": 7,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999415295,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47769,
+      "id": 3999415292,
+      "name": "Stal Rzeszow"
+    },
+    {
+      "typeId": 74,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414398,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3999414400,
+      "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414235,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414239,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6471,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414242,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 3999414245,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 54,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414838,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414843,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414846,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414851,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414849,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414854,
+      "name": "5+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417554,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999417556,
+      "name": "Even"
+    },
+    {
+      "typeId": 88,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416285,
+      "name": "Stal Rzeszow & no"
+    },
+    {
+      "typeId": 86,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416282,
+      "name": "Stal Rzeszow & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416281,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 82,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416275,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416273,
+      "name": "GKS Tychy & no"
+    },
+    {
+      "typeId": 78,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416270,
+      "name": "GKS Tychy & yes"
+    },
+    {
+      "typeId": 660,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999415052,
+      "name": "GKS Tychy & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415064,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999415056,
+      "name": "Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999415041,
+      "name": "GKS Tychy & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415062,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999415047,
+      "name": "Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 78,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414983,
+      "name": "GKS Tychy & GG"
+    },
+    {
+      "typeId": 80,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414987,
+      "name": "GKS Tychy & NG"
+    },
+    {
+      "typeId": 82,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414991,
+      "name": "Draw & GG"
+    },
+    {
+      "typeId": 84,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414994,
+      "name": "Draw & NG"
+    },
+    {
+      "typeId": 86,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414997,
+      "name": "Stal Rzeszow & GG"
+    },
+    {
+      "typeId": 88,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999415000,
+      "name": "Stal Rzeszow & NG"
+    },
+    {
+      "typeId": 90,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415227,
+      "name": "Over 3.5 & GG"
+    },
+    {
+      "typeId": 92,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415230,
+      "name": "Under 3.5 & GG"
+    },
+    {
+      "typeId": 94,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415233,
+      "name": "Over 3.5 & NG"
+    },
+    {
+      "typeId": 96,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999415236,
+      "name": "Under 3.5 & NG"
+    },
+    {
+      "typeId": 814,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46845,
+      "id": 3999416174,
+      "name": "GKS Tychy goal & GKS Tychy"
+    },
+    {
+      "typeId": 816,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46845,
+      "id": 3999416177,
+      "name": "GKS Tychy goal & draw"
+    },
+    {
+      "typeId": 818,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999416181,
+      "name": "GKS Tychy goal & Stal Rzeszow"
+    },
+    {
+      "typeId": 826,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999416192,
+      "name": "No goal"
+    },
+    {
+      "typeId": 820,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 3999416184,
+      "name": "Stal Rzeszow goal & GKS Tychy"
+    },
+    {
+      "typeId": 822,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47769,
+      "id": 3999416187,
+      "name": "Stal Rzeszow goal & draw"
+    },
+    {
+      "typeId": 824,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47769,
+      "id": 3999416189,
+      "name": "Stal Rzeszow goal & Stal Rzeszow"
+    },
+    {
+      "typeId": 1727,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999414696,
+      "name": "GKS Tychy/X & over 3.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999414702,
+      "name": "GKS Tychy/Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999414706,
+      "name": "X/Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999414682,
+      "name": "GKS Tychy/X & under 3.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999414686,
+      "name": "GKS Tychy/Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999414690,
+      "name": "X/Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 1718,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414512,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1720,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414521,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1722,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414529,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999414517,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1721,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999414524,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1723,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999414532,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 1845,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416315,
+      "name": "GKS Tychy/GKS Tychy & over 3.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416293,
+      "name": "GKS Tychy/X & over 3.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416296,
+      "name": "GKS Tychy/Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 1848,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416317,
+      "name": "Draw/GKS Tychy & over 3.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416297,
+      "name": "X/Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 1849,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416321,
+      "name": "Draw/draw & over 3.5"
+    },
+    {
+      "typeId": 1851,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416323,
+      "name": "Stal Rzeszow/GKS Tychy & over 3.5"
+    },
+    {
+      "typeId": 1852,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416325,
+      "name": "Stal Rzeszow/draw & over 3.5"
+    },
+    {
+      "typeId": 1853,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416327,
+      "name": "Stal Rzeszow/Stal Rzeszow & over 3.5"
+    },
+    {
+      "typeId": 1836,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416300,
+      "name": "GKS Tychy/GKS Tychy & under 3.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416287,
+      "name": "GKS Tychy/X & under 3.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416290,
+      "name": "GKS Tychy/Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 1839,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 46845,
+      "id": 3999416301,
+      "name": "Draw/GKS Tychy & under 3.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416291,
+      "name": "X/Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 1840,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416303,
+      "name": "Draw/draw & under 3.5"
+    },
+    {
+      "typeId": 1842,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 3999416306,
+      "name": "Stal Rzeszow/GKS Tychy & under 3.5"
+    },
+    {
+      "typeId": 1843,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416309,
+      "name": "Stal Rzeszow/draw & under 3.5"
+    },
+    {
+      "typeId": 1844,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47769,
+      "id": 3999416313,
+      "name": "Stal Rzeszow/Stal Rzeszow & under 3.5"
+    },
+    {
+      "typeId": 1845,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416360,
+      "name": "GKS Tychy/GKS Tychy & over 1.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416337,
+      "name": "GKS Tychy/X & over 1.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416338,
+      "name": "GKS Tychy/Stal Rzeszow & over 1.5"
+    },
+    {
+      "typeId": 1848,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416365,
+      "name": "Draw/GKS Tychy & over 1.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416341,
+      "name": "X/Stal Rzeszow & over 1.5"
+    },
+    {
+      "typeId": 1849,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416367,
+      "name": "Draw/draw & over 1.5"
+    },
+    {
+      "typeId": 1851,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416370,
+      "name": "Stal Rzeszow/GKS Tychy & over 1.5"
+    },
+    {
+      "typeId": 1852,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416371,
+      "name": "Stal Rzeszow/draw & over 1.5"
+    },
+    {
+      "typeId": 1853,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416373,
+      "name": "Stal Rzeszow/Stal Rzeszow & over 1.5"
+    },
+    {
+      "typeId": 1836,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416343,
+      "name": "GKS Tychy/GKS Tychy & under 1.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416330,
+      "name": "GKS Tychy/X & under 1.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416333,
+      "name": "GKS Tychy/Stal Rzeszow & under 1.5"
+    },
+    {
+      "typeId": 1839,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 46845,
+      "id": 3999416346,
+      "name": "Draw/GKS Tychy & under 1.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416334,
+      "name": "X/Stal Rzeszow & under 1.5"
+    },
+    {
+      "typeId": 1840,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416349,
+      "name": "Draw/draw & under 1.5"
+    },
+    {
+      "typeId": 1842,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 3999416352,
+      "name": "Stal Rzeszow/GKS Tychy & under 1.5"
+    },
+    {
+      "typeId": 1843,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416355,
+      "name": "Stal Rzeszow/draw & under 1.5"
+    },
+    {
+      "typeId": 1844,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47769,
+      "id": 3999416358,
+      "name": "Stal Rzeszow/Stal Rzeszow & under 1.5"
+    },
+    {
+      "typeId": 1855,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416378,
+      "name": "GKS Tychy/GKS Tychy & 1"
+    },
+    {
+      "typeId": 1859,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416391,
+      "name": "GKS Tychy/GKS Tychy & 2"
+    },
+    {
+      "typeId": 1860,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416394,
+      "name": "GKS Tychy/draw & 2"
+    },
+    {
+      "typeId": 1866,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416414,
+      "name": "GKS Tychy/GKS Tychy & 3"
+    },
+    {
+      "typeId": 1867,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416417,
+      "name": "GKS Tychy/Stal Rzeszow & 3"
+    },
+    {
+      "typeId": 1872,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416428,
+      "name": "GKS Tychy/GKS Tychy & 4"
+    },
+    {
+      "typeId": 1873,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416431,
+      "name": "GKS Tychy/draw & 4"
+    },
+    {
+      "typeId": 1874,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416434,
+      "name": "GKS Tychy/Stal Rzeszow & 4"
+    },
+    {
+      "typeId": 1881,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416456,
+      "name": "GKS Tychy/GKS Tychy & 5+"
+    },
+    {
+      "typeId": 1882,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416459,
+      "name": "GKS Tychy/draw & 5+"
+    },
+    {
+      "typeId": 1883,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416461,
+      "name": "GKS Tychy/Stal Rzeszow & 5+"
+    },
+    {
+      "typeId": 1854,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416375,
+      "name": "Draw/draw & 0"
+    },
+    {
+      "typeId": 1856,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416381,
+      "name": "Draw/GKS Tychy & 1"
+    },
+    {
+      "typeId": 1857,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416384,
+      "name": "Draw/Stal Rzeszow & 1"
+    },
+    {
+      "typeId": 1861,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416396,
+      "name": "Draw/GKS Tychy & 2"
+    },
+    {
+      "typeId": 1862,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416399,
+      "name": "Draw/draw & 2"
+    },
+    {
+      "typeId": 1863,
+      "price": 71.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416403,
+      "name": "Draw/Stal Rzeszow & 2"
+    },
+    {
+      "typeId": 1868,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416419,
+      "name": "Draw/GKS Tychy & 3"
+    },
+    {
+      "typeId": 1869,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416422,
+      "name": "Draw/Stal Rzeszow & 3"
+    },
+    {
+      "typeId": 1875,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416437,
+      "name": "Draw/GKS Tychy & 4"
+    },
+    {
+      "typeId": 1876,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416440,
+      "name": "Draw/draw & 4"
+    },
+    {
+      "typeId": 1877,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416444,
+      "name": "Draw/Stal Rzeszow & 4"
+    },
+    {
+      "typeId": 1884,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416463,
+      "name": "Draw/GKS Tychy & 5+"
+    },
+    {
+      "typeId": 1885,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416465,
+      "name": "Draw/draw & 5+"
+    },
+    {
+      "typeId": 1886,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416468,
+      "name": "Draw/Stal Rzeszow & 5+"
+    },
+    {
+      "typeId": 1858,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416387,
+      "name": "Stal Rzeszow/Stal Rzeszow & 1"
+    },
+    {
+      "typeId": 1865,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416409,
+      "name": "Stal Rzeszow/Stal Rzeszow & 2"
+    },
+    {
+      "typeId": 1864,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416406,
+      "name": "Stal Rzeszow/draw & 2"
+    },
+    {
+      "typeId": 1871,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416426,
+      "name": "Stal Rzeszow/Stal Rzeszow & 3"
+    },
+    {
+      "typeId": 1870,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416424,
+      "name": "Stal Rzeszow/GKS Tychy & 3"
+    },
+    {
+      "typeId": 1880,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416453,
+      "name": "Stal Rzeszow/Stal Rzeszow & 4"
+    },
+    {
+      "typeId": 1879,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416450,
+      "name": "Stal Rzeszow/draw & 4"
+    },
+    {
+      "typeId": 1878,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416447,
+      "name": "Stal Rzeszow/GKS Tychy & 4"
+    },
+    {
+      "typeId": 1889,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416473,
+      "name": "Stal Rzeszow/Stal Rzeszow & 5+"
+    },
+    {
+      "typeId": 1888,
+      "price": 81.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416471,
+      "name": "Stal Rzeszow/draw & 5+"
+    },
+    {
+      "typeId": 1887,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416470,
+      "name": "Stal Rzeszow/GKS Tychy & 5+"
+    },
+    {
+      "typeId": 806,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415383,
+      "name": "No/no"
+    },
+    {
+      "typeId": 808,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415385,
+      "name": "Yes/no"
+    },
+    {
+      "typeId": 812,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415389,
+      "name": "No/yes"
+    },
+    {
+      "typeId": 810,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999415386,
+      "name": "Yes/yes"
+    },
+    {
+      "typeId": 1718,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416193,
+      "name": "1X & yes"
+    },
+    {
+      "typeId": 1719,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46845,
+      "id": 3999416196,
+      "name": "1X & no"
+    },
+    {
+      "typeId": 1720,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416198,
+      "name": "12 & yes"
+    },
+    {
+      "typeId": 1721,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416201,
+      "name": "12 & no"
+    },
+    {
+      "typeId": 1722,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416204,
+      "name": "X2 & yes"
+    },
+    {
+      "typeId": 1723,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47769,
+      "id": 3999416205,
+      "name": "X2 & no"
+    },
+    {
+      "typeId": 74,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416476,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416480,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416483,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.4616,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416488,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416497,
+      "name": "Yes"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3999416504,
+      "name": "Yes"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 331,
+  "rc": false,
+  "startDate": "2026-05-24T14:30:00Z",
+  "showAll": true
+}
