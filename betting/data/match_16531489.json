@@ -1,0 +1,1116 @@
+{
+  "id": 16531489,
+  "feedEventId": 21018543,
+  "name": "Club Estrella Del Sur (Alejandro Korn) vs. Lugano",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 3089,
+    "name": "Primera C"
+  },
+  "category": {
+    "iso": "ARG",
+    "hasLiveEvents": false,
+    "id": 574,
+    "name": "Argentina"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 461563,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 65035,
+      "name": "Lugano"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1577738674,
+        1577796130,
+        1577744091,
+        1577738676,
+        1577847701,
+        1577782237
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1577738674,
+        1577744091,
+        1577796130,
+        1577738676,
+        1577782237,
+        1577744779,
+        1577744780,
+        1577889040
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577744779,
+        1577744780,
+        1577889040
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577771074
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4014579569
+        ],
+        [
+          4014579568
+        ],
+        [
+          4014579567
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014579569
+        ],
+        [
+          4014579568
+        ],
+        [
+          4014579567
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577738674,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4014726314
+        ],
+        [
+          4014726313
+        ],
+        [
+          4014726312
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014726314,
+          4014726313,
+          4014726312
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577796130,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4014594351
+        ],
+        [
+          4014594350
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014594351
+        ],
+        [
+          4014594350
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1577744091,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4014579576
+        ],
+        [
+          4014579577
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014579576
+        ],
+        [
+          4014579577
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577738676,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4014858275,
+          4014858278,
+          4014858273
+        ],
+        [
+          4014858272,
+          4014858271,
+          4014858274
+        ],
+        [
+          4014858276,
+          4014858277,
+          4014858270
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014858275,
+          4014858272,
+          4014858276,
+          4014858278,
+          4014858271,
+          4014858277,
+          4014858273,
+          4014858274,
+          4014858270
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1577847701,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4014689257
+        ],
+        [
+          4014689256
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014689257
+        ],
+        [
+          4014689256
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577782237,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4014579569
+        ],
+        [
+          4014579568
+        ],
+        [
+          4014579567
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014579569
+        ],
+        [
+          4014579568
+        ],
+        [
+          4014579567
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577738674,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4014594351
+        ],
+        [
+          4014594350
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014594351
+        ],
+        [
+          4014594350
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1577744091,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4014726314
+        ],
+        [
+          4014726313
+        ],
+        [
+          4014726312
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014726314,
+          4014726313,
+          4014726312
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577796130,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4014579576
+        ],
+        [
+          4014579577
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014579576
+        ],
+        [
+          4014579577
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577738676,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4014689257
+        ],
+        [
+          4014689256
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014689257
+        ],
+        [
+          4014689256
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577782237,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4014596884
+        ],
+        [
+          4014596885
+        ],
+        [
+          4014596883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014596884,
+          4014596885,
+          4014596883
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577744779,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4014596887
+        ],
+        [
+          4014596888
+        ],
+        [
+          4014596886
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014596887,
+          4014596888,
+          4014596886
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577744780,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4014959512
+        ],
+        [
+          4014959513
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014959512
+        ],
+        [
+          4014959513
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577889040,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4014596884
+        ],
+        [
+          4014596885
+        ],
+        [
+          4014596883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014596884,
+          4014596885,
+          4014596883
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577744779,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4014596887
+        ],
+        [
+          4014596888
+        ],
+        [
+          4014596886
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014596887,
+          4014596888,
+          4014596886
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577744780,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4014959512
+        ],
+        [
+          4014959513
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014959512
+        ],
+        [
+          4014959513
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577889040,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4014662058
+        ],
+        [
+          4014662057
+        ],
+        [
+          4014662059
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014662058,
+          4014662057,
+          4014662059
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1577771074,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014579569,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 2,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014579568,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014579567,
+      "name": "Lugano"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014726314,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014726313,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or Lugano"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014726312,
+      "name": "Draw or Lugano"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4014594351,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4014594350,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014579576,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014579577,
+      "name": "No"
+    },
+    {
+      "typeId": 418,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "id": 4014858275,
+      "name": "Club Estrella Del Sur (Alejandro Korn)/Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 420,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "id": 4014858272,
+      "name": "Club Estrella Del Sur (Alejandro Korn)/X"
+    },
+    {
+      "typeId": 422,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014858276,
+      "name": "Club Estrella Del Sur (Alejandro Korn)/Lugano"
+    },
+    {
+      "typeId": 424,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "id": 4014858278,
+      "name": "X/Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 426,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014858271,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "id": 4014858277,
+      "name": "X/Lugano"
+    },
+    {
+      "typeId": 430,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014858273,
+      "name": "Lugano/Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 432,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "id": 4014858274,
+      "name": "Lugano/X"
+    },
+    {
+      "typeId": 434,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "id": 4014858270,
+      "name": "Lugano/Lugano"
+    },
+    {
+      "typeId": 70,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014689257,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014689256,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014579569,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 2,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014579568,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014579567,
+      "name": "Lugano"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014594351,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014594350,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014726314,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014726313,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or Lugano"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014726312,
+      "name": "Draw or Lugano"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014579576,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014579577,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014689257,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014689256,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014596884,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 2,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014596885,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014596883,
+      "name": "Lugano"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014596887,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014596888,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or Lugano"
+    },
+    {
+      "typeId": 11,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014596886,
+      "name": "Draw or Lugano"
+    },
+    {
+      "typeId": 70,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014959512,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014959513,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014596884,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 2,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014596885,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014596883,
+      "name": "Lugano"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "isDBB": true,
+      "id": 4014596887,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014596888,
+      "name": "Club Estrella Del Sur (Alejandro Korn) or Lugano"
+    },
+    {
+      "typeId": 11,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "isDBB": true,
+      "id": 4014596886,
+      "name": "Draw or Lugano"
+    },
+    {
+      "typeId": 70,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014959512,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014959513,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 461563,
+      "id": 4014662058,
+      "name": "Club Estrella Del Sur (Alejandro Korn)"
+    },
+    {
+      "typeId": 2,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014662057,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65035,
+      "id": 4014662059,
+      "name": "Lugano"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 4705,
+  "rc": false,
+  "startDate": "2026-05-23T18:30:00Z",
+  "showAll": true
+}

@@ -1,0 +1,2883 @@
+{
+  "id": 16512636,
+  "feedEventId": 21002370,
+  "name": "KuPS Akatemia II vs. Pallo Kerho 37",
+  "et": 0,
+  "liveTime": "59'",
+  "lst": "2026-05-21T16:45:02Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11342,
+    "name": "Kolmonen"
+  },
+  "category": {
+    "iso": "FIN",
+    "hasLiveEvents": false,
+    "id": 820,
+    "name": "Finland"
+  },
+  "competitors": [
+    {
+      "id": 3080033,
+      "name": "KuPS Akatemia II"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 145701,
+      "name": "Pallo Kerho 37"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576330386,
+        1576330382,
+        1578928945,
+        1578400956,
+        1579067411,
+        1576330380,
+        1579036481,
+        1579036487,
+        1576330420,
+        1579036483,
+        1576330373,
+        1576330630,
+        1576330633,
+        1576330634,
+        1576330423,
+        1576330415
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576330386,
+        1578928945,
+        1576330382,
+        1579036481,
+        1579036483,
+        1576330373,
+        1576330630,
+        1576330380
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 1,
+      "marketIds": [
+        1579071699,
+        1579072775,
+        1579073800
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 18,
+      "name": "1 minute"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576330418,
+        1576330419,
+        1576330423
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1579067412,
+        1579061025
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010170286
+        ],
+        [
+          4010170287
+        ],
+        [
+          4010170288
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170286
+        ],
+        [
+          4010170287
+        ],
+        [
+          4010170288
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576330386,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010170273
+        ],
+        [
+          4010170271
+        ],
+        [
+          4010170272
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170273,
+          4010170271,
+          4010170272
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576330382,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4018791762,
+          4019286507,
+          4019345148
+        ],
+        [
+          4018791763,
+          4019286508,
+          4019345149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018791762,
+          4019286507,
+          4019345148
+        ],
+        [
+          4018791763,
+          4019286508,
+          4019345149
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "6.5",
+      "id": 1578928945,
+      "name": "Total"
+    },
+    {
+      "shortName": "Any team to win",
+      "desktopOddIds": [
+        [
+          4016956399
+        ],
+        [
+          4016956400
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016956399
+        ],
+        [
+          4016956400
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 881,
+      "sportMarketId": 71124,
+      "id": 1578400956,
+      "name": "Any team to win"
+    },
+    {
+      "shortName": "Sixth goal",
+      "desktopOddIds": [
+        [
+          4019360740
+        ],
+        [
+          4019360742
+        ],
+        [
+          4019360741
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019360740
+        ],
+        [
+          4019360742
+        ],
+        [
+          4019360741
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "6",
+      "id": 1579067411,
+      "name": "Sixth goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010170248,
+          4010170253,
+          4010170261
+        ],
+        [
+          4010170263,
+          4010170264
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170248,
+          4010170253,
+          4010170261
+        ],
+        [
+          4010170263,
+          4010170264
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576330380,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4019286501
+        ],
+        [
+          4019286502
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019286501
+        ],
+        [
+          4019286502
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-4.5",
+      "id": 1579036481,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          4019286517
+        ],
+        [
+          4019286518
+        ],
+        [
+          4019286519
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019286517,
+          4019286518,
+          4019286519
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "sportMarketId": 70510,
+      "sv": "0:4",
+      "id": 1579036487,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Last goal",
+      "desktopOddIds": [
+        [
+          4010170555
+        ],
+        [
+          4010170557
+        ],
+        [
+          4010170556
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170555
+        ],
+        [
+          4010170557
+        ],
+        [
+          4010170556
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 9,
+      "sportMarketId": 70493,
+      "id": 1576330420,
+      "name": "Last goal"
+    },
+    {
+      "shortName": "KuPS Akatemia II total",
+      "desktopOddIds": [
+        [
+          4019286505
+        ],
+        [
+          4019286506
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019286505
+        ],
+        [
+          4019286506
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 19,
+      "sportMarketId": 70525,
+      "sv": "5.5",
+      "id": 1579036483,
+      "name": "KuPS Akatemia II total"
+    },
+    {
+      "shortName": "Pallo Kerho 37 total",
+      "desktopOddIds": [
+        [
+          4010170225
+        ],
+        [
+          4010170226
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170225
+        ],
+        [
+          4010170226
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 20,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1576330373,
+      "name": "Pallo Kerho 37 total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010171045
+        ],
+        [
+          4010171046
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010171045
+        ],
+        [
+          4010171046
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576330630,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "KuPS Akatemia II odd/even",
+      "desktopOddIds": [
+        [
+          4010171051
+        ],
+        [
+          4010171052
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010171051
+        ],
+        [
+          4010171052
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 27,
+      "sportMarketId": 70541,
+      "id": 1576330633,
+      "name": "KuPS Akatemia II odd/even"
+    },
+    {
+      "shortName": "Pallo Kerho 37 odd/even",
+      "desktopOddIds": [
+        [
+          4010171053
+        ],
+        [
+          4010171054
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010171053
+        ],
+        [
+          4010171054
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 28,
+      "sportMarketId": 70543,
+      "id": 1576330634,
+      "name": "Pallo Kerho 37 odd/even"
+    },
+    {
+      "shortName": "Multiscores",
+      "desktopOddIds": [
+        [
+          4010170611,
+          4010170615,
+          4010170617,
+          4010170613,
+          4010170619
+        ],
+        [
+          4010170621
+        ],
+        [
+          4010170612,
+          4010170616,
+          4010170618,
+          4010170614,
+          4010170620
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170611,
+          4010170615,
+          4010170617,
+          4010170613,
+          4010170619,
+          4010170621,
+          4010170612,
+          4010170616,
+          4010170618,
+          4010170614,
+          4010170620
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 551,
+      "sportMarketId": 71017,
+      "id": 1576330423,
+      "name": "Multiscores"
+    },
+    {
+      "shortName": "Multigoals",
+      "desktopOddIds": [
+        [
+          4010170418,
+          4010170417,
+          4010170409,
+          4010170410,
+          4010170391,
+          4010170393,
+          4010170411,
+          4010170396,
+          4010170398,
+          4010170399,
+          4010170401,
+          4010170419,
+          4010170403,
+          4010170422,
+          4010170415,
+          4010170416,
+          4010170420
+        ],
+        [
+          4010170407,
+          4010170406,
+          4010170408,
+          4010170390,
+          4010170392,
+          4010170394,
+          4010170395,
+          4010170397,
+          4010170412,
+          4010170400,
+          4010170413,
+          4010170402,
+          4010170414,
+          4010170404,
+          4010170405,
+          4010170421
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170418,
+          4010170417,
+          4010170409,
+          4010170410,
+          4010170391,
+          4010170393,
+          4010170411,
+          4010170396,
+          4010170398,
+          4010170399,
+          4010170401,
+          4010170419,
+          4010170403,
+          4010170422,
+          4010170415,
+          4010170416,
+          4010170420
+        ],
+        [
+          4010170407,
+          4010170406,
+          4010170408,
+          4010170390,
+          4010170392,
+          4010170394,
+          4010170395,
+          4010170397,
+          4010170412,
+          4010170400,
+          4010170413,
+          4010170402,
+          4010170414,
+          4010170404,
+          4010170405,
+          4010170421
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 548,
+      "sportMarketId": 71014,
+      "id": 1576330415,
+      "name": "Multigoals"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010170286
+        ],
+        [
+          4010170287
+        ],
+        [
+          4010170288
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170286
+        ],
+        [
+          4010170287
+        ],
+        [
+          4010170288
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576330386,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4018791762,
+          4019286507,
+          4019345148
+        ],
+        [
+          4018791763,
+          4019286508,
+          4019345149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018791762,
+          4019286507,
+          4019345148
+        ],
+        [
+          4018791763,
+          4019286508,
+          4019345149
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "6.5",
+      "id": 1578928945,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010170273
+        ],
+        [
+          4010170271
+        ],
+        [
+          4010170272
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170273,
+          4010170271,
+          4010170272
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576330382,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4019286501
+        ],
+        [
+          4019286502
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019286501
+        ],
+        [
+          4019286502
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-4.5",
+      "id": 1579036481,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "KuPS Akatemia II total",
+      "desktopOddIds": [
+        [
+          4019286505
+        ],
+        [
+          4019286506
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019286505
+        ],
+        [
+          4019286506
+        ]
+      ],
+      "isBB": true,
+      "so": 14,
+      "typeId": 19,
+      "sportMarketId": 70525,
+      "sv": "5.5",
+      "id": 1579036483,
+      "name": "KuPS Akatemia II total"
+    },
+    {
+      "shortName": "Pallo Kerho 37 total",
+      "desktopOddIds": [
+        [
+          4010170225
+        ],
+        [
+          4010170226
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170225
+        ],
+        [
+          4010170226
+        ]
+      ],
+      "isBB": true,
+      "so": 15,
+      "typeId": 20,
+      "sportMarketId": 70530,
+      "sv": "1.5",
+      "id": 1576330373,
+      "name": "Pallo Kerho 37 total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010171045
+        ],
+        [
+          4010171046
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010171045
+        ],
+        [
+          4010171046
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576330630,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010170248,
+          4010170253,
+          4010170261
+        ],
+        [
+          4010170263,
+          4010170264
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170248,
+          4010170253,
+          4010170261
+        ],
+        [
+          4010170263,
+          4010170264
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576330380,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "What will happen in next minute (59:00 - 59:59)",
+      "desktopOddIds": [
+        [
+          4019371520
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019371520
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "sportMarketId": 71735,
+      "sv": "59:00|59:59",
+      "id": 1579071699,
+      "name": "What will happen in next minute (59:00 - 59:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (60:00 - 60:59)",
+      "desktopOddIds": [
+        [
+          4019374200
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019374200
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "sportMarketId": 71735,
+      "sv": "60:00|60:59",
+      "id": 1579072775,
+      "name": "What will happen in next minute (60:00 - 60:59)"
+    },
+    {
+      "shortName": "What will happen in next minute (61:00 - 61:59)",
+      "desktopOddIds": [
+        [
+          4019376562
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019376562
+        ]
+      ],
+      "isBB": false,
+      "variant": 2,
+      "so": 0,
+      "typeId": 17520,
+      "sportMarketId": 71735,
+      "sv": "61:00|61:59",
+      "id": 1579073800,
+      "name": "What will happen in next minute (61:00 - 61:59)"
+    },
+    {
+      "shortName": "KuPS Akatemia II multigoals",
+      "desktopOddIds": [
+        [
+          4010170517,
+          4010170516,
+          4010170508,
+          4010170509,
+          4010170490,
+          4010170492,
+          4010170510,
+          4010170495,
+          4010170497,
+          4010170498,
+          4010170500,
+          4010170518,
+          4010170502,
+          4010170521,
+          4010170514,
+          4010170515,
+          4010170519
+        ],
+        [
+          4010170506,
+          4010170505,
+          4010170507,
+          4010170489,
+          4010170491,
+          4010170493,
+          4010170494,
+          4010170496,
+          4010170511,
+          4010170499,
+          4010170512,
+          4010170501,
+          4010170513,
+          4010170503,
+          4010170504,
+          4010170520
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170517,
+          4010170516,
+          4010170508,
+          4010170509,
+          4010170490,
+          4010170492,
+          4010170510,
+          4010170495,
+          4010170497,
+          4010170498,
+          4010170500,
+          4010170518,
+          4010170502,
+          4010170521,
+          4010170514,
+          4010170515,
+          4010170519
+        ],
+        [
+          4010170506,
+          4010170505,
+          4010170507,
+          4010170489,
+          4010170491,
+          4010170493,
+          4010170494,
+          4010170496,
+          4010170511,
+          4010170499,
+          4010170512,
+          4010170501,
+          4010170513,
+          4010170503,
+          4010170504,
+          4010170520
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 549,
+      "sportMarketId": 71015,
+      "id": 1576330418,
+      "name": "KuPS Akatemia II multigoals"
+    },
+    {
+      "shortName": "Pallo Kerho 37 multigoals",
+      "desktopOddIds": [
+        [
+          4010170550,
+          4010170549,
+          4010170541,
+          4010170542,
+          4010170523,
+          4010170525,
+          4010170543,
+          4010170528,
+          4010170530,
+          4010170531,
+          4010170533,
+          4010170551,
+          4010170535,
+          4010170554,
+          4010170547,
+          4010170548,
+          4010170552
+        ],
+        [
+          4010170539,
+          4010170538,
+          4010170540,
+          4010170522,
+          4010170524,
+          4010170526,
+          4010170527,
+          4010170529,
+          4010170544,
+          4010170532,
+          4010170545,
+          4010170534,
+          4010170546,
+          4010170536,
+          4010170537,
+          4010170553
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010170550,
+          4010170549,
+          4010170541,
+          4010170542,
+          4010170523,
+          4010170525,
+          4010170543,
+          4010170528,
+          4010170530,
+          4010170531,
+          4010170533,
+          4010170551,
+          4010170535,
+          4010170554,
+          4010170547,
+          4010170548,
+          4010170552
+        ],
+        [
+          4010170539,
+          4010170538,
+          4010170540,
+          4010170522,
+          4010170524,
+          4010170526,
+          4010170527,
+          4010170529,
+          4010170544,
+          4010170532,
+          4010170545,
+          4010170534,
+          4010170546,
+          4010170536,
+          4010170537,
+          4010170553
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 550,
+      "sportMarketId": 71016,
+      "id": 1576330419,
+      "name": "Pallo Kerho 37 multigoals"
+    },
+    {
+      "shortName": "Sixth goal & 1x2",
+      "desktopOddIds": [
+        [
+          4019360743,
+          4019360744,
+          4019360745
+        ],
+        [
+          4019360749
+        ],
+        [
+          4019360746,
+          4019360747,
+          4019360748
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019360743,
+          4019360744,
+          4019360745,
+          4019360749,
+          4019360746,
+          4019360747,
+          4019360748
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 184,
+      "sportMarketId": 70753,
+      "sv": "6",
+      "id": 1579067412,
+      "name": "Sixth goal & 1x2"
+    },
+    {
+      "shortName": "Double chance & total 8.5",
+      "desktopOddIds": [
+        [
+          4019345153,
+          4019345150
+        ],
+        [
+          4019345155,
+          4019345152
+        ],
+        [
+          4019345154,
+          4019345151
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019345153,
+          4019345154,
+          4019345155,
+          4019345150,
+          4019345151,
+          4019345152
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "sportMarketId": 71013,
+      "sv": "8.5",
+      "id": 1579061025,
+      "name": "Double chance & total 8.5"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4010170286,
+      "name": "KuPS Akatemia II"
+    },
+    {
+      "typeId": 2,
+      "price": 36,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170287,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4010170288,
+      "name": "Pallo Kerho 37"
+    },
+    {
+      "typeId": 9,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4010170273,
+      "name": "KuPS Akatemia II or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isDBB": true,
+      "id": 4010170271,
+      "name": "KuPS Akatemia II or Pallo Kerho 37"
+    },
+    {
+      "typeId": 11,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4010170272,
+      "name": "Draw or Pallo Kerho 37"
+    },
+    {
+      "typeId": 12,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "isDBB": true,
+      "id": 4018791762,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.15,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "7.5",
+      "isDBB": true,
+      "id": 4019286507,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isDBB": true,
+      "id": 4019345148,
+      "name": "Over 8.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "isDBB": true,
+      "id": 4018791763,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "7.5",
+      "isDBB": true,
+      "id": 4019286508,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isDBB": true,
+      "id": 4019345149,
+      "name": "Under 8.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4016956399,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4016956400,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 3080033,
+      "id": 4019360740,
+      "name": "KuPS Akatemia II"
+    },
+    {
+      "typeId": 7,
+      "price": 6.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "6",
+      "id": 4019360742,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 145701,
+      "id": 4019360741,
+      "name": "Pallo Kerho 37"
+    },
+    {
+      "typeId": 134,
+      "price": 6.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170248,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170253,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170261,
+      "name": "4:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170263,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 1.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010170264,
+      "name": "Other"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-4.5",
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4019286501,
+      "name": "KuPS Akatemia II (-4.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-4.5",
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4019286502,
+      "name": "Pallo Kerho 37 (+4.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:4",
+      "competitorId": 3080033,
+      "id": 4019286517,
+      "name": "KuPS Akatemia II (0:4)"
+    },
+    {
+      "typeId": 1712,
+      "price": 2.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:4",
+      "id": 4019286518,
+      "name": "Draw (0:4)"
+    },
+    {
+      "typeId": 1713,
+      "price": 2.667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:4",
+      "competitorId": 145701,
+      "id": 4019286519,
+      "name": "Pallo Kerho 37 (0:4)"
+    },
+    {
+      "typeId": 1,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 3080033,
+      "id": 4010170555,
+      "name": "KuPS Akatemia II"
+    },
+    {
+      "typeId": 7,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170557,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 145701,
+      "id": 4010170556,
+      "name": "Pallo Kerho 37"
+    },
+    {
+      "typeId": 12,
+      "price": 1.72,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "isDBB": true,
+      "id": 4019286505,
+      "name": "Over 5.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.975,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "isDBB": true,
+      "id": 4019286506,
+      "name": "Under 5.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010170225,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010170226,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.825,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010171045,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.84,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010171046,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010171051,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010171052,
+      "name": "Even"
+    },
+    {
+      "typeId": 70,
+      "price": 1.425,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010171053,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010171054,
+      "name": "Even"
+    },
+    {
+      "typeId": 1750,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170611,
+      "name": "1:0, 2:0 or 3:0"
+    },
+    {
+      "typeId": 1754,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170615,
+      "name": "2:1, 3:1 or 4:1"
+    },
+    {
+      "typeId": 1756,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170617,
+      "name": "3:2, 4:2, 4:3 or 5:1"
+    },
+    {
+      "typeId": 1752,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170613,
+      "name": "4:0, 5:0 or 6:0"
+    },
+    {
+      "typeId": 1758,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170619,
+      "name": "Other homewin"
+    },
+    {
+      "typeId": 2,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170621,
+      "name": "Draw"
+    },
+    {
+      "typeId": 1751,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170612,
+      "name": "0:1, 0:2 or 0:3"
+    },
+    {
+      "typeId": 1755,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170616,
+      "name": "1:2, 1:3 or 1:4"
+    },
+    {
+      "typeId": 1757,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170618,
+      "name": "2:3, 2:4, 3:4 or 1:5"
+    },
+    {
+      "typeId": 1753,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170614,
+      "name": "0:4, 0:5 or 0:6"
+    },
+    {
+      "typeId": 1759,
+      "price": 21,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170620,
+      "name": "Other awaywin"
+    },
+    {
+      "typeId": 730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170418,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170407,
+      "name": "0-2"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170406,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170417,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170409,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170408,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170410,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170390,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1732,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170392,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170391,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1733,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170393,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170394,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170411,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170395,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170397,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170396,
+      "name": "2-4"
+    },
+    {
+      "typeId": 1738,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170398,
+      "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170412,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1740,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170400,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170399,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1741,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170401,
+      "name": "3-6"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170413,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1742,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170402,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170419,
+      "name": "4+"
+    },
+    {
+      "typeId": 1743,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170403,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170414,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 2.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170404,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170422,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 1.0589,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170405,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170415,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170416,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 1.3226,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170421,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170420,
+      "name": "No goal"
+    },
+    {
+      "typeId": 1,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4010170286,
+      "name": "KuPS Akatemia II"
+    },
+    {
+      "typeId": 2,
+      "price": 36,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170287,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4010170288,
+      "name": "Pallo Kerho 37"
+    },
+    {
+      "typeId": 12,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4018791762,
+      "name": "Over 6.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.15,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "7.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019286507,
+      "name": "Over 7.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019345148,
+      "name": "Over 8.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4018791763,
+      "name": "Under 6.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "7.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019286508,
+      "name": "Under 7.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019345149,
+      "name": "Under 8.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4010170273,
+      "name": "KuPS Akatemia II or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170271,
+      "name": "KuPS Akatemia II or Pallo Kerho 37"
+    },
+    {
+      "typeId": 11,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4010170272,
+      "name": "Draw or Pallo Kerho 37"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-4.5",
+      "isBB": true,
+      "competitorId": 3080033,
+      "isDBB": true,
+      "id": 4019286501,
+      "name": "KuPS Akatemia II (-4.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-4.5",
+      "isBB": true,
+      "competitorId": 145701,
+      "isDBB": true,
+      "id": 4019286502,
+      "name": "Pallo Kerho 37 (+4.5)"
+    },
+    {
+      "typeId": 12,
+      "price": 1.72,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019286505,
+      "name": "Over 5.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.975,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019286506,
+      "name": "Under 5.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170225,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170226,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.825,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010171045,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.84,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010171046,
+      "name": "Even"
+    },
+    {
+      "typeId": 134,
+      "price": 6.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170248,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170253,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 17,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170261,
+      "name": "4:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170263,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 1.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010170264,
+      "name": "Other"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "59:00|59:59",
+      "iconName": "goal",
+      "id": 4019371520,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "60:00|60:59",
+      "iconName": "goal",
+      "id": 4019374200,
+      "name": "Goal"
+    },
+    {
+      "typeId": 2086,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "61:00|61:59",
+      "iconName": "goal",
+      "id": 4019376562,
+      "name": "Goal"
+    },
+    {
+      "typeId": 730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170517,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170506,
+      "name": "0-2"
+    },
+    {
+      "typeId": 1988,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170505,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170516,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170508,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170507,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 1.07,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170509,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170489,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1731,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170490,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170491,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170492,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170493,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 1.07,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170510,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170494,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170496,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170495,
+      "name": "2-4"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.07,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170511,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170497,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170499,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 4.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170498,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1741,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170500,
+      "name": "3-6"
+    },
+    {
+      "typeId": 5250,
+      "price": 1.07,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170512,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1742,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170501,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170518,
+      "name": "4+"
+    },
+    {
+      "typeId": 1743,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170502,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 1.07,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170513,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 1.5667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170503,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170521,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 1.6452,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170504,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 1.26,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170514,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 1.975,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170515,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170520,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170519,
+      "name": "No goal"
+    },
+    {
+      "typeId": 730,
+      "price": 1.5667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170550,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1993,
+      "price": 1.075,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170539,
+      "name": "0-2"
+    },
+    {
+      "typeId": 1988,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170538,
+      "name": "0-4"
+    },
+    {
+      "typeId": 710,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170549,
+      "name": "0-3"
+    },
+    {
+      "typeId": 2359,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170541,
+      "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170540,
+      "name": "0-6"
+    },
+    {
+      "typeId": 5247,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170542,
+      "name": "0-7"
+    },
+    {
+      "typeId": 1730,
+      "price": 1.075,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170522,
+      "name": "1-2"
+    },
+    {
+      "typeId": 1731,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170523,
+      "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170524,
+      "name": "1-4"
+    },
+    {
+      "typeId": 1733,
+      "price": 1,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170525,
+      "name": "1-5"
+    },
+    {
+      "typeId": 1734,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170526,
+      "name": "1-6"
+    },
+    {
+      "typeId": 5248,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170543,
+      "name": "1-7"
+    },
+    {
+      "typeId": 1735,
+      "price": 2.0304,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170527,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170529,
+      "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 1.975,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170528,
+      "name": "2-4"
+    },
+    {
+      "typeId": 5249,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170544,
+      "name": "2-7"
+    },
+    {
+      "typeId": 1738,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170530,
+      "name": "2-6"
+    },
+    {
+      "typeId": 1740,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170532,
+      "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170531,
+      "name": "3-4"
+    },
+    {
+      "typeId": 1741,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170533,
+      "name": "3-6"
+    },
+    {
+      "typeId": 5250,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170545,
+      "name": "3-7"
+    },
+    {
+      "typeId": 1742,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170534,
+      "name": "4-5"
+    },
+    {
+      "typeId": 736,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170551,
+      "name": "4+"
+    },
+    {
+      "typeId": 1743,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170535,
+      "name": "4-6"
+    },
+    {
+      "typeId": 5251,
+      "price": 19,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170546,
+      "name": "4-7"
+    },
+    {
+      "typeId": 1744,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170536,
+      "name": "5-6"
+    },
+    {
+      "typeId": 966,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170554,
+      "name": "5+"
+    },
+    {
+      "typeId": 1766,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170537,
+      "name": "6+"
+    },
+    {
+      "typeId": 5252,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170547,
+      "name": "5-7"
+    },
+    {
+      "typeId": 5253,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170548,
+      "name": "6-7"
+    },
+    {
+      "typeId": 885,
+      "price": 41,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010170553,
+      "name": "7+"
+    },
+    {
+      "typeId": 826,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 4010170552,
+      "name": "No goal"
+    },
+    {
+      "typeId": 814,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 3080033,
+      "id": 4019360743,
+      "name": "KuPS Akatemia II goal & KuPS Akatemia II"
+    },
+    {
+      "typeId": 816,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 3080033,
+      "id": 4019360744,
+      "name": "KuPS Akatemia II goal & draw"
+    },
+    {
+      "typeId": 818,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "id": 4019360745,
+      "name": "KuPS Akatemia II goal & Pallo Kerho 37"
+    },
+    {
+      "typeId": 826,
+      "price": 6.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "id": 4019360749,
+      "name": "No goal"
+    },
+    {
+      "typeId": 820,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "id": 4019360746,
+      "name": "Pallo Kerho 37 goal & KuPS Akatemia II"
+    },
+    {
+      "typeId": 822,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 145701,
+      "id": 4019360747,
+      "name": "Pallo Kerho 37 goal & draw"
+    },
+    {
+      "typeId": 824,
+      "price": 51,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "6",
+      "competitorId": 145701,
+      "id": 4019360748,
+      "name": "Pallo Kerho 37 goal & Pallo Kerho 37"
+    },
+    {
+      "typeId": 1727,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "competitorId": 3080033,
+      "id": 4019345153,
+      "name": "KuPS Akatemia II/X & over 8.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "id": 4019345154,
+      "name": "KuPS Akatemia II/Pallo Kerho 37 & over 8.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "competitorId": 145701,
+      "id": 4019345155,
+      "name": "X/Pallo Kerho 37 & over 8.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 1.174,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "competitorId": 3080033,
+      "id": 4019345150,
+      "name": "KuPS Akatemia II/X & under 8.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 1.1765,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "id": 4019345151,
+      "name": "KuPS Akatemia II/Pallo Kerho 37 & under 8.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 10,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "8.5",
+      "competitorId": 145701,
+      "id": 4019345152,
+      "name": "X/Pallo Kerho 37 & under 8.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 7866,
+  "rc": false,
+  "startDate": "2026-05-21T16:30:00Z",
+  "showAll": true
+}

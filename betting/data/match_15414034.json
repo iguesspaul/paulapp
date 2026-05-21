@@ -1,0 +1,2136 @@
+{
+  "id": 15414034,
+  "feedEventId": 20783842,
+  "name": "Lunds BK vs. Eskilsminne IF",
+  "et": 0,
+  "ls": "Unknown",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11327,
+    "name": "Div 1"
+  },
+  "category": {
+    "iso": "SWE",
+    "hasLiveEvents": false,
+    "id": 602,
+    "name": "Sweden"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 48174,
+      "name": "Lunds BK"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 48217,
+      "name": "Eskilsminne IF"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576658827,
+        1576658819,
+        1576658787,
+        1576658811,
+        1576658830,
+        1576658875,
+        1576658814,
+        1576658762,
+        1576658836,
+        1576659136
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576658827,
+        1576658787,
+        1576658819,
+        1576658762,
+        1576658811,
+        1576659136,
+        1576658828,
+        1576658820,
+        1576658792,
+        1576659137,
+        1576658814
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576658828,
+        1576658820,
+        1576658792,
+        1577503990,
+        1576659137
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576658829
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4011331213
+        ],
+        [
+          4011331214
+        ],
+        [
+          4011331215
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331213
+        ],
+        [
+          4011331214
+        ],
+        [
+          4011331215
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576658827,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4011331176
+        ],
+        [
+          4011331174
+        ],
+        [
+          4011331175
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331176,
+          4011331174,
+          4011331175
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576658819,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4011331064
+        ],
+        [
+          4011331065
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331064
+        ],
+        [
+          4011331065
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576658787,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4011331112
+        ],
+        [
+          4011331113
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331112
+        ],
+        [
+          4011331113
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576658811,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4011331222
+        ],
+        [
+          4011331223
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331222
+        ],
+        [
+          4011331223
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576658830,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4011331378
+        ],
+        [
+          4011331380
+        ],
+        [
+          4011331379
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331378
+        ],
+        [
+          4011331380
+        ],
+        [
+          4011331379
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576658875,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4011331119,
+          4011331120,
+          4011331125,
+          4011331121,
+          4011331126,
+          4011331131,
+          4011331122,
+          4011331127,
+          4011331132,
+          4011331140
+        ],
+        [
+          4011331118,
+          4011331124,
+          4011331130,
+          4011331136,
+          4011331142,
+          4011331143
+        ],
+        [
+          4011331123,
+          4011331128,
+          4011331129,
+          4011331133,
+          4011331134,
+          4011331135,
+          4011331137,
+          4011331138,
+          4011331139,
+          4011331141
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331119,
+          4011331120,
+          4011331125,
+          4011331121,
+          4011331126,
+          4011331131,
+          4011331122,
+          4011331127,
+          4011331132,
+          4011331140
+        ],
+        [
+          4011331118,
+          4011331124,
+          4011331130,
+          4011331136,
+          4011331142,
+          4011331143
+        ],
+        [
+          4011331123,
+          4011331128,
+          4011331129,
+          4011331133,
+          4011331134,
+          4011331135,
+          4011331137,
+          4011331138,
+          4011331139,
+          4011331141
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576658814,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4011331014
+        ],
+        [
+          4011331015
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331014
+        ],
+        [
+          4011331015
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1576658762,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4011331246,
+          4011331249,
+          4011331252
+        ],
+        [
+          4011331247,
+          4011331250,
+          4011331253
+        ],
+        [
+          4011331248,
+          4011331251,
+          4011331254
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331246,
+          4011331247,
+          4011331248,
+          4011331249,
+          4011331250,
+          4011331251,
+          4011331252,
+          4011331253,
+          4011331254
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576658836,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4011332235
+        ],
+        [
+          4011332236
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011332235
+        ],
+        [
+          4011332236
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576659136,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4011331213
+        ],
+        [
+          4011331214
+        ],
+        [
+          4011331215
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331213
+        ],
+        [
+          4011331214
+        ],
+        [
+          4011331215
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576658827,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4011331064
+        ],
+        [
+          4011331065
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331064
+        ],
+        [
+          4011331065
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576658787,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4011331176
+        ],
+        [
+          4011331174
+        ],
+        [
+          4011331175
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331176,
+          4011331174,
+          4011331175
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576658819,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4011331014
+        ],
+        [
+          4011331015
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331014
+        ],
+        [
+          4011331015
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1576658762,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4011331112
+        ],
+        [
+          4011331113
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331112
+        ],
+        [
+          4011331113
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576658811,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4011332235
+        ],
+        [
+          4011332236
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011332235
+        ],
+        [
+          4011332236
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576659136,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4011331216
+        ],
+        [
+          4011331217
+        ],
+        [
+          4011331218
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331216,
+          4011331217,
+          4011331218
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576658828,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4011331179
+        ],
+        [
+          4011331177
+        ],
+        [
+          4011331178
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331179,
+          4011331177,
+          4011331178
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576658820,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4011331074
+        ],
+        [
+          4011331075
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331074
+        ],
+        [
+          4011331075
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576658792,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4011332237
+        ],
+        [
+          4011332238
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011332237
+        ],
+        [
+          4011332238
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576659137,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4011331119,
+          4011331120,
+          4011331125,
+          4011331121,
+          4011331126,
+          4011331131,
+          4011331122,
+          4011331127,
+          4011331132,
+          4011331140
+        ],
+        [
+          4011331118,
+          4011331124,
+          4011331130,
+          4011331136,
+          4011331142,
+          4011331143
+        ],
+        [
+          4011331123,
+          4011331128,
+          4011331129,
+          4011331133,
+          4011331134,
+          4011331135,
+          4011331137,
+          4011331138,
+          4011331139,
+          4011331141
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331119,
+          4011331120,
+          4011331125,
+          4011331121,
+          4011331126,
+          4011331131,
+          4011331122,
+          4011331127,
+          4011331132,
+          4011331140
+        ],
+        [
+          4011331118,
+          4011331124,
+          4011331130,
+          4011331136,
+          4011331142,
+          4011331143
+        ],
+        [
+          4011331123,
+          4011331128,
+          4011331129,
+          4011331133,
+          4011331134,
+          4011331135,
+          4011331137,
+          4011331138,
+          4011331139,
+          4011331141
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576658814,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4011331216
+        ],
+        [
+          4011331217
+        ],
+        [
+          4011331218
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331216,
+          4011331217,
+          4011331218
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576658828,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4011331179
+        ],
+        [
+          4011331177
+        ],
+        [
+          4011331178
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331179,
+          4011331177,
+          4011331178
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576658820,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4011331074
+        ],
+        [
+          4011331075
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331074
+        ],
+        [
+          4011331075
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576658792,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          4013923179
+        ],
+        [
+          4013923181
+        ],
+        [
+          4013923180
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013923179,
+          4013923181,
+          4013923180
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1577503990,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4011332237
+        ],
+        [
+          4011332238
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011332237
+        ],
+        [
+          4011332238
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576659137,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4011331219
+        ],
+        [
+          4011331220
+        ],
+        [
+          4011331221
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4011331219,
+          4011331220,
+          4011331221
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1576658829,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331213,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331214,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331215,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331176,
+      "name": "Lunds BK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331174,
+      "name": "Lunds BK or Eskilsminne IF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331175,
+      "name": "Draw or Eskilsminne IF"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4011331064,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4011331065,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331112,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331113,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "id": 4011331222,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 3,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "id": 4011331223,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331378,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 7,
+      "price": 14.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4011331380,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331379,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 114,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331119,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331120,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331125,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331121,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331126,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331131,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331122,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331127,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331132,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331140,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331118,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331124,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331130,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331136,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331142,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331143,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331123,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331128,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331129,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331133,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331134,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331135,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331137,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331138,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331139,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331141,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331014,
+      "name": "Lunds BK (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331015,
+      "name": "Eskilsminne IF (+0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "id": 4011331246,
+      "name": "Lunds BK/Lunds BK"
+    },
+    {
+      "typeId": 420,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "id": 4011331247,
+      "name": "Lunds BK/X"
+    },
+    {
+      "typeId": 422,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4011331248,
+      "name": "Lunds BK/Eskilsminne IF"
+    },
+    {
+      "typeId": 424,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "id": 4011331249,
+      "name": "X/Lunds BK"
+    },
+    {
+      "typeId": 426,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4011331250,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "id": 4011331251,
+      "name": "X/Eskilsminne IF"
+    },
+    {
+      "typeId": 430,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4011331252,
+      "name": "Eskilsminne IF/Lunds BK"
+    },
+    {
+      "typeId": 432,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "id": 4011331253,
+      "name": "Eskilsminne IF/X"
+    },
+    {
+      "typeId": 434,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "id": 4011331254,
+      "name": "Eskilsminne IF/Eskilsminne IF"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011332235,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011332236,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331213,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 2,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331214,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331215,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 12,
+      "price": 1.6364,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331064,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331065,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331176,
+      "name": "Lunds BK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331174,
+      "name": "Lunds BK or Eskilsminne IF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331175,
+      "name": "Draw or Eskilsminne IF"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331014,
+      "name": "Lunds BK (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331015,
+      "name": "Eskilsminne IF (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331112,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331113,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011332235,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011332236,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331216,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331217,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331218,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331179,
+      "name": "Lunds BK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331177,
+      "name": "Lunds BK or Eskilsminne IF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331178,
+      "name": "Draw or Eskilsminne IF"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331074,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331075,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011332237,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011332238,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331119,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331120,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331125,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331121,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331126,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331131,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331122,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331127,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331132,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331140,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331118,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331124,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331130,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331136,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331142,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331143,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331123,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331128,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331129,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331133,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331134,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331135,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331137,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331138,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331139,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4011331141,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331216,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331217,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331218,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "isDBB": true,
+      "id": 4011331179,
+      "name": "Lunds BK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011331177,
+      "name": "Lunds BK or Eskilsminne IF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "isDBB": true,
+      "id": 4011331178,
+      "name": "Draw or Eskilsminne IF"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4011331074,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4011331075,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 48174,
+      "id": 4013923179,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 7,
+      "price": 3.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 4013923181,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 48217,
+      "id": 4013923180,
+      "name": "Eskilsminne IF"
+    },
+    {
+      "typeId": 70,
+      "price": 1.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011332237,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4011332238,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48174,
+      "id": 4011331219,
+      "name": "Lunds BK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4011331220,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 48217,
+      "id": 4011331221,
+      "name": "Eskilsminne IF"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 84,
+  "rc": false,
+  "startDate": "2026-05-22T17:00:00Z",
+  "showAll": true
+}

@@ -1,0 +1,2604 @@
+{
+  "id": 15034159,
+  "feedEventId": 20994257,
+  "name": "Atletico Madrid B vs. Algeciras",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 32613,
+    "name": "Primera Federacion"
+  },
+  "category": {
+    "iso": "ESP",
+    "hasLiveEvents": false,
+    "id": 501,
+    "name": "Spain"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 50648,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 51630,
+      "name": "Algeciras"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576396400,
+        1576396394,
+        1576396363,
+        1576396403,
+        1576396448,
+        1576396389,
+        1576396409,
+        1576396406,
+        1576396709
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576396400,
+        1576396363,
+        1576396394,
+        1576396709,
+        1576396401,
+        1576396395,
+        1576396367,
+        1576396710,
+        1576396389,
+        1576396369
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576396462
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576396401,
+        1576396395,
+        1576396367,
+        1578982723,
+        1576396710,
+        1576396491
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576396396,
+        1576396369,
+        1576396492
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576396424
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010395462
+        ],
+        [
+          4010395463
+        ],
+        [
+          4010395464
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395462
+        ],
+        [
+          4010395463
+        ],
+        [
+          4010395464
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576396400,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010395437
+        ],
+        [
+          4010395435
+        ],
+        [
+          4010395436
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395437,
+          4010395435,
+          4010395436
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576396394,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010395327
+        ],
+        [
+          4010395328
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395327
+        ],
+        [
+          4010395328
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576396363,
+      "name": "Total"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4010395471
+        ],
+        [
+          4010395472
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395471
+        ],
+        [
+          4010395472
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576396403,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4010395627
+        ],
+        [
+          4010395629
+        ],
+        [
+          4010395628
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395627
+        ],
+        [
+          4010395629
+        ],
+        [
+          4010395628
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576396448,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010395380,
+          4010395381,
+          4010395386,
+          4010395382,
+          4010395387,
+          4010395392,
+          4010395383,
+          4010395388,
+          4010395393,
+          4010395401
+        ],
+        [
+          4010395379,
+          4010395385,
+          4010395391,
+          4010395397,
+          4010395403,
+          4010395404
+        ],
+        [
+          4010395384,
+          4010395389,
+          4010395390,
+          4010395394,
+          4010395395,
+          4010395396,
+          4010395398,
+          4010395399,
+          4010395400,
+          4010395402
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395380,
+          4010395381,
+          4010395386,
+          4010395382,
+          4010395387,
+          4010395392,
+          4010395383,
+          4010395388,
+          4010395393,
+          4010395401
+        ],
+        [
+          4010395379,
+          4010395385,
+          4010395391,
+          4010395397,
+          4010395403,
+          4010395404
+        ],
+        [
+          4010395384,
+          4010395389,
+          4010395390,
+          4010395394,
+          4010395395,
+          4010395396,
+          4010395398,
+          4010395399,
+          4010395400,
+          4010395402
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576396389,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4010395495,
+          4010395498,
+          4010395501
+        ],
+        [
+          4010395496,
+          4010395499,
+          4010395502
+        ],
+        [
+          4010395497,
+          4010395500,
+          4010395503
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395495,
+          4010395496,
+          4010395497,
+          4010395498,
+          4010395499,
+          4010395500,
+          4010395501,
+          4010395502,
+          4010395503
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576396409,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          4010395477,
+          4010395478,
+          4010395479,
+          4010395481
+        ],
+        [
+          4010395480,
+          4010395482
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395477,
+          4010395478,
+          4010395479,
+          4010395481,
+          4010395480,
+          4010395482
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "sportMarketId": 71660,
+      "id": 1576396406,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010396484
+        ],
+        [
+          4010396485
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010396484
+        ],
+        [
+          4010396485
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576396709,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010395462
+        ],
+        [
+          4010395463
+        ],
+        [
+          4010395464
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395462
+        ],
+        [
+          4010395463
+        ],
+        [
+          4010395464
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576396400,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010395327
+        ],
+        [
+          4010395328
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395327
+        ],
+        [
+          4010395328
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576396363,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010395437
+        ],
+        [
+          4010395435
+        ],
+        [
+          4010395436
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395437,
+          4010395435,
+          4010395436
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576396394,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010396484
+        ],
+        [
+          4010396485
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010396484
+        ],
+        [
+          4010396485
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576396709,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010395465
+        ],
+        [
+          4010395466
+        ],
+        [
+          4010395467
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395465,
+          4010395466,
+          4010395467
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576396401,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010395440
+        ],
+        [
+          4010395438
+        ],
+        [
+          4010395439
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395440,
+          4010395438,
+          4010395439
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576396395,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010395335
+        ],
+        [
+          4010395336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395335
+        ],
+        [
+          4010395336
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576396367,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010396486
+        ],
+        [
+          4010396487
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010396486
+        ],
+        [
+          4010396487
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576396710,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010395380,
+          4010395381,
+          4010395386,
+          4010395382,
+          4010395387,
+          4010395392,
+          4010395383,
+          4010395388,
+          4010395393,
+          4010395401
+        ],
+        [
+          4010395379,
+          4010395385,
+          4010395391,
+          4010395397,
+          4010395403,
+          4010395404
+        ],
+        [
+          4010395384,
+          4010395389,
+          4010395390,
+          4010395394,
+          4010395395,
+          4010395396,
+          4010395398,
+          4010395399,
+          4010395400,
+          4010395402
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395380,
+          4010395381,
+          4010395386,
+          4010395382,
+          4010395387,
+          4010395392,
+          4010395383,
+          4010395388,
+          4010395393,
+          4010395401
+        ],
+        [
+          4010395379,
+          4010395385,
+          4010395391,
+          4010395397,
+          4010395403,
+          4010395404
+        ],
+        [
+          4010395384,
+          4010395389,
+          4010395390,
+          4010395394,
+          4010395395,
+          4010395396,
+          4010395398,
+          4010395399,
+          4010395400,
+          4010395402
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576396389,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010395339
+        ],
+        [
+          4010395340
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395339
+        ],
+        [
+          4010395340
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 48,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576396369,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          4010395673,
+          4010395671,
+          4010395672,
+          4010395674
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395673
+        ],
+        [
+          4010395671,
+          4010395672,
+          4010395674
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "sportMarketId": 72136,
+      "id": 1576396462,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010395465
+        ],
+        [
+          4010395466
+        ],
+        [
+          4010395467
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395465,
+          4010395466,
+          4010395467
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576396401,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010395440
+        ],
+        [
+          4010395438
+        ],
+        [
+          4010395439
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395440,
+          4010395438,
+          4010395439
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576396395,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010395335
+        ],
+        [
+          4010395336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395335
+        ],
+        [
+          4010395336
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576396367,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          4018925238
+        ],
+        [
+          4018925240
+        ],
+        [
+          4018925239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018925238,
+          4018925240,
+          4018925239
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1578982723,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010396486
+        ],
+        [
+          4010396487
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010396486
+        ],
+        [
+          4010396487
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576396710,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1x2 (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          4010395977,
+          4010395978
+        ],
+        [
+          4010395979,
+          4010395980
+        ],
+        [
+          4010395981,
+          4010395982
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395977,
+          4010395978
+        ],
+        [
+          4010395979,
+          4010395980
+        ],
+        [
+          4010395981,
+          4010395982
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31065,
+      "sportMarketId": 74493,
+      "id": 1576396491,
+      "name": "1x2 (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          4010395443
+        ],
+        [
+          4010395441
+        ],
+        [
+          4010395442
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395443,
+          4010395441,
+          4010395442
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "sportMarketId": 70648,
+      "id": 1576396396,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010395339
+        ],
+        [
+          4010395340
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395339
+        ],
+        [
+          4010395340
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576396369,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "1x2 (match) & 2nd half both teams score",
+      "desktopOddIds": [
+        [
+          4010395984,
+          4010395986,
+          4010395985,
+          4010395983,
+          4010395988,
+          4010395987
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010395984,
+          4010395986,
+          4010395985,
+          4010395983,
+          4010395988,
+          4010395987
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31066,
+      "sportMarketId": 74494,
+      "id": 1576396492,
+      "name": "1x2 (match) & 2nd half both teams score"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          4018925222,
+          4010395547,
+          4018925228,
+          4018925220,
+          4010395545,
+          4018925226
+        ],
+        [
+          4018925225,
+          4010395550,
+          4018925231,
+          4018925224,
+          4010395549,
+          4018925230
+        ],
+        [
+          4018925223,
+          4010395548,
+          4018925229,
+          4018925221,
+          4010395546,
+          4018925227
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018925222,
+          4010395547,
+          4018925228,
+          4018925225,
+          4010395550,
+          4018925231,
+          4018925223,
+          4010395548,
+          4018925229,
+          4018925220,
+          4010395545,
+          4018925226,
+          4018925224,
+          4010395549,
+          4018925230,
+          4018925221,
+          4010395546,
+          4018925227
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1576396424,
+      "name": "1x2 & total"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395462,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395463,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395464,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395437,
+      "name": "Atletico Madrid B or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395435,
+      "name": "Atletico Madrid B or Algeciras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395436,
+      "name": "Draw or Algeciras"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4010395327,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4010395328,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 1,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395471,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 3,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395472,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 1,
+      "price": 1.6154,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395627,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 7,
+      "price": 9.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4010395629,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395628,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 114,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395380,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395381,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395386,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395382,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395387,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395392,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395383,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395388,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395393,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395401,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395379,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395385,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395391,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395397,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395403,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395404,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395384,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395389,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395390,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395394,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395395,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395396,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395398,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395399,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395400,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395402,
+      "name": "3:4"
+    },
+    {
+      "typeId": 418,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395495,
+      "name": "Atletico Madrid B/Atletico Madrid B"
+    },
+    {
+      "typeId": 420,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395496,
+      "name": "Atletico Madrid B/X"
+    },
+    {
+      "typeId": 422,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395497,
+      "name": "Atletico Madrid B/Algeciras"
+    },
+    {
+      "typeId": 424,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395498,
+      "name": "X/Atletico Madrid B"
+    },
+    {
+      "typeId": 426,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395499,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395500,
+      "name": "X/Algeciras"
+    },
+    {
+      "typeId": 430,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395501,
+      "name": "Algeciras/Atletico Madrid B"
+    },
+    {
+      "typeId": 432,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395502,
+      "name": "Algeciras/X"
+    },
+    {
+      "typeId": 434,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395503,
+      "name": "Algeciras/Algeciras"
+    },
+    {
+      "typeId": 54,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395477,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395478,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395479,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395481,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395480,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395482,
+      "name": "5+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010396484,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010396485,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395462,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395463,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395464,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395327,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6924,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395328,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395437,
+      "name": "Atletico Madrid B or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395435,
+      "name": "Atletico Madrid B or Algeciras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395436,
+      "name": "Draw or Algeciras"
+    },
+    {
+      "typeId": 70,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010396484,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010396485,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395465,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 2,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395466,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395467,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395440,
+      "name": "Atletico Madrid B or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395438,
+      "name": "Atletico Madrid B or Algeciras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395439,
+      "name": "Draw or Algeciras"
+    },
+    {
+      "typeId": 12,
+      "price": 2.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395335,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395336,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010396486,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010396487,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395380,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395381,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395386,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395382,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395387,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395392,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395383,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395388,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395393,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395401,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395379,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395385,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395391,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395397,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395403,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395404,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395384,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395389,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395390,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395394,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395395,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395396,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395398,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395399,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395400,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395402,
+      "name": "3:4"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395339,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010395340,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 730,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395673,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395671,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395672,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395674,
+      "name": "7+"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395465,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 2,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395466,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395467,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "isDBB": true,
+      "id": 4010395440,
+      "name": "Atletico Madrid B or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010395438,
+      "name": "Atletico Madrid B or Algeciras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "isDBB": true,
+      "id": 4010395439,
+      "name": "Draw or Algeciras"
+    },
+    {
+      "typeId": 12,
+      "price": 2.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010395335,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010395336,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 50648,
+      "id": 4018925238,
+      "name": "Atletico Madrid B"
+    },
+    {
+      "typeId": 7,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 4018925240,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51630,
+      "id": 4018925239,
+      "name": "Algeciras"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010396486,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010396487,
+      "name": "Even"
+    },
+    {
+      "typeId": 86,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395981,
+      "name": "Algeciras & yes"
+    },
+    {
+      "typeId": 82,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395979,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 78,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395977,
+      "name": "Atletico Madrid B & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395980,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 80,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395978,
+      "name": "Atletico Madrid B & no"
+    },
+    {
+      "typeId": 88,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395982,
+      "name": "Algeciras & no"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395443,
+      "name": "Atletico Madrid B or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395441,
+      "name": "Atletico Madrid B or Algeciras"
+    },
+    {
+      "typeId": 11,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395442,
+      "name": "Draw or Algeciras"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010395339,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010395340,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 80,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395984,
+      "name": "Atletico Madrid B & no"
+    },
+    {
+      "typeId": 84,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395986,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 82,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010395985,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 78,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50648,
+      "id": 4010395983,
+      "name": "Atletico Madrid B & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395988,
+      "name": "Algeciras & no"
+    },
+    {
+      "typeId": 86,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51630,
+      "id": 4010395987,
+      "name": "Algeciras & yes"
+    },
+    {
+      "typeId": 660,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 50648,
+      "id": 4018925222,
+      "name": "Atletico Madrid B & over 1.5"
+    },
+    {
+      "typeId": 660,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 50648,
+      "id": 4010395547,
+      "name": "Atletico Madrid B & over 2.5"
+    },
+    {
+      "typeId": 660,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 50648,
+      "id": 4018925228,
+      "name": "Atletico Madrid B & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 4.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4018925225,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010395550,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018925231,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51630,
+      "id": 4018925223,
+      "name": "Algeciras & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 6.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51630,
+      "id": 4010395548,
+      "name": "Algeciras & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51630,
+      "id": 4018925229,
+      "name": "Algeciras & over 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 50648,
+      "id": 4018925220,
+      "name": "Atletico Madrid B & under 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 50648,
+      "id": 4010395545,
+      "name": "Atletico Madrid B & under 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 2.4286,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 50648,
+      "id": 4018925226,
+      "name": "Atletico Madrid B & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4018925224,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010395549,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018925230,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51630,
+      "id": 4018925221,
+      "name": "Algeciras & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51630,
+      "id": 4010395546,
+      "name": "Algeciras & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51630,
+      "id": 4018925227,
+      "name": "Algeciras & under 3.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 7488,
+  "rc": false,
+  "startDate": "2026-05-23T16:30:00Z",
+  "showAll": true
+}

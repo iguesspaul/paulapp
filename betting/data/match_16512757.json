@@ -1,0 +1,620 @@
+{
+  "id": 16512757,
+  "feedEventId": 21019762,
+  "name": "Nykarleby IK vs. FC Ylivieska",
+  "et": 0,
+  "liveTime": "87'",
+  "lst": "2026-05-21T16:16:28Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11342,
+    "name": "Kolmonen"
+  },
+  "category": {
+    "iso": "FIN",
+    "hasLiveEvents": false,
+    "id": 820,
+    "name": "Finland"
+  },
+  "competitors": [
+    {
+      "id": 115313,
+      "name": "Nykarleby IK"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 815945,
+      "name": "FC Ylivieska"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1578101575,
+        1579066467,
+        1579070986,
+        1578995623,
+        1579070985,
+        1578101566
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1578101575,
+        1579066467,
+        1578995623,
+        1578101566
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4015801926
+        ],
+        [
+          4015801927
+        ],
+        [
+          4015801928
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801926
+        ],
+        [
+          4015801927
+        ],
+        [
+          4015801928
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1578101575,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4019358122
+        ],
+        [
+          4019358123
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019358122
+        ],
+        [
+          4019358123
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "10.5",
+      "id": 1579066467,
+      "name": "Total"
+    },
+    {
+      "shortName": "Eleventh goal",
+      "desktopOddIds": [
+        [
+          4019369860
+        ],
+        [
+          4019369862
+        ],
+        [
+          4019369861
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019369860
+        ],
+        [
+          4019369862
+        ],
+        [
+          4019369861
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "11",
+      "id": 1579070986,
+      "name": "Eleventh goal"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4018956120
+        ],
+        [
+          4018956121
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018956120
+        ],
+        [
+          4018956121
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-1.5",
+      "id": 1578995623,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          4019369857
+        ],
+        [
+          4019369859
+        ],
+        [
+          4019369858
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019369857,
+          4019369859,
+          4019369858
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "sportMarketId": 70510,
+      "sv": "0:2",
+      "id": 1579070985,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015801876
+        ],
+        [
+          4015801875
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801876
+        ],
+        [
+          4015801875
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578101566,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4015801926
+        ],
+        [
+          4015801927
+        ],
+        [
+          4015801928
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801926
+        ],
+        [
+          4015801927
+        ],
+        [
+          4015801928
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1578101575,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4019358122
+        ],
+        [
+          4019358123
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019358122
+        ],
+        [
+          4019358123
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "10.5",
+      "id": 1579066467,
+      "name": "Total"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4018956120
+        ],
+        [
+          4018956121
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018956120
+        ],
+        [
+          4018956121
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-1.5",
+      "id": 1578995623,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015801876
+        ],
+        [
+          4015801875
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801876
+        ],
+        [
+          4015801875
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578101566,
+      "name": "Odd/even"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 115313,
+      "isDBB": true,
+      "id": 4015801926,
+      "name": "Nykarleby IK"
+    },
+    {
+      "typeId": 2,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801927,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 815945,
+      "isDBB": true,
+      "id": 4015801928,
+      "name": "FC Ylivieska"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isDBB": true,
+      "id": 4019358122,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.55,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isDBB": true,
+      "id": 4019358123,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 1,
+      "price": 4.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "11",
+      "competitorId": 115313,
+      "id": 4019369860,
+      "name": "Nykarleby IK"
+    },
+    {
+      "typeId": 7,
+      "price": 1.5333,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "11",
+      "id": 4019369862,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "11",
+      "competitorId": 815945,
+      "id": 4019369861,
+      "name": "FC Ylivieska"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.2222,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-1.5",
+      "competitorId": 115313,
+      "isDBB": true,
+      "id": 4018956120,
+      "name": "Nykarleby IK (-1.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 3.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-1.5",
+      "competitorId": 815945,
+      "isDBB": true,
+      "id": 4018956121,
+      "name": "FC Ylivieska (+1.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 115313,
+      "id": 4019369857,
+      "name": "Nykarleby IK (0:2)"
+    },
+    {
+      "typeId": 1712,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "id": 4019369859,
+      "name": "Draw (0:2)"
+    },
+    {
+      "typeId": 1713,
+      "price": 3.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 815945,
+      "id": 4019369858,
+      "name": "FC Ylivieska (0:2)"
+    },
+    {
+      "typeId": 70,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801876,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801875,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 115313,
+      "isDBB": true,
+      "id": 4015801926,
+      "name": "Nykarleby IK"
+    },
+    {
+      "typeId": 2,
+      "price": 20,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801927,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 80,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 815945,
+      "isDBB": true,
+      "id": 4015801928,
+      "name": "FC Ylivieska"
+    },
+    {
+      "typeId": 12,
+      "price": 2.25,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019358122,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.55,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019358123,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.2222,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-1.5",
+      "isBB": true,
+      "competitorId": 115313,
+      "isDBB": true,
+      "id": 4018956120,
+      "name": "Nykarleby IK (-1.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 3.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-1.5",
+      "isBB": true,
+      "competitorId": 815945,
+      "isDBB": true,
+      "id": 4018956121,
+      "name": "FC Ylivieska (+1.5)"
+    },
+    {
+      "typeId": 70,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801876,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801875,
+      "name": "Even"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 567,
+  "rc": false,
+  "startDate": "2026-05-21T16:00:00Z",
+  "showAll": true
+}

@@ -7,6 +7,7 @@ Called automatically from run_session.py before each new scan.
 import asyncio
 import re
 import difflib
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 from playwright.async_api import async_playwright
 try:
@@ -432,7 +433,18 @@ async def resolve_results(db):
             await stealth_async(page)
 
         for row in unsettled:
-            match_id, home_team, away_team, be_path = row
+            match_id, home_team, away_team, be_path, start_time = row
+
+            # Skip matches that haven't started yet (with 1-hour buffer)
+            if start_time:
+                try:
+                    # Assuming ISO 8601 format. Adjust if database uses different format.
+                    st_dt = datetime.fromisoformat(start_time.replace('Z', '+00:00'))
+                    if st_dt > datetime.now(timezone.utc) + timedelta(hours=1):
+                        print(f"[RESULTS] Skipping {home_team} vs {away_team} — hasn't started yet ({start_time})")
+                        continue
+                except (ValueError, TypeError):
+                    print(f"[RESULTS] Warning: Could not parse start_time for {home_team} vs {away_team}: {start_time}")
 
             if not be_path or not home_team or not away_team:
                 continue

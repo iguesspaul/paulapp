@@ -1,0 +1,546 @@
+{
+  "id": 16512606,
+  "feedEventId": 21019732,
+  "name": "FC Kontu vs. Toukolan Teras",
+  "et": 0,
+  "liveTime": "71'",
+  "lst": "2026-05-21T16:32:19Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11342,
+    "name": "Kolmonen"
+  },
+  "category": {
+    "iso": "FIN",
+    "hasLiveEvents": false,
+    "id": 820,
+    "name": "Finland"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 93441,
+      "name": "FC Kontu"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 93786,
+      "name": "Toukolan Teras"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1579056279,
+        1579061126,
+        1579050101,
+        1579045967,
+        1578113085
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1579056279,
+        1579050101,
+        1578113085
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4019319531,
+          4019333946
+        ],
+        [
+          4019319532,
+          4019333947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019319531,
+          4019333946
+        ],
+        [
+          4019319532,
+          4019333947
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "10.5",
+      "id": 1579056279,
+      "name": "Total"
+    },
+    {
+      "shortName": "Tenth goal",
+      "desktopOddIds": [
+        [
+          4019345366
+        ],
+        [
+          4019345368
+        ],
+        [
+          4019345367
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019345366
+        ],
+        [
+          4019345368
+        ],
+        [
+          4019345367
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "10",
+      "id": 1579061126,
+      "name": "Tenth goal"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4019319533
+        ],
+        [
+          4019319534
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019319533
+        ],
+        [
+          4019319534
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+5.5",
+      "id": 1579050101,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "\tHandicap 1x2",
+      "desktopOddIds": [
+        [
+          4019309452
+        ],
+        [
+          4019309454
+        ],
+        [
+          4019309453
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019309452,
+          4019309454,
+          4019309453
+        ]
+      ],
+      "isBB": false,
+      "variant": 9,
+      "so": 0,
+      "typeId": 14,
+      "sportMarketId": 70510,
+      "sv": "5:0",
+      "id": 1579045967,
+      "name": "\tHandicap 1x2"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015832620
+        ],
+        [
+          4015832619
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015832620
+        ],
+        [
+          4015832619
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578113085,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4019319531,
+          4019333946
+        ],
+        [
+          4019319532,
+          4019333947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019319531,
+          4019333946
+        ],
+        [
+          4019319532,
+          4019333947
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "10.5",
+      "id": 1579056279,
+      "name": "Total"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4019319533
+        ],
+        [
+          4019319534
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019319533
+        ],
+        [
+          4019319534
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+5.5",
+      "id": 1579050101,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015832620
+        ],
+        [
+          4015832619
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015832620
+        ],
+        [
+          4015832619
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578113085,
+      "name": "Odd/even"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 12,
+      "price": 1.3333,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "isDBB": true,
+      "id": 4019319531,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.65,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isDBB": true,
+      "id": 4019333946,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "isDBB": true,
+      "id": 4019319532,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isDBB": true,
+      "id": 4019333947,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 1,
+      "price": 3.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10",
+      "competitorId": 93441,
+      "id": 4019345366,
+      "name": "FC Kontu"
+    },
+    {
+      "typeId": 7,
+      "price": 3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10",
+      "id": 4019345368,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10",
+      "competitorId": 93786,
+      "id": 4019345367,
+      "name": "Toukolan Teras"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7333,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+5.5",
+      "competitorId": 93441,
+      "isDBB": true,
+      "id": 4019319533,
+      "name": "FC Kontu (+5.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+5.5",
+      "competitorId": 93786,
+      "isDBB": true,
+      "id": 4019319534,
+      "name": "Toukolan Teras (-5.5)"
+    },
+    {
+      "typeId": 1711,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5:0",
+      "competitorId": 93441,
+      "id": 4019309452,
+      "name": "FC Kontu (5:0)"
+    },
+    {
+      "typeId": 1712,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5:0",
+      "id": 4019309454,
+      "name": "Draw (5:0)"
+    },
+    {
+      "typeId": 1713,
+      "price": 2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5:0",
+      "competitorId": 93786,
+      "id": 4019309453,
+      "name": "Toukolan Teras (5:0)"
+    },
+    {
+      "typeId": 70,
+      "price": 1.72,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015832620,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.97,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015832619,
+      "name": "Even"
+    },
+    {
+      "typeId": 12,
+      "price": 1.3333,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019319531,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.65,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019333946,
+      "name": "Over 10.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.95,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019319532,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "10.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4019333947,
+      "name": "Under 10.5"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7333,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+5.5",
+      "isBB": true,
+      "competitorId": 93441,
+      "isDBB": true,
+      "id": 4019319533,
+      "name": "FC Kontu (+5.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+5.5",
+      "isBB": true,
+      "competitorId": 93786,
+      "isDBB": true,
+      "id": 4019319534,
+      "name": "Toukolan Teras (-5.5)"
+    },
+    {
+      "typeId": 70,
+      "price": 1.72,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015832620,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.97,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015832619,
+      "name": "Even"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 9609,
+  "rc": false,
+  "startDate": "2026-05-21T16:15:00Z",
+  "showAll": true
+}

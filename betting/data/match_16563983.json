@@ -1,0 +1,510 @@
+{
+  "id": 16563983,
+  "feedEventId": 21048181,
+  "name": "SKA Khabarovsk Youth vs. Vityaz Podolsk II",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 4382,
+    "name": "Youth League"
+  },
+  "category": {
+    "iso": "RUS",
+    "hasLiveEvents": false,
+    "id": 495,
+    "name": "Russia"
+  },
+  "competitors": [
+    {
+      "id": 2994849,
+      "name": "SKA Khabarovsk Youth"
+    },
+    {
+      "id": 2971909,
+      "name": "Vityaz Podolsk II"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1577104035,
+        1578239151,
+        1578239150,
+        1578239152
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1577104035,
+        1578239150,
+        1578239151,
+        1578239152
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4012731299
+        ],
+        [
+          4012731300
+        ],
+        [
+          4012731301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4012731299
+        ],
+        [
+          4012731300
+        ],
+        [
+          4012731301
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577104035,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4016230168
+        ],
+        [
+          4016230166
+        ],
+        [
+          4016230167
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230168,
+          4016230166,
+          4016230167
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1578239151,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4016230164
+        ],
+        [
+          4016230165
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230164
+        ],
+        [
+          4016230165
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1578239150,
+      "name": "Total"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4016230169
+        ],
+        [
+          4016230170
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230169
+        ],
+        [
+          4016230170
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578239152,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4012731299
+        ],
+        [
+          4012731300
+        ],
+        [
+          4012731301
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4012731299
+        ],
+        [
+          4012731300
+        ],
+        [
+          4012731301
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577104035,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4016230164
+        ],
+        [
+          4016230165
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230164
+        ],
+        [
+          4016230165
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1578239150,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4016230168
+        ],
+        [
+          4016230166
+        ],
+        [
+          4016230167
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230168,
+          4016230166,
+          4016230167
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1578239151,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4016230169
+        ],
+        [
+          4016230170
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4016230169
+        ],
+        [
+          4016230170
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578239152,
+      "name": "Odd/even"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2994849,
+      "isDBB": true,
+      "id": 4012731299,
+      "name": "SKA Khabarovsk Youth"
+    },
+    {
+      "typeId": 2,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4012731300,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2971909,
+      "isDBB": true,
+      "id": 4012731301,
+      "name": "Vityaz Podolsk II"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2994849,
+      "isDBB": true,
+      "id": 4016230168,
+      "name": "SKA Khabarovsk Youth or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4016230166,
+      "name": "SKA Khabarovsk Youth or Vityaz Podolsk II"
+    },
+    {
+      "typeId": 11,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 2971909,
+      "isDBB": true,
+      "id": 4016230167,
+      "name": "Draw or Vityaz Podolsk II"
+    },
+    {
+      "typeId": 12,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4016230164,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4016230165,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4016230169,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4016230170,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2994849,
+      "isDBB": true,
+      "id": 4012731299,
+      "name": "SKA Khabarovsk Youth"
+    },
+    {
+      "typeId": 2,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4012731300,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2971909,
+      "isDBB": true,
+      "id": 4012731301,
+      "name": "Vityaz Podolsk II"
+    },
+    {
+      "typeId": 12,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4016230164,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4016230165,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2994849,
+      "isDBB": true,
+      "id": 4016230168,
+      "name": "SKA Khabarovsk Youth or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4016230166,
+      "name": "SKA Khabarovsk Youth or Vityaz Podolsk II"
+    },
+    {
+      "typeId": 11,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 2971909,
+      "isDBB": true,
+      "id": 4016230167,
+      "name": "Draw or Vityaz Podolsk II"
+    },
+    {
+      "typeId": 70,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4016230169,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4016230170,
+      "name": "Even"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 6997,
+  "rc": false,
+  "startDate": "2026-05-22T06:00:00Z",
+  "showAll": true
+}

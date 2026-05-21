@@ -108,7 +108,6 @@
       "variant": 7,
       "so": 0,
       "typeId": 31046,
-      "isMB": false,
       "sportMarketId": 0,
       "id": 31046,
       "name": "Boosted Odds"
@@ -140,7 +139,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1571891486,
       "name": "1x2"
@@ -168,7 +166,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1571891483,
       "name": "Double chance"
@@ -195,7 +192,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 18,
-      "isMB": true,
       "sportMarketId": 70520,
       "sv": "2.5",
       "id": 1571891478,
@@ -222,7 +218,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1571891481,
       "name": "Both Teams To Score"
@@ -248,7 +243,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 11,
-      "isMB": false,
       "sportMarketId": 70500,
       "id": 1571891489,
       "name": "Draw no bet"
@@ -280,7 +274,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 8,
-      "isMB": true,
       "sportMarketId": 70491,
       "sv": "1",
       "id": 1571891496,
@@ -360,7 +353,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1571891482,
       "name": "Correct score"
@@ -387,7 +379,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 16,
-      "isMB": true,
       "sportMarketId": 70515,
       "sv": "-0.5",
       "id": 1571891476,
@@ -428,7 +419,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 47,
-      "isMB": false,
       "sportMarketId": 70568,
       "id": 1571891492,
       "name": "Halftime/fulltime"
@@ -454,7 +444,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1571891721,
       "name": "Odd/even"
@@ -486,7 +475,6 @@
       "isBB": true,
       "so": 1,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1571891486,
       "name": "1x2"
@@ -513,7 +501,6 @@
       "variant": 8,
       "so": 2,
       "typeId": 18,
-      "isMB": true,
       "sportMarketId": 70520,
       "sv": "2.5",
       "id": 1571891478,
@@ -542,7 +529,6 @@
       "isBB": true,
       "so": 3,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1571891483,
       "name": "Double chance"
@@ -569,7 +555,6 @@
       "variant": 8,
       "so": 4,
       "typeId": 16,
-      "isMB": true,
       "sportMarketId": 70515,
       "sv": "-0.5",
       "id": 1571891476,
@@ -596,7 +581,6 @@
       "isBB": true,
       "so": 5,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1571891481,
       "name": "Both Teams To Score"
@@ -622,7 +606,6 @@
       "isBB": true,
       "so": 16,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1571891721,
       "name": "Odd/even"
@@ -650,7 +633,6 @@
       "isBB": true,
       "so": 17,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1571891487,
       "name": "1st half - 1x2"
@@ -678,7 +660,6 @@
       "isBB": true,
       "so": 18,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1571891484,
       "name": "1st half - double chance"
@@ -705,7 +686,6 @@
       "variant": 8,
       "so": 19,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "1.5",
       "id": 1571891480,
@@ -732,7 +712,6 @@
       "isBB": true,
       "so": 23,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1571891722,
       "name": "1st half - Odd/even"
@@ -811,7 +790,6 @@
       "variant": 3,
       "so": 46,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1571891482,
       "name": "Correct score"
@@ -839,7 +817,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1571891487,
       "name": "1st half - 1x2"
@@ -867,7 +844,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1571891484,
       "name": "1st half - double chance"
@@ -894,7 +870,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "1.5",
       "id": 1571891480,
@@ -921,7 +896,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1571891722,
       "name": "1st half - Odd/even"
@@ -949,7 +923,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 83,
-      "isMB": false,
       "sportMarketId": 70643,
       "id": 1571891488,
       "name": "2nd half - 1x2"
@@ -959,7 +932,7 @@
   "odds": [
     {
       "typeId": 1,
-      "price": 2.2223,
+      "price": 2.2,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -969,7 +942,7 @@
     },
     {
       "typeId": 2,
-      "price": 3.4,
+      "price": 3.25,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -978,7 +951,7 @@
     },
     {
       "typeId": 3,
-      "price": 2.6667,
+      "price": 2.8,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -988,7 +961,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.3847,
+      "price": 1.3637,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -998,7 +971,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.2667,
+      "price": 1.2728,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1007,7 +980,7 @@
     },
     {
       "typeId": 11,
-      "price": 1.52,
+      "price": 1.5385,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -1017,7 +990,7 @@
     },
     {
       "typeId": 12,
-      "price": 1.7334,
+      "price": 1.75,
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
@@ -1027,7 +1000,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.9091,
+      "price": 1.8889,
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
@@ -1037,7 +1010,7 @@
     },
     {
       "typeId": 74,
-      "price": 1.6364,
+      "price": 1.6154,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1046,7 +1019,7 @@
     },
     {
       "typeId": 76,
-      "price": 2.05,
+      "price": 2.0834,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1055,7 +1028,7 @@
     },
     {
       "typeId": 1,
-      "price": 1.6667,
+      "price": 1.6154,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -1064,7 +1037,7 @@
     },
     {
       "typeId": 3,
-      "price": 2.0,
+      "price": 2.0834,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -1073,7 +1046,7 @@
     },
     {
       "typeId": 1,
-      "price": 1.7778,
+      "price": 1.75,
       "isMB": true,
       "oddStatus": 0,
       "sv": "1",
@@ -1084,7 +1057,7 @@
     },
     {
       "typeId": 7,
-      "price": 13.0,
+      "price": 11.0,
       "isMB": true,
       "oddStatus": 0,
       "sv": "1",
@@ -1094,7 +1067,7 @@
     },
     {
       "typeId": 3,
-      "price": 1.96,
+      "price": 2.05,
       "isMB": true,
       "oddStatus": 0,
       "sv": "1",
@@ -1132,7 +1105,7 @@
     },
     {
       "typeId": 118,
-      "price": 20.0,
+      "price": 19.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1195,7 +1168,7 @@
     },
     {
       "typeId": 110,
-      "price": 11.0,
+      "price": 10.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1204,7 +1177,7 @@
     },
     {
       "typeId": 128,
-      "price": 5.75,
+      "price": 5.3334,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1213,7 +1186,7 @@
     },
     {
       "typeId": 142,
-      "price": 12.0,
+      "price": 11.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1249,7 +1222,7 @@
     },
     {
       "typeId": 126,
-      "price": 8.0,
+      "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1258,7 +1231,7 @@
     },
     {
       "typeId": 138,
-      "price": 12.0,
+      "price": 14.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1267,7 +1240,7 @@
     },
     {
       "typeId": 140,
-      "price": 8.5,
+      "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1276,7 +1249,7 @@
     },
     {
       "typeId": 148,
-      "price": 26.0,
+      "price": 31.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1285,7 +1258,7 @@
     },
     {
       "typeId": 150,
-      "price": 19.0,
+      "price": 21.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1339,7 +1312,7 @@
     },
     {
       "typeId": 1714,
-      "price": 2.1667,
+      "price": 2.1429,
       "isMB": true,
       "oddStatus": 0,
       "sv": "-0.5",
@@ -1350,7 +1323,7 @@
     },
     {
       "typeId": 1715,
-      "price": 1.5715,
+      "price": 1.5834,
       "isMB": true,
       "oddStatus": 0,
       "sv": "-0.5",
@@ -1361,7 +1334,7 @@
     },
     {
       "typeId": 418,
-      "price": 3.3334,
+      "price": 3.2,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -1387,7 +1360,7 @@
     },
     {
       "typeId": 424,
-      "price": 5.6667,
+      "price": 5.5,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -1404,7 +1377,7 @@
     },
     {
       "typeId": 428,
-      "price": 6.5,
+      "price": 6.6667,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -1430,7 +1403,7 @@
     },
     {
       "typeId": 434,
-      "price": 4.0,
+      "price": 4.25,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -1439,7 +1412,7 @@
     },
     {
       "typeId": 70,
-      "price": 1.8572,
+      "price": 1.8889,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1448,7 +1421,7 @@
     },
     {
       "typeId": 72,
-      "price": 1.8462,
+      "price": 1.8182,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -1457,7 +1430,7 @@
     },
     {
       "typeId": 1,
-      "price": 2.2223,
+      "price": 2.2,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1468,7 +1441,7 @@
     },
     {
       "typeId": 2,
-      "price": 3.4,
+      "price": 3.25,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1478,7 +1451,7 @@
     },
     {
       "typeId": 3,
-      "price": 2.6667,
+      "price": 2.8,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1489,7 +1462,7 @@
     },
     {
       "typeId": 12,
-      "price": 1.7334,
+      "price": 1.75,
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
@@ -1500,7 +1473,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.9091,
+      "price": 1.8889,
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
@@ -1511,7 +1484,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.3847,
+      "price": 1.3637,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1522,7 +1495,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.2667,
+      "price": 1.2728,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1532,7 +1505,7 @@
     },
     {
       "typeId": 11,
-      "price": 1.52,
+      "price": 1.5385,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1543,7 +1516,7 @@
     },
     {
       "typeId": 1714,
-      "price": 2.1667,
+      "price": 2.1429,
       "isMB": true,
       "oddStatus": 0,
       "sv": "-0.5",
@@ -1555,7 +1528,7 @@
     },
     {
       "typeId": 1715,
-      "price": 1.5715,
+      "price": 1.5834,
       "isMB": true,
       "oddStatus": 0,
       "sv": "-0.5",
@@ -1567,7 +1540,7 @@
     },
     {
       "typeId": 74,
-      "price": 1.6364,
+      "price": 1.6154,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1577,7 +1550,7 @@
     },
     {
       "typeId": 76,
-      "price": 2.05,
+      "price": 2.0834,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1587,7 +1560,7 @@
     },
     {
       "typeId": 70,
-      "price": 1.8572,
+      "price": 1.8889,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1597,7 +1570,7 @@
     },
     {
       "typeId": 72,
-      "price": 1.8462,
+      "price": 1.8182,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1607,7 +1580,7 @@
     },
     {
       "typeId": 1,
-      "price": 2.75,
+      "price": 2.6667,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1628,7 +1601,7 @@
     },
     {
       "typeId": 3,
-      "price": 3.1429,
+      "price": 3.25,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1639,7 +1612,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.2858,
+      "price": 1.2667,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1650,7 +1623,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.52,
+      "price": 1.5295,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1660,7 +1633,7 @@
     },
     {
       "typeId": 11,
-      "price": 1.3637,
+      "price": 1.375,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1743,7 +1716,7 @@
     },
     {
       "typeId": 118,
-      "price": 20.0,
+      "price": 19.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1813,7 +1786,7 @@
     },
     {
       "typeId": 110,
-      "price": 11.0,
+      "price": 10.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1823,7 +1796,7 @@
     },
     {
       "typeId": 128,
-      "price": 5.75,
+      "price": 5.3334,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1833,7 +1806,7 @@
     },
     {
       "typeId": 142,
-      "price": 12.0,
+      "price": 11.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1873,7 +1846,7 @@
     },
     {
       "typeId": 126,
-      "price": 8.0,
+      "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1883,7 +1856,7 @@
     },
     {
       "typeId": 138,
-      "price": 12.0,
+      "price": 14.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1893,7 +1866,7 @@
     },
     {
       "typeId": 140,
-      "price": 8.5,
+      "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1903,7 +1876,7 @@
     },
     {
       "typeId": 148,
-      "price": 26.0,
+      "price": 31.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1913,7 +1886,7 @@
     },
     {
       "typeId": 150,
-      "price": 19.0,
+      "price": 21.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -1973,7 +1946,7 @@
     },
     {
       "typeId": 1,
-      "price": 2.75,
+      "price": 2.6667,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -1992,7 +1965,7 @@
     },
     {
       "typeId": 3,
-      "price": 3.1429,
+      "price": 3.25,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -2002,7 +1975,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.2858,
+      "price": 1.2667,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -2012,7 +1985,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.52,
+      "price": 1.5295,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -2021,7 +1994,7 @@
     },
     {
       "typeId": 11,
-      "price": 1.3637,
+      "price": 1.375,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,
@@ -2069,7 +2042,7 @@
     },
     {
       "typeId": 1,
-      "price": 2.5,
+      "price": 2.4546,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73255,
@@ -2078,7 +2051,7 @@
     },
     {
       "typeId": 2,
-      "price": 2.4,
+      "price": 2.375,
       "isMB": false,
       "oddStatus": 0,
       "id": 3996561231,
@@ -2086,7 +2059,7 @@
     },
     {
       "typeId": 3,
-      "price": 3.0,
+      "price": 3.1,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 303816,

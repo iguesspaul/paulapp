@@ -129,6 +129,7 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                     # Simulation Mode: track every +EV bet at flat $1.00 if this is a recorded session
                     category = "Other" # default
                     if is_session:
+                        start_time = match.get('start_time')
                         category, _ = tracker.log(
                             match_id=match_id,
                             market_name=m_name,
@@ -139,7 +140,8 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                             stake=SIMULATION_STAKE,
                             home_team=team_a,
                             away_team=team_b,
-                            be_path=league_config['be_path']
+                            be_path=league_config['be_path'],
+                            start_time=start_time
                         )
                     else:
                         from src.core.tracker import categorize

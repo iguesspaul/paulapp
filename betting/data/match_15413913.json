@@ -1,0 +1,2135 @@
+{
+  "id": 15413913,
+  "feedEventId": 21004883,
+  "name": "Enk\u00f6pings SK vs. Hammarby Talang FF",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11327,
+    "name": "Div 1"
+  },
+  "category": {
+    "iso": "SWE",
+    "hasLiveEvents": false,
+    "id": 602,
+    "name": "Sweden"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 77709,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 136566,
+      "name": "Hammarby Talang FF"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576425336,
+        1576425326,
+        1576425281,
+        1576425305,
+        1576425350,
+        1576425455,
+        1576425310,
+        1576425255,
+        1576425364,
+        1576426011
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576425336,
+        1576425281,
+        1576425326,
+        1576425255,
+        1576425305,
+        1576426011,
+        1576425337,
+        1576425328,
+        1576425285,
+        1576426012,
+        1576425310
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576425337,
+        1576425328,
+        1576425285,
+        1578577803,
+        1576426012
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576425348
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010513237
+        ],
+        [
+          4010513238
+        ],
+        [
+          4010513239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513237
+        ],
+        [
+          4010513238
+        ],
+        [
+          4010513239
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576425336,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010513212
+        ],
+        [
+          4010513210
+        ],
+        [
+          4010513211
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513212,
+          4010513210,
+          4010513211
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576425326,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010513102
+        ],
+        [
+          4010513103
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513102
+        ],
+        [
+          4010513103
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1576425281,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4010513148
+        ],
+        [
+          4010513149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513148
+        ],
+        [
+          4010513149
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576425305,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4010513246
+        ],
+        [
+          4010513247
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513246
+        ],
+        [
+          4010513247
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576425350,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4010513462
+        ],
+        [
+          4010513470
+        ],
+        [
+          4010513467
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513462
+        ],
+        [
+          4010513470
+        ],
+        [
+          4010513467
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576425455,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010513155,
+          4010513156,
+          4010513161,
+          4010513157,
+          4010513162,
+          4010513167,
+          4010513158,
+          4010513163,
+          4010513168,
+          4010513176
+        ],
+        [
+          4010513154,
+          4010513160,
+          4010513166,
+          4010513172,
+          4010513178,
+          4010513179
+        ],
+        [
+          4010513159,
+          4010513164,
+          4010513165,
+          4010513169,
+          4010513170,
+          4010513171,
+          4010513173,
+          4010513174,
+          4010513175,
+          4010513177
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513155,
+          4010513156,
+          4010513161,
+          4010513157,
+          4010513162,
+          4010513167,
+          4010513158,
+          4010513163,
+          4010513168,
+          4010513176
+        ],
+        [
+          4010513154,
+          4010513160,
+          4010513166,
+          4010513172,
+          4010513178,
+          4010513179
+        ],
+        [
+          4010513159,
+          4010513164,
+          4010513165,
+          4010513169,
+          4010513170,
+          4010513171,
+          4010513173,
+          4010513174,
+          4010513175,
+          4010513177
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576425310,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4010513048
+        ],
+        [
+          4010513049
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513048
+        ],
+        [
+          4010513049
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1576425255,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4010513270,
+          4010513273,
+          4010513276
+        ],
+        [
+          4010513271,
+          4010513274,
+          4010513277
+        ],
+        [
+          4010513272,
+          4010513275,
+          4010513278
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513270,
+          4010513271,
+          4010513272,
+          4010513273,
+          4010513274,
+          4010513275,
+          4010513276,
+          4010513277,
+          4010513278
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576425364,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010515231
+        ],
+        [
+          4010515232
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010515231
+        ],
+        [
+          4010515232
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576426011,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010513237
+        ],
+        [
+          4010513238
+        ],
+        [
+          4010513239
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513237
+        ],
+        [
+          4010513238
+        ],
+        [
+          4010513239
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576425336,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010513102
+        ],
+        [
+          4010513103
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513102
+        ],
+        [
+          4010513103
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1576425281,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010513212
+        ],
+        [
+          4010513210
+        ],
+        [
+          4010513211
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513212,
+          4010513210,
+          4010513211
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576425326,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4010513048
+        ],
+        [
+          4010513049
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513048
+        ],
+        [
+          4010513049
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1576425255,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4010513148
+        ],
+        [
+          4010513149
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513148
+        ],
+        [
+          4010513149
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576425305,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010515231
+        ],
+        [
+          4010515232
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010515231
+        ],
+        [
+          4010515232
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576426011,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010513240
+        ],
+        [
+          4010513241
+        ],
+        [
+          4010513242
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513240,
+          4010513241,
+          4010513242
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576425337,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010513215
+        ],
+        [
+          4010513213
+        ],
+        [
+          4010513214
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513215,
+          4010513213,
+          4010513214
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576425328,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010513110
+        ],
+        [
+          4010513111
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513110
+        ],
+        [
+          4010513111
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576425285,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010515234
+        ],
+        [
+          4010515236
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010515234
+        ],
+        [
+          4010515236
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576426012,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010513155,
+          4010513156,
+          4010513161,
+          4010513157,
+          4010513162,
+          4010513167,
+          4010513158,
+          4010513163,
+          4010513168,
+          4010513176
+        ],
+        [
+          4010513154,
+          4010513160,
+          4010513166,
+          4010513172,
+          4010513178,
+          4010513179
+        ],
+        [
+          4010513159,
+          4010513164,
+          4010513165,
+          4010513169,
+          4010513170,
+          4010513171,
+          4010513173,
+          4010513174,
+          4010513175,
+          4010513177
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513155,
+          4010513156,
+          4010513161,
+          4010513157,
+          4010513162,
+          4010513167,
+          4010513158,
+          4010513163,
+          4010513168,
+          4010513176
+        ],
+        [
+          4010513154,
+          4010513160,
+          4010513166,
+          4010513172,
+          4010513178,
+          4010513179
+        ],
+        [
+          4010513159,
+          4010513164,
+          4010513165,
+          4010513169,
+          4010513170,
+          4010513171,
+          4010513173,
+          4010513174,
+          4010513175,
+          4010513177
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576425310,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010513240
+        ],
+        [
+          4010513241
+        ],
+        [
+          4010513242
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513240,
+          4010513241,
+          4010513242
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576425337,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010513215
+        ],
+        [
+          4010513213
+        ],
+        [
+          4010513214
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513215,
+          4010513213,
+          4010513214
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576425328,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010513110
+        ],
+        [
+          4010513111
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513110
+        ],
+        [
+          4010513111
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576425285,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          4017801553
+        ],
+        [
+          4017801555
+        ],
+        [
+          4017801554
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4017801553,
+          4017801555,
+          4017801554
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1578577803,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010515234
+        ],
+        [
+          4010515236
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010515234
+        ],
+        [
+          4010515236
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576426012,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4010513243
+        ],
+        [
+          4010513244
+        ],
+        [
+          4010513245
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010513243,
+          4010513244,
+          4010513245
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1576425348,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513237,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 2,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513238,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513239,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513212,
+      "name": "Enk\u00f6pings SK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513210,
+      "name": "Enk\u00f6pings SK or Hammarby Talang FF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513211,
+      "name": "Draw or Hammarby Talang FF"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 4010513102,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5715,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 4010513103,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513148,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513149,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "id": 4010513246,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 3,
+      "price": 1.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "id": 4010513247,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513462,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 7,
+      "price": 20.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4010513470,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513467,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 114,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513155,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513156,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513161,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513157,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513162,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513167,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513158,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513163,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513168,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513176,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513154,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513160,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513166,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513172,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513178,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513179,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513159,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513164,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513165,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513169,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513170,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513171,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513173,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513174,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513175,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513177,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513048,
+      "name": "Enk\u00f6pings SK (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513049,
+      "name": "Hammarby Talang FF (-0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "id": 4010513270,
+      "name": "Enk\u00f6pings SK/Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 420,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "id": 4010513271,
+      "name": "Enk\u00f6pings SK/X"
+    },
+    {
+      "typeId": 422,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010513272,
+      "name": "Enk\u00f6pings SK/Hammarby Talang FF"
+    },
+    {
+      "typeId": 424,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "id": 4010513273,
+      "name": "X/Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 426,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010513274,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "id": 4010513275,
+      "name": "X/Hammarby Talang FF"
+    },
+    {
+      "typeId": 430,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010513276,
+      "name": "Hammarby Talang FF/Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 432,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "id": 4010513277,
+      "name": "Hammarby Talang FF/X"
+    },
+    {
+      "typeId": 434,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "id": 4010513278,
+      "name": "Hammarby Talang FF/Hammarby Talang FF"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010515231,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010515232,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513237,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 2,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513238,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.6471,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513239,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513102,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5715,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513103,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513212,
+      "name": "Enk\u00f6pings SK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513210,
+      "name": "Enk\u00f6pings SK or Hammarby Talang FF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513211,
+      "name": "Draw or Hammarby Talang FF"
+    },
+    {
+      "typeId": 1714,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513048,
+      "name": "Enk\u00f6pings SK (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513049,
+      "name": "Hammarby Talang FF (-0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513148,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513149,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010515231,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010515232,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513240,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513241,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513242,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513215,
+      "name": "Enk\u00f6pings SK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513213,
+      "name": "Enk\u00f6pings SK or Hammarby Talang FF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513214,
+      "name": "Draw or Hammarby Talang FF"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513110,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513111,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010515234,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010515236,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513155,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513156,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513161,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513157,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513162,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513167,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513158,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513163,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513168,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513176,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513154,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513160,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513166,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513172,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513178,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513179,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513159,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513164,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513165,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513169,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513170,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513171,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513173,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513174,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513175,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010513177,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513240,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513241,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0834,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513242,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 9,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "isDBB": true,
+      "id": 4010513215,
+      "name": "Enk\u00f6pings SK or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010513213,
+      "name": "Enk\u00f6pings SK or Hammarby Talang FF"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "isDBB": true,
+      "id": 4010513214,
+      "name": "Draw or Hammarby Talang FF"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010513110,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010513111,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 77709,
+      "id": 4017801553,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 7,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 4017801555,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 136566,
+      "id": 4017801554,
+      "name": "Hammarby Talang FF"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010515234,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010515236,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 77709,
+      "id": 4010513243,
+      "name": "Enk\u00f6pings SK"
+    },
+    {
+      "typeId": 2,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010513244,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.9412,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 136566,
+      "id": 4010513245,
+      "name": "Hammarby Talang FF"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 4647,
+  "rc": false,
+  "startDate": "2026-05-23T11:00:00Z",
+  "showAll": true
+}

@@ -1,0 +1,2077 @@
+{
+  "id": 16530244,
+  "feedEventId": 21024393,
+  "name": "Central Cordoba vs. Central Ballester",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 3089,
+    "name": "Primera C"
+  },
+  "category": {
+    "iso": "ARG",
+    "hasLiveEvents": false,
+    "id": 574,
+    "name": "Argentina"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 46954,
+      "name": "Central Cordoba"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 65796,
+      "name": "Central Ballester"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1577839730,
+        1577839726,
+        1577839719,
+        1577839723,
+        1577839733,
+        1577839743,
+        1577839724,
+        1577839715,
+        1577839736,
+        1577839967
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1577839730,
+        1577839719,
+        1577839726,
+        1577839715,
+        1577839723,
+        1577839967,
+        1577839731,
+        1577839727,
+        1577839721,
+        1577839968,
+        1577839724
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577839731,
+        1577839727,
+        1577839721,
+        1577839968
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577839732
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4014837945
+        ],
+        [
+          4014837946
+        ],
+        [
+          4014837947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837945
+        ],
+        [
+          4014837946
+        ],
+        [
+          4014837947
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577839730,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4014837932
+        ],
+        [
+          4014837930
+        ],
+        [
+          4014837931
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837932,
+          4014837930,
+          4014837931
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577839726,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4014837888
+        ],
+        [
+          4014837889
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837888
+        ],
+        [
+          4014837889
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1577839719,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4014837896
+        ],
+        [
+          4014837897
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837896
+        ],
+        [
+          4014837897
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577839723,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4014837954
+        ],
+        [
+          4014837955
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837954
+        ],
+        [
+          4014837955
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1577839733,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4014837994
+        ],
+        [
+          4014837996
+        ],
+        [
+          4014837995
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837994
+        ],
+        [
+          4014837996
+        ],
+        [
+          4014837995
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1577839743,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4014837899,
+          4014837900,
+          4014837905,
+          4014837901,
+          4014837906,
+          4014837911,
+          4014837902,
+          4014837907,
+          4014837912,
+          4014837920
+        ],
+        [
+          4014837898,
+          4014837904,
+          4014837910,
+          4014837916,
+          4014837922,
+          4014837923
+        ],
+        [
+          4014837903,
+          4014837908,
+          4014837909,
+          4014837913,
+          4014837914,
+          4014837915,
+          4014837917,
+          4014837918,
+          4014837919,
+          4014837921
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837899,
+          4014837900,
+          4014837905,
+          4014837901,
+          4014837906,
+          4014837911,
+          4014837902,
+          4014837907,
+          4014837912,
+          4014837920
+        ],
+        [
+          4014837898,
+          4014837904,
+          4014837910,
+          4014837916,
+          4014837922,
+          4014837923
+        ],
+        [
+          4014837903,
+          4014837908,
+          4014837909,
+          4014837913,
+          4014837914,
+          4014837915,
+          4014837917,
+          4014837918,
+          4014837919,
+          4014837921
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1577839724,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4014837880
+        ],
+        [
+          4014837881
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837880
+        ],
+        [
+          4014837881
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1577839715,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4014837960,
+          4014837963,
+          4014837966
+        ],
+        [
+          4014837961,
+          4014837964,
+          4014837967
+        ],
+        [
+          4014837962,
+          4014837965,
+          4014837968
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837960,
+          4014837961,
+          4014837962,
+          4014837963,
+          4014837964,
+          4014837965,
+          4014837966,
+          4014837967,
+          4014837968
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1577839736,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4014838630
+        ],
+        [
+          4014838631
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014838630
+        ],
+        [
+          4014838631
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577839967,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4014837945
+        ],
+        [
+          4014837946
+        ],
+        [
+          4014837947
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837945
+        ],
+        [
+          4014837946
+        ],
+        [
+          4014837947
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577839730,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4014837888
+        ],
+        [
+          4014837889
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837888
+        ],
+        [
+          4014837889
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1577839719,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4014837932
+        ],
+        [
+          4014837930
+        ],
+        [
+          4014837931
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837932,
+          4014837930,
+          4014837931
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577839726,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4014837880
+        ],
+        [
+          4014837881
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837880
+        ],
+        [
+          4014837881
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1577839715,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4014837896
+        ],
+        [
+          4014837897
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837896
+        ],
+        [
+          4014837897
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577839723,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4014838630
+        ],
+        [
+          4014838631
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014838630
+        ],
+        [
+          4014838631
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577839967,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4014837948
+        ],
+        [
+          4014837949
+        ],
+        [
+          4014837950
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837948,
+          4014837949,
+          4014837950
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577839731,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4014837935
+        ],
+        [
+          4014837933
+        ],
+        [
+          4014837934
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837935,
+          4014837933,
+          4014837934
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577839727,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4014837892
+        ],
+        [
+          4014837893
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837892
+        ],
+        [
+          4014837893
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1577839721,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4014838632
+        ],
+        [
+          4014838633
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014838632
+        ],
+        [
+          4014838633
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577839968,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4014837899,
+          4014837900,
+          4014837905,
+          4014837901,
+          4014837906,
+          4014837911,
+          4014837902,
+          4014837907,
+          4014837912,
+          4014837920
+        ],
+        [
+          4014837898,
+          4014837904,
+          4014837910,
+          4014837916,
+          4014837922,
+          4014837923
+        ],
+        [
+          4014837903,
+          4014837908,
+          4014837909,
+          4014837913,
+          4014837914,
+          4014837915,
+          4014837917,
+          4014837918,
+          4014837919,
+          4014837921
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837899,
+          4014837900,
+          4014837905,
+          4014837901,
+          4014837906,
+          4014837911,
+          4014837902,
+          4014837907,
+          4014837912,
+          4014837920
+        ],
+        [
+          4014837898,
+          4014837904,
+          4014837910,
+          4014837916,
+          4014837922,
+          4014837923
+        ],
+        [
+          4014837903,
+          4014837908,
+          4014837909,
+          4014837913,
+          4014837914,
+          4014837915,
+          4014837917,
+          4014837918,
+          4014837919,
+          4014837921
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1577839724,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4014837948
+        ],
+        [
+          4014837949
+        ],
+        [
+          4014837950
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837948,
+          4014837949,
+          4014837950
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577839731,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4014837935
+        ],
+        [
+          4014837933
+        ],
+        [
+          4014837934
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837935,
+          4014837933,
+          4014837934
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577839727,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4014837892
+        ],
+        [
+          4014837893
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837892
+        ],
+        [
+          4014837893
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1577839721,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4014838632
+        ],
+        [
+          4014838633
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014838632
+        ],
+        [
+          4014838633
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577839968,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4014837951
+        ],
+        [
+          4014837952
+        ],
+        [
+          4014837953
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4014837951,
+          4014837952,
+          4014837953
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1577839732,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837945,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 2,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837946,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837947,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837932,
+      "name": "Central Cordoba or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837930,
+      "name": "Central Cordoba or Central Ballester"
+    },
+    {
+      "typeId": 11,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837931,
+      "name": "Draw or Central Ballester"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4014837888,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4014837889,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837896,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837897,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "id": 4014837954,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 3,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "id": 4014837955,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5455,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837994,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 7,
+      "price": 5.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4014837996,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837995,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 114,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837899,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837900,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837905,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837901,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837906,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837911,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837902,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837907,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837912,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837920,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837898,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837904,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837910,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837916,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837922,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837923,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837903,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837908,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837909,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837913,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837914,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837915,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837917,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837918,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837919,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837921,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837880,
+      "name": "Central Cordoba (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837881,
+      "name": "Central Ballester (+0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "id": 4014837960,
+      "name": "Central Cordoba/Central Cordoba"
+    },
+    {
+      "typeId": 420,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "id": 4014837961,
+      "name": "Central Cordoba/X"
+    },
+    {
+      "typeId": 422,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014837962,
+      "name": "Central Cordoba/Central Ballester"
+    },
+    {
+      "typeId": 424,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "id": 4014837963,
+      "name": "X/Central Cordoba"
+    },
+    {
+      "typeId": 426,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014837964,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "id": 4014837965,
+      "name": "X/Central Ballester"
+    },
+    {
+      "typeId": 430,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014837966,
+      "name": "Central Ballester/Central Cordoba"
+    },
+    {
+      "typeId": 432,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "id": 4014837967,
+      "name": "Central Ballester/X"
+    },
+    {
+      "typeId": 434,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "id": 4014837968,
+      "name": "Central Ballester/Central Ballester"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014838630,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014838631,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.7,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837945,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 2,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837946,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837947,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 12,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837888,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837889,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837932,
+      "name": "Central Cordoba or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3077,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837930,
+      "name": "Central Cordoba or Central Ballester"
+    },
+    {
+      "typeId": 11,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837931,
+      "name": "Draw or Central Ballester"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837880,
+      "name": "Central Cordoba (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.95,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837881,
+      "name": "Central Ballester (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837896,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837897,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014838630,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014838631,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837948,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 2,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837949,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837950,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837935,
+      "name": "Central Cordoba or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837933,
+      "name": "Central Cordoba or Central Ballester"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837934,
+      "name": "Draw or Central Ballester"
+    },
+    {
+      "typeId": 12,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837892,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837893,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014838632,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014838633,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837899,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837900,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837905,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837901,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837906,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837911,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837902,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837907,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837912,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837920,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837898,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837904,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837910,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837916,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837922,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837923,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837903,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837908,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837909,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837913,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837914,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837915,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837917,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837918,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837919,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4014837921,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837948,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 2,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837949,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837950,
+      "name": "Central Ballester"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "isDBB": true,
+      "id": 4014837935,
+      "name": "Central Cordoba or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014837933,
+      "name": "Central Cordoba or Central Ballester"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "isDBB": true,
+      "id": 4014837934,
+      "name": "Draw or Central Ballester"
+    },
+    {
+      "typeId": 12,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4014837892,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4014837893,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014838632,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4014838633,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46954,
+      "id": 4014837951,
+      "name": "Central Cordoba"
+    },
+    {
+      "typeId": 2,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4014837952,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 65796,
+      "id": 4014837953,
+      "name": "Central Ballester"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1960,
+  "rc": false,
+  "startDate": "2026-05-23T18:30:00Z",
+  "showAll": true
+}

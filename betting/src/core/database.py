@@ -29,6 +29,7 @@ class BettingDatabase:
                 home_team TEXT,
                 away_team TEXT,
                 be_path TEXT,
+                start_time TEXT,
                 timestamp TEXT,
                 category TEXT,
                 selection TEXT,
@@ -41,7 +42,7 @@ class BettingDatabase:
             )
         ''')
         # Attempt to add new columns to existing DBs without breaking
-        for col, coltype in [("home_team", "TEXT"), ("away_team", "TEXT"), ("be_path", "TEXT")]:
+        for col, coltype in [("home_team", "TEXT"), ("away_team", "TEXT"), ("be_path", "TEXT"), ("start_time", "TEXT")]:
             try:
                 cursor.execute(f'ALTER TABLE simulated_bets ADD COLUMN {col} {coltype}')
             except Exception:
@@ -57,7 +58,7 @@ class BettingDatabase:
         self.conn.commit()
 
     def insert_simulated_bet(self, match_id, category, selection, odds, fair_odds, ev,
-                              stake=1.0, home_team=None, away_team=None, be_path=None):
+                               stake=1.0, home_team=None, away_team=None, be_path=None, start_time=None):
         cursor = self.conn.cursor()
         # Check if an unsettled bet already exists for this match, category, and selection
         cursor.execute('''
@@ -80,18 +81,18 @@ class BettingDatabase:
 
         cursor.execute('''
             INSERT INTO simulated_bets
-                (match_id, home_team, away_team, be_path, timestamp, category, selection, odds, fair_odds, expected_value, stake)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (match_id, home_team, away_team, be_path,
+                (match_id, home_team, away_team, be_path, start_time, timestamp, category, selection, odds, fair_odds, expected_value, stake)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ''', (match_id, home_team, away_team, be_path, start_time,
               timestamp, category, selection, odds, fair_odds, ev, stake))
         self.conn.commit()
         return cursor.lastrowid
 
     def get_unsettled_matches(self):
-        """Returns distinct (match_id, home_team, away_team, be_path) for all unsettled bets."""
+        """Returns distinct (match_id, home_team, away_team, be_path, start_time) for all unsettled bets."""
         cursor = self.conn.cursor()
         cursor.execute('''
-            SELECT DISTINCT match_id, home_team, away_team, be_path
+            SELECT DISTINCT match_id, home_team, away_team, be_path, start_time
             FROM simulated_bets
             WHERE is_win IS NULL AND home_team IS NOT NULL
         ''')

@@ -3,6 +3,7 @@
   "feedEventId": 20907626,
   "name": "Albacete vs. Real Sociedad B",
   "et": 0,
+  "ls": "Unknown",
   "sport": {
     "typeId": 1,
     "iconName": "soccer",
@@ -91,6 +92,8 @@
         1572961346,
         1572961427,
         1572961332,
+        1576374896,
+        1576374859,
         1572961345,
         1572961417,
         1572961418,
@@ -103,6 +106,20 @@
       "sortOrder": 0,
       "id": 23,
       "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1578829470,
+        1578829467,
+        1578829472,
+        1578999573,
+        1578829468
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 5,
+      "name": "Corners"
     },
     {
       "type": 0,
@@ -126,6 +143,10 @@
         1572961393,
         1572961394,
         1572961455,
+        1578829490,
+        1578829493,
+        1578829491,
+        1578829492,
         1572961664,
         1572961662,
         1572961663
@@ -141,7 +162,7 @@
         1572961361,
         1572961353,
         1572961330,
-        1572961399,
+        1572961398,
         1572961312,
         1572961412,
         1572961427,
@@ -177,6 +198,8 @@
         1572961387,
         1572961382,
         1572961349,
+        1576374896,
+        1576374859,
         1572961445,
         1572961368,
         1572961373,
@@ -192,13 +215,15 @@
     {
       "type": 0,
       "marketIds": [
-        1572961384,
+        1572961383,
         1572961380,
         1572961401,
         1572961452,
         1572961355,
         1572961356,
         1572961357,
+        1578829480,
+        1578829481,
         1572961347,
         1572961458,
         1572961459,
@@ -242,7 +267,6 @@
       "variant": 7,
       "so": 0,
       "typeId": 31046,
-      "isMB": false,
       "sportMarketId": 0,
       "id": 31046,
       "name": "Boosted Odds"
@@ -274,7 +298,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1572961360,
       "name": "1x2"
@@ -302,7 +325,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1572961352,
       "name": "Double chance"
@@ -329,7 +351,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 18,
-      "isMB": true,
       "sportMarketId": 70520,
       "sv": "2.5",
       "id": 1572961325,
@@ -356,7 +377,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1572961343,
       "name": "Both Teams To Score"
@@ -382,7 +402,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 881,
-      "isMB": false,
       "sportMarketId": 71124,
       "id": 1572961309,
       "name": "Any team to win"
@@ -408,7 +427,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 880,
-      "isMB": false,
       "sportMarketId": 71123,
       "id": 1572961378,
       "name": "Albacete to win"
@@ -434,7 +452,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 879,
-      "isMB": false,
       "sportMarketId": 71122,
       "id": 1572961409,
       "name": "Real Sociedad B to win"
@@ -460,7 +477,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 11,
-      "isMB": false,
       "sportMarketId": 70500,
       "id": 1572961363,
       "name": "Draw no bet"
@@ -492,7 +508,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 8,
-      "isMB": true,
       "sportMarketId": 70491,
       "sv": "1",
       "id": 1572961411,
@@ -572,7 +587,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1572961346,
       "name": "Correct score"
@@ -599,7 +613,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 16,
-      "isMB": true,
       "sportMarketId": 70515,
       "sv": "-0.5",
       "id": 1572961311,
@@ -609,39 +622,50 @@
       "shortName": "\tHandicap 1x2",
       "desktopOddIds": [
         [
+          4018481552,
           3999718363,
           3999718360,
-          3999718357
+          3999718357,
+          4018481549
         ],
         [
+          4018481553,
           3999718364,
           3999718361,
-          3999718358
+          3999718358,
+          4018481550
         ],
         [
+          4018481554,
           3999718365,
           3999718362,
-          3999718359
+          3999718359,
+          4018481551
         ]
       ],
       "mobileOddIds": [
         [
+          4018481552,
           3999718363,
           3999718360,
           3999718357,
+          4018481549,
+          4018481553,
           3999718364,
           3999718361,
           3999718358,
+          4018481550,
+          4018481554,
           3999718365,
           3999718362,
-          3999718359
+          3999718359,
+          4018481551
         ]
       ],
       "isBB": false,
       "variant": 9,
       "so": 0,
       "typeId": 14,
-      "isMB": false,
       "sportMarketId": 70510,
       "sv": "0:2",
       "id": 1572961395,
@@ -682,7 +706,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 47,
-      "isMB": false,
       "sportMarketId": 70568,
       "id": 1572961369,
       "name": "Halftime/fulltime"
@@ -714,7 +737,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 9,
-      "isMB": false,
       "sportMarketId": 70493,
       "id": 1572961448,
       "name": "Last goal"
@@ -750,7 +772,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 15,
-      "isMB": false,
       "sportMarketId": 71166,
       "id": 1572961414,
       "name": "Winning margin"
@@ -776,7 +797,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 19,
-      "isMB": true,
       "sportMarketId": 70525,
       "sv": "1.5",
       "id": 1572961317,
@@ -803,7 +823,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
       "sv": "0.5",
       "id": 1572961319,
@@ -836,7 +855,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 21,
-      "isMB": false,
       "sportMarketId": 71660,
       "id": 1572961366,
       "name": "Exact goals "
@@ -866,7 +884,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 30,
-      "isMB": false,
       "sportMarketId": 70547,
       "id": 1572961416,
       "name": "Which team to score"
@@ -892,7 +909,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1572961696,
       "name": "Odd/even"
@@ -918,7 +934,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 27,
-      "isMB": false,
       "sportMarketId": 70541,
       "id": 1572961699,
       "name": "Albacete odd/even"
@@ -944,7 +959,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 28,
-      "isMB": false,
       "sportMarketId": 70543,
       "id": 1572961700,
       "name": "Real Sociedad B odd/even"
@@ -972,7 +986,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 52,
-      "isMB": false,
       "sportMarketId": 70577,
       "id": 1572961370,
       "name": "Half With most Goals"
@@ -1016,7 +1029,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 551,
-      "isMB": false,
       "sportMarketId": 71017,
       "id": 1572961455,
       "name": "Multiscores"
@@ -1132,7 +1144,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 46,
-      "isMB": false,
       "sportMarketId": 70567,
       "id": 1572961451,
       "name": "Halftime/fulltime correct score"
@@ -1220,7 +1231,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 548,
-      "isMB": false,
       "sportMarketId": 71014,
       "id": 1572961443,
       "name": "Multigoals"
@@ -1252,7 +1262,6 @@
       "isBB": true,
       "so": 1,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1572961360,
       "name": "1x2"
@@ -1279,7 +1288,6 @@
       "variant": 8,
       "so": 2,
       "typeId": 18,
-      "isMB": true,
       "sportMarketId": 70520,
       "sv": "2.5",
       "id": 1572961325,
@@ -1308,7 +1316,6 @@
       "isBB": true,
       "so": 3,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1572961352,
       "name": "Double chance"
@@ -1335,7 +1342,6 @@
       "variant": 8,
       "so": 4,
       "typeId": 16,
-      "isMB": true,
       "sportMarketId": 70515,
       "sv": "-0.5",
       "id": 1572961311,
@@ -1362,7 +1368,6 @@
       "isBB": true,
       "so": 5,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1572961343,
       "name": "Both Teams To Score"
@@ -1388,7 +1393,6 @@
       "isBB": true,
       "so": 14,
       "typeId": 19,
-      "isMB": true,
       "sportMarketId": 70525,
       "sv": "1.5",
       "id": 1572961317,
@@ -1415,7 +1419,6 @@
       "isBB": true,
       "so": 15,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
       "sv": "0.5",
       "id": 1572961319,
@@ -1442,7 +1445,6 @@
       "isBB": true,
       "so": 16,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1572961696,
       "name": "Odd/even"
@@ -1470,7 +1472,6 @@
       "isBB": true,
       "so": 17,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1572961361,
       "name": "1st half - 1x2"
@@ -1498,7 +1499,6 @@
       "isBB": true,
       "so": 18,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1572961353,
       "name": "1st half - double chance"
@@ -1525,7 +1525,6 @@
       "variant": 8,
       "so": 19,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "1.5",
       "id": 1572961330,
@@ -1552,7 +1551,6 @@
       "isBB": true,
       "so": 20,
       "typeId": 69,
-      "isMB": true,
       "sportMarketId": 70620,
       "sv": "0.5",
       "id": 1572961322,
@@ -1579,7 +1577,6 @@
       "isBB": true,
       "so": 21,
       "typeId": 70,
-      "isMB": true,
       "sportMarketId": 70625,
       "sv": "0.5",
       "id": 1572961323,
@@ -1606,7 +1603,6 @@
       "isBB": true,
       "so": 22,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1572961344,
       "name": "1st half - both teams to score"
@@ -1632,7 +1628,6 @@
       "isBB": true,
       "so": 23,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1572961697,
       "name": "1st half - Odd/even"
@@ -1711,7 +1706,6 @@
       "variant": 3,
       "so": 46,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1572961346,
       "name": "Correct score"
@@ -1758,7 +1752,6 @@
       "variant": 3,
       "so": 47,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1572961427,
       "name": "1st half - correct score"
@@ -1785,11 +1778,62 @@
       "variant": 8,
       "so": 48,
       "typeId": 90,
-      "isMB": true,
       "sportMarketId": 70657,
       "sv": "1.5",
       "id": 1572961332,
       "name": "2nd half - total"
+    },
+    {
+      "shortName": "2nd half - Albacete total",
+      "desktopOddIds": [
+        [
+          4010327775
+        ],
+        [
+          4010327776
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010327775
+        ],
+        [
+          4010327776
+        ]
+      ],
+      "isBB": true,
+      "so": 49,
+      "typeId": 91,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1576374896,
+      "name": "2nd half - Albacete total"
+    },
+    {
+      "shortName": "2nd half - Real Sociedad B total",
+      "desktopOddIds": [
+        [
+          4010327689
+        ],
+        [
+          4010327688
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010327689
+        ],
+        [
+          4010327688
+        ]
+      ],
+      "isBB": true,
+      "so": 50,
+      "typeId": 92,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1576374859,
+      "name": "2nd half - Real Sociedad B total"
     },
     {
       "shortName": "2nd half - both teams to score",
@@ -1812,7 +1856,6 @@
       "isBB": true,
       "so": 51,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1572961345,
       "name": "2nd half - both teams to score"
@@ -1838,7 +1881,6 @@
       "isBB": true,
       "so": 60,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1572961417,
       "name": "Albacete to win both halves"
@@ -1864,7 +1906,6 @@
       "isBB": true,
       "so": 61,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1572961418,
       "name": "Real Sociedad B to win both halves"
@@ -1890,7 +1931,6 @@
       "isBB": true,
       "so": 62,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1572961419,
       "name": "Albacete to win either half"
@@ -1916,7 +1956,6 @@
       "isBB": true,
       "so": 63,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1572961420,
       "name": "Real Sociedad B to win either half"
@@ -1942,7 +1981,6 @@
       "isBB": true,
       "so": 64,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1572961421,
       "name": "Albacete to score in both halves"
@@ -1968,10 +2006,143 @@
       "isBB": true,
       "so": 65,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1572961422,
       "name": "Real Sociedad B to score in both halves"
+    },
+    {
+      "shortName": "Total corners",
+      "desktopOddIds": [
+        [
+          4018481499
+        ],
+        [
+          4018481500
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481499
+        ],
+        [
+          4018481500
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 166,
+      "sportMarketId": 70739,
+      "sv": "9.5",
+      "id": 1578829470,
+      "name": "Total corners"
+    },
+    {
+      "shortName": "Odd/even corners",
+      "desktopOddIds": [
+        [
+          4018481493
+        ],
+        [
+          4018481494
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481493
+        ],
+        [
+          4018481494
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 172,
+      "sportMarketId": 70742,
+      "id": 1578829467,
+      "name": "Odd/even corners"
+    },
+    {
+      "shortName": "1st half - total corners",
+      "desktopOddIds": [
+        [
+          4018481503
+        ],
+        [
+          4018481504
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481503
+        ],
+        [
+          4018481504
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 177,
+      "sportMarketId": 70747,
+      "sv": "4.5",
+      "id": 1578829472,
+      "name": "1st half - total corners"
+    },
+    {
+      "shortName": "1st half - last corner",
+      "desktopOddIds": [
+        [
+          4018966036
+        ],
+        [
+          4018966038
+        ],
+        [
+          4018966037
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018966036
+        ],
+        [
+          4018966038
+        ],
+        [
+          4018966037
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 175,
+      "sportMarketId": 70745,
+      "id": 1578999573,
+      "name": "1st half - last corner"
+    },
+    {
+      "shortName": "1st half - odd/even corners",
+      "desktopOddIds": [
+        [
+          4018481495
+        ],
+        [
+          4018481496
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481495
+        ],
+        [
+          4018481496
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 183,
+      "sportMarketId": 70752,
+      "id": 1578829468,
+      "name": "1st half - odd/even corners"
     },
     {
       "shortName": "Goal range",
@@ -1996,7 +2167,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 25,
-      "isMB": false,
       "sportMarketId": 72136,
       "id": 1572961426,
       "name": "Goal range"
@@ -2022,7 +2192,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 33,
-      "isMB": false,
       "sportMarketId": 70553,
       "id": 1572961379,
       "name": "Albacete win to nil"
@@ -2048,7 +2217,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 34,
-      "isMB": false,
       "sportMarketId": 70554,
       "id": 1572961410,
       "name": "Real Sociedad B win to nil"
@@ -2074,7 +2242,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31,
-      "isMB": false,
       "sportMarketId": 70549,
       "id": 1572961371,
       "name": "Albacete clean sheet"
@@ -2100,7 +2267,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 32,
-      "isMB": false,
       "sportMarketId": 70551,
       "id": 1572961402,
       "name": "Real Sociedad B Clean sheet"
@@ -2188,7 +2354,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 549,
-      "isMB": false,
       "sportMarketId": 71015,
       "id": 1572961446,
       "name": "Albacete multigoals"
@@ -2276,7 +2441,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 550,
-      "isMB": false,
       "sportMarketId": 71016,
       "id": 1572961447,
       "name": "Real Sociedad B multigoals"
@@ -2302,7 +2466,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 58,
-      "isMB": true,
       "sportMarketId": 70589,
       "sv": "0.5",
       "id": 1572961423,
@@ -2329,7 +2492,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 59,
-      "isMB": true,
       "sportMarketId": 70590,
       "sv": "2.5",
       "id": 1572961424,
@@ -2356,7 +2518,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1572961419,
       "name": "Albacete to win either half"
@@ -2382,7 +2543,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1572961420,
       "name": "Real Sociedad B to win either half"
@@ -2408,7 +2568,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1572961417,
       "name": "Albacete to win both halves"
@@ -2434,7 +2593,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1572961418,
       "name": "Real Sociedad B to win both halves"
@@ -2460,7 +2618,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1572961421,
       "name": "Albacete to score in both halves"
@@ -2486,7 +2643,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1572961422,
       "name": "Real Sociedad B to score in both halves"
@@ -2514,7 +2670,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 53,
-      "isMB": false,
       "sportMarketId": 70582,
       "id": 1572961393,
       "name": "Albacete highest scoring half"
@@ -2542,10 +2697,113 @@
       "isBB": false,
       "so": 0,
       "typeId": 54,
-      "isMB": false,
       "sportMarketId": 70584,
       "id": 1572961394,
       "name": "Real Sociedad B highest scoring half"
+    },
+    {
+      "shortName": "Albacete to score 2 consecutive goals",
+      "desktopOddIds": [
+        [
+          4018481569
+        ],
+        [
+          4018481570
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481569
+        ],
+        [
+          4018481570
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31130,
+      "sportMarketId": 75788,
+      "sv": "2",
+      "id": 1578829490,
+      "name": "Albacete to score 2 consecutive goals"
+    },
+    {
+      "shortName": "Real Sociedad B to score 2 consecutive goals",
+      "desktopOddIds": [
+        [
+          4018481575
+        ],
+        [
+          4018481576
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481575
+        ],
+        [
+          4018481576
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31131,
+      "sportMarketId": 75789,
+      "sv": "2",
+      "id": 1578829493,
+      "name": "Real Sociedad B to score 2 consecutive goals"
+    },
+    {
+      "shortName": "At least one team to score 2 consecutive goals",
+      "desktopOddIds": [
+        [
+          4018481571
+        ],
+        [
+          4018481572
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481571
+        ],
+        [
+          4018481572
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31132,
+      "sportMarketId": 75790,
+      "sv": "2",
+      "id": 1578829491,
+      "name": "At least one team to score 2 consecutive goals"
+    },
+    {
+      "shortName": "Both teams to score 2 consecutive goals",
+      "desktopOddIds": [
+        [
+          4018481573
+        ],
+        [
+          4018481574
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481573
+        ],
+        [
+          4018481574
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31133,
+      "sportMarketId": 75791,
+      "sv": "2",
+      "id": 1578829492,
+      "name": "Both teams to score 2 consecutive goals"
     },
     {
       "shortName": "Both teams will lead during the match",
@@ -2568,7 +2826,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31140,
-      "isMB": false,
       "sportMarketId": 75955,
       "id": 1572961664,
       "name": "Both teams will lead during the match"
@@ -2594,7 +2851,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31138,
-      "isMB": false,
       "sportMarketId": 75953,
       "id": 1572961662,
       "name": "Albacete will lead during the match"
@@ -2620,7 +2876,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31139,
-      "isMB": false,
       "sportMarketId": 75954,
       "id": 1572961663,
       "name": "Real Sociedad B will lead during the match"
@@ -2648,7 +2903,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1572961361,
       "name": "1st half - 1x2"
@@ -2676,7 +2930,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1572961353,
       "name": "1st half - double chance"
@@ -2703,7 +2956,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "1.5",
       "id": 1572961330,
@@ -2713,36 +2965,41 @@
       "shortName": "1st half - handicap 1X2",
       "desktopOddIds": [
         [
+          3999718366,
           3999718369,
-          3999718366
+          4018481555
         ],
         [
+          3999718367,
           3999718370,
-          3999718367
+          4018481556
         ],
         [
+          3999718368,
           3999718371,
-          3999718368
+          4018481557
         ]
       ],
       "mobileOddIds": [
         [
-          3999718369,
           3999718366,
-          3999718370,
+          3999718369,
+          4018481555,
           3999718367,
+          3999718370,
+          4018481556,
+          3999718368,
           3999718371,
-          3999718368
+          4018481557
         ]
       ],
       "isBB": false,
       "variant": 9,
       "so": 0,
       "typeId": 65,
-      "isMB": false,
       "sportMarketId": 70607,
-      "sv": "1:0",
-      "id": 1572961399,
+      "sv": "0:1",
+      "id": 1572961398,
       "name": "1st half - handicap 1X2"
     },
     {
@@ -2765,7 +3022,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 66,
-      "isMB": true,
       "sportMarketId": 70610,
       "sv": "-0.5",
       "id": 1572961312,
@@ -2794,7 +3050,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 62,
-      "isMB": false,
       "sportMarketId": 70598,
       "sv": "1",
       "id": 1572961412,
@@ -2842,7 +3097,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1572961427,
       "name": "1st half - correct score"
@@ -2868,7 +3122,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1572961344,
       "name": "1st half - both teams to score"
@@ -2894,7 +3147,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 69,
-      "isMB": true,
       "sportMarketId": 70620,
       "sv": "0.5",
       "id": 1572961322,
@@ -2921,7 +3173,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 70,
-      "isMB": true,
       "sportMarketId": 70625,
       "sv": "0.5",
       "id": 1572961323,
@@ -2956,7 +3207,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 79,
-      "isMB": false,
       "sportMarketId": 70639,
       "sv": "1.5",
       "id": 1572961386,
@@ -2991,7 +3241,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 78,
-      "isMB": false,
       "sportMarketId": 70638,
       "id": 1572961381,
       "name": "1st half - 1x2 & both teams to score"
@@ -3025,7 +3274,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 542,
-      "isMB": false,
       "sportMarketId": 71008,
       "id": 1572961348,
       "name": "1st half - double chance & both teams to score"
@@ -3113,7 +3361,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 552,
-      "isMB": false,
       "sportMarketId": 71018,
       "id": 1572961444,
       "name": "1st half - multigoals"
@@ -3139,7 +3386,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 76,
-      "isMB": false,
       "sportMarketId": 70636,
       "id": 1572961372,
       "name": "1st half - Albacete Clean sheet"
@@ -3165,7 +3411,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 77,
-      "isMB": false,
       "sportMarketId": 70637,
       "id": 1572961403,
       "name": "1st half - Real Sociedad B Clean sheet"
@@ -3191,7 +3436,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1572961697,
       "name": "1st half - Odd/even"
@@ -3217,7 +3461,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 618,
-      "isMB": false,
       "sportMarketId": 74491,
       "id": 1572961701,
       "name": "1st half - Albacete odd/even"
@@ -3243,7 +3486,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 619,
-      "isMB": false,
       "sportMarketId": 74492,
       "id": 1572961702,
       "name": "1st half - Real Sociedad B odd/even"
@@ -3281,7 +3523,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31065,
-      "isMB": false,
       "sportMarketId": 74493,
       "id": 1572961456,
       "name": "1x2 (match) & 1st half both teams score"
@@ -3309,7 +3550,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 83,
-      "isMB": false,
       "sportMarketId": 70643,
       "id": 1572961362,
       "name": "2nd half - 1x2"
@@ -3337,7 +3577,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 85,
-      "isMB": false,
       "sportMarketId": 70648,
       "id": 1572961354,
       "name": "2nd half - double chance"
@@ -3364,7 +3603,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 90,
-      "isMB": true,
       "sportMarketId": 70657,
       "sv": "1.5",
       "id": 1572961332,
@@ -3374,27 +3612,32 @@
       "shortName": "2nd half - handicap 1X2",
       "desktopOddIds": [
         [
+          4018481558,
           3999718372
         ],
         [
+          4018481559,
           3999718373
         ],
         [
-          3999718374
+          3999718374,
+          4018481560
         ]
       ],
       "mobileOddIds": [
         [
+          4018481558,
           3999718372,
+          4018481559,
           3999718373,
-          3999718374
+          3999718374,
+          4018481560
         ]
       ],
       "isBB": false,
       "variant": 9,
       "so": 0,
       "typeId": 87,
-      "isMB": false,
       "sportMarketId": 70653,
       "sv": "0:1",
       "id": 1572961400,
@@ -3423,7 +3666,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 84,
-      "isMB": false,
       "sportMarketId": 70647,
       "sv": "1",
       "id": 1572961413,
@@ -3471,7 +3713,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 98,
-      "isMB": false,
       "sportMarketId": 70668,
       "id": 1572961428,
       "name": "2nd half - correct score"
@@ -3497,7 +3738,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1572961345,
       "name": "2nd half - both teams to score"
@@ -3531,7 +3771,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 544,
-      "isMB": false,
       "sportMarketId": 71010,
       "sv": "1.5",
       "id": 1572961387,
@@ -3566,7 +3805,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 543,
-      "isMB": false,
       "sportMarketId": 71009,
       "id": 1572961382,
       "name": "2nd half - 1x2 & both teams to score"
@@ -3600,10 +3838,61 @@
       "isBB": false,
       "so": 0,
       "typeId": 545,
-      "isMB": false,
       "sportMarketId": 71011,
       "id": 1572961349,
       "name": "2nd half - double chance & both teams to score"
+    },
+    {
+      "shortName": "2nd half - Albacete total",
+      "desktopOddIds": [
+        [
+          4010327775
+        ],
+        [
+          4010327776
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010327775
+        ],
+        [
+          4010327776
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 91,
+      "sportMarketId": 70660,
+      "sv": "0.5",
+      "id": 1576374896,
+      "name": "2nd half - Albacete total"
+    },
+    {
+      "shortName": "2nd half - Real Sociedad B total",
+      "desktopOddIds": [
+        [
+          4010327689
+        ],
+        [
+          4010327688
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010327689
+        ],
+        [
+          4010327688
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 92,
+      "sportMarketId": 70661,
+      "sv": "0.5",
+      "id": 1576374859,
+      "name": "2nd half - Real Sociedad B total"
     },
     {
       "shortName": "2nd half - multigoals",
@@ -3688,7 +3977,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 553,
-      "isMB": false,
       "sportMarketId": 71019,
       "id": 1572961445,
       "name": "2nd half - multigoals"
@@ -3722,7 +4010,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 93,
-      "isMB": false,
       "sportMarketId": 71659,
       "id": 1572961368,
       "name": "2nd half - exact goals"
@@ -3748,7 +4035,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 96,
-      "isMB": false,
       "sportMarketId": 70666,
       "id": 1572961373,
       "name": "2nd half - Albacete Clean sheet"
@@ -3774,7 +4060,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 97,
-      "isMB": false,
       "sportMarketId": 70667,
       "id": 1572961404,
       "name": "2nd half - Real Sociedad B Clean sheet"
@@ -3800,7 +4085,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 94,
-      "isMB": false,
       "sportMarketId": 70662,
       "id": 1572961698,
       "name": "2nd half - odd/ even"
@@ -3830,7 +4114,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31066,
-      "isMB": false,
       "sportMarketId": 74494,
       "id": 1572961457,
       "name": "1x2 (match) & 2nd half both teams score"
@@ -3842,25 +4125,37 @@
           3999718298,
           3999718304,
           3999718310,
+          4018481539,
+          4018481545,
           3999718296,
           3999718302,
-          3999718308
+          3999718308,
+          4018481537,
+          4018481543
         ],
         [
           3999718301,
           3999718307,
           3999718313,
+          4018481542,
+          4018481548,
           3999718300,
           3999718306,
-          3999718312
+          3999718312,
+          4018481541,
+          4018481547
         ],
         [
           3999718299,
           3999718305,
           3999718311,
+          4018481540,
+          4018481546,
           3999718297,
           3999718303,
-          3999718309
+          3999718309,
+          4018481538,
+          4018481544
         ]
       ],
       "mobileOddIds": [
@@ -3868,30 +4163,41 @@
           3999718298,
           3999718304,
           3999718310,
+          4018481539,
+          4018481545,
           3999718301,
           3999718307,
           3999718313,
+          4018481542,
+          4018481548,
           3999718299,
           3999718305,
           3999718311,
+          4018481540,
+          4018481546,
           3999718296,
           3999718302,
           3999718308,
+          4018481537,
+          4018481543,
           3999718300,
           3999718306,
           3999718312,
+          4018481541,
+          4018481547,
           3999718297,
           3999718303,
-          3999718309
+          3999718309,
+          4018481538,
+          4018481544
         ]
       ],
       "isBB": false,
       "so": 0,
       "typeId": 37,
-      "isMB": false,
       "sportMarketId": 70558,
-      "sv": "2.5",
-      "id": 1572961384,
+      "sv": "1.5",
+      "id": 1572961383,
       "name": "1x2 & total"
     },
     {
@@ -3923,7 +4229,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 35,
-      "isMB": false,
       "sportMarketId": 70555,
       "id": 1572961380,
       "name": "1x2 & GG/NG"
@@ -3932,30 +4237,45 @@
       "shortName": "Total & GG/NG",
       "desktopOddIds": [
         [
-          3999718375
+          3999718375,
+          4018481565,
+          4018481561
         ],
         [
-          3999718377
+          3999718377,
+          4018481567,
+          4018481563
         ],
         [
-          3999718376
+          3999718376,
+          4018481566,
+          4018481562
         ],
         [
-          3999718378
+          3999718378,
+          4018481568,
+          4018481564
         ]
       ],
       "mobileOddIds": [
         [
           3999718375,
+          4018481565,
+          4018481561,
           3999718376,
+          4018481566,
+          4018481562,
           3999718377,
-          3999718378
+          4018481567,
+          4018481563,
+          3999718378,
+          4018481568,
+          4018481564
         ]
       ],
       "isBB": false,
       "so": 0,
       "typeId": 36,
-      "isMB": false,
       "sportMarketId": 70557,
       "sv": "2.5",
       "id": 1572961401,
@@ -3992,7 +4312,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 184,
-      "isMB": false,
       "sportMarketId": 70753,
       "sv": "1",
       "id": 1572961452,
@@ -4027,7 +4346,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "1.5",
       "id": 1572961355,
@@ -4062,7 +4380,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "2.5",
       "id": 1572961356,
@@ -4097,11 +4414,78 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "3.5",
       "id": 1572961357,
       "name": "Double chance & total 3.5"
+    },
+    {
+      "shortName": "Double chance & total 4.5",
+      "desktopOddIds": [
+        [
+          4018481528,
+          4018481525
+        ],
+        [
+          4018481530,
+          4018481527
+        ],
+        [
+          4018481529,
+          4018481526
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481528,
+          4018481529,
+          4018481530,
+          4018481525,
+          4018481526,
+          4018481527
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "sportMarketId": 71013,
+      "sv": "4.5",
+      "id": 1578829480,
+      "name": "Double chance & total 4.5"
+    },
+    {
+      "shortName": "Double chance & total 5.5",
+      "desktopOddIds": [
+        [
+          4018481534,
+          4018481531
+        ],
+        [
+          4018481536,
+          4018481533
+        ],
+        [
+          4018481535,
+          4018481532
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018481534,
+          4018481535,
+          4018481536,
+          4018481531,
+          4018481532,
+          4018481533
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 547,
+      "sportMarketId": 71013,
+      "sv": "5.5",
+      "id": 1578829481,
+      "name": "Double chance & total 5.5"
     },
     {
       "shortName": "Double chance & both teams to score",
@@ -4132,7 +4516,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 546,
-      "isMB": false,
       "sportMarketId": 71012,
       "id": 1572961347,
       "name": "Double chance & both teams to score"
@@ -4188,7 +4571,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "1.5",
       "id": 1572961458,
@@ -4245,7 +4627,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "2.5",
       "id": 1572961459,
@@ -4302,7 +4683,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "3.5",
       "id": 1572961460,
@@ -4359,7 +4739,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "4.5",
       "id": 1572961461,
@@ -4416,7 +4795,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "5.5",
       "id": 1572961462,
@@ -4473,7 +4851,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "6.5",
       "id": 1572961463,
@@ -4530,7 +4907,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "1.5",
       "id": 1572961464,
@@ -4587,7 +4963,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "2.5",
       "id": 1572961465,
@@ -4644,7 +5019,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "3.5",
       "id": 1572961466,
@@ -4739,7 +5113,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 820,
-      "isMB": false,
       "sportMarketId": 71101,
       "id": 1572961467,
       "name": "Halftime/fulltime & exact goals"
@@ -4773,7 +5146,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 55,
-      "isMB": false,
       "sportMarketId": 70586,
       "id": 1572961425,
       "name": "1st/2nd half both teams to score"
@@ -4807,7 +5179,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 540,
-      "isMB": false,
       "sportMarketId": 71006,
       "id": 1572961453,
       "name": "Double chance (match) & 1st half both teams score"
@@ -4841,7 +5212,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 541,
-      "isMB": false,
       "sportMarketId": 71007,
       "id": 1572961454,
       "name": "Double chance (match) & 2nd half both teams score"
@@ -4861,7 +5231,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 854,
-      "isMB": true,
       "sportMarketId": 71110,
       "sv": "2.5",
       "id": 1572961468,
@@ -4882,7 +5251,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 856,
-      "isMB": true,
       "sportMarketId": 71112,
       "sv": "2.5",
       "id": 1572961470,
@@ -4903,7 +5271,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 858,
-      "isMB": true,
       "sportMarketId": 71114,
       "sv": "2.5",
       "id": 1572961472,
@@ -4924,7 +5291,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 855,
-      "isMB": true,
       "sportMarketId": 71111,
       "sv": "2.5",
       "id": 1572961469,
@@ -4945,7 +5311,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 857,
-      "isMB": true,
       "sportMarketId": 71113,
       "sv": "2.5",
       "id": 1572961471,
@@ -4966,7 +5331,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 859,
-      "isMB": true,
       "sportMarketId": 71115,
       "sv": "2.5",
       "id": 1572961473,
@@ -4987,7 +5351,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 860,
-      "isMB": false,
       "sportMarketId": 71116,
       "id": 1572961474,
       "name": "Albacete or both teams to score"
@@ -5007,7 +5370,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 861,
-      "isMB": false,
       "sportMarketId": 71117,
       "id": 1572961475,
       "name": "Draw or both teams to score"
@@ -5027,7 +5389,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 862,
-      "isMB": false,
       "sportMarketId": 71118,
       "id": 1572961476,
       "name": "Real Sociedad B or both teams to score"
@@ -5047,7 +5408,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 863,
-      "isMB": false,
       "sportMarketId": 71119,
       "id": 1572961477,
       "name": "Albacete or any clean sheet"
@@ -5067,7 +5427,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 864,
-      "isMB": false,
       "sportMarketId": 71120,
       "id": 1572961478,
       "name": "Draw or any clean sheet"
@@ -5087,7 +5446,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 865,
-      "isMB": false,
       "sportMarketId": 71121,
       "id": 1572961479,
       "name": "Real Sociedad B or any clean sheet"
@@ -5126,7 +5484,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.2308,
+      "price": 1.25,
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 47421,
@@ -5136,7 +5494,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.25,
+      "price": 1.2308,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
@@ -5547,6 +5905,16 @@
     },
     {
       "typeId": 1711,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "competitorId": 47421,
+      "id": 4018481552,
+      "name": "Albacete (2:0)"
+    },
+    {
+      "typeId": 1711,
       "price": 1.2223,
       "isMB": false,
       "oddStatus": 0,
@@ -5576,6 +5944,25 @@
       "name": "Albacete (0:2)"
     },
     {
+      "typeId": 1711,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:3",
+      "competitorId": 47421,
+      "id": 4018481549,
+      "name": "Albacete (0:3)"
+    },
+    {
+      "typeId": 1712,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "id": 4018481553,
+      "name": "Draw (2:0)"
+    },
+    {
       "typeId": 1712,
       "price": 5.0,
       "isMB": false,
@@ -5601,6 +5988,25 @@
       "sv": "0:2",
       "id": 3999718358,
       "name": "Draw (0:2)"
+    },
+    {
+      "typeId": 1712,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:3",
+      "id": 4018481550,
+      "name": "Draw (0:3)"
+    },
+    {
+      "typeId": 1713,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2:0",
+      "competitorId": 52634,
+      "id": 4018481554,
+      "name": "Real Sociedad B (2:0)"
     },
     {
       "typeId": 1713,
@@ -5631,6 +6037,16 @@
       "competitorId": 52634,
       "id": 3999718359,
       "name": "Real Sociedad B (0:2)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.091,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:3",
+      "competitorId": 52634,
+      "id": 4018481551,
+      "name": "Real Sociedad B (0:3)"
     },
     {
       "typeId": 418,
@@ -6770,7 +7186,7 @@
     },
     {
       "typeId": 9,
-      "price": 1.2308,
+      "price": 1.25,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -6781,7 +7197,7 @@
     },
     {
       "typeId": 10,
-      "price": 1.25,
+      "price": 1.2308,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
@@ -7461,6 +7877,50 @@
       "name": "Under 1.5"
     },
     {
+      "typeId": 12,
+      "price": 1.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010327775,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010327776,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010327689,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010327688,
+      "name": "Under 0.5"
+    },
+    {
       "typeId": 74,
       "price": 2.8572,
       "isMB": false,
@@ -7599,6 +8059,100 @@
       "isDBB": true,
       "id": 3999718435,
       "name": "No"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "id": 4018481499,
+      "name": "Over 9.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.9091,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "9.5",
+      "id": 4018481500,
+      "name": "Under 9.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4018481493,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4018481494,
+      "name": "Even"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481503,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481504,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5834,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47421,
+      "id": 4018966036,
+      "name": "Albacete"
+    },
+    {
+      "typeId": 7,
+      "price": 91.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4018966038,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 52634,
+      "id": 4018966037,
+      "name": "Real Sociedad B"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4018481495,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4018481496,
+      "name": "Even"
     },
     {
       "typeId": 730,
@@ -8417,6 +8971,78 @@
       "name": "2nd half"
     },
     {
+      "typeId": 76,
+      "price": 1.68,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481570,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481569,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481576,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 3.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481575,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481572,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5295,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481571,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.04,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481574,
+      "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 4018481573,
+      "name": "Yes"
+    },
+    {
       "typeId": 74,
       "price": 4.75,
       "isMB": false,
@@ -8544,6 +9170,16 @@
     },
     {
       "typeId": 1711,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:1",
+      "competitorId": 47421,
+      "id": 3999718366,
+      "name": "Albacete (0:1)"
+    },
+    {
+      "typeId": 1711,
       "price": 1.1819,
       "isMB": false,
       "oddStatus": 0,
@@ -8554,13 +9190,22 @@
     },
     {
       "typeId": 1711,
-      "price": 5.75,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "competitorId": 47421,
+      "id": 4018481555,
+      "name": "Albacete (0:2)"
+    },
+    {
+      "typeId": 1712,
+      "price": 3.1429,
       "isMB": false,
       "oddStatus": 0,
       "sv": "0:1",
-      "competitorId": 47421,
-      "id": 3999718366,
-      "name": "Albacete (0:1)"
+      "id": 3999718367,
+      "name": "Draw (0:1)"
     },
     {
       "typeId": 1712,
@@ -8573,12 +9218,22 @@
     },
     {
       "typeId": 1712,
-      "price": 3.1429,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "0:2",
+      "id": 4018481556,
+      "name": "Draw (0:2)"
+    },
+    {
+      "typeId": 1713,
+      "price": 1.52,
       "isMB": false,
       "oddStatus": 0,
       "sv": "0:1",
-      "id": 3999718367,
-      "name": "Draw (0:1)"
+      "competitorId": 52634,
+      "id": 3999718368,
+      "name": "Real Sociedad B (0:1)"
     },
     {
       "typeId": 1713,
@@ -8592,13 +9247,13 @@
     },
     {
       "typeId": 1713,
-      "price": 1.52,
+      "price": 1.091,
       "isMB": false,
       "oddStatus": 0,
-      "sv": "0:1",
+      "sv": "0:2",
       "competitorId": 52634,
-      "id": 3999718368,
-      "name": "Real Sociedad B (0:1)"
+      "id": 4018481557,
+      "name": "Real Sociedad B (0:2)"
     },
     {
       "typeId": 1714,
@@ -9431,6 +10086,16 @@
     },
     {
       "typeId": 1711,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 47421,
+      "id": 4018481558,
+      "name": "Albacete (1:0)"
+    },
+    {
+      "typeId": 1711,
       "price": 5.0,
       "isMB": false,
       "oddStatus": 0,
@@ -9438,6 +10103,15 @@
       "competitorId": 47421,
       "id": 3999718372,
       "name": "Albacete (0:1)"
+    },
+    {
+      "typeId": 1712,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "id": 4018481559,
+      "name": "Draw (1:0)"
     },
     {
       "typeId": 1712,
@@ -9457,6 +10131,16 @@
       "competitorId": 52634,
       "id": 3999718374,
       "name": "Real Sociedad B (0:1)"
+    },
+    {
+      "typeId": 1713,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1:0",
+      "competitorId": 52634,
+      "id": 4018481560,
+      "name": "Real Sociedad B (1:0)"
     },
     {
       "typeId": 1,
@@ -9746,6 +10430,46 @@
       "competitorId": 52634,
       "id": 3999718157,
       "name": "X2 & no"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4286,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010327775,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010327776,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 12,
+      "price": 1.875,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010327689,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.76,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010327688,
+      "name": "Under 0.5"
     },
     {
       "typeId": 1993,
@@ -10190,6 +10914,26 @@
       "name": "Albacete & over 3.5"
     },
     {
+      "typeId": 660,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47421,
+      "id": 4018481539,
+      "name": "Albacete & over 4.5"
+    },
+    {
+      "typeId": 660,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 47421,
+      "id": 4018481545,
+      "name": "Albacete & over 5.5"
+    },
+    {
       "typeId": 800,
       "price": 4.5,
       "isMB": false,
@@ -10215,6 +10959,24 @@
       "sv": "3.5",
       "id": 3999718313,
       "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481542,
+      "name": "Draw & over 4.5"
+    },
+    {
+      "typeId": 800,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 4018481548,
+      "name": "Draw & over 5.5"
     },
     {
       "typeId": 662,
@@ -10247,6 +11009,26 @@
       "name": "Real Sociedad B & over 3.5"
     },
     {
+      "typeId": 662,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 52634,
+      "id": 4018481540,
+      "name": "Real Sociedad B & over 4.5"
+    },
+    {
+      "typeId": 662,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 52634,
+      "id": 4018481546,
+      "name": "Real Sociedad B & over 5.5"
+    },
+    {
       "typeId": 656,
       "price": 8.5,
       "isMB": false,
@@ -10277,6 +11059,26 @@
       "name": "Albacete & under 3.5"
     },
     {
+      "typeId": 656,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47421,
+      "id": 4018481537,
+      "name": "Albacete & under 4.5"
+    },
+    {
+      "typeId": 656,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 47421,
+      "id": 4018481543,
+      "name": "Albacete & under 5.5"
+    },
+    {
       "typeId": 798,
       "price": 15.0,
       "isMB": false,
@@ -10302,6 +11104,24 @@
       "sv": "3.5",
       "id": 3999718312,
       "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481541,
+      "name": "Draw & under 4.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 4018481547,
+      "name": "Draw & under 5.5"
     },
     {
       "typeId": 658,
@@ -10332,6 +11152,26 @@
       "competitorId": 52634,
       "id": 3999718309,
       "name": "Real Sociedad B & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 52634,
+      "id": 4018481538,
+      "name": "Real Sociedad B & under 4.5"
+    },
+    {
+      "typeId": 658,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 52634,
+      "id": 4018481544,
+      "name": "Real Sociedad B & under 5.5"
     },
     {
       "typeId": 78,
@@ -10395,6 +11235,24 @@
       "name": "Over 2.5 & GG"
     },
     {
+      "typeId": 90,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481565,
+      "name": "Over 4.5 & GG"
+    },
+    {
+      "typeId": 90,
+      "price": 2.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018481561,
+      "name": "Over 3.5 & GG"
+    },
+    {
       "typeId": 92,
       "price": 7.5,
       "isMB": false,
@@ -10402,6 +11260,24 @@
       "sv": "2.5",
       "id": 3999718376,
       "name": "Under 2.5 & GG"
+    },
+    {
+      "typeId": 92,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481566,
+      "name": "Under 4.5 & GG"
+    },
+    {
+      "typeId": 92,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018481562,
+      "name": "Under 3.5 & GG"
     },
     {
       "typeId": 94,
@@ -10413,6 +11289,24 @@
       "name": "Over 2.5 & NG"
     },
     {
+      "typeId": 94,
+      "price": 61.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481567,
+      "name": "Over 4.5 & NG"
+    },
+    {
+      "typeId": 94,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018481563,
+      "name": "Over 3.5 & NG"
+    },
+    {
       "typeId": 96,
       "price": 2.6667,
       "isMB": false,
@@ -10420,6 +11314,24 @@
       "sv": "2.5",
       "id": 3999718378,
       "name": "Under 2.5 & NG"
+    },
+    {
+      "typeId": 96,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481568,
+      "name": "Under 4.5 & NG"
+    },
+    {
+      "typeId": 96,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018481564,
+      "name": "Under 3.5 & NG"
     },
     {
       "typeId": 814,
@@ -10661,6 +11573,122 @@
       "competitorId": 52634,
       "id": 3999718199,
       "name": "X/Real Sociedad B & under 3.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47421,
+      "id": 4018481528,
+      "name": "Albacete/X & over 4.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481529,
+      "name": "Albacete/Real Sociedad B & over 4.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 52634,
+      "id": 4018481530,
+      "name": "X/Real Sociedad B & over 4.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47421,
+      "id": 4018481525,
+      "name": "Albacete/X & under 4.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018481526,
+      "name": "Albacete/Real Sociedad B & under 4.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 52634,
+      "id": 4018481527,
+      "name": "X/Real Sociedad B & under 4.5"
+    },
+    {
+      "typeId": 1727,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 47421,
+      "id": 4018481534,
+      "name": "Albacete/X & over 5.5"
+    },
+    {
+      "typeId": 1728,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 4018481535,
+      "name": "Albacete/Real Sociedad B & over 5.5"
+    },
+    {
+      "typeId": 1729,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 52634,
+      "id": 4018481536,
+      "name": "X/Real Sociedad B & over 5.5"
+    },
+    {
+      "typeId": 1724,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 47421,
+      "id": 4018481531,
+      "name": "Albacete/X & under 5.5"
+    },
+    {
+      "typeId": 1725,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "id": 4018481532,
+      "name": "Albacete/Real Sociedad B & under 5.5"
+    },
+    {
+      "typeId": 1726,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "5.5",
+      "competitorId": 52634,
+      "id": 4018481533,
+      "name": "X/Real Sociedad B & under 5.5"
     },
     {
       "typeId": 1718,
@@ -12838,6 +13866,6 @@
   "isParlay": false,
   "eventCode": 1806,
   "rc": false,
-  "startDate": "2026-05-24T16:30:00Z",
+  "startDate": "2026-05-24T14:15:00Z",
   "showAll": true
 }

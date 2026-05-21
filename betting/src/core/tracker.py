@@ -52,7 +52,7 @@ class BetTracker:
 
     def log(self, match_id: str, market_name: str, selection: str,
             odds: float, fair_odds: float, ev: float, stake: float = 1.0,
-            home_team: str = None, away_team: str = None, be_path: str = None):
+            home_team: str = None, away_team: str = None, be_path: str = None, start_time: str = None):
         """
         Categorizes the bet and persists it to simulated_bets.
         Detects and updates existing unsettled bets to prevent duplication while tracking line stability.
@@ -68,6 +68,7 @@ class BetTracker:
             stake=stake,
             home_team=home_team,
             away_team=away_team,
-            be_path=be_path
+            be_path=be_path,
+            start_time=start_time
         )
         return category, row_id

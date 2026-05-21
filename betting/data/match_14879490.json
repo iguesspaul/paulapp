@@ -39,7 +39,7 @@
         31046,
         1300559540,
         1300559529,
-        1300559487,
+        1300559486,
         1300559520,
         1300559451,
         1300559561,
@@ -47,7 +47,7 @@
         1300559543,
         1300559605,
         1300559523,
-        1300559453,
+        1300559454,
         1300559589,
         1300559549,
         1300559527,
@@ -81,25 +81,25 @@
       "type": 3,
       "marketIds": [
         1300559540,
-        1300559487,
+        1300559486,
         1300559529,
-        1300559453,
+        1300559454,
         1300559520,
         1300559475,
         1300559477,
         1300559551,
         1300559541,
         1300559530,
-        1300559492,
+        1300559490,
         1300559480,
-        1300559483,
+        1300559482,
         1300559521,
         1300559552,
         1300559523,
         1300559623,
         1300559494,
-        1319902506,
-        1319901701,
+        1319902504,
+        1319901700,
         1300559522,
         1300559560,
         1300559602,
@@ -163,7 +163,7 @@
       "marketIds": [
         1300559541,
         1300559530,
-        1300559492,
+        1300559490,
         1300559592,
         1300559458,
         1300559606,
@@ -172,7 +172,7 @@
         1300559623,
         1300559521,
         1300559480,
-        1300559483,
+        1300559482,
         1300559571,
         1300559572,
         1300559564,
@@ -207,8 +207,8 @@
         1300559573,
         1300559565,
         1300559526,
-        1319902506,
-        1319901701,
+        1319902504,
+        1319901700,
         1300559655,
         1300559548,
         1300559556,
@@ -275,7 +275,6 @@
       "variant": 7,
       "so": 0,
       "typeId": 31046,
-      "isMB": false,
       "sportMarketId": 0,
       "id": 31046,
       "name": "Boosted Odds"
@@ -307,7 +306,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1300559540,
       "name": "1x2"
@@ -335,7 +333,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1300559529,
       "name": "Double chance"
@@ -370,10 +367,9 @@
       "variant": 8,
       "so": 0,
       "typeId": 18,
-      "isMB": false,
       "sportMarketId": 70520,
-      "sv": "3.5",
-      "id": 1300559487,
+      "sv": "2.5",
+      "id": 1300559486,
       "name": "Total"
     },
     {
@@ -397,7 +393,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1300559520,
       "name": "Both Teams To Score"
@@ -423,7 +418,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 881,
-      "isMB": false,
       "sportMarketId": 71124,
       "id": 1300559451,
       "name": "Any team to win"
@@ -449,7 +443,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 880,
-      "isMB": false,
       "sportMarketId": 71123,
       "id": 1300559561,
       "name": "USA to win"
@@ -475,7 +468,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 879,
-      "isMB": false,
       "sportMarketId": 71122,
       "id": 1300559603,
       "name": "Paraguay to win"
@@ -501,7 +493,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 11,
-      "isMB": false,
       "sportMarketId": 70500,
       "id": 1300559543,
       "name": "Draw no bet"
@@ -533,7 +524,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 8,
-      "isMB": true,
       "sportMarketId": 70491,
       "sv": "1",
       "id": 1300559605,
@@ -613,7 +603,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1300559523,
       "name": "Correct score"
@@ -648,10 +637,9 @@
       "variant": 8,
       "so": 0,
       "typeId": 16,
-      "isMB": false,
       "sportMarketId": 70515,
-      "sv": "-1.5",
-      "id": 1300559453,
+      "sv": "-0.5",
+      "id": 1300559454,
       "name": "Handicap"
     },
     {
@@ -696,7 +684,6 @@
       "variant": 9,
       "so": 0,
       "typeId": 14,
-      "isMB": false,
       "sportMarketId": 70510,
       "sv": "1:0",
       "id": 1300559589,
@@ -737,7 +724,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 47,
-      "isMB": false,
       "sportMarketId": 70568,
       "id": 1300559549,
       "name": "Halftime/fulltime"
@@ -773,7 +759,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17625,
-      "isMB": false,
       "sportMarketId": 72649,
       "id": 1300559527,
       "name": "DC Halftime/ DC Fulltime"
@@ -809,7 +794,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17711,
-      "isMB": false,
       "sportMarketId": 72654,
       "id": 1300559574,
       "name": "1X2 Halftime/ DC Fulltime"
@@ -845,7 +829,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17712,
-      "isMB": false,
       "sportMarketId": 72653,
       "id": 1300559528,
       "name": "DC Halftime/ 1X2 Fulltime"
@@ -877,7 +860,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 9,
-      "isMB": false,
       "sportMarketId": 70493,
       "id": 1300559625,
       "name": "Last goal"
@@ -913,7 +895,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 15,
-      "isMB": false,
       "sportMarketId": 71166,
       "id": 1300559608,
       "name": "Winning margin"
@@ -947,7 +928,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 19,
-      "isMB": true,
       "sportMarketId": 70525,
       "sv": "1.5",
       "id": 1300559475,
@@ -982,7 +962,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
       "sv": "0.5",
       "id": 1300559477,
@@ -1015,7 +994,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 21,
-      "isMB": false,
       "sportMarketId": 71660,
       "id": 1300559546,
       "name": "Exact goals "
@@ -1045,7 +1023,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 30,
-      "isMB": false,
       "sportMarketId": 70547,
       "id": 1300559610,
       "name": "Which team to score"
@@ -1071,7 +1048,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17663,
-      "isMB": false,
       "sportMarketId": 72189,
       "id": 1300559558,
       "name": "USA to score"
@@ -1097,7 +1073,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17664,
-      "isMB": false,
       "sportMarketId": 72190,
       "id": 1300559600,
       "name": "Paraguay to score"
@@ -1123,7 +1098,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 23,
-      "isMB": false,
       "sportMarketId": 71654,
       "id": 1300559575,
       "name": "USA exact goals"
@@ -1149,7 +1123,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 24,
-      "isMB": false,
       "sportMarketId": 71655,
       "id": 1300559576,
       "name": "Paraguay exact goals"
@@ -1175,7 +1148,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1300559551,
       "name": "Odd/even"
@@ -1201,7 +1173,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 27,
-      "isMB": false,
       "sportMarketId": 70541,
       "id": 1300559581,
       "name": "USA odd/even"
@@ -1227,7 +1198,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 28,
-      "isMB": false,
       "sportMarketId": 70543,
       "id": 1300559582,
       "name": "Paraguay odd/even"
@@ -1261,7 +1231,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 896,
-      "isMB": false,
       "sportMarketId": 72435,
       "sv": "1",
       "id": 1556149055,
@@ -1283,14 +1252,13 @@
       "mobileOddIds": [
         [
           3210045301,
-          3210045306,
-          3210045304
+          3210045304,
+          3210045306
         ]
       ],
       "isBB": false,
       "so": 0,
       "typeId": 52,
-      "isMB": false,
       "sportMarketId": 70577,
       "id": 1300559550,
       "name": "Half With most Goals"
@@ -1334,7 +1302,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 551,
-      "isMB": false,
       "sportMarketId": 71017,
       "id": 1300559632,
       "name": "Multiscores"
@@ -1450,7 +1417,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 46,
-      "isMB": false,
       "sportMarketId": 70567,
       "id": 1300559628,
       "name": "Halftime/fulltime correct score"
@@ -1538,7 +1504,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 548,
-      "isMB": false,
       "sportMarketId": 71014,
       "id": 1300559653,
       "name": "Multigoals"
@@ -1570,7 +1535,6 @@
       "isBB": true,
       "so": 1,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1300559540,
       "name": "1x2"
@@ -1605,10 +1569,9 @@
       "variant": 8,
       "so": 2,
       "typeId": 18,
-      "isMB": false,
       "sportMarketId": 70520,
-      "sv": "3.5",
-      "id": 1300559487,
+      "sv": "2.5",
+      "id": 1300559486,
       "name": "Total"
     },
     {
@@ -1634,7 +1597,6 @@
       "isBB": true,
       "so": 3,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1300559529,
       "name": "Double chance"
@@ -1669,10 +1631,9 @@
       "variant": 8,
       "so": 4,
       "typeId": 16,
-      "isMB": false,
       "sportMarketId": 70515,
-      "sv": "-1.5",
-      "id": 1300559453,
+      "sv": "-0.5",
+      "id": 1300559454,
       "name": "Handicap"
     },
     {
@@ -1696,7 +1657,6 @@
       "isBB": true,
       "so": 5,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1300559520,
       "name": "Both Teams To Score"
@@ -1730,7 +1690,6 @@
       "isBB": true,
       "so": 14,
       "typeId": 19,
-      "isMB": true,
       "sportMarketId": 70525,
       "sv": "1.5",
       "id": 1300559475,
@@ -1765,7 +1724,6 @@
       "isBB": true,
       "so": 15,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
       "sv": "0.5",
       "id": 1300559477,
@@ -1792,7 +1750,6 @@
       "isBB": true,
       "so": 16,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1300559551,
       "name": "Odd/even"
@@ -1820,7 +1777,6 @@
       "isBB": true,
       "so": 17,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1300559541,
       "name": "1st half - 1x2"
@@ -1848,7 +1804,6 @@
       "isBB": true,
       "so": 18,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1300559530,
       "name": "1st half - double chance"
@@ -1883,10 +1838,9 @@
       "variant": 8,
       "so": 19,
       "typeId": 68,
-      "isMB": false,
       "sportMarketId": 70615,
-      "sv": "2.5",
-      "id": 1300559492,
+      "sv": "0.5",
+      "id": 1300559490,
       "name": "1st half - total"
     },
     {
@@ -1914,7 +1868,6 @@
       "isBB": true,
       "so": 20,
       "typeId": 69,
-      "isMB": true,
       "sportMarketId": 70620,
       "sv": "0.5",
       "id": 1300559480,
@@ -1945,10 +1898,9 @@
       "isBB": true,
       "so": 21,
       "typeId": 70,
-      "isMB": false,
       "sportMarketId": 70625,
-      "sv": "1.5",
-      "id": 1300559483,
+      "sv": "0.5",
+      "id": 1300559482,
       "name": "1st half - Paraguay total"
     },
     {
@@ -1972,7 +1924,6 @@
       "isBB": true,
       "so": 22,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1300559521,
       "name": "1st half - both teams to score"
@@ -1998,7 +1949,6 @@
       "isBB": true,
       "so": 23,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1300559552,
       "name": "1st half - Odd/even"
@@ -2077,7 +2027,6 @@
       "variant": 3,
       "so": 46,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1300559523,
       "name": "Correct score"
@@ -2124,7 +2073,6 @@
       "variant": 3,
       "so": 47,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1300559623,
       "name": "1st half - correct score"
@@ -2155,7 +2103,6 @@
       "variant": 8,
       "so": 48,
       "typeId": 90,
-      "isMB": false,
       "sportMarketId": 70657,
       "sv": "0.5",
       "id": 1300559494,
@@ -2194,10 +2141,9 @@
       "isBB": true,
       "so": 49,
       "typeId": 91,
-      "isMB": true,
       "sportMarketId": 70660,
-      "sv": "0.5",
-      "id": 1319902506,
+      "sv": "2.5",
+      "id": 1319902504,
       "name": "2nd half - USA total"
     },
     {
@@ -2229,10 +2175,9 @@
       "isBB": true,
       "so": 50,
       "typeId": 92,
-      "isMB": true,
       "sportMarketId": 70661,
-      "sv": "0.5",
-      "id": 1319901701,
+      "sv": "1.5",
+      "id": 1319901700,
       "name": "2nd half - Paraguay total"
     },
     {
@@ -2256,7 +2201,6 @@
       "isBB": true,
       "so": 51,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1300559522,
       "name": "2nd half - both teams to score"
@@ -2282,7 +2226,6 @@
       "isBB": true,
       "so": 58,
       "typeId": 17682,
-      "isMB": false,
       "sportMarketId": 72194,
       "id": 1300559560,
       "name": "2nd half - USA to score"
@@ -2308,7 +2251,6 @@
       "isBB": true,
       "so": 59,
       "typeId": 17683,
-      "isMB": false,
       "sportMarketId": 72195,
       "id": 1300559602,
       "name": "2nd half - Paraguay to score"
@@ -2334,7 +2276,6 @@
       "isBB": true,
       "so": 60,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1300559611,
       "name": "USA to win both halves"
@@ -2360,7 +2301,6 @@
       "isBB": true,
       "so": 61,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1300559612,
       "name": "Paraguay to win both halves"
@@ -2386,7 +2326,6 @@
       "isBB": true,
       "so": 62,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1300559613,
       "name": "USA to win either half"
@@ -2412,7 +2351,6 @@
       "isBB": true,
       "so": 63,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1300559614,
       "name": "Paraguay to win either half"
@@ -2438,7 +2376,6 @@
       "isBB": true,
       "so": 64,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1300559615,
       "name": "USA to score in both halves"
@@ -2464,7 +2401,6 @@
       "isBB": true,
       "so": 65,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1300559616,
       "name": "Paraguay to score in both halves"
@@ -2490,7 +2426,6 @@
       "isBB": true,
       "so": 66,
       "typeId": 17636,
-      "isMB": false,
       "sportMarketId": 72187,
       "id": 1300559771,
       "name": "USA to win from behind"
@@ -2516,7 +2451,6 @@
       "isBB": true,
       "so": 67,
       "typeId": 17637,
-      "isMB": false,
       "sportMarketId": 72188,
       "id": 1300559772,
       "name": "Paraguay to win from behind"
@@ -2542,7 +2476,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17684,
-      "isMB": false,
       "sportMarketId": 72196,
       "id": 1556149050,
       "name": "A Penalty in the Match"
@@ -2568,7 +2501,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17687,
-      "isMB": false,
       "sportMarketId": 72199,
       "id": 1556149053,
       "name": "Own Goal"
@@ -2594,7 +2526,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17636,
-      "isMB": false,
       "sportMarketId": 72187,
       "id": 1300559771,
       "name": "USA to win from behind"
@@ -2620,7 +2551,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17637,
-      "isMB": false,
       "sportMarketId": 72188,
       "id": 1300559772,
       "name": "Paraguay to win from behind"
@@ -2648,7 +2578,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 25,
-      "isMB": false,
       "sportMarketId": 72136,
       "id": 1300559622,
       "name": "Goal range"
@@ -2674,7 +2603,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 33,
-      "isMB": false,
       "sportMarketId": 70553,
       "id": 1300559562,
       "name": "USA win to nil"
@@ -2700,7 +2628,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 34,
-      "isMB": false,
       "sportMarketId": 70554,
       "id": 1300559604,
       "name": "Paraguay win to nil"
@@ -2726,7 +2653,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31,
-      "isMB": false,
       "sportMarketId": 70549,
       "id": 1300559554,
       "name": "USA clean sheet"
@@ -2752,7 +2678,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 32,
-      "isMB": false,
       "sportMarketId": 70551,
       "id": 1300559596,
       "name": "Paraguay Clean sheet"
@@ -2840,7 +2765,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 549,
-      "isMB": false,
       "sportMarketId": 71015,
       "id": 1300559656,
       "name": "USA multigoals"
@@ -2928,7 +2852,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 550,
-      "isMB": false,
       "sportMarketId": 71016,
       "id": 1300559657,
       "name": "Paraguay multigoals"
@@ -2954,7 +2877,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 58,
-      "isMB": true,
       "sportMarketId": 70589,
       "sv": "0.5",
       "id": 1300559617,
@@ -2981,7 +2903,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 59,
-      "isMB": true,
       "sportMarketId": 70590,
       "sv": "1.5",
       "id": 1300559619,
@@ -3008,7 +2929,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1300559613,
       "name": "USA to win either half"
@@ -3034,7 +2954,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1300559614,
       "name": "Paraguay to win either half"
@@ -3060,7 +2979,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1300559611,
       "name": "USA to win both halves"
@@ -3086,7 +3004,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1300559612,
       "name": "Paraguay to win both halves"
@@ -3112,7 +3029,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1300559615,
       "name": "USA to score in both halves"
@@ -3138,7 +3054,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1300559616,
       "name": "Paraguay to score in both halves"
@@ -3166,7 +3081,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 53,
-      "isMB": false,
       "sportMarketId": 70582,
       "id": 1300559579,
       "name": "USA highest scoring half"
@@ -3194,7 +3108,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 54,
-      "isMB": false,
       "sportMarketId": 70584,
       "id": 1300559580,
       "name": "Paraguay highest scoring half"
@@ -3226,7 +3139,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 3253,
-      "isMB": false,
       "sportMarketId": 73739,
       "id": 1300559626,
       "name": "First half - Last goal"
@@ -3258,7 +3170,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 3254,
-      "isMB": false,
       "sportMarketId": 73740,
       "id": 1300559627,
       "name": "Second half - Last goal"
@@ -3284,7 +3195,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31130,
-      "isMB": false,
       "sportMarketId": 75788,
       "sv": "2",
       "id": 1300559763,
@@ -3311,7 +3221,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31131,
-      "isMB": false,
       "sportMarketId": 75789,
       "sv": "2",
       "id": 1300559764,
@@ -3338,7 +3247,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31132,
-      "isMB": false,
       "sportMarketId": 75790,
       "sv": "2",
       "id": 1300559765,
@@ -3365,7 +3273,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31133,
-      "isMB": false,
       "sportMarketId": 75791,
       "sv": "2",
       "id": 1300559766,
@@ -3392,7 +3299,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31140,
-      "isMB": false,
       "sportMarketId": 75955,
       "id": 1300559769,
       "name": "Both teams will lead during the match"
@@ -3418,7 +3324,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31138,
-      "isMB": false,
       "sportMarketId": 75953,
       "id": 1300559767,
       "name": "USA will lead during the match"
@@ -3444,7 +3349,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31139,
-      "isMB": false,
       "sportMarketId": 75954,
       "id": 1300559768,
       "name": "Paraguay will lead during the match"
@@ -3472,7 +3376,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1300559541,
       "name": "1st half - 1x2"
@@ -3500,7 +3403,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1300559530,
       "name": "1st half - double chance"
@@ -3535,10 +3437,9 @@
       "variant": 8,
       "so": 0,
       "typeId": 68,
-      "isMB": false,
       "sportMarketId": 70615,
-      "sv": "2.5",
-      "id": 1300559492,
+      "sv": "0.5",
+      "id": 1300559490,
       "name": "1st half - total"
     },
     {
@@ -3571,7 +3472,6 @@
       "variant": 9,
       "so": 0,
       "typeId": 65,
-      "isMB": false,
       "sportMarketId": 70607,
       "sv": "1:0",
       "id": 1300559592,
@@ -3597,7 +3497,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 66,
-      "isMB": true,
       "sportMarketId": 70610,
       "sv": "-0.5",
       "id": 1300559458,
@@ -3626,7 +3525,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 62,
-      "isMB": false,
       "sportMarketId": 70598,
       "sv": "1",
       "id": 1300559606,
@@ -3653,7 +3551,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17680,
-      "isMB": false,
       "sportMarketId": 72192,
       "id": 1300559559,
       "name": "1st half - USA to score"
@@ -3679,7 +3576,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17681,
-      "isMB": false,
       "sportMarketId": 72193,
       "id": 1300559601,
       "name": "1st half - Paraguay to score"
@@ -3726,7 +3622,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1300559623,
       "name": "1st half - correct score"
@@ -3752,7 +3647,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1300559521,
       "name": "1st half - both teams to score"
@@ -3782,7 +3676,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 69,
-      "isMB": true,
       "sportMarketId": 70620,
       "sv": "0.5",
       "id": 1300559480,
@@ -3813,10 +3706,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 70,
-      "isMB": false,
       "sportMarketId": 70625,
-      "sv": "1.5",
-      "id": 1300559483,
+      "sv": "0.5",
+      "id": 1300559482,
       "name": "1st half - Paraguay total"
     },
     {
@@ -3848,7 +3740,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 79,
-      "isMB": false,
       "sportMarketId": 70639,
       "sv": "1.5",
       "id": 1300559571,
@@ -3883,7 +3774,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 79,
-      "isMB": false,
       "sportMarketId": 70639,
       "sv": "2.5",
       "id": 1300559572,
@@ -3918,7 +3808,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 78,
-      "isMB": false,
       "sportMarketId": 70638,
       "id": 1300559564,
       "name": "1st half - 1x2 & both teams to score"
@@ -3952,7 +3841,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 542,
-      "isMB": false,
       "sportMarketId": 71008,
       "id": 1300559525,
       "name": "1st half - double chance & both teams to score"
@@ -4040,7 +3928,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 552,
-      "isMB": false,
       "sportMarketId": 71018,
       "id": 1300559654,
       "name": "1st half - multigoals"
@@ -4066,7 +3953,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 76,
-      "isMB": false,
       "sportMarketId": 70636,
       "id": 1300559555,
       "name": "1st half - USA Clean sheet"
@@ -4092,7 +3978,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 77,
-      "isMB": false,
       "sportMarketId": 70637,
       "id": 1300559597,
       "name": "1st half - Paraguay Clean sheet"
@@ -4118,7 +4003,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1300559552,
       "name": "1st half - Odd/even"
@@ -4144,7 +4028,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 618,
-      "isMB": false,
       "sportMarketId": 74491,
       "id": 1300559583,
       "name": "1st half - USA odd/even"
@@ -4170,7 +4053,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 619,
-      "isMB": false,
       "sportMarketId": 74492,
       "id": 1300559584,
       "name": "1st half - Paraguay odd/even"
@@ -4208,7 +4090,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31065,
-      "isMB": false,
       "sportMarketId": 74493,
       "id": 1300559633,
       "name": "1x2 (match) & 1st half both teams score"
@@ -4236,7 +4117,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 83,
-      "isMB": false,
       "sportMarketId": 70643,
       "id": 1300559542,
       "name": "2nd half - 1x2"
@@ -4264,7 +4144,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 85,
-      "isMB": false,
       "sportMarketId": 70648,
       "id": 1300559531,
       "name": "2nd half - double chance"
@@ -4295,7 +4174,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 90,
-      "isMB": false,
       "sportMarketId": 70657,
       "sv": "0.5",
       "id": 1300559494,
@@ -4331,7 +4209,6 @@
       "variant": 9,
       "so": 0,
       "typeId": 87,
-      "isMB": false,
       "sportMarketId": 70653,
       "sv": "0:1",
       "id": 1300559593,
@@ -4357,7 +4234,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 88,
-      "isMB": true,
       "sportMarketId": 70654,
       "sv": "-0.5",
       "id": 1300559460,
@@ -4386,7 +4262,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 84,
-      "isMB": false,
       "sportMarketId": 70647,
       "sv": "1",
       "id": 1300559607,
@@ -4434,7 +4309,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 98,
-      "isMB": false,
       "sportMarketId": 70668,
       "id": 1300559624,
       "name": "2nd half - correct score"
@@ -4460,7 +4334,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17682,
-      "isMB": false,
       "sportMarketId": 72194,
       "id": 1300559560,
       "name": "2nd half - USA to score"
@@ -4486,7 +4359,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17683,
-      "isMB": false,
       "sportMarketId": 72195,
       "id": 1300559602,
       "name": "2nd half - Paraguay to score"
@@ -4512,7 +4384,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1300559522,
       "name": "2nd half - both teams to score"
@@ -4546,7 +4417,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 544,
-      "isMB": false,
       "sportMarketId": 71010,
       "sv": "1.5",
       "id": 1300559573,
@@ -4581,7 +4451,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 543,
-      "isMB": false,
       "sportMarketId": 71009,
       "id": 1300559565,
       "name": "2nd half - 1x2 & both teams to score"
@@ -4615,7 +4484,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 545,
-      "isMB": false,
       "sportMarketId": 71011,
       "id": 1300559526,
       "name": "2nd half - double chance & both teams to score"
@@ -4653,10 +4521,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 91,
-      "isMB": true,
       "sportMarketId": 70660,
-      "sv": "0.5",
-      "id": 1319902506,
+      "sv": "2.5",
+      "id": 1319902504,
       "name": "2nd half - USA total"
     },
     {
@@ -4688,10 +4555,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 92,
-      "isMB": true,
       "sportMarketId": 70661,
-      "sv": "0.5",
-      "id": 1319901701,
+      "sv": "1.5",
+      "id": 1319901700,
       "name": "2nd half - Paraguay total"
     },
     {
@@ -4777,7 +4643,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 553,
-      "isMB": false,
       "sportMarketId": 71019,
       "id": 1300559655,
       "name": "2nd half - multigoals"
@@ -4811,7 +4676,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 93,
-      "isMB": false,
       "sportMarketId": 71659,
       "id": 1300559548,
       "name": "2nd half - exact goals"
@@ -4837,7 +4701,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 96,
-      "isMB": false,
       "sportMarketId": 70666,
       "id": 1300559556,
       "name": "2nd half - USA Clean sheet"
@@ -4863,7 +4726,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 97,
-      "isMB": false,
       "sportMarketId": 70667,
       "id": 1300559598,
       "name": "2nd half - Paraguay Clean sheet"
@@ -4889,7 +4751,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 94,
-      "isMB": false,
       "sportMarketId": 70662,
       "id": 1300559553,
       "name": "2nd half - odd/ even"
@@ -4898,28 +4759,27 @@
       "shortName": "1x2 (match) & 2nd half both teams score",
       "desktopOddIds": [
         [
-          3210046355,
           3210046349,
-          3210046352,
+          3210046355,
           3210046363,
-          3210046358,
-          3210046347
+          3210046352,
+          3210046347,
+          3210046358
         ]
       ],
       "mobileOddIds": [
         [
-          3210046355,
           3210046349,
-          3210046352,
+          3210046355,
           3210046363,
-          3210046358,
-          3210046347
+          3210046352,
+          3210046347,
+          3210046358
         ]
       ],
       "isBB": false,
       "so": 0,
       "typeId": 31066,
-      "isMB": false,
       "sportMarketId": 74494,
       "id": 1300559634,
       "name": "1x2 (match) & 2nd half both teams score"
@@ -5001,7 +4861,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 37,
-      "isMB": false,
       "sportMarketId": 70558,
       "sv": "4.5",
       "id": 1300559569,
@@ -5036,7 +4895,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 35,
-      "isMB": false,
       "sportMarketId": 70555,
       "id": 1300559563,
       "name": "1x2 & GG/NG"
@@ -5068,7 +4926,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 36,
-      "isMB": false,
       "sportMarketId": 70557,
       "sv": "2.5",
       "id": 1300559595,
@@ -5105,7 +4962,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 184,
-      "isMB": false,
       "sportMarketId": 70753,
       "sv": "1",
       "id": 1300559629,
@@ -5140,7 +4996,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "1.5",
       "id": 1300559532,
@@ -5175,7 +5030,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "2.5",
       "id": 1300559533,
@@ -5210,7 +5064,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "3.5",
       "id": 1300559534,
@@ -5245,7 +5098,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "4.5",
       "id": 1300559535,
@@ -5280,7 +5132,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "5.5",
       "id": 1300559536,
@@ -5315,7 +5166,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 546,
-      "isMB": false,
       "sportMarketId": 71012,
       "id": 1300559524,
       "name": "Double chance & both teams to score"
@@ -5371,7 +5221,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "1.5",
       "id": 1300559635,
@@ -5428,7 +5277,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "2.5",
       "id": 1300559636,
@@ -5485,7 +5333,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "3.5",
       "id": 1300559637,
@@ -5542,7 +5389,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "4.5",
       "id": 1300559638,
@@ -5599,7 +5445,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "5.5",
       "id": 1300559639,
@@ -5656,7 +5501,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "1.5",
       "id": 1300559640,
@@ -5713,7 +5557,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "2.5",
       "id": 1300559641,
@@ -5808,7 +5651,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 820,
-      "isMB": false,
       "sportMarketId": 71101,
       "id": 1300559643,
       "name": "Halftime/fulltime & exact goals"
@@ -5842,7 +5684,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 55,
-      "isMB": false,
       "sportMarketId": 70586,
       "id": 1300559621,
       "name": "1st/2nd half both teams to score"
@@ -5876,7 +5717,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 540,
-      "isMB": false,
       "sportMarketId": 71006,
       "id": 1300559630,
       "name": "Double chance (match) & 1st half both teams score"
@@ -5910,7 +5750,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 541,
-      "isMB": false,
       "sportMarketId": 71007,
       "id": 1300559631,
       "name": "Double chance (match) & 2nd half both teams score"
@@ -5930,7 +5769,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 854,
-      "isMB": true,
       "sportMarketId": 71110,
       "sv": "2.5",
       "id": 1542809186,
@@ -5951,7 +5789,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 856,
-      "isMB": true,
       "sportMarketId": 71112,
       "sv": "2.5",
       "id": 1542809188,
@@ -5972,7 +5809,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 858,
-      "isMB": true,
       "sportMarketId": 71114,
       "sv": "2.5",
       "id": 1542809179,
@@ -5993,7 +5829,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 855,
-      "isMB": true,
       "sportMarketId": 71111,
       "sv": "2.5",
       "id": 1542809187,
@@ -6014,7 +5849,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 857,
-      "isMB": true,
       "sportMarketId": 71113,
       "sv": "2.5",
       "id": 1542809189,
@@ -6035,7 +5869,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 859,
-      "isMB": true,
       "sportMarketId": 71115,
       "sv": "2.5",
       "id": 1542809190,
@@ -6056,7 +5889,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 860,
-      "isMB": false,
       "sportMarketId": 71116,
       "id": 1300559644,
       "name": "USA or both teams to score"
@@ -6076,7 +5908,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 861,
-      "isMB": false,
       "sportMarketId": 71117,
       "id": 1300559645,
       "name": "Draw or both teams to score"
@@ -6096,7 +5927,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 862,
-      "isMB": false,
       "sportMarketId": 71118,
       "id": 1300559646,
       "name": "Paraguay or both teams to score"
@@ -6116,7 +5946,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 863,
-      "isMB": false,
       "sportMarketId": 71119,
       "id": 1300559647,
       "name": "USA or any clean sheet"
@@ -6136,7 +5965,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 864,
-      "isMB": false,
       "sportMarketId": 71120,
       "id": 1300559648,
       "name": "Draw or any clean sheet"
@@ -6156,7 +5984,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 865,
-      "isMB": false,
       "sportMarketId": 71121,
       "id": 1300559649,
       "name": "Paraguay or any clean sheet"
@@ -6710,7 +6537,7 @@
     },
     {
       "typeId": 1711,
-      "price": 3.6,
+      "price": 3.6667,
       "isMB": false,
       "oddStatus": 0,
       "sv": "0:1",
@@ -6749,7 +6576,7 @@
     },
     {
       "typeId": 1712,
-      "price": 3.6667,
+      "price": 3.6,
       "isMB": false,
       "oddStatus": 0,
       "sv": "0:1",
@@ -7383,20 +7210,20 @@
       "name": "Only USA"
     },
     {
-      "typeId": 7,
-      "price": 10.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210045806,
-      "name": "None"
-    },
-    {
       "typeId": 792,
       "price": 1.8462,
       "isMB": false,
       "oddStatus": 0,
       "id": 3210045815,
       "name": "Both teams"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210045806,
+      "name": "None"
     },
     {
       "typeId": 74,
@@ -7607,20 +7434,20 @@
       "name": "1st half"
     },
     {
-      "typeId": 440,
-      "price": 3.25,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210045306,
-      "name": "Equal"
-    },
-    {
       "typeId": 438,
       "price": 2.1,
       "isMB": false,
       "oddStatus": 0,
       "id": 3210045304,
       "name": "2nd half"
+    },
+    {
+      "typeId": 440,
+      "price": 3.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210045306,
+      "name": "Equal"
     },
     {
       "typeId": 1750,
@@ -8079,14 +7906,6 @@
       "name": "1:2 4+"
     },
     {
-      "typeId": 730,
-      "price": 2.9,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046960,
-      "name": "0-1"
-    },
-    {
       "typeId": 1993,
       "price": 1.68,
       "isMB": false,
@@ -8095,12 +7914,12 @@
       "name": "0-2"
     },
     {
-      "typeId": 1988,
-      "price": 1.0834,
+      "typeId": 730,
+      "price": 2.9,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413303,
-      "name": "0-4"
+      "id": 3210046960,
+      "name": "0-1"
     },
     {
       "typeId": 710,
@@ -8111,12 +7930,12 @@
       "name": "0-3"
     },
     {
-      "typeId": 2048,
-      "price": 0,
+      "typeId": 1988,
+      "price": 1.0834,
       "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413304,
-      "name": "0-6"
+      "oddStatus": 0,
+      "id": 3297413303,
+      "name": "0-4"
     },
     {
       "typeId": 2359,
@@ -8125,6 +7944,14 @@
       "oddStatus": 0,
       "id": 3297413305,
       "name": "0-5"
+    },
+    {
+      "typeId": 2048,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3297413304,
+      "name": "0-6"
     },
     {
       "typeId": 1730,
@@ -8159,14 +7986,6 @@
       "name": "1-3"
     },
     {
-      "typeId": 1734,
-      "price": 1.077,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046925,
-      "name": "1-6"
-    },
-    {
       "typeId": 1733,
       "price": 1.1,
       "isMB": false,
@@ -8175,12 +7994,12 @@
       "name": "1-5"
     },
     {
-      "typeId": 1735,
-      "price": 1.9231,
+      "typeId": 1734,
+      "price": 1.077,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210046928,
-      "name": "2-3"
+      "id": 3210046925,
+      "name": "1-6"
     },
     {
       "typeId": 5248,
@@ -8191,12 +8010,12 @@
       "name": "1-7"
     },
     {
-      "typeId": 1737,
-      "price": 1.4,
+      "typeId": 1735,
+      "price": 1.9231,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210046934,
-      "name": "2-5"
+      "id": 3210046928,
+      "name": "2-3"
     },
     {
       "typeId": 1736,
@@ -8205,6 +8024,14 @@
       "oddStatus": 0,
       "id": 3210046931,
       "name": "2-4"
+    },
+    {
+      "typeId": 1737,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210046934,
+      "name": "2-5"
     },
     {
       "typeId": 5249,
@@ -8255,20 +8082,20 @@
       "name": "3-7"
     },
     {
-      "typeId": 1742,
-      "price": 4.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046951,
-      "name": "4-5"
-    },
-    {
       "typeId": 736,
       "price": 3.4,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413314,
       "name": "4+"
+    },
+    {
+      "typeId": 1742,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210046951,
+      "name": "4-5"
     },
     {
       "typeId": 5251,
@@ -8287,14 +8114,6 @@
       "name": "4-6"
     },
     {
-      "typeId": 1744,
-      "price": 7.5,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046955,
-      "name": "5-6"
-    },
-    {
       "typeId": 966,
       "price": 6.6667,
       "isMB": false,
@@ -8303,12 +8122,12 @@
       "name": "5+"
     },
     {
-      "typeId": 1766,
-      "price": 15.0,
+      "typeId": 1744,
+      "price": 7.5,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413302,
-      "name": "6+"
+      "id": 3210046955,
+      "name": "5-6"
     },
     {
       "typeId": 5252,
@@ -8317,6 +8136,14 @@
       "oddStatus": 0,
       "id": 3297413311,
       "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413302,
+      "name": "6+"
     },
     {
       "typeId": 5253,
@@ -9479,7 +9306,7 @@
     },
     {
       "typeId": 12,
-      "price": 5.75,
+      "price": 5.6667,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1.5",
@@ -9512,7 +9339,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.077,
+      "price": 1.0834,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1.5",
@@ -9713,16 +9540,6 @@
       "name": "No"
     },
     {
-      "typeId": 74,
-      "price": 8.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "isBB": true,
-      "isDBB": true,
-      "id": 3210047466,
-      "name": "Yes"
-    },
-    {
       "typeId": 76,
       "price": 1.0304,
       "isMB": false,
@@ -9733,14 +9550,14 @@
       "name": "No"
     },
     {
-      "typeId": 76,
-      "price": 1.01,
+      "typeId": 74,
+      "price": 8.0,
       "isMB": false,
       "oddStatus": 0,
       "isBB": true,
       "isDBB": true,
-      "id": 3210047471,
-      "name": "No"
+      "id": 3210047466,
+      "name": "Yes"
     },
     {
       "typeId": 74,
@@ -9751,6 +9568,16 @@
       "isDBB": true,
       "id": 3210047469,
       "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3210047471,
+      "name": "No"
     },
     {
       "typeId": 76,
@@ -9785,15 +9612,6 @@
       "name": "Yes"
     },
     {
-      "typeId": 74,
-      "price": 8.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "isDBB": true,
-      "id": 3210047466,
-      "name": "Yes"
-    },
-    {
       "typeId": 76,
       "price": 1.0304,
       "isMB": false,
@@ -9803,13 +9621,13 @@
       "name": "No"
     },
     {
-      "typeId": 76,
-      "price": 1.01,
+      "typeId": 74,
+      "price": 8.0,
       "isMB": false,
       "oddStatus": 0,
       "isDBB": true,
-      "id": 3210047471,
-      "name": "No"
+      "id": 3210047466,
+      "name": "Yes"
     },
     {
       "typeId": 74,
@@ -9819,6 +9637,15 @@
       "isDBB": true,
       "id": 3210047469,
       "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.01,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3210047471,
+      "name": "No"
     },
     {
       "typeId": 730,
@@ -9949,14 +9776,6 @@
       "name": "0-4"
     },
     {
-      "typeId": 2359,
-      "price": 0,
-      "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413374,
-      "name": "0-5"
-    },
-    {
       "typeId": 2048,
       "price": 0,
       "isMB": false,
@@ -9965,12 +9784,12 @@
       "name": "0-6"
     },
     {
-      "typeId": 5247,
+      "typeId": 2359,
       "price": 0,
       "isMB": false,
       "oddStatus": 7,
-      "id": 3297413375,
-      "name": "0-7"
+      "id": 3297413374,
+      "name": "0-5"
     },
     {
       "typeId": 1730,
@@ -9981,12 +9800,12 @@
       "name": "1-2"
     },
     {
-      "typeId": 1731,
-      "price": 1.32,
+      "typeId": 5247,
+      "price": 0,
       "isMB": false,
-      "oddStatus": 0,
-      "id": 3210047028,
-      "name": "1-3"
+      "oddStatus": 7,
+      "id": 3297413375,
+      "name": "0-7"
     },
     {
       "typeId": 1732,
@@ -9997,12 +9816,12 @@
       "name": "1-4"
     },
     {
-      "typeId": 1733,
-      "price": 1.2308,
+      "typeId": 1731,
+      "price": 1.32,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413362,
-      "name": "1-5"
+      "id": 3210047028,
+      "name": "1-3"
     },
     {
       "typeId": 1734,
@@ -10011,6 +9830,14 @@
       "oddStatus": 0,
       "id": 3297413363,
       "name": "1-6"
+    },
+    {
+      "typeId": 1733,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413362,
+      "name": "1-5"
     },
     {
       "typeId": 1735,
@@ -10077,14 +9904,6 @@
       "name": "3-5"
     },
     {
-      "typeId": 5250,
-      "price": 4.2,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3297413378,
-      "name": "3-7"
-    },
-    {
       "typeId": 1741,
       "price": 4.2,
       "isMB": false,
@@ -10093,12 +9912,12 @@
       "name": "3-6"
     },
     {
-      "typeId": 736,
-      "price": 11.0,
+      "typeId": 5250,
+      "price": 4.2,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210047053,
-      "name": "4+"
+      "id": 3297413378,
+      "name": "3-7"
     },
     {
       "typeId": 1742,
@@ -10109,12 +9928,12 @@
       "name": "4-5"
     },
     {
-      "typeId": 1743,
+      "typeId": 736,
       "price": 11.0,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413369,
-      "name": "4-6"
+      "id": 3210047053,
+      "name": "4+"
     },
     {
       "typeId": 5251,
@@ -10123,6 +9942,14 @@
       "oddStatus": 0,
       "id": 3297413379,
       "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413369,
+      "name": "4-6"
     },
     {
       "typeId": 966,
@@ -10197,20 +10024,20 @@
       "name": "0-2"
     },
     {
-      "typeId": 1988,
-      "price": 0,
-      "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413395,
-      "name": "0-4"
-    },
-    {
       "typeId": 710,
       "price": 0,
       "isMB": false,
       "oddStatus": 7,
       "id": 3297413405,
       "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3297413395,
+      "name": "0-4"
     },
     {
       "typeId": 2359,
@@ -10229,14 +10056,6 @@
       "name": "0-6"
     },
     {
-      "typeId": 1730,
-      "price": 1.6667,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210047059,
-      "name": "1-2"
-    },
-    {
       "typeId": 5247,
       "price": 0.0,
       "isMB": false,
@@ -10245,12 +10064,12 @@
       "name": "0-7"
     },
     {
-      "typeId": 1731,
-      "price": 1.52,
+      "typeId": 1730,
+      "price": 1.6667,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210047062,
-      "name": "1-3"
+      "id": 3210047059,
+      "name": "1-2"
     },
     {
       "typeId": 1732,
@@ -10259,6 +10078,14 @@
       "oddStatus": 0,
       "id": 3210047064,
       "name": "1-4"
+    },
+    {
+      "typeId": 1731,
+      "price": 1.52,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210047062,
+      "name": "1-3"
     },
     {
       "typeId": 1733,
@@ -10341,20 +10168,20 @@
       "name": "3-4"
     },
     {
-      "typeId": 1741,
-      "price": 8.5,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3297413390,
-      "name": "3-6"
-    },
-    {
       "typeId": 5250,
       "price": 8.5,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413401,
       "name": "3-7"
+    },
+    {
+      "typeId": 1741,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413390,
+      "name": "3-6"
     },
     {
       "typeId": 1742,
@@ -10373,14 +10200,6 @@
       "name": "4+"
     },
     {
-      "typeId": 5251,
-      "price": 26.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3297413402,
-      "name": "4-7"
-    },
-    {
       "typeId": 1743,
       "price": 26.0,
       "isMB": false,
@@ -10389,12 +10208,12 @@
       "name": "4-6"
     },
     {
-      "typeId": 1744,
-      "price": 41.0,
+      "typeId": 5251,
+      "price": 26.0,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413393,
-      "name": "5-6"
+      "id": 3297413402,
+      "name": "4-7"
     },
     {
       "typeId": 966,
@@ -10405,12 +10224,12 @@
       "name": "5+"
     },
     {
-      "typeId": 1766,
+      "typeId": 1744,
       "price": 41.0,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413394,
-      "name": "6+"
+      "id": 3297413393,
+      "name": "5-6"
     },
     {
       "typeId": 5252,
@@ -10419,6 +10238,14 @@
       "oddStatus": 0,
       "id": 3297413403,
       "name": "5-7"
+    },
+    {
+      "typeId": 1766,
+      "price": 41.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413394,
+      "name": "6+"
     },
     {
       "typeId": 5253,
@@ -10689,15 +10516,6 @@
       "name": "Paraguay"
     },
     {
-      "typeId": 74,
-      "price": 2.4,
-      "isMB": false,
-      "oddStatus": 0,
-      "sv": "2",
-      "id": 3210047431,
-      "name": "Yes"
-    },
-    {
       "typeId": 76,
       "price": 1.4706,
       "isMB": false,
@@ -10705,6 +10523,15 @@
       "sv": "2",
       "id": 3210047433,
       "name": "No"
+    },
+    {
+      "typeId": 74,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 3210047431,
+      "name": "Yes"
     },
     {
       "typeId": 76,
@@ -10725,15 +10552,6 @@
       "name": "Yes"
     },
     {
-      "typeId": 76,
-      "price": 1.875,
-      "isMB": false,
-      "oddStatus": 0,
-      "sv": "2",
-      "id": 3210047439,
-      "name": "No"
-    },
-    {
       "typeId": 74,
       "price": 1.8,
       "isMB": false,
@@ -10741,6 +10559,15 @@
       "sv": "2",
       "id": 3210047437,
       "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.875,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2",
+      "id": 3210047439,
+      "name": "No"
     },
     {
       "typeId": 76,
@@ -10793,20 +10620,20 @@
       "name": "Yes"
     },
     {
-      "typeId": 76,
-      "price": 1.6,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210047450,
-      "name": "No"
-    },
-    {
       "typeId": 74,
       "price": 2.1429,
       "isMB": false,
       "oddStatus": 0,
       "id": 3210047447,
       "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210047450,
+      "name": "No"
     },
     {
       "typeId": 1,
@@ -11474,14 +11301,6 @@
       "name": "X2 & no"
     },
     {
-      "typeId": 730,
-      "price": 1.35,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046989,
-      "name": "0-1"
-    },
-    {
       "typeId": 1993,
       "price": 1.077,
       "isMB": false,
@@ -11490,12 +11309,12 @@
       "name": "0-2"
     },
     {
-      "typeId": 710,
-      "price": 1.02,
+      "typeId": 730,
+      "price": 1.35,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413336,
-      "name": "0-3"
+      "id": 3210046989,
+      "name": "0-1"
     },
     {
       "typeId": 1988,
@@ -11506,12 +11325,12 @@
       "name": "0-4"
     },
     {
-      "typeId": 2048,
-      "price": 0,
+      "typeId": 710,
+      "price": 1.02,
       "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413327,
-      "name": "0-6"
+      "oddStatus": 0,
+      "id": 3297413336,
+      "name": "0-3"
     },
     {
       "typeId": 2359,
@@ -11522,12 +11341,12 @@
       "name": "0-5"
     },
     {
-      "typeId": 1730,
-      "price": 1.6,
+      "typeId": 2048,
+      "price": 0,
       "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046969,
-      "name": "1-2"
+      "oddStatus": 7,
+      "id": 3297413327,
+      "name": "0-6"
     },
     {
       "typeId": 5247,
@@ -11538,12 +11357,12 @@
       "name": "0-7"
     },
     {
-      "typeId": 1732,
-      "price": 1.3847,
+      "typeId": 1730,
+      "price": 1.6,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210046974,
-      "name": "1-4"
+      "id": 3210046969,
+      "name": "1-2"
     },
     {
       "typeId": 1731,
@@ -11552,6 +11371,14 @@
       "oddStatus": 0,
       "id": 3210046972,
       "name": "1-3"
+    },
+    {
+      "typeId": 1732,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210046974,
+      "name": "1-4"
     },
     {
       "typeId": 1733,
@@ -11586,20 +11413,20 @@
       "name": "2-3"
     },
     {
-      "typeId": 1736,
-      "price": 2.8,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046980,
-      "name": "2-4"
-    },
-    {
       "typeId": 1737,
       "price": 2.75,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413318,
       "name": "2-5"
+    },
+    {
+      "typeId": 1736,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210046980,
+      "name": "2-4"
     },
     {
       "typeId": 1738,
@@ -11618,20 +11445,20 @@
       "name": "2-7"
     },
     {
-      "typeId": 1739,
-      "price": 7.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046983,
-      "name": "3-4"
-    },
-    {
       "typeId": 1740,
       "price": 6.6667,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413320,
       "name": "3-5"
+    },
+    {
+      "typeId": 1739,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3210046983,
+      "name": "3-4"
     },
     {
       "typeId": 5250,
@@ -11666,20 +11493,20 @@
       "name": "4-5"
     },
     {
-      "typeId": 1743,
-      "price": 20.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3297413323,
-      "name": "4-6"
-    },
-    {
       "typeId": 5251,
       "price": 20.0,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413333,
       "name": "4-7"
+    },
+    {
+      "typeId": 1743,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413323,
+      "name": "4-6"
     },
     {
       "typeId": 1744,
@@ -12043,7 +11870,7 @@
     },
     {
       "typeId": 1,
-      "price": 2.05,
+      "price": 2.0,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1",
@@ -12053,7 +11880,7 @@
     },
     {
       "typeId": 7,
-      "price": 3.3334,
+      "price": 3.4,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1",
@@ -12062,7 +11889,7 @@
     },
     {
       "typeId": 3,
-      "price": 2.9,
+      "price": 3.0,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1",
@@ -12458,7 +12285,7 @@
     },
     {
       "typeId": 12,
-      "price": 5.75,
+      "price": 5.6667,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1.5",
@@ -12488,7 +12315,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.077,
+      "price": 1.0834,
       "isMB": false,
       "oddStatus": 0,
       "sv": "1.5",
@@ -12523,20 +12350,20 @@
       "name": "0-2"
     },
     {
-      "typeId": 1988,
-      "price": 0,
-      "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413349,
-      "name": "0-4"
-    },
-    {
       "typeId": 710,
       "price": 1.0304,
       "isMB": false,
       "oddStatus": 0,
       "id": 3297413359,
       "name": "0-3"
+    },
+    {
+      "typeId": 1988,
+      "price": 0,
+      "isMB": false,
+      "oddStatus": 7,
+      "id": 3297413349,
+      "name": "0-4"
     },
     {
       "typeId": 2048,
@@ -12555,14 +12382,6 @@
       "name": "0-5"
     },
     {
-      "typeId": 5247,
-      "price": 0,
-      "isMB": false,
-      "oddStatus": 7,
-      "id": 3297413352,
-      "name": "0-7"
-    },
-    {
       "typeId": 1730,
       "price": 1.5715,
       "isMB": false,
@@ -12571,12 +12390,12 @@
       "name": "1-2"
     },
     {
-      "typeId": 1731,
-      "price": 1.3334,
+      "typeId": 5247,
+      "price": 0,
       "isMB": false,
-      "oddStatus": 0,
-      "id": 3210047001,
-      "name": "1-3"
+      "oddStatus": 7,
+      "id": 3297413352,
+      "name": "0-7"
     },
     {
       "typeId": 1732,
@@ -12587,12 +12406,12 @@
       "name": "1-4"
     },
     {
-      "typeId": 1733,
-      "price": 1.2667,
+      "typeId": 1731,
+      "price": 1.3334,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413339,
-      "name": "1-5"
+      "id": 3210047001,
+      "name": "1-3"
     },
     {
       "typeId": 1734,
@@ -12603,12 +12422,12 @@
       "name": "1-6"
     },
     {
-      "typeId": 5248,
+      "typeId": 1733,
       "price": 1.2667,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413353,
-      "name": "1-7"
+      "id": 3297413339,
+      "name": "1-5"
     },
     {
       "typeId": 1735,
@@ -12619,12 +12438,12 @@
       "name": "2-3"
     },
     {
-      "typeId": 1737,
-      "price": 2.2223,
+      "typeId": 5248,
+      "price": 1.2667,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413341,
-      "name": "2-5"
+      "id": 3297413353,
+      "name": "1-7"
     },
     {
       "typeId": 1736,
@@ -12635,12 +12454,12 @@
       "name": "2-4"
     },
     {
-      "typeId": 5249,
-      "price": 2.2,
+      "typeId": 1737,
+      "price": 2.2223,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413354,
-      "name": "2-7"
+      "id": 3297413341,
+      "name": "2-5"
     },
     {
       "typeId": 1738,
@@ -12649,6 +12468,14 @@
       "oddStatus": 0,
       "id": 3297413342,
       "name": "2-6"
+    },
+    {
+      "typeId": 5249,
+      "price": 2.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413354,
+      "name": "2-7"
     },
     {
       "typeId": 1739,
@@ -12683,14 +12510,6 @@
       "name": "3-6"
     },
     {
-      "typeId": 1742,
-      "price": 13.0,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3297413345,
-      "name": "4-5"
-    },
-    {
       "typeId": 736,
       "price": 12.0,
       "isMB": false,
@@ -12699,12 +12518,12 @@
       "name": "4+"
     },
     {
-      "typeId": 5251,
-      "price": 12.0,
+      "typeId": 1742,
+      "price": 13.0,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413356,
-      "name": "4-7"
+      "id": 3297413345,
+      "name": "4-5"
     },
     {
       "typeId": 1743,
@@ -12715,12 +12534,12 @@
       "name": "4-6"
     },
     {
-      "typeId": 1744,
-      "price": 31.0,
+      "typeId": 5251,
+      "price": 12.0,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3297413347,
-      "name": "5-6"
+      "id": 3297413356,
+      "name": "4-7"
     },
     {
       "typeId": 966,
@@ -12729,6 +12548,14 @@
       "oddStatus": 0,
       "id": 3297413361,
       "name": "5+"
+    },
+    {
+      "typeId": 1744,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 3297413347,
+      "name": "5-6"
     },
     {
       "typeId": 5252,
@@ -12867,14 +12694,6 @@
       "name": "Even"
     },
     {
-      "typeId": 84,
-      "price": 4.5,
-      "isMB": false,
-      "oddStatus": 0,
-      "id": 3210046355,
-      "name": "Draw & no"
-    },
-    {
       "typeId": 80,
       "price": 2.3334,
       "isMB": false,
@@ -12884,12 +12703,12 @@
       "name": "USA & no"
     },
     {
-      "typeId": 82,
-      "price": 11.0,
+      "typeId": 84,
+      "price": 4.5,
       "isMB": false,
       "oddStatus": 0,
-      "id": 3210046352,
-      "name": "Draw & yes"
+      "id": 3210046355,
+      "name": "Draw & no"
     },
     {
       "typeId": 88,
@@ -12901,13 +12720,12 @@
       "name": "Paraguay & no"
     },
     {
-      "typeId": 86,
-      "price": 14.0,
+      "typeId": 82,
+      "price": 11.0,
       "isMB": false,
       "oddStatus": 0,
-      "competitorId": 47673,
-      "id": 3210046358,
-      "name": "Paraguay & yes"
+      "id": 3210046352,
+      "name": "Draw & yes"
     },
     {
       "typeId": 78,
@@ -12917,6 +12735,15 @@
       "competitorId": 47685,
       "id": 3210046347,
       "name": "USA & yes"
+    },
+    {
+      "typeId": 86,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47673,
+      "id": 3210046358,
+      "name": "Paraguay & yes"
     },
     {
       "typeId": 660,

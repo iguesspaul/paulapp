@@ -55,6 +55,26 @@
       "name": "Main"
     },
     {
+      "type": 3,
+      "marketIds": [
+        1570535262,
+        1570535254,
+        1570535259,
+        1570535252,
+        1570535257,
+        1570535497,
+        1570535263,
+        1570535260,
+        1570535256,
+        1570535498,
+        1570535258
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
       "type": 0,
       "marketIds": [
         1570535263,
@@ -88,7 +108,6 @@
       "variant": 7,
       "so": 0,
       "typeId": 31046,
-      "isMB": false,
       "sportMarketId": 0,
       "id": 31046,
       "name": "Boosted Odds"
@@ -120,7 +139,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1570535262,
       "name": "1x2"
@@ -148,7 +166,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1570535259,
       "name": "Double chance"
@@ -175,7 +192,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 18,
-      "isMB": true,
       "sportMarketId": 70520,
       "sv": "2.5",
       "id": 1570535254,
@@ -202,7 +218,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1570535257,
       "name": "Both Teams To Score"
@@ -228,7 +243,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 11,
-      "isMB": false,
       "sportMarketId": 70500,
       "id": 1570535265,
       "name": "Draw no bet"
@@ -260,7 +274,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 8,
-      "isMB": true,
       "sportMarketId": 70491,
       "sv": "1",
       "id": 1570535272,
@@ -340,7 +353,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1570535258,
       "name": "Correct score"
@@ -367,7 +379,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 16,
-      "isMB": true,
       "sportMarketId": 70515,
       "sv": "-0.5",
       "id": 1570535252,
@@ -408,7 +419,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 47,
-      "isMB": false,
       "sportMarketId": 70568,
       "id": 1570535268,
       "name": "Halftime/fulltime"
@@ -434,7 +444,168 @@
       "isBB": false,
       "so": 0,
       "typeId": 26,
-      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1570535497,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          3992418832
+        ],
+        [
+          3992418833
+        ],
+        [
+          3992418834
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418832
+        ],
+        [
+          3992418833
+        ],
+        [
+          3992418834
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1570535262,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          3992418789
+        ],
+        [
+          3992418790
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418789
+        ],
+        [
+          3992418790
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1570535254,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          3992418825
+        ],
+        [
+          3992418823
+        ],
+        [
+          3992418824
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418825,
+          3992418823,
+          3992418824
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1570535259,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          3992418785
+        ],
+        [
+          3992418786
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418785
+        ],
+        [
+          3992418786
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1570535252,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          3992418795
+        ],
+        [
+          3992418796
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418795
+        ],
+        [
+          3992418796
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1570535257,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          3992419482
+        ],
+        [
+          3992419483
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992419482
+        ],
+        [
+          3992419483
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
       "sportMarketId": 70535,
       "id": 1570535497,
       "name": "Odd/even"
@@ -459,10 +630,193 @@
           3992418837
         ]
       ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1570535263,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          3992418828
+        ],
+        [
+          3992418826
+        ],
+        [
+          3992418827
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418828,
+          3992418826,
+          3992418827
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1570535260,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          3992418793
+        ],
+        [
+          3992418794
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418793
+        ],
+        [
+          3992418794
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1570535256,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          3992419484
+        ],
+        [
+          3992419485
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992419484
+        ],
+        [
+          3992419485
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1570535498,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          3992418798,
+          3992418799,
+          3992418804,
+          3992418800,
+          3992418805,
+          3992418810,
+          3992418801,
+          3992418806,
+          3992418811,
+          3992418819
+        ],
+        [
+          3992418797,
+          3992418803,
+          3992418809,
+          3992418815,
+          3992418821,
+          3992418822
+        ],
+        [
+          3992418802,
+          3992418807,
+          3992418808,
+          3992418812,
+          3992418813,
+          3992418814,
+          3992418816,
+          3992418817,
+          3992418818,
+          3992418820
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418798,
+          3992418799,
+          3992418804,
+          3992418800,
+          3992418805,
+          3992418810,
+          3992418801,
+          3992418806,
+          3992418811,
+          3992418819
+        ],
+        [
+          3992418797,
+          3992418803,
+          3992418809,
+          3992418815,
+          3992418821,
+          3992418822
+        ],
+        [
+          3992418802,
+          3992418807,
+          3992418808,
+          3992418812,
+          3992418813,
+          3992418814,
+          3992418816,
+          3992418817,
+          3992418818,
+          3992418820
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1570535258,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          3992418835
+        ],
+        [
+          3992418836
+        ],
+        [
+          3992418837
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          3992418835,
+          3992418836,
+          3992418837
+        ]
+      ],
       "isBB": false,
       "so": 0,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1570535263,
       "name": "1st half - 1x2"
@@ -490,7 +844,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1570535260,
       "name": "1st half - double chance"
@@ -517,7 +870,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "1.5",
       "id": 1570535256,
@@ -544,7 +896,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1570535498,
       "name": "1st half - Odd/even"
@@ -572,7 +923,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 83,
-      "isMB": false,
       "sportMarketId": 70643,
       "id": 1570535264,
       "name": "2nd half - 1x2"
@@ -586,6 +936,7 @@
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418832,
       "name": "FC Tulsa"
     },
@@ -594,6 +945,7 @@
       "price": 3.3334,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418833,
       "name": "X"
     },
@@ -603,6 +955,7 @@
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418834,
       "name": "Hartford Athletic"
     },
@@ -612,6 +965,7 @@
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418825,
       "name": "FC Tulsa or draw"
     },
@@ -620,6 +974,7 @@
       "price": 1.2667,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418823,
       "name": "FC Tulsa or Hartford Athletic"
     },
@@ -629,6 +984,7 @@
       "isMB": false,
       "oddStatus": 0,
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418824,
       "name": "Draw or Hartford Athletic"
     },
@@ -638,6 +994,7 @@
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
+      "isDBB": true,
       "id": 3992418789,
       "name": "Over 2.5"
     },
@@ -647,6 +1004,7 @@
       "isMB": true,
       "oddStatus": 0,
       "sv": "2.5",
+      "isDBB": true,
       "id": 3992418790,
       "name": "Under 2.5"
     },
@@ -655,6 +1013,7 @@
       "price": 1.7143,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418795,
       "name": "Yes"
     },
@@ -663,6 +1022,7 @@
       "price": 1.9334,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418796,
       "name": "No"
     },
@@ -691,6 +1051,7 @@
       "oddStatus": 0,
       "sv": "1",
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418865,
       "name": "FC Tulsa"
     },
@@ -700,6 +1061,7 @@
       "isMB": true,
       "oddStatus": 0,
       "sv": "1",
+      "isDBB": true,
       "id": 3992418867,
       "name": "None"
     },
@@ -710,6 +1072,7 @@
       "oddStatus": 0,
       "sv": "1",
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418866,
       "name": "Hartford Athletic"
     },
@@ -718,6 +1081,7 @@
       "price": 6.3334,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418798,
       "name": "1:0"
     },
@@ -726,6 +1090,7 @@
       "price": 8.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418799,
       "name": "2:0"
     },
@@ -734,6 +1099,7 @@
       "price": 7.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418804,
       "name": "2:1"
     },
@@ -742,6 +1108,7 @@
       "price": 15.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418800,
       "name": "3:0"
     },
@@ -750,6 +1117,7 @@
       "price": 13.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418805,
       "name": "3:1"
     },
@@ -758,6 +1126,7 @@
       "price": 26.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418810,
       "name": "3:2"
     },
@@ -766,6 +1135,7 @@
       "price": 36.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418801,
       "name": "4:0"
     },
@@ -774,6 +1144,7 @@
       "price": 36.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418806,
       "name": "4:1"
     },
@@ -782,6 +1153,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418811,
       "name": "4:2"
     },
@@ -790,6 +1162,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418819,
       "name": "4:3"
     },
@@ -798,6 +1171,7 @@
       "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418797,
       "name": "0:0"
     },
@@ -806,6 +1180,7 @@
       "price": 5.5,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418803,
       "name": "1:1"
     },
@@ -814,6 +1189,7 @@
       "price": 12.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418809,
       "name": "2:2"
     },
@@ -822,6 +1198,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418815,
       "name": "3:3"
     },
@@ -830,6 +1207,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418821,
       "name": "4:4"
     },
@@ -838,6 +1216,7 @@
       "price": 26.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418822,
       "name": "Other"
     },
@@ -846,6 +1225,7 @@
       "price": 9.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418802,
       "name": "0:1"
     },
@@ -854,6 +1234,7 @@
       "price": 16.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418807,
       "name": "0:2"
     },
@@ -862,6 +1243,7 @@
       "price": 10.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418808,
       "name": "1:2"
     },
@@ -870,6 +1252,7 @@
       "price": 46.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418812,
       "name": "0:3"
     },
@@ -878,6 +1261,7 @@
       "price": 26.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418813,
       "name": "1:3"
     },
@@ -886,6 +1270,7 @@
       "price": 36.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418814,
       "name": "2:3"
     },
@@ -894,6 +1279,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418816,
       "name": "0:4"
     },
@@ -902,6 +1288,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418817,
       "name": "1:4"
     },
@@ -910,6 +1297,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418818,
       "name": "2:4"
     },
@@ -918,6 +1306,7 @@
       "price": 51.0,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992418820,
       "name": "3:4"
     },
@@ -928,6 +1317,7 @@
       "oddStatus": 0,
       "sv": "-0.5",
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418785,
       "name": "FC Tulsa (-0.5)"
     },
@@ -938,6 +1328,7 @@
       "oddStatus": 0,
       "sv": "-0.5",
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418786,
       "name": "Hartford Athletic (+0.5)"
     },
@@ -1024,6 +1415,7 @@
       "price": 1.8889,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
       "id": 3992419482,
       "name": "Odd"
     },
@@ -1032,6 +1424,157 @@
       "price": 1.8182,
       "isMB": false,
       "oddStatus": 0,
+      "isDBB": true,
+      "id": 3992419483,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73263,
+      "isDBB": true,
+      "id": 3992418832,
+      "name": "FC Tulsa"
+    },
+    {
+      "typeId": 2,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418833,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 74698,
+      "isDBB": true,
+      "id": 3992418834,
+      "name": "Hartford Athletic"
+    },
+    {
+      "typeId": 12,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418789,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.8182,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418790,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 73263,
+      "isDBB": true,
+      "id": 3992418825,
+      "name": "FC Tulsa or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418823,
+      "name": "FC Tulsa or Hartford Athletic"
+    },
+    {
+      "typeId": 11,
+      "price": 1.6924,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 74698,
+      "isDBB": true,
+      "id": 3992418824,
+      "name": "Draw or Hartford Athletic"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.8889,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 73263,
+      "isDBB": true,
+      "id": 3992418785,
+      "name": "FC Tulsa (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.75,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 74698,
+      "isDBB": true,
+      "id": 3992418786,
+      "name": "Hartford Athletic (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418795,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418796,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992419482,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
       "id": 3992419483,
       "name": "Even"
     },
@@ -1040,7 +1583,9 @@
       "price": 2.4,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418835,
       "name": "FC Tulsa"
     },
@@ -1049,6 +1594,8 @@
       "price": 2.125,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
       "id": 3992418836,
       "name": "Draw"
     },
@@ -1057,7 +1604,9 @@
       "price": 3.8,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418837,
       "name": "Hartford Athletic"
     },
@@ -1066,7 +1615,9 @@
       "price": 1.2223,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
       "competitorId": 73263,
+      "isDBB": true,
       "id": 3992418828,
       "name": "FC Tulsa or draw"
     },
@@ -1075,6 +1626,8 @@
       "price": 1.5455,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
       "id": 3992418826,
       "name": "FC Tulsa or Hartford Athletic"
     },
@@ -1083,7 +1636,9 @@
       "price": 1.4167,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
       "competitorId": 74698,
+      "isDBB": true,
       "id": 3992418827,
       "name": "Draw or Hartford Athletic"
     },
@@ -1093,6 +1648,8 @@
       "isMB": true,
       "oddStatus": 0,
       "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
       "id": 3992418793,
       "name": "Over 1.5"
     },
@@ -1102,6 +1659,8 @@
       "isMB": true,
       "oddStatus": 0,
       "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
       "id": 3992418794,
       "name": "Under 1.5"
     },
@@ -1110,6 +1669,8 @@
       "price": 2.0,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
       "id": 3992419484,
       "name": "Odd"
     },
@@ -1118,6 +1679,364 @@
       "price": 1.6667,
       "isMB": false,
       "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992419485,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418798,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418799,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418804,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418800,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418805,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418810,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418801,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418806,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418811,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418819,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418797,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418803,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418809,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418815,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418821,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418822,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 9.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418802,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418807,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418808,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418812,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418813,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418814,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418816,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418817,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418818,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 3992418820,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 2.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73263,
+      "isDBB": true,
+      "id": 3992418835,
+      "name": "FC Tulsa"
+    },
+    {
+      "typeId": 2,
+      "price": 2.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3992418836,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74698,
+      "isDBB": true,
+      "id": 3992418837,
+      "name": "Hartford Athletic"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 73263,
+      "isDBB": true,
+      "id": 3992418828,
+      "name": "FC Tulsa or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3992418826,
+      "name": "FC Tulsa or Hartford Athletic"
+    },
+    {
+      "typeId": 11,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 74698,
+      "isDBB": true,
+      "id": 3992418827,
+      "name": "Draw or Hartford Athletic"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3992418793,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 3992418794,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 3992419484,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
       "id": 3992419485,
       "name": "Even"
     },

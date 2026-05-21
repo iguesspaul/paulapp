@@ -1,0 +1,2077 @@
+{
+  "id": 15300612,
+  "feedEventId": 21023407,
+  "name": "Arsenal Sarandi vs. Villa San Carlos",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 3979,
+    "name": "Primera B"
+  },
+  "category": {
+    "iso": "ARG",
+    "hasLiveEvents": false,
+    "id": 574,
+    "name": "Argentina"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 46829,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 59470,
+      "name": "Villa San Carlos"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1577319365,
+        1577319361,
+        1577319354,
+        1577319358,
+        1577319368,
+        1577319378,
+        1577319359,
+        1577319350,
+        1577319371,
+        1577319605
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1577319365,
+        1577319354,
+        1577319361,
+        1577319350,
+        1577319358,
+        1577319605,
+        1577319366,
+        1577319362,
+        1577319356,
+        1577319606,
+        1577319359
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577319366,
+        1577319362,
+        1577319356,
+        1577319606
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1577319367
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4013347187
+        ],
+        [
+          4013347188
+        ],
+        [
+          4013347189
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347187
+        ],
+        [
+          4013347188
+        ],
+        [
+          4013347189
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577319365,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4013347174
+        ],
+        [
+          4013347172
+        ],
+        [
+          4013347173
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347174,
+          4013347172,
+          4013347173
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577319361,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4013347130
+        ],
+        [
+          4013347131
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347130
+        ],
+        [
+          4013347131
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1577319354,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4013347138
+        ],
+        [
+          4013347139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347138
+        ],
+        [
+          4013347139
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577319358,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4013347196
+        ],
+        [
+          4013347197
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347196
+        ],
+        [
+          4013347197
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1577319368,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4013347236
+        ],
+        [
+          4013347238
+        ],
+        [
+          4013347237
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347236
+        ],
+        [
+          4013347238
+        ],
+        [
+          4013347237
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1577319378,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4013347141,
+          4013347142,
+          4013347147,
+          4013347143,
+          4013347148,
+          4013347153,
+          4013347144,
+          4013347149,
+          4013347154,
+          4013347162
+        ],
+        [
+          4013347140,
+          4013347146,
+          4013347152,
+          4013347158,
+          4013347164,
+          4013347165
+        ],
+        [
+          4013347145,
+          4013347150,
+          4013347151,
+          4013347155,
+          4013347156,
+          4013347157,
+          4013347159,
+          4013347160,
+          4013347161,
+          4013347163
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347141,
+          4013347142,
+          4013347147,
+          4013347143,
+          4013347148,
+          4013347153,
+          4013347144,
+          4013347149,
+          4013347154,
+          4013347162
+        ],
+        [
+          4013347140,
+          4013347146,
+          4013347152,
+          4013347158,
+          4013347164,
+          4013347165
+        ],
+        [
+          4013347145,
+          4013347150,
+          4013347151,
+          4013347155,
+          4013347156,
+          4013347157,
+          4013347159,
+          4013347160,
+          4013347161,
+          4013347163
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1577319359,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4013347122
+        ],
+        [
+          4013347123
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347122
+        ],
+        [
+          4013347123
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1577319350,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4013347202,
+          4013347205,
+          4013347208
+        ],
+        [
+          4013347203,
+          4013347206,
+          4013347209
+        ],
+        [
+          4013347204,
+          4013347207,
+          4013347210
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347202,
+          4013347203,
+          4013347204,
+          4013347205,
+          4013347206,
+          4013347207,
+          4013347208,
+          4013347209,
+          4013347210
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1577319371,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4013347880
+        ],
+        [
+          4013347881
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347880
+        ],
+        [
+          4013347881
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577319605,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4013347187
+        ],
+        [
+          4013347188
+        ],
+        [
+          4013347189
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347187
+        ],
+        [
+          4013347188
+        ],
+        [
+          4013347189
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1577319365,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4013347130
+        ],
+        [
+          4013347131
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347130
+        ],
+        [
+          4013347131
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1577319354,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4013347174
+        ],
+        [
+          4013347172
+        ],
+        [
+          4013347173
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347174,
+          4013347172,
+          4013347173
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1577319361,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4013347122
+        ],
+        [
+          4013347123
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347122
+        ],
+        [
+          4013347123
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1577319350,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4013347138
+        ],
+        [
+          4013347139
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347138
+        ],
+        [
+          4013347139
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1577319358,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4013347880
+        ],
+        [
+          4013347881
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347880
+        ],
+        [
+          4013347881
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1577319605,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4013347190
+        ],
+        [
+          4013347191
+        ],
+        [
+          4013347192
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347190,
+          4013347191,
+          4013347192
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577319366,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4013347177
+        ],
+        [
+          4013347175
+        ],
+        [
+          4013347176
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347177,
+          4013347175,
+          4013347176
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577319362,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4013347134
+        ],
+        [
+          4013347135
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347134
+        ],
+        [
+          4013347135
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1577319356,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4013347882
+        ],
+        [
+          4013347883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347882
+        ],
+        [
+          4013347883
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577319606,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4013347141,
+          4013347142,
+          4013347147,
+          4013347143,
+          4013347148,
+          4013347153,
+          4013347144,
+          4013347149,
+          4013347154,
+          4013347162
+        ],
+        [
+          4013347140,
+          4013347146,
+          4013347152,
+          4013347158,
+          4013347164,
+          4013347165
+        ],
+        [
+          4013347145,
+          4013347150,
+          4013347151,
+          4013347155,
+          4013347156,
+          4013347157,
+          4013347159,
+          4013347160,
+          4013347161,
+          4013347163
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347141,
+          4013347142,
+          4013347147,
+          4013347143,
+          4013347148,
+          4013347153,
+          4013347144,
+          4013347149,
+          4013347154,
+          4013347162
+        ],
+        [
+          4013347140,
+          4013347146,
+          4013347152,
+          4013347158,
+          4013347164,
+          4013347165
+        ],
+        [
+          4013347145,
+          4013347150,
+          4013347151,
+          4013347155,
+          4013347156,
+          4013347157,
+          4013347159,
+          4013347160,
+          4013347161,
+          4013347163
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1577319359,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4013347190
+        ],
+        [
+          4013347191
+        ],
+        [
+          4013347192
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347190,
+          4013347191,
+          4013347192
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1577319366,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4013347177
+        ],
+        [
+          4013347175
+        ],
+        [
+          4013347176
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347177,
+          4013347175,
+          4013347176
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1577319362,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4013347134
+        ],
+        [
+          4013347135
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347134
+        ],
+        [
+          4013347135
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1577319356,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4013347882
+        ],
+        [
+          4013347883
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347882
+        ],
+        [
+          4013347883
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1577319606,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4013347193
+        ],
+        [
+          4013347194
+        ],
+        [
+          4013347195
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013347193,
+          4013347194,
+          4013347195
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1577319367,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347187,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347188,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347189,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 9,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347174,
+      "name": "Arsenal Sarandi or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347172,
+      "name": "Arsenal Sarandi or Villa San Carlos"
+    },
+    {
+      "typeId": 11,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347173,
+      "name": "Draw or Villa San Carlos"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4013347130,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4013347131,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347138,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347139,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "id": 4013347196,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 3,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "id": 4013347197,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 1,
+      "price": 1.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347236,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 7,
+      "price": 8.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4013347238,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 3.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347237,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 114,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347141,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347142,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347147,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347143,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347148,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347153,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347144,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347149,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347154,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347162,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347140,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347146,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347152,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347158,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347164,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347165,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347145,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347150,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347151,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347155,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347156,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347157,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347159,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347160,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347161,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347163,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347122,
+      "name": "Arsenal Sarandi (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347123,
+      "name": "Villa San Carlos (+0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "id": 4013347202,
+      "name": "Arsenal Sarandi/Arsenal Sarandi"
+    },
+    {
+      "typeId": 420,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "id": 4013347203,
+      "name": "Arsenal Sarandi/X"
+    },
+    {
+      "typeId": 422,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4013347204,
+      "name": "Arsenal Sarandi/Villa San Carlos"
+    },
+    {
+      "typeId": 424,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "id": 4013347205,
+      "name": "X/Arsenal Sarandi"
+    },
+    {
+      "typeId": 426,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4013347206,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "id": 4013347207,
+      "name": "X/Villa San Carlos"
+    },
+    {
+      "typeId": 430,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4013347208,
+      "name": "Villa San Carlos/Arsenal Sarandi"
+    },
+    {
+      "typeId": 432,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "id": 4013347209,
+      "name": "Villa San Carlos/X"
+    },
+    {
+      "typeId": 434,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "id": 4013347210,
+      "name": "Villa San Carlos/Villa San Carlos"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347880,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347881,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.48,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347187,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347188,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347189,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1429,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347130,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5834,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347131,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347174,
+      "name": "Arsenal Sarandi or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347172,
+      "name": "Arsenal Sarandi or Villa San Carlos"
+    },
+    {
+      "typeId": 11,
+      "price": 2.1667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347173,
+      "name": "Draw or Villa San Carlos"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347122,
+      "name": "Arsenal Sarandi (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 2.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347123,
+      "name": "Villa San Carlos (+0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347138,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347139,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347880,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347881,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347190,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 2,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347191,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347192,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 9,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347177,
+      "name": "Arsenal Sarandi or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347175,
+      "name": "Arsenal Sarandi or Villa San Carlos"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347176,
+      "name": "Draw or Villa San Carlos"
+    },
+    {
+      "typeId": 12,
+      "price": 1.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347134,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347135,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347882,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347883,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347141,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347142,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347147,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347143,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347148,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347153,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347144,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347149,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347154,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347162,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347140,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347146,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347152,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347158,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347164,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347165,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347145,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347150,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 18.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347151,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347155,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347156,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347157,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347159,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347160,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347161,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4013347163,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347190,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 2,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347191,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347192,
+      "name": "Villa San Carlos"
+    },
+    {
+      "typeId": 9,
+      "price": 1.125,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "isDBB": true,
+      "id": 4013347177,
+      "name": "Arsenal Sarandi or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347175,
+      "name": "Arsenal Sarandi or Villa San Carlos"
+    },
+    {
+      "typeId": 11,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "isDBB": true,
+      "id": 4013347176,
+      "name": "Draw or Villa San Carlos"
+    },
+    {
+      "typeId": 12,
+      "price": 1.375,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4013347134,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4013347135,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.05,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347882,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4013347883,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 1.8462,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 46829,
+      "id": 4013347193,
+      "name": "Arsenal Sarandi"
+    },
+    {
+      "typeId": 2,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4013347194,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 59470,
+      "id": 4013347195,
+      "name": "Villa San Carlos"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 6792,
+  "rc": false,
+  "startDate": "2026-05-22T18:30:00Z",
+  "showAll": true
+}

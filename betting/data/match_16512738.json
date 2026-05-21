@@ -1,0 +1,961 @@
+{
+  "id": 16512738,
+  "feedEventId": 21019761,
+  "name": "Atlantis FC/2 vs. Toolon Taisto",
+  "et": 0,
+  "liveTime": "85'",
+  "lst": "2026-05-21T16:18:13Z",
+  "ls": "2nd half",
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11342,
+    "name": "Kolmonen"
+  },
+  "category": {
+    "iso": "FIN",
+    "hasLiveEvents": false,
+    "id": 820,
+    "name": "Finland"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 783017,
+      "name": "Atlantis FC/2"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 93618,
+      "name": "Toolon Taisto"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1578101559,
+        1578101557,
+        1578925383,
+        1578101556,
+        1579066256,
+        1578101558,
+        1578925381,
+        1578101550
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1578101559,
+        1578925383,
+        1578101557,
+        1578925381,
+        1578101550,
+        1578101558
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4015801860
+        ],
+        [
+          4015801861
+        ],
+        [
+          4015801862
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801860
+        ],
+        [
+          4015801861
+        ],
+        [
+          4015801862
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1578101559,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4015801833
+        ],
+        [
+          4015801834
+        ],
+        [
+          4015801835
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801833,
+          4015801834,
+          4015801835
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1578101557,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4018783240
+        ],
+        [
+          4018783241
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018783240
+        ],
+        [
+          4018783241
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "4.5",
+      "id": 1578925383,
+      "name": "Total"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4015801831
+        ],
+        [
+          4015801832
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801831
+        ],
+        [
+          4015801832
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1578101556,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "Fifth goal",
+      "desktopOddIds": [
+        [
+          4019357637
+        ],
+        [
+          4019357639
+        ],
+        [
+          4019357638
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4019357637
+        ],
+        [
+          4019357639
+        ],
+        [
+          4019357638
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "5",
+      "id": 1579066256,
+      "name": "Fifth goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4015801855,
+          4015801858,
+          4015801859
+        ],
+        [
+          4015801838,
+          4015801839
+        ],
+        [
+          4015801847,
+          4015801848,
+          4015801849
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801855,
+          4015801858,
+          4015801859
+        ],
+        [
+          4015801838,
+          4015801839
+        ],
+        [
+          4015801847,
+          4015801848,
+          4015801849
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1578101558,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4018783236
+        ],
+        [
+          4018783237
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018783236
+        ],
+        [
+          4018783237
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1578925381,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015801810
+        ],
+        [
+          4015801809
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801810
+        ],
+        [
+          4015801809
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578101550,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4015801860
+        ],
+        [
+          4015801861
+        ],
+        [
+          4015801862
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801860
+        ],
+        [
+          4015801861
+        ],
+        [
+          4015801862
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1578101559,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4018783240
+        ],
+        [
+          4018783241
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018783240
+        ],
+        [
+          4018783241
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "4.5",
+      "id": 1578925383,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4015801833
+        ],
+        [
+          4015801834
+        ],
+        [
+          4015801835
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801833,
+          4015801834,
+          4015801835
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1578101557,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4018783236
+        ],
+        [
+          4018783237
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018783236
+        ],
+        [
+          4018783237
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "-0.5",
+      "id": 1578925381,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4015801810
+        ],
+        [
+          4015801809
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801810
+        ],
+        [
+          4015801809
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1578101550,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4015801855,
+          4015801858,
+          4015801859
+        ],
+        [
+          4015801838,
+          4015801839
+        ],
+        [
+          4015801847,
+          4015801848,
+          4015801849
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4015801855,
+          4015801858,
+          4015801859
+        ],
+        [
+          4015801838,
+          4015801839
+        ],
+        [
+          4015801847,
+          4015801848,
+          4015801849
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1578101558,
+      "name": "Correct score"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4015801860,
+      "name": "Atlantis FC/2"
+    },
+    {
+      "typeId": 2,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801861,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4015801862,
+      "name": "Toolon Taisto"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1111,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4015801833,
+      "name": "Atlantis FC/2 or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801834,
+      "name": "Atlantis FC/2 or Toolon Taisto"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2222,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4015801835,
+      "name": "Draw or Toolon Taisto"
+    },
+    {
+      "typeId": 12,
+      "price": 2.2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isDBB": true,
+      "id": 4018783240,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5714,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isDBB": true,
+      "id": 4018783241,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 1,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 783017,
+      "id": 4015801831,
+      "name": "Atlantis FC/2"
+    },
+    {
+      "typeId": 3,
+      "price": 2.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93618,
+      "id": 4015801832,
+      "name": "Toolon Taisto"
+    },
+    {
+      "typeId": 1,
+      "price": 3.3,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5",
+      "competitorId": 783017,
+      "id": 4019357637,
+      "name": "Atlantis FC/2"
+    },
+    {
+      "typeId": 7,
+      "price": 1.55,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5",
+      "id": 4019357639,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 4.9,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "5",
+      "competitorId": 93618,
+      "id": 4019357638,
+      "name": "Toolon Taisto"
+    },
+    {
+      "typeId": 144,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801855,
+      "name": "3:2"
+    },
+    {
+      "typeId": 146,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801858,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801859,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801838,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 11,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801839,
+      "name": "3:3"
+    },
+    {
+      "typeId": 152,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801847,
+      "name": "2:3"
+    },
+    {
+      "typeId": 160,
+      "price": 23,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801848,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801849,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 3.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4018783236,
+      "name": "Atlantis FC/2 (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.24,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4018783237,
+      "name": "Toolon Taisto (+0.5)"
+    },
+    {
+      "typeId": 70,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801810,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.45,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4015801809,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4015801860,
+      "name": "Atlantis FC/2"
+    },
+    {
+      "typeId": 2,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801861,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 5.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4015801862,
+      "name": "Toolon Taisto"
+    },
+    {
+      "typeId": 12,
+      "price": 2.2,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4018783240,
+      "name": "Over 4.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5714,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4018783241,
+      "name": "Under 4.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.1111,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4015801833,
+      "name": "Atlantis FC/2 or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 2.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801834,
+      "name": "Atlantis FC/2 or Toolon Taisto"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2222,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4015801835,
+      "name": "Draw or Toolon Taisto"
+    },
+    {
+      "typeId": 1714,
+      "price": 3.7,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 783017,
+      "isDBB": true,
+      "id": 4018783236,
+      "name": "Atlantis FC/2 (-0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.24,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "-0.5",
+      "isBB": true,
+      "competitorId": 93618,
+      "isDBB": true,
+      "id": 4018783237,
+      "name": "Toolon Taisto (+0.5)"
+    },
+    {
+      "typeId": 70,
+      "price": 2.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801810,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.45,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801809,
+      "name": "Even"
+    },
+    {
+      "typeId": 144,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801855,
+      "name": "3:2"
+    },
+    {
+      "typeId": 146,
+      "price": 15,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801858,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 32,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801859,
+      "name": "4:3"
+    },
+    {
+      "typeId": 142,
+      "price": 1.4167,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801838,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 11,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801839,
+      "name": "3:3"
+    },
+    {
+      "typeId": 152,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801847,
+      "name": "2:3"
+    },
+    {
+      "typeId": 160,
+      "price": 23,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801848,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4015801849,
+      "name": "3:4"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 441,
+  "rc": false,
+  "startDate": "2026-05-21T16:00:00Z",
+  "showAll": true
+}

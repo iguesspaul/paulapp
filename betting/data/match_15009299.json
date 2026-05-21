@@ -1,0 +1,2674 @@
+{
+  "id": 15009299,
+  "feedEventId": 20994250,
+  "name": "Marbella FC  vs. Teruel",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 32613,
+    "name": "Primera Federacion"
+  },
+  "category": {
+    "iso": "ESP",
+    "hasLiveEvents": false,
+    "id": 501,
+    "name": "Spain"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 47402,
+      "name": "Marbella FC "
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 50608,
+      "name": "Teruel"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576367301,
+        1576367293,
+        1576367263,
+        1576367304,
+        1576367349,
+        1576367288,
+        1576367310,
+        1576367307,
+        1576367609
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576367301,
+        1576367263,
+        1576367293,
+        1576367609,
+        1576367302,
+        1576367294,
+        1576367267,
+        1576367610,
+        1576367288,
+        1576367270
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576367363
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576367302,
+        1576367294,
+        1576367267,
+        1577463924,
+        1576367610,
+        1576367392
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576367295,
+        1576367270,
+        1576367393
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576367325
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010285389
+        ],
+        [
+          4010285390
+        ],
+        [
+          4010285391
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285389
+        ],
+        [
+          4010285390
+        ],
+        [
+          4010285391
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576367301,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010285352
+        ],
+        [
+          4010285350
+        ],
+        [
+          4010285351
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285352,
+          4010285350,
+          4010285351
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576367293,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010285244
+        ],
+        [
+          4010285245
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285244
+        ],
+        [
+          4010285245
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1576367263,
+      "name": "Total"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4010285398
+        ],
+        [
+          4010285399
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285398
+        ],
+        [
+          4010285399
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576367304,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4010285554
+        ],
+        [
+          4010285556
+        ],
+        [
+          4010285555
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285554
+        ],
+        [
+          4010285556
+        ],
+        [
+          4010285555
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576367349,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010285295,
+          4010285296,
+          4010285301,
+          4010285297,
+          4010285302,
+          4010285307,
+          4010285298,
+          4010285303,
+          4010285308,
+          4010285316
+        ],
+        [
+          4010285294,
+          4010285300,
+          4010285306,
+          4010285312,
+          4010285318,
+          4010285319
+        ],
+        [
+          4010285299,
+          4010285304,
+          4010285305,
+          4010285309,
+          4010285310,
+          4010285311,
+          4010285313,
+          4010285314,
+          4010285315,
+          4010285317
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285295,
+          4010285296,
+          4010285301,
+          4010285297,
+          4010285302,
+          4010285307,
+          4010285298,
+          4010285303,
+          4010285308,
+          4010285316
+        ],
+        [
+          4010285294,
+          4010285300,
+          4010285306,
+          4010285312,
+          4010285318,
+          4010285319
+        ],
+        [
+          4010285299,
+          4010285304,
+          4010285305,
+          4010285309,
+          4010285310,
+          4010285311,
+          4010285313,
+          4010285314,
+          4010285315,
+          4010285317
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576367288,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4010285422,
+          4010285425,
+          4010285428
+        ],
+        [
+          4010285423,
+          4010285426,
+          4010285429
+        ],
+        [
+          4010285424,
+          4010285427,
+          4010285430
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285422,
+          4010285423,
+          4010285424,
+          4010285425,
+          4010285426,
+          4010285427,
+          4010285428,
+          4010285429,
+          4010285430
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576367310,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          4010285404,
+          4010285405,
+          4010285406,
+          4010285408
+        ],
+        [
+          4010285407,
+          4010285409
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285404,
+          4010285405,
+          4010285406,
+          4010285408,
+          4010285407,
+          4010285409
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "sportMarketId": 71660,
+      "id": 1576367307,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010286410
+        ],
+        [
+          4010286411
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010286410
+        ],
+        [
+          4010286411
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576367609,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010285389
+        ],
+        [
+          4010285390
+        ],
+        [
+          4010285391
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285389
+        ],
+        [
+          4010285390
+        ],
+        [
+          4010285391
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576367301,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010285244
+        ],
+        [
+          4010285245
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285244
+        ],
+        [
+          4010285245
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "1.5",
+      "id": 1576367263,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010285352
+        ],
+        [
+          4010285350
+        ],
+        [
+          4010285351
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285352,
+          4010285350,
+          4010285351
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576367293,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010286410
+        ],
+        [
+          4010286411
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010286410
+        ],
+        [
+          4010286411
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576367609,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010285392
+        ],
+        [
+          4010285393
+        ],
+        [
+          4010285394
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285392,
+          4010285393,
+          4010285394
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576367302,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010285355
+        ],
+        [
+          4010285353
+        ],
+        [
+          4010285354
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285355,
+          4010285353,
+          4010285354
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576367294,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010285252
+        ],
+        [
+          4010285253
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285252
+        ],
+        [
+          4010285253
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1576367267,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010286412
+        ],
+        [
+          4010286413
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010286412
+        ],
+        [
+          4010286413
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576367610,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010285295,
+          4010285296,
+          4010285301,
+          4010285297,
+          4010285302,
+          4010285307,
+          4010285298,
+          4010285303,
+          4010285308,
+          4010285316
+        ],
+        [
+          4010285294,
+          4010285300,
+          4010285306,
+          4010285312,
+          4010285318,
+          4010285319
+        ],
+        [
+          4010285299,
+          4010285304,
+          4010285305,
+          4010285309,
+          4010285310,
+          4010285311,
+          4010285313,
+          4010285314,
+          4010285315,
+          4010285317
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285295,
+          4010285296,
+          4010285301,
+          4010285297,
+          4010285302,
+          4010285307,
+          4010285298,
+          4010285303,
+          4010285308,
+          4010285316
+        ],
+        [
+          4010285294,
+          4010285300,
+          4010285306,
+          4010285312,
+          4010285318,
+          4010285319
+        ],
+        [
+          4010285299,
+          4010285304,
+          4010285305,
+          4010285309,
+          4010285310,
+          4010285311,
+          4010285313,
+          4010285314,
+          4010285315,
+          4010285317
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576367288,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010285258
+        ],
+        [
+          4010285259
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285258
+        ],
+        [
+          4010285259
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 48,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576367270,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          4010285600,
+          4010285598,
+          4010285599,
+          4010285601
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285600
+        ],
+        [
+          4010285598,
+          4010285599,
+          4010285601
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "sportMarketId": 72136,
+      "id": 1576367363,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010285392
+        ],
+        [
+          4010285393
+        ],
+        [
+          4010285394
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285392,
+          4010285393,
+          4010285394
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576367302,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010285355
+        ],
+        [
+          4010285353
+        ],
+        [
+          4010285354
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285355,
+          4010285353,
+          4010285354
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576367294,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010285252
+        ],
+        [
+          4010285253
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285252
+        ],
+        [
+          4010285253
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "0.5",
+      "id": 1576367267,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          4013712448
+        ],
+        [
+          4013712450
+        ],
+        [
+          4013712449
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013712448,
+          4013712450,
+          4013712449
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1577463924,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010286412
+        ],
+        [
+          4010286413
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010286412
+        ],
+        [
+          4010286413
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576367610,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1x2 (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          4010285904,
+          4010285905
+        ],
+        [
+          4010285906,
+          4010285907
+        ],
+        [
+          4010285908,
+          4010285909
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285904,
+          4010285905
+        ],
+        [
+          4010285906,
+          4010285907
+        ],
+        [
+          4010285908,
+          4010285909
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31065,
+      "sportMarketId": 74493,
+      "id": 1576367392,
+      "name": "1x2 (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          4010285358
+        ],
+        [
+          4010285356
+        ],
+        [
+          4010285357
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285358,
+          4010285356,
+          4010285357
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "sportMarketId": 70648,
+      "id": 1576367295,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010285258
+        ],
+        [
+          4010285259
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285258
+        ],
+        [
+          4010285259
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576367270,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "1x2 (match) & 2nd half both teams score",
+      "desktopOddIds": [
+        [
+          4010285911,
+          4010285913,
+          4010285912,
+          4010285914,
+          4010285915,
+          4010285910
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010285911,
+          4010285913,
+          4010285912,
+          4010285914,
+          4010285915,
+          4010285910
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31066,
+      "sportMarketId": 74494,
+      "id": 1576367393,
+      "name": "1x2 (match) & 2nd half both teams score"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          4013712432,
+          4010285474,
+          4013712438,
+          4018926610,
+          4013712430,
+          4010285472,
+          4013712436,
+          4018926608
+        ],
+        [
+          4013712435,
+          4010285477,
+          4013712441,
+          4018926613,
+          4013712434,
+          4010285476,
+          4013712440,
+          4018926612
+        ],
+        [
+          4013712433,
+          4010285475,
+          4013712439,
+          4018926611,
+          4013712431,
+          4010285473,
+          4013712437,
+          4018926609
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4013712432,
+          4010285474,
+          4013712438,
+          4018926610,
+          4013712435,
+          4010285477,
+          4013712441,
+          4018926613,
+          4013712433,
+          4010285475,
+          4013712439,
+          4018926611,
+          4013712430,
+          4010285472,
+          4013712436,
+          4018926608,
+          4013712434,
+          4010285476,
+          4013712440,
+          4018926612,
+          4013712431,
+          4010285473,
+          4013712437,
+          4018926609
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1576367325,
+      "name": "1x2 & total"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285389,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 2,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285390,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285391,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 9,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285352,
+      "name": "Marbella FC  or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285350,
+      "name": "Marbella FC  or Teruel"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285351,
+      "name": "Draw or Teruel"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4445,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010285244,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010285245,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 1.76,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285398,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 3,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285399,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 1,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285554,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 7,
+      "price": 6.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4010285556,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.05,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285555,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 114,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285295,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285296,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285301,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285297,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285302,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285307,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285298,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285303,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285308,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285316,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285294,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285300,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285306,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285312,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285318,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285319,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285299,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285304,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285305,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285309,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285310,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285311,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285313,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285314,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285315,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285317,
+      "name": "3:4"
+    },
+    {
+      "typeId": 418,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285422,
+      "name": "Marbella FC /Marbella FC "
+    },
+    {
+      "typeId": 420,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285423,
+      "name": "Marbella FC /X"
+    },
+    {
+      "typeId": 422,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285424,
+      "name": "Marbella FC /Teruel"
+    },
+    {
+      "typeId": 424,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285425,
+      "name": "X/Marbella FC "
+    },
+    {
+      "typeId": 426,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285426,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285427,
+      "name": "X/Teruel"
+    },
+    {
+      "typeId": 430,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285428,
+      "name": "Teruel/Marbella FC "
+    },
+    {
+      "typeId": 432,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285429,
+      "name": "Teruel/X"
+    },
+    {
+      "typeId": 434,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285430,
+      "name": "Teruel/Teruel"
+    },
+    {
+      "typeId": 54,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285404,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285405,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285406,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 4.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285408,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285407,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285409,
+      "name": "5+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010286410,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010286411,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285389,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 2,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285390,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 2.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285391,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4445,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285244,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285245,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.375,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285352,
+      "name": "Marbella FC  or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.35,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285350,
+      "name": "Marbella FC  or Teruel"
+    },
+    {
+      "typeId": 11,
+      "price": 1.3847,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285351,
+      "name": "Draw or Teruel"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010286410,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010286411,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285392,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 2,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285393,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285394,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 9,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285355,
+      "name": "Marbella FC  or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285353,
+      "name": "Marbella FC  or Teruel"
+    },
+    {
+      "typeId": 11,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285354,
+      "name": "Draw or Teruel"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285252,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285253,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010286412,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010286413,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285295,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285296,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285301,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285297,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285302,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285307,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285298,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285303,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285308,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285316,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285294,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285300,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285306,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285312,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285318,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285319,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285299,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285304,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285305,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285309,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285310,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285311,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285313,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285314,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285315,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285317,
+      "name": "3:4"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285258,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.35,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010285259,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 730,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285600,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285598,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285599,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285601,
+      "name": "7+"
+    },
+    {
+      "typeId": 1,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285392,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 2,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285393,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285394,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 9,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "isDBB": true,
+      "id": 4010285355,
+      "name": "Marbella FC  or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010285353,
+      "name": "Marbella FC  or Teruel"
+    },
+    {
+      "typeId": 11,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "isDBB": true,
+      "id": 4010285354,
+      "name": "Draw or Teruel"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010285252,
+      "name": "Over 0.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.1667,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "0.5",
+      "isDBB": true,
+      "id": 4010285253,
+      "name": "Under 0.5"
+    },
+    {
+      "typeId": 1,
+      "price": 2.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 47402,
+      "id": 4013712448,
+      "name": "Marbella FC "
+    },
+    {
+      "typeId": 7,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 4013712450,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 50608,
+      "id": 4013712449,
+      "name": "Teruel"
+    },
+    {
+      "typeId": 70,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010286412,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010286413,
+      "name": "Even"
+    },
+    {
+      "typeId": 86,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285908,
+      "name": "Teruel & yes"
+    },
+    {
+      "typeId": 78,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285904,
+      "name": "Marbella FC  & yes"
+    },
+    {
+      "typeId": 82,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285906,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285907,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 80,
+      "price": 2.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285905,
+      "name": "Marbella FC  & no"
+    },
+    {
+      "typeId": 88,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285909,
+      "name": "Teruel & no"
+    },
+    {
+      "typeId": 9,
+      "price": 1.2728,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285358,
+      "name": "Marbella FC  or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285356,
+      "name": "Marbella FC  or Teruel"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285357,
+      "name": "Draw or Teruel"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4546,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010285258,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.35,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010285259,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 80,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285911,
+      "name": "Marbella FC  & no"
+    },
+    {
+      "typeId": 84,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285913,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 82,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010285912,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 86,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285914,
+      "name": "Teruel & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 50608,
+      "id": 4010285915,
+      "name": "Teruel & no"
+    },
+    {
+      "typeId": 78,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 47402,
+      "id": 4010285910,
+      "name": "Marbella FC  & yes"
+    },
+    {
+      "typeId": 660,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47402,
+      "id": 4013712432,
+      "name": "Marbella FC  & over 1.5"
+    },
+    {
+      "typeId": 660,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47402,
+      "id": 4010285474,
+      "name": "Marbella FC  & over 2.5"
+    },
+    {
+      "typeId": 660,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47402,
+      "id": 4013712438,
+      "name": "Marbella FC  & over 3.5"
+    },
+    {
+      "typeId": 660,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47402,
+      "id": 4018926610,
+      "name": "Marbella FC  & over 4.5"
+    },
+    {
+      "typeId": 800,
+      "price": 4.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4013712435,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010285477,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4013712441,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018926613,
+      "name": "Draw & over 4.5"
+    },
+    {
+      "typeId": 662,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 50608,
+      "id": 4013712433,
+      "name": "Teruel & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 50608,
+      "id": 4010285475,
+      "name": "Teruel & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 50608,
+      "id": 4013712439,
+      "name": "Teruel & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 50608,
+      "id": 4018926611,
+      "name": "Teruel & over 4.5"
+    },
+    {
+      "typeId": 656,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 47402,
+      "id": 4013712430,
+      "name": "Marbella FC  & under 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 47402,
+      "id": 4010285472,
+      "name": "Marbella FC  & under 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 47402,
+      "id": 4013712436,
+      "name": "Marbella FC  & under 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 2.625,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 47402,
+      "id": 4018926608,
+      "name": "Marbella FC  & under 4.5"
+    },
+    {
+      "typeId": 798,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4013712434,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010285476,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4013712440,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 2.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "id": 4018926612,
+      "name": "Draw & under 4.5"
+    },
+    {
+      "typeId": 658,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 50608,
+      "id": 4013712431,
+      "name": "Teruel & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 50608,
+      "id": 4010285473,
+      "name": "Teruel & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 3.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 50608,
+      "id": 4013712437,
+      "name": "Teruel & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 2.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "4.5",
+      "competitorId": 50608,
+      "id": 4018926609,
+      "name": "Teruel & under 4.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1910,
+  "rc": false,
+  "startDate": "2026-05-22T16:30:00Z",
+  "showAll": true
+}

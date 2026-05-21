@@ -47,8 +47,8 @@
         1494255329,
         1494255390,
         1494255310,
-        1494255244,
-        1494255372,
+        1494255242,
+        1494255375,
         1494255335,
         1494255314,
         1494255359,
@@ -56,7 +56,7 @@
         1494255429,
         1494255393,
         1494255266,
-        1494255268,
+        1494255267,
         1494255332,
         1494255395,
         1494255344,
@@ -83,22 +83,22 @@
         1494255326,
         1494255277,
         1494255316,
-        1494255244,
+        1494255242,
         1494255307,
         1494255266,
-        1494255268,
+        1494255267,
         1494255337,
         1494255327,
         1494255317,
         1494255279,
-        1494255271,
+        1494255270,
         1494255272,
         1494255308,
         1494255338,
         1494255310,
         1494255408,
-        1494255283,
-        1494256515,
+        1494255282,
+        1494256517,
         1494256495,
         1494255309,
         1494255346,
@@ -171,7 +171,7 @@
         1494255386,
         1494255408,
         1494255308,
-        1494255271,
+        1494255270,
         1494255272,
         1494255356,
         1494255357,
@@ -196,8 +196,8 @@
       "marketIds": [
         1494255328,
         1494255318,
-        1494255283,
-        1494255378,
+        1494255282,
+        1494255379,
         1494498049,
         1494255392,
         1494255409,
@@ -207,7 +207,7 @@
         1494255358,
         1494255351,
         1494255313,
-        1494256515,
+        1494256517,
         1494256495,
         1494255426,
         1494255334,
@@ -225,7 +225,7 @@
     {
       "type": 0,
       "marketIds": [
-        1494255355,
+        1494255352,
         1494255349,
         1494255380,
         1494255433,
@@ -275,7 +275,6 @@
       "variant": 7,
       "so": 0,
       "typeId": 31046,
-      "isMB": false,
       "sportMarketId": 0,
       "id": 31046,
       "name": "Boosted Odds"
@@ -307,7 +306,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1494255326,
       "name": "1x2"
@@ -335,7 +333,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1494255316,
       "name": "Double chance"
@@ -370,7 +367,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 18,
-      "isMB": false,
       "sportMarketId": 70520,
       "sv": "3.5",
       "id": 1494255277,
@@ -397,7 +393,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1494255307,
       "name": "Both Teams To Score"
@@ -423,7 +418,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 881,
-      "isMB": false,
       "sportMarketId": 71124,
       "id": 1494255241,
       "name": "Any team to win"
@@ -449,7 +443,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 880,
-      "isMB": false,
       "sportMarketId": 71123,
       "id": 1494255347,
       "name": " South Korea to win"
@@ -475,7 +468,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 879,
-      "isMB": false,
       "sportMarketId": 71122,
       "id": 1494255388,
       "name": "Czechia to win"
@@ -501,7 +493,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 11,
-      "isMB": false,
       "sportMarketId": 70500,
       "id": 1494255329,
       "name": "Draw no bet"
@@ -533,7 +524,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 8,
-      "isMB": true,
       "sportMarketId": 70491,
       "sv": "1",
       "id": 1494255390,
@@ -613,7 +603,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1494255310,
       "name": "Correct score"
@@ -648,10 +637,9 @@
       "variant": 8,
       "so": 0,
       "typeId": 16,
-      "isMB": false,
       "sportMarketId": 70515,
-      "sv": "+0.5",
-      "id": 1494255244,
+      "sv": "-1.5",
+      "id": 1494255242,
       "name": "Handicap"
     },
     {
@@ -696,10 +684,9 @@
       "variant": 9,
       "so": 0,
       "typeId": 14,
-      "isMB": false,
       "sportMarketId": 70510,
-      "sv": "0:2",
-      "id": 1494255372,
+      "sv": "2:0",
+      "id": 1494255375,
       "name": "\tHandicap 1x2"
     },
     {
@@ -737,7 +724,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 47,
-      "isMB": false,
       "sportMarketId": 70568,
       "id": 1494255335,
       "name": "Halftime/fulltime"
@@ -773,7 +759,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17625,
-      "isMB": false,
       "sportMarketId": 72649,
       "id": 1494255314,
       "name": "DC Halftime/ DC Fulltime"
@@ -809,7 +794,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17711,
-      "isMB": false,
       "sportMarketId": 72654,
       "id": 1494255359,
       "name": "1X2 Halftime/ DC Fulltime"
@@ -845,7 +829,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17712,
-      "isMB": false,
       "sportMarketId": 72653,
       "id": 1494255315,
       "name": "DC Halftime/ 1X2 Fulltime"
@@ -877,7 +860,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 9,
-      "isMB": false,
       "sportMarketId": 70493,
       "id": 1494255429,
       "name": "Last goal"
@@ -913,7 +895,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 15,
-      "isMB": false,
       "sportMarketId": 71166,
       "id": 1494255393,
       "name": "Winning margin"
@@ -947,7 +928,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 19,
-      "isMB": false,
       "sportMarketId": 70525,
       "sv": "2.5",
       "id": 1494255266,
@@ -982,10 +962,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
-      "sv": "1.5",
-      "id": 1494255268,
+      "sv": "0.5",
+      "id": 1494255267,
       "name": "Czechia total"
     },
     {
@@ -1015,7 +994,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 21,
-      "isMB": false,
       "sportMarketId": 71660,
       "id": 1494255332,
       "name": "Exact goals "
@@ -1045,7 +1023,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 30,
-      "isMB": false,
       "sportMarketId": 70547,
       "id": 1494255395,
       "name": "Which team to score"
@@ -1071,7 +1048,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17663,
-      "isMB": false,
       "sportMarketId": 72189,
       "id": 1494255344,
       "name": " South Korea to score"
@@ -1097,7 +1073,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17664,
-      "isMB": false,
       "sportMarketId": 72190,
       "id": 1494255385,
       "name": "Czechia to score"
@@ -1123,7 +1098,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 23,
-      "isMB": false,
       "sportMarketId": 71654,
       "id": 1494255360,
       "name": " South Korea exact goals"
@@ -1149,7 +1123,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 24,
-      "isMB": false,
       "sportMarketId": 71655,
       "id": 1494255361,
       "name": "Czechia exact goals"
@@ -1175,7 +1148,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1494255337,
       "name": "Odd/even"
@@ -1201,7 +1173,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 27,
-      "isMB": false,
       "sportMarketId": 70541,
       "id": 1494255366,
       "name": " South Korea odd/even"
@@ -1227,7 +1198,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 28,
-      "isMB": false,
       "sportMarketId": 70543,
       "id": 1494255367,
       "name": "Czechia odd/even"
@@ -1261,7 +1231,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 896,
-      "isMB": false,
       "sportMarketId": 72435,
       "sv": "1",
       "id": 1557706252,
@@ -1290,7 +1259,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 52,
-      "isMB": false,
       "sportMarketId": 70577,
       "id": 1494255336,
       "name": "Half With most Goals"
@@ -1334,7 +1302,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 551,
-      "isMB": false,
       "sportMarketId": 71017,
       "id": 1494255436,
       "name": "Multiscores"
@@ -1450,7 +1417,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 46,
-      "isMB": false,
       "sportMarketId": 70567,
       "id": 1494255432,
       "name": "Halftime/fulltime correct score"
@@ -1538,7 +1504,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 548,
-      "isMB": false,
       "sportMarketId": 71014,
       "id": 1494255424,
       "name": "Multigoals"
@@ -1570,7 +1535,6 @@
       "isBB": true,
       "so": 1,
       "typeId": 1,
-      "isMB": false,
       "sportMarketId": 70472,
       "id": 1494255326,
       "name": "1x2"
@@ -1605,7 +1569,6 @@
       "variant": 8,
       "so": 2,
       "typeId": 18,
-      "isMB": false,
       "sportMarketId": 70520,
       "sv": "3.5",
       "id": 1494255277,
@@ -1634,7 +1597,6 @@
       "isBB": true,
       "so": 3,
       "typeId": 10,
-      "isMB": false,
       "sportMarketId": 70495,
       "id": 1494255316,
       "name": "Double chance"
@@ -1669,10 +1631,9 @@
       "variant": 8,
       "so": 4,
       "typeId": 16,
-      "isMB": false,
       "sportMarketId": 70515,
-      "sv": "+0.5",
-      "id": 1494255244,
+      "sv": "-1.5",
+      "id": 1494255242,
       "name": "Handicap"
     },
     {
@@ -1696,7 +1657,6 @@
       "isBB": true,
       "so": 5,
       "typeId": 29,
-      "isMB": false,
       "sportMarketId": 70545,
       "id": 1494255307,
       "name": "Both Teams To Score"
@@ -1730,7 +1690,6 @@
       "isBB": true,
       "so": 14,
       "typeId": 19,
-      "isMB": false,
       "sportMarketId": 70525,
       "sv": "2.5",
       "id": 1494255266,
@@ -1765,10 +1724,9 @@
       "isBB": true,
       "so": 15,
       "typeId": 20,
-      "isMB": true,
       "sportMarketId": 70530,
-      "sv": "1.5",
-      "id": 1494255268,
+      "sv": "0.5",
+      "id": 1494255267,
       "name": "Czechia total"
     },
     {
@@ -1792,7 +1750,6 @@
       "isBB": true,
       "so": 16,
       "typeId": 26,
-      "isMB": false,
       "sportMarketId": 70535,
       "id": 1494255337,
       "name": "Odd/even"
@@ -1820,7 +1777,6 @@
       "isBB": true,
       "so": 17,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1494255327,
       "name": "1st half - 1x2"
@@ -1848,7 +1804,6 @@
       "isBB": true,
       "so": 18,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1494255317,
       "name": "1st half - double chance"
@@ -1883,7 +1838,6 @@
       "variant": 8,
       "so": 19,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "0.5",
       "id": 1494255279,
@@ -1914,10 +1868,9 @@
       "isBB": true,
       "so": 20,
       "typeId": 69,
-      "isMB": false,
       "sportMarketId": 70620,
-      "sv": "1.5",
-      "id": 1494255271,
+      "sv": "0.5",
+      "id": 1494255270,
       "name": "1st half -  South Korea total"
     },
     {
@@ -1945,7 +1898,6 @@
       "isBB": true,
       "so": 21,
       "typeId": 70,
-      "isMB": true,
       "sportMarketId": 70625,
       "sv": "0.5",
       "id": 1494255272,
@@ -1972,7 +1924,6 @@
       "isBB": true,
       "so": 22,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1494255308,
       "name": "1st half - both teams to score"
@@ -1998,7 +1949,6 @@
       "isBB": true,
       "so": 23,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1494255338,
       "name": "1st half - Odd/even"
@@ -2077,7 +2027,6 @@
       "variant": 3,
       "so": 46,
       "typeId": 45,
-      "isMB": false,
       "sportMarketId": 70566,
       "id": 1494255310,
       "name": "Correct score"
@@ -2124,7 +2073,6 @@
       "variant": 3,
       "so": 47,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1494255408,
       "name": "1st half - correct score"
@@ -2155,10 +2103,9 @@
       "variant": 8,
       "so": 48,
       "typeId": 90,
-      "isMB": true,
       "sportMarketId": 70657,
-      "sv": "1.5",
-      "id": 1494255283,
+      "sv": "0.5",
+      "id": 1494255282,
       "name": "2nd half - total"
     },
     {
@@ -2190,10 +2137,9 @@
       "isBB": true,
       "so": 49,
       "typeId": 91,
-      "isMB": false,
       "sportMarketId": 70660,
-      "sv": "2.5",
-      "id": 1494256515,
+      "sv": "1.5",
+      "id": 1494256517,
       "name": "2nd half -  South Korea total"
     },
     {
@@ -2225,7 +2171,6 @@
       "isBB": true,
       "so": 50,
       "typeId": 92,
-      "isMB": false,
       "sportMarketId": 70661,
       "sv": "2.5",
       "id": 1494256495,
@@ -2252,7 +2197,6 @@
       "isBB": true,
       "so": 51,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1494255309,
       "name": "2nd half - both teams to score"
@@ -2278,7 +2222,6 @@
       "isBB": true,
       "so": 58,
       "typeId": 17682,
-      "isMB": false,
       "sportMarketId": 72194,
       "id": 1494255346,
       "name": "2nd half -  South Korea to score"
@@ -2304,7 +2247,6 @@
       "isBB": true,
       "so": 59,
       "typeId": 17683,
-      "isMB": false,
       "sportMarketId": 72195,
       "id": 1494255387,
       "name": "2nd half - Czechia to score"
@@ -2330,7 +2272,6 @@
       "isBB": true,
       "so": 60,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1494255396,
       "name": " South Korea to win both halves"
@@ -2356,7 +2297,6 @@
       "isBB": true,
       "so": 61,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1494255397,
       "name": "Czechia to win both halves"
@@ -2382,7 +2322,6 @@
       "isBB": true,
       "so": 62,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1494255398,
       "name": " South Korea to win either half"
@@ -2408,7 +2347,6 @@
       "isBB": true,
       "so": 63,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1494255399,
       "name": "Czechia to win either half"
@@ -2434,7 +2372,6 @@
       "isBB": true,
       "so": 64,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1494255400,
       "name": " South Korea to score in both halves"
@@ -2460,7 +2397,6 @@
       "isBB": true,
       "so": 65,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1494255401,
       "name": "Czechia to score in both halves"
@@ -2486,7 +2422,6 @@
       "isBB": true,
       "so": 66,
       "typeId": 17636,
-      "isMB": false,
       "sportMarketId": 72187,
       "id": 1494255642,
       "name": " South Korea to win from behind"
@@ -2512,7 +2447,6 @@
       "isBB": true,
       "so": 67,
       "typeId": 17637,
-      "isMB": false,
       "sportMarketId": 72188,
       "id": 1494255643,
       "name": "Czechia to win from behind"
@@ -2538,7 +2472,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17684,
-      "isMB": false,
       "sportMarketId": 72196,
       "id": 1557706084,
       "name": "A Penalty in the Match"
@@ -2564,7 +2497,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17687,
-      "isMB": false,
       "sportMarketId": 72199,
       "id": 1557706087,
       "name": "Own Goal"
@@ -2590,7 +2522,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17636,
-      "isMB": false,
       "sportMarketId": 72187,
       "id": 1494255642,
       "name": " South Korea to win from behind"
@@ -2616,7 +2547,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17637,
-      "isMB": false,
       "sportMarketId": 72188,
       "id": 1494255643,
       "name": "Czechia to win from behind"
@@ -2644,7 +2574,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 25,
-      "isMB": false,
       "sportMarketId": 72136,
       "id": 1494255407,
       "name": "Goal range"
@@ -2670,7 +2599,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 33,
-      "isMB": false,
       "sportMarketId": 70553,
       "id": 1494255348,
       "name": " South Korea win to nil"
@@ -2696,7 +2624,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 34,
-      "isMB": false,
       "sportMarketId": 70554,
       "id": 1494255389,
       "name": "Czechia win to nil"
@@ -2722,7 +2649,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31,
-      "isMB": false,
       "sportMarketId": 70549,
       "id": 1494255340,
       "name": " South Korea clean sheet"
@@ -2748,7 +2674,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 32,
-      "isMB": false,
       "sportMarketId": 70551,
       "id": 1494255381,
       "name": "Czechia Clean sheet"
@@ -2836,7 +2761,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 549,
-      "isMB": false,
       "sportMarketId": 71015,
       "id": 1494255427,
       "name": " South Korea multigoals"
@@ -2924,7 +2848,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 550,
-      "isMB": false,
       "sportMarketId": 71016,
       "id": 1494255428,
       "name": "Czechia multigoals"
@@ -2950,7 +2873,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 58,
-      "isMB": true,
       "sportMarketId": 70589,
       "sv": "0.5",
       "id": 1494255402,
@@ -2977,7 +2899,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 59,
-      "isMB": true,
       "sportMarketId": 70590,
       "sv": "1.5",
       "id": 1494255404,
@@ -3004,7 +2925,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 50,
-      "isMB": false,
       "sportMarketId": 70575,
       "id": 1494255398,
       "name": " South Korea to win either half"
@@ -3030,7 +2950,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 51,
-      "isMB": false,
       "sportMarketId": 70576,
       "id": 1494255399,
       "name": "Czechia to win either half"
@@ -3056,7 +2975,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 48,
-      "isMB": false,
       "sportMarketId": 70573,
       "id": 1494255396,
       "name": " South Korea to win both halves"
@@ -3082,7 +3000,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 49,
-      "isMB": false,
       "sportMarketId": 70574,
       "id": 1494255397,
       "name": "Czechia to win both halves"
@@ -3108,7 +3025,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 56,
-      "isMB": false,
       "sportMarketId": 70587,
       "id": 1494255400,
       "name": " South Korea to score in both halves"
@@ -3134,7 +3050,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 57,
-      "isMB": false,
       "sportMarketId": 70588,
       "id": 1494255401,
       "name": "Czechia to score in both halves"
@@ -3162,7 +3077,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 53,
-      "isMB": false,
       "sportMarketId": 70582,
       "id": 1494255364,
       "name": " South Korea highest scoring half"
@@ -3190,7 +3104,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 54,
-      "isMB": false,
       "sportMarketId": 70584,
       "id": 1494255365,
       "name": "Czechia highest scoring half"
@@ -3222,7 +3135,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 3253,
-      "isMB": false,
       "sportMarketId": 73739,
       "id": 1494255430,
       "name": "First half - Last goal"
@@ -3254,7 +3166,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 3254,
-      "isMB": false,
       "sportMarketId": 73740,
       "id": 1494255431,
       "name": "Second half - Last goal"
@@ -3280,7 +3191,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31130,
-      "isMB": false,
       "sportMarketId": 75788,
       "sv": "2",
       "id": 1494255634,
@@ -3307,7 +3217,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31131,
-      "isMB": false,
       "sportMarketId": 75789,
       "sv": "2",
       "id": 1494255635,
@@ -3334,7 +3243,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31132,
-      "isMB": false,
       "sportMarketId": 75790,
       "sv": "2",
       "id": 1494255636,
@@ -3361,7 +3269,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31133,
-      "isMB": false,
       "sportMarketId": 75791,
       "sv": "2",
       "id": 1494255637,
@@ -3388,7 +3295,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31140,
-      "isMB": false,
       "sportMarketId": 75955,
       "id": 1494255640,
       "name": "Both teams will lead during the match"
@@ -3414,7 +3320,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31138,
-      "isMB": false,
       "sportMarketId": 75953,
       "id": 1494255638,
       "name": " South Korea will lead during the match"
@@ -3440,7 +3345,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31139,
-      "isMB": false,
       "sportMarketId": 75954,
       "id": 1494255639,
       "name": "Czechia will lead during the match"
@@ -3468,7 +3372,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 60,
-      "isMB": false,
       "sportMarketId": 70591,
       "id": 1494255327,
       "name": "1st half - 1x2"
@@ -3496,7 +3399,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 63,
-      "isMB": false,
       "sportMarketId": 70599,
       "id": 1494255317,
       "name": "1st half - double chance"
@@ -3531,7 +3433,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 68,
-      "isMB": true,
       "sportMarketId": 70615,
       "sv": "0.5",
       "id": 1494255279,
@@ -3567,7 +3468,6 @@
       "variant": 9,
       "so": 0,
       "typeId": 65,
-      "isMB": false,
       "sportMarketId": 70607,
       "sv": "0:1",
       "id": 1494255376,
@@ -3593,7 +3493,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 66,
-      "isMB": true,
       "sportMarketId": 70610,
       "sv": "-0.5",
       "id": 1494255247,
@@ -3622,7 +3521,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 62,
-      "isMB": false,
       "sportMarketId": 70598,
       "sv": "1",
       "id": 1494255391,
@@ -3649,7 +3547,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17680,
-      "isMB": false,
       "sportMarketId": 72192,
       "id": 1494255345,
       "name": "1st half -  South Korea to score"
@@ -3675,7 +3572,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17681,
-      "isMB": false,
       "sportMarketId": 72193,
       "id": 1494255386,
       "name": "1st half - Czechia to score"
@@ -3722,7 +3618,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 81,
-      "isMB": false,
       "sportMarketId": 70642,
       "id": 1494255408,
       "name": "1st half - correct score"
@@ -3748,7 +3643,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 75,
-      "isMB": false,
       "sportMarketId": 70635,
       "id": 1494255308,
       "name": "1st half - both teams to score"
@@ -3778,10 +3672,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 69,
-      "isMB": false,
       "sportMarketId": 70620,
-      "sv": "1.5",
-      "id": 1494255271,
+      "sv": "0.5",
+      "id": 1494255270,
       "name": "1st half -  South Korea total"
     },
     {
@@ -3809,7 +3702,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 70,
-      "isMB": true,
       "sportMarketId": 70625,
       "sv": "0.5",
       "id": 1494255272,
@@ -3844,7 +3736,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 79,
-      "isMB": false,
       "sportMarketId": 70639,
       "sv": "1.5",
       "id": 1494255356,
@@ -3879,7 +3770,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 79,
-      "isMB": false,
       "sportMarketId": 70639,
       "sv": "2.5",
       "id": 1494255357,
@@ -3914,7 +3804,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 78,
-      "isMB": false,
       "sportMarketId": 70638,
       "id": 1494255350,
       "name": "1st half - 1x2 & both teams to score"
@@ -3948,7 +3837,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 542,
-      "isMB": false,
       "sportMarketId": 71008,
       "id": 1494255312,
       "name": "1st half - double chance & both teams to score"
@@ -4036,7 +3924,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 552,
-      "isMB": false,
       "sportMarketId": 71018,
       "id": 1494255425,
       "name": "1st half - multigoals"
@@ -4062,7 +3949,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 76,
-      "isMB": false,
       "sportMarketId": 70636,
       "id": 1494255341,
       "name": "1st half -  South Korea Clean sheet"
@@ -4088,7 +3974,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 77,
-      "isMB": false,
       "sportMarketId": 70637,
       "id": 1494255382,
       "name": "1st half - Czechia Clean sheet"
@@ -4114,7 +3999,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 74,
-      "isMB": false,
       "sportMarketId": 70630,
       "id": 1494255338,
       "name": "1st half - Odd/even"
@@ -4140,7 +4024,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 618,
-      "isMB": false,
       "sportMarketId": 74491,
       "id": 1494255368,
       "name": "1st half -  South Korea odd/even"
@@ -4166,7 +4049,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 619,
-      "isMB": false,
       "sportMarketId": 74492,
       "id": 1494255369,
       "name": "1st half - Czechia odd/even"
@@ -4204,7 +4086,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31065,
-      "isMB": false,
       "sportMarketId": 74493,
       "id": 1494255437,
       "name": "1x2 (match) & 1st half both teams score"
@@ -4232,7 +4113,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 83,
-      "isMB": false,
       "sportMarketId": 70643,
       "id": 1494255328,
       "name": "2nd half - 1x2"
@@ -4260,7 +4140,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 85,
-      "isMB": false,
       "sportMarketId": 70648,
       "id": 1494255318,
       "name": "2nd half - double chance"
@@ -4291,10 +4170,9 @@
       "variant": 8,
       "so": 0,
       "typeId": 90,
-      "isMB": true,
       "sportMarketId": 70657,
-      "sv": "1.5",
-      "id": 1494255283,
+      "sv": "0.5",
+      "id": 1494255282,
       "name": "2nd half - total"
     },
     {
@@ -4327,10 +4205,9 @@
       "variant": 9,
       "so": 0,
       "typeId": 87,
-      "isMB": false,
       "sportMarketId": 70653,
-      "sv": "0:1",
-      "id": 1494255378,
+      "sv": "1:0",
+      "id": 1494255379,
       "name": "2nd half - handicap 1X2"
     },
     {
@@ -4353,7 +4230,6 @@
       "variant": 8,
       "so": 0,
       "typeId": 88,
-      "isMB": true,
       "sportMarketId": 70654,
       "sv": "-0.5",
       "id": 1494498049,
@@ -4382,7 +4258,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 84,
-      "isMB": false,
       "sportMarketId": 70647,
       "sv": "1",
       "id": 1494255392,
@@ -4430,7 +4305,6 @@
       "variant": 3,
       "so": 0,
       "typeId": 98,
-      "isMB": false,
       "sportMarketId": 70668,
       "id": 1494255409,
       "name": "2nd half - correct score"
@@ -4456,7 +4330,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17682,
-      "isMB": false,
       "sportMarketId": 72194,
       "id": 1494255346,
       "name": "2nd half -  South Korea to score"
@@ -4482,7 +4355,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 17683,
-      "isMB": false,
       "sportMarketId": 72195,
       "id": 1494255387,
       "name": "2nd half - Czechia to score"
@@ -4508,7 +4380,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 95,
-      "isMB": false,
       "sportMarketId": 70665,
       "id": 1494255309,
       "name": "2nd half - both teams to score"
@@ -4542,7 +4413,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 544,
-      "isMB": false,
       "sportMarketId": 71010,
       "sv": "1.5",
       "id": 1494255358,
@@ -4577,7 +4447,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 543,
-      "isMB": false,
       "sportMarketId": 71009,
       "id": 1494255351,
       "name": "2nd half - 1x2 & both teams to score"
@@ -4611,7 +4480,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 545,
-      "isMB": false,
       "sportMarketId": 71011,
       "id": 1494255313,
       "name": "2nd half - double chance & both teams to score"
@@ -4645,10 +4513,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 91,
-      "isMB": false,
       "sportMarketId": 70660,
-      "sv": "2.5",
-      "id": 1494256515,
+      "sv": "1.5",
+      "id": 1494256517,
       "name": "2nd half -  South Korea total"
     },
     {
@@ -4680,7 +4547,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 92,
-      "isMB": false,
       "sportMarketId": 70661,
       "sv": "2.5",
       "id": 1494256495,
@@ -4769,7 +4635,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 553,
-      "isMB": false,
       "sportMarketId": 71019,
       "id": 1494255426,
       "name": "2nd half - multigoals"
@@ -4803,7 +4668,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 93,
-      "isMB": false,
       "sportMarketId": 71659,
       "id": 1494255334,
       "name": "2nd half - exact goals"
@@ -4829,7 +4693,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 96,
-      "isMB": false,
       "sportMarketId": 70666,
       "id": 1494255342,
       "name": "2nd half -  South Korea Clean sheet"
@@ -4855,7 +4718,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 97,
-      "isMB": false,
       "sportMarketId": 70667,
       "id": 1494255383,
       "name": "2nd half - Czechia Clean sheet"
@@ -4881,7 +4743,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 94,
-      "isMB": false,
       "sportMarketId": 70662,
       "id": 1494255339,
       "name": "2nd half - odd/ even"
@@ -4911,7 +4772,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 31066,
-      "isMB": false,
       "sportMarketId": 74494,
       "id": 1494255438,
       "name": "1x2 (match) & 2nd half both teams score"
@@ -4993,10 +4853,9 @@
       "isBB": false,
       "so": 0,
       "typeId": 37,
-      "isMB": false,
       "sportMarketId": 70558,
-      "sv": "4.5",
-      "id": 1494255355,
+      "sv": "1.5",
+      "id": 1494255352,
       "name": "1x2 & total"
     },
     {
@@ -5028,7 +4887,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 35,
-      "isMB": false,
       "sportMarketId": 70555,
       "id": 1494255349,
       "name": "1x2 & GG/NG"
@@ -5060,7 +4918,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 36,
-      "isMB": false,
       "sportMarketId": 70557,
       "sv": "2.5",
       "id": 1494255380,
@@ -5097,7 +4954,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 184,
-      "isMB": false,
       "sportMarketId": 70753,
       "sv": "1",
       "id": 1494255433,
@@ -5132,7 +4988,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "1.5",
       "id": 1494255319,
@@ -5167,7 +5022,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "2.5",
       "id": 1494255320,
@@ -5202,7 +5056,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "3.5",
       "id": 1494255321,
@@ -5237,7 +5090,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "4.5",
       "id": 1494255322,
@@ -5272,7 +5124,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 547,
-      "isMB": false,
       "sportMarketId": 71013,
       "sv": "5.5",
       "id": 1494366926,
@@ -5307,7 +5158,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 546,
-      "isMB": false,
       "sportMarketId": 71012,
       "id": 1494255311,
       "name": "Double chance & both teams to score"
@@ -5363,7 +5213,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "1.5",
       "id": 1494255439,
@@ -5420,7 +5269,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "2.5",
       "id": 1494255440,
@@ -5477,7 +5325,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "3.5",
       "id": 1494255441,
@@ -5534,7 +5381,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "4.5",
       "id": 1494255442,
@@ -5591,7 +5437,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 818,
-      "isMB": false,
       "sportMarketId": 71099,
       "sv": "5.5",
       "id": 1494366928,
@@ -5648,7 +5493,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "1.5",
       "id": 1494255443,
@@ -5705,7 +5549,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 819,
-      "isMB": false,
       "sportMarketId": 71100,
       "sv": "2.5",
       "id": 1494255444,
@@ -5800,7 +5643,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 820,
-      "isMB": false,
       "sportMarketId": 71101,
       "id": 1494255445,
       "name": "Halftime/fulltime & exact goals"
@@ -5834,7 +5676,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 55,
-      "isMB": false,
       "sportMarketId": 70586,
       "id": 1494255406,
       "name": "1st/2nd half both teams to score"
@@ -5868,7 +5709,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 540,
-      "isMB": false,
       "sportMarketId": 71006,
       "id": 1494255434,
       "name": "Double chance (match) & 1st half both teams score"
@@ -5902,7 +5742,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 541,
-      "isMB": false,
       "sportMarketId": 71007,
       "id": 1494255435,
       "name": "Double chance (match) & 2nd half both teams score"
@@ -5922,7 +5761,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 854,
-      "isMB": true,
       "sportMarketId": 71110,
       "sv": "2.5",
       "id": 1509741576,
@@ -5943,7 +5781,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 856,
-      "isMB": true,
       "sportMarketId": 71112,
       "sv": "2.5",
       "id": 1509741578,
@@ -5964,7 +5801,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 858,
-      "isMB": true,
       "sportMarketId": 71114,
       "sv": "2.5",
       "id": 1509741580,
@@ -5985,7 +5821,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 855,
-      "isMB": true,
       "sportMarketId": 71111,
       "sv": "2.5",
       "id": 1509741577,
@@ -6006,7 +5841,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 857,
-      "isMB": true,
       "sportMarketId": 71113,
       "sv": "2.5",
       "id": 1509741579,
@@ -6027,7 +5861,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 859,
-      "isMB": true,
       "sportMarketId": 71115,
       "sv": "2.5",
       "id": 1509741581,
@@ -6048,7 +5881,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 860,
-      "isMB": false,
       "sportMarketId": 71116,
       "id": 1494255446,
       "name": " South Korea or both teams to score"
@@ -6068,7 +5900,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 861,
-      "isMB": false,
       "sportMarketId": 71117,
       "id": 1494255447,
       "name": "Draw or both teams to score"
@@ -6088,7 +5919,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 862,
-      "isMB": false,
       "sportMarketId": 71118,
       "id": 1494255448,
       "name": "Czechia or both teams to score"
@@ -6108,7 +5938,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 863,
-      "isMB": false,
       "sportMarketId": 71119,
       "id": 1494255449,
       "name": " South Korea or any clean sheet"
@@ -6128,7 +5957,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 864,
-      "isMB": false,
       "sportMarketId": 71120,
       "id": 1494255450,
       "name": "Draw or any clean sheet"
@@ -6148,7 +5976,6 @@
       "isBB": false,
       "so": 0,
       "typeId": 865,
-      "isMB": false,
       "sportMarketId": 71121,
       "id": 1494255451,
       "name": "Czechia or any clean sheet"
@@ -9372,7 +9199,7 @@
     },
     {
       "typeId": 12,
-      "price": 1.85,
+      "price": 1.875,
       "isMB": true,
       "oddStatus": 0,
       "sv": "0.5",
@@ -9405,7 +9232,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.7858,
+      "price": 1.76,
       "isMB": true,
       "oddStatus": 0,
       "sv": "0.5",
@@ -12338,7 +12165,7 @@
     },
     {
       "typeId": 12,
-      "price": 1.85,
+      "price": 1.875,
       "isMB": true,
       "oddStatus": 0,
       "sv": "0.5",
@@ -12368,7 +12195,7 @@
     },
     {
       "typeId": 13,
-      "price": 1.7858,
+      "price": 1.76,
       "isMB": true,
       "oddStatus": 0,
       "sv": "0.5",

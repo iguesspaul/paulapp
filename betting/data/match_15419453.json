@@ -1,0 +1,2077 @@
+{
+  "id": 15419453,
+  "feedEventId": 20848734,
+  "name": "IFK Karlshamn vs. Vaxjo Norra",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 11347,
+    "name": "Division 2"
+  },
+  "category": {
+    "iso": "SWE",
+    "hasLiveEvents": false,
+    "id": 602,
+    "name": "Sweden"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 93640,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 72673,
+      "name": "Vaxjo Norra"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576124871,
+        1576124867,
+        1576124860,
+        1576124864,
+        1576124874,
+        1576124884,
+        1576124865,
+        1576124856,
+        1576124877,
+        1576125111
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576124871,
+        1576124860,
+        1576124867,
+        1576124856,
+        1576124864,
+        1576125111,
+        1576124872,
+        1576124868,
+        1576124862,
+        1576125112,
+        1576124865
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576124872,
+        1576124868,
+        1576124862,
+        1576125112
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576124873
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4009388835
+        ],
+        [
+          4009388840
+        ],
+        [
+          4009388843
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388835
+        ],
+        [
+          4009388840
+        ],
+        [
+          4009388843
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576124871,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4009388799
+        ],
+        [
+          4009388793
+        ],
+        [
+          4009388796
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388799,
+          4009388793,
+          4009388796
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576124867,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4009388638
+        ],
+        [
+          4009388641
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388638
+        ],
+        [
+          4009388641
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1576124860,
+      "name": "Total"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4009388660
+        ],
+        [
+          4009388664
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388660
+        ],
+        [
+          4009388664
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576124864,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4009388862
+        ],
+        [
+          4009388865
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388862
+        ],
+        [
+          4009388865
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576124874,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4009388939
+        ],
+        [
+          4009388942
+        ],
+        [
+          4009388940
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388939
+        ],
+        [
+          4009388942
+        ],
+        [
+          4009388940
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576124884,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4009388671,
+          4009388676,
+          4009388694,
+          4009388679,
+          4009388697,
+          4009388717,
+          4009388685,
+          4009388702,
+          4009388721,
+          4009388751
+        ],
+        [
+          4009388667,
+          4009388690,
+          4009388713,
+          4009388736,
+          4009388760,
+          4009388763
+        ],
+        [
+          4009388686,
+          4009388705,
+          4009388709,
+          4009388724,
+          4009388728,
+          4009388733,
+          4009388739,
+          4009388742,
+          4009388746,
+          4009388754
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388671,
+          4009388676,
+          4009388694,
+          4009388679,
+          4009388697,
+          4009388717,
+          4009388685,
+          4009388702,
+          4009388721,
+          4009388751
+        ],
+        [
+          4009388667,
+          4009388690,
+          4009388713,
+          4009388736,
+          4009388760,
+          4009388763
+        ],
+        [
+          4009388686,
+          4009388705,
+          4009388709,
+          4009388724,
+          4009388728,
+          4009388733,
+          4009388739,
+          4009388742,
+          4009388746,
+          4009388754
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576124865,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4009388601
+        ],
+        [
+          4009388612
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388601
+        ],
+        [
+          4009388612
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1576124856,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4009388875,
+          4009388884,
+          4009388892
+        ],
+        [
+          4009388879,
+          4009388888,
+          4009388894
+        ],
+        [
+          4009388882,
+          4009388890,
+          4009388896
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388875,
+          4009388879,
+          4009388882,
+          4009388884,
+          4009388888,
+          4009388890,
+          4009388892,
+          4009388894,
+          4009388896
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576124877,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4009389723
+        ],
+        [
+          4009389724
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009389723
+        ],
+        [
+          4009389724
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576125111,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4009388835
+        ],
+        [
+          4009388840
+        ],
+        [
+          4009388843
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388835
+        ],
+        [
+          4009388840
+        ],
+        [
+          4009388843
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576124871,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4009388638
+        ],
+        [
+          4009388641
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388638
+        ],
+        [
+          4009388641
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "3.5",
+      "id": 1576124860,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4009388799
+        ],
+        [
+          4009388793
+        ],
+        [
+          4009388796
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388799,
+          4009388793,
+          4009388796
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576124867,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Handicap",
+      "desktopOddIds": [
+        [
+          4009388601
+        ],
+        [
+          4009388612
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388601
+        ],
+        [
+          4009388612
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 4,
+      "typeId": 16,
+      "sportMarketId": 70515,
+      "sv": "+0.5",
+      "id": 1576124856,
+      "name": "Handicap"
+    },
+    {
+      "shortName": "Both Teams To Score",
+      "desktopOddIds": [
+        [
+          4009388660
+        ],
+        [
+          4009388664
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388660
+        ],
+        [
+          4009388664
+        ]
+      ],
+      "isBB": true,
+      "so": 5,
+      "typeId": 29,
+      "sportMarketId": 70545,
+      "id": 1576124864,
+      "name": "Both Teams To Score"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4009389723
+        ],
+        [
+          4009389724
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009389723
+        ],
+        [
+          4009389724
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576125111,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4009388847
+        ],
+        [
+          4009388850
+        ],
+        [
+          4009388852
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388847,
+          4009388850,
+          4009388852
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576124872,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4009388808
+        ],
+        [
+          4009388804
+        ],
+        [
+          4009388805
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388808,
+          4009388804,
+          4009388805
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576124868,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4009388648
+        ],
+        [
+          4009388651
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388648
+        ],
+        [
+          4009388651
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576124862,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4009389725
+        ],
+        [
+          4009389726
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009389725
+        ],
+        [
+          4009389726
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576125112,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4009388671,
+          4009388676,
+          4009388694,
+          4009388679,
+          4009388697,
+          4009388717,
+          4009388685,
+          4009388702,
+          4009388721,
+          4009388751
+        ],
+        [
+          4009388667,
+          4009388690,
+          4009388713,
+          4009388736,
+          4009388760,
+          4009388763
+        ],
+        [
+          4009388686,
+          4009388705,
+          4009388709,
+          4009388724,
+          4009388728,
+          4009388733,
+          4009388739,
+          4009388742,
+          4009388746,
+          4009388754
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388671,
+          4009388676,
+          4009388694,
+          4009388679,
+          4009388697,
+          4009388717,
+          4009388685,
+          4009388702,
+          4009388721,
+          4009388751
+        ],
+        [
+          4009388667,
+          4009388690,
+          4009388713,
+          4009388736,
+          4009388760,
+          4009388763
+        ],
+        [
+          4009388686,
+          4009388705,
+          4009388709,
+          4009388724,
+          4009388728,
+          4009388733,
+          4009388739,
+          4009388742,
+          4009388746,
+          4009388754
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576124865,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4009388847
+        ],
+        [
+          4009388850
+        ],
+        [
+          4009388852
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388847,
+          4009388850,
+          4009388852
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576124872,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4009388808
+        ],
+        [
+          4009388804
+        ],
+        [
+          4009388805
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388808,
+          4009388804,
+          4009388805
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576124868,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4009388648
+        ],
+        [
+          4009388651
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388648
+        ],
+        [
+          4009388651
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576124862,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4009389725
+        ],
+        [
+          4009389726
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009389725
+        ],
+        [
+          4009389726
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576125112,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "2nd half - 1x2",
+      "desktopOddIds": [
+        [
+          4009388855
+        ],
+        [
+          4009388857
+        ],
+        [
+          4009388859
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4009388855,
+          4009388857,
+          4009388859
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 83,
+      "sportMarketId": 70643,
+      "id": 1576124873,
+      "name": "2nd half - 1x2"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388835,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388840,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388843,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 9,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388799,
+      "name": "IFK Karlshamn or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388793,
+      "name": "IFK Karlshamn or Vaxjo Norra"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388796,
+      "name": "Draw or Vaxjo Norra"
+    },
+    {
+      "typeId": 12,
+      "price": 2.2223,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 4009388638,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5385,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isDBB": true,
+      "id": 4009388641,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388660,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388664,
+      "name": "No"
+    },
+    {
+      "typeId": 1,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "id": 4009388862,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 3,
+      "price": 1.32,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "id": 4009388865,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 1,
+      "price": 2.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388939,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 7,
+      "price": 16.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4009388942,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.52,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388940,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 114,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388671,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388676,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388694,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388679,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388697,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388717,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388685,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388702,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388721,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388751,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388667,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388690,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388713,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388736,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388760,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388763,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388686,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388705,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388709,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388724,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388728,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388733,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388739,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388742,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388746,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388754,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.9334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388601,
+      "name": "IFK Karlshamn (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.7143,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388612,
+      "name": "Vaxjo Norra (-0.5)"
+    },
+    {
+      "typeId": 418,
+      "price": 6.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "id": 4009388875,
+      "name": "IFK Karlshamn/IFK Karlshamn"
+    },
+    {
+      "typeId": 420,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "id": 4009388879,
+      "name": "IFK Karlshamn/X"
+    },
+    {
+      "typeId": 422,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4009388882,
+      "name": "IFK Karlshamn/Vaxjo Norra"
+    },
+    {
+      "typeId": 424,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "id": 4009388884,
+      "name": "X/IFK Karlshamn"
+    },
+    {
+      "typeId": 426,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4009388888,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "id": 4009388890,
+      "name": "X/Vaxjo Norra"
+    },
+    {
+      "typeId": 430,
+      "price": 46.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4009388892,
+      "name": "Vaxjo Norra/IFK Karlshamn"
+    },
+    {
+      "typeId": 432,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "id": 4009388894,
+      "name": "Vaxjo Norra/X"
+    },
+    {
+      "typeId": 434,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "id": 4009388896,
+      "name": "Vaxjo Norra/Vaxjo Norra"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009389723,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009389724,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388835,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388840,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.7273,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388843,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 12,
+      "price": 2.2223,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388638,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5385,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388641,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 9,
+      "price": 1.8572,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388799,
+      "name": "IFK Karlshamn or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2308,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388793,
+      "name": "IFK Karlshamn or Vaxjo Norra"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388796,
+      "name": "Draw or Vaxjo Norra"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.9334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388601,
+      "name": "IFK Karlshamn (+0.5)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.7143,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "+0.5",
+      "isBB": true,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388612,
+      "name": "Vaxjo Norra (-0.5)"
+    },
+    {
+      "typeId": 74,
+      "price": 1.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388660,
+      "name": "Yes"
+    },
+    {
+      "typeId": 76,
+      "price": 2.3,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388664,
+      "name": "No"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9231,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009389723,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009389724,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388847,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 2,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388850,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388852,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 9,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388808,
+      "name": "IFK Karlshamn or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388804,
+      "name": "IFK Karlshamn or Vaxjo Norra"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388805,
+      "name": "Draw or Vaxjo Norra"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388648,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5385,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388651,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009389725,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009389726,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388671,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388676,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388694,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388679,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388697,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388717,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388685,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388702,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388721,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388751,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388667,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388690,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388713,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388736,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388760,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388763,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388686,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388705,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388709,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388724,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388728,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 17.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388733,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388739,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388742,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388746,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4009388754,
+      "name": "3:4"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388847,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 2,
+      "price": 2.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388850,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388852,
+      "name": "Vaxjo Norra"
+    },
+    {
+      "typeId": 9,
+      "price": 1.5385,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "isDBB": true,
+      "id": 4009388808,
+      "name": "IFK Karlshamn or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009388804,
+      "name": "IFK Karlshamn or Vaxjo Norra"
+    },
+    {
+      "typeId": 11,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "isDBB": true,
+      "id": 4009388805,
+      "name": "Draw or Vaxjo Norra"
+    },
+    {
+      "typeId": 12,
+      "price": 2.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4009388648,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5385,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4009388651,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009389725,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7143,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4009389726,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 4.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 93640,
+      "id": 4009388855,
+      "name": "IFK Karlshamn"
+    },
+    {
+      "typeId": 2,
+      "price": 2.5715,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4009388857,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.96,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 72673,
+      "id": 4009388859,
+      "name": "Vaxjo Norra"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 443,
+  "rc": false,
+  "startDate": "2026-05-22T17:00:00Z",
+  "showAll": true
+}

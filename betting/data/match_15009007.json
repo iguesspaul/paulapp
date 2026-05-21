@@ -1,0 +1,2604 @@
+{
+  "id": 15009007,
+  "feedEventId": 20994259,
+  "name": "Atletico Sanluqueno vs. Villarreal B",
+  "et": 0,
+  "sport": {
+    "typeId": 1,
+    "iconName": "soccer",
+    "hasLiveEvents": false,
+    "id": 66,
+    "name": "Football"
+  },
+  "champ": {
+    "hasLiveEvents": false,
+    "id": 32613,
+    "name": "Primera Federacion"
+  },
+  "category": {
+    "iso": "ESP",
+    "hasLiveEvents": false,
+    "id": 501,
+    "name": "Spain"
+  },
+  "competitors": [
+    {
+      "hasConfigLogo": true,
+      "id": 51627,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "hasConfigLogo": true,
+      "id": 51638,
+      "name": "Villarreal B"
+    }
+  ],
+  "marketGroups": [
+    {
+      "type": 0,
+      "marketIds": [
+        31046,
+        1576398688,
+        1576398682,
+        1576398651,
+        1576398691,
+        1576398736,
+        1576398677,
+        1576398697,
+        1576398694,
+        1576398994
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "type": 3,
+      "marketIds": [
+        1576398688,
+        1576398651,
+        1576398682,
+        1576398994,
+        1576398689,
+        1576398683,
+        1576398655,
+        1576398995,
+        1576398677,
+        1576398657
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 23,
+      "name": "Bet Builder"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576398749
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 1050,
+      "name": "Extra"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576398689,
+        1576398683,
+        1576398655,
+        1578982662,
+        1576398995,
+        1576398778
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576398684,
+        1576398657,
+        1576398779
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "type": 0,
+      "marketIds": [
+        1576398712
+      ],
+      "isBundle": false,
+      "sortOrder": 0,
+      "id": 4,
+      "name": "Combo"
+    }
+  ],
+  "childMarketGroups": [],
+  "markets": [
+    {
+      "desktopOddIds": [],
+      "mobileOddIds": [],
+      "childMarketIds": [],
+      "isBB": false,
+      "variant": 7,
+      "so": 0,
+      "typeId": 31046,
+      "sportMarketId": 0,
+      "id": 31046,
+      "name": "Boosted Odds"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010402470
+        ],
+        [
+          4010402471
+        ],
+        [
+          4010402472
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402470
+        ],
+        [
+          4010402471
+        ],
+        [
+          4010402472
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576398688,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010402445
+        ],
+        [
+          4010402443
+        ],
+        [
+          4010402444
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402445,
+          4010402443,
+          4010402444
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576398682,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010402335
+        ],
+        [
+          4010402336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402335
+        ],
+        [
+          4010402336
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576398651,
+      "name": "Total"
+    },
+    {
+      "shortName": "Draw no bet",
+      "desktopOddIds": [
+        [
+          4010402479
+        ],
+        [
+          4010402480
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402479
+        ],
+        [
+          4010402480
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 11,
+      "sportMarketId": 70500,
+      "id": 1576398691,
+      "name": "Draw no bet"
+    },
+    {
+      "shortName": "First goal",
+      "desktopOddIds": [
+        [
+          4010402635
+        ],
+        [
+          4010402637
+        ],
+        [
+          4010402636
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402635
+        ],
+        [
+          4010402637
+        ],
+        [
+          4010402636
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 8,
+      "sportMarketId": 70491,
+      "sv": "1",
+      "id": 1576398736,
+      "name": "First goal"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010402388,
+          4010402389,
+          4010402394,
+          4010402390,
+          4010402395,
+          4010402400,
+          4010402391,
+          4010402396,
+          4010402401,
+          4010402409
+        ],
+        [
+          4010402387,
+          4010402393,
+          4010402399,
+          4010402405,
+          4010402411,
+          4010402412
+        ],
+        [
+          4010402392,
+          4010402397,
+          4010402398,
+          4010402402,
+          4010402403,
+          4010402404,
+          4010402406,
+          4010402407,
+          4010402408,
+          4010402410
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402388,
+          4010402389,
+          4010402394,
+          4010402390,
+          4010402395,
+          4010402400,
+          4010402391,
+          4010402396,
+          4010402401,
+          4010402409
+        ],
+        [
+          4010402387,
+          4010402393,
+          4010402399,
+          4010402405,
+          4010402411,
+          4010402412
+        ],
+        [
+          4010402392,
+          4010402397,
+          4010402398,
+          4010402402,
+          4010402403,
+          4010402404,
+          4010402406,
+          4010402407,
+          4010402408,
+          4010402410
+        ]
+      ],
+      "isBB": false,
+      "variant": 3,
+      "so": 0,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576398677,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "Halftime/fulltime",
+      "desktopOddIds": [
+        [
+          4010402503,
+          4010402506,
+          4010402509
+        ],
+        [
+          4010402504,
+          4010402507,
+          4010402510
+        ],
+        [
+          4010402505,
+          4010402508,
+          4010402511
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402503,
+          4010402504,
+          4010402505,
+          4010402506,
+          4010402507,
+          4010402508,
+          4010402509,
+          4010402510,
+          4010402511
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 47,
+      "sportMarketId": 70568,
+      "id": 1576398697,
+      "name": "Halftime/fulltime"
+    },
+    {
+      "shortName": "Exact goals ",
+      "desktopOddIds": [
+        [
+          4010402485,
+          4010402486,
+          4010402487,
+          4010402489
+        ],
+        [
+          4010402488,
+          4010402490
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402485,
+          4010402486,
+          4010402487,
+          4010402489,
+          4010402488,
+          4010402490
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 21,
+      "sportMarketId": 71660,
+      "id": 1576398694,
+      "name": "Exact goals "
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010403487
+        ],
+        [
+          4010403488
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010403487
+        ],
+        [
+          4010403488
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576398994,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1x2",
+      "desktopOddIds": [
+        [
+          4010402470
+        ],
+        [
+          4010402471
+        ],
+        [
+          4010402472
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402470
+        ],
+        [
+          4010402471
+        ],
+        [
+          4010402472
+        ]
+      ],
+      "isBB": true,
+      "so": 1,
+      "typeId": 1,
+      "sportMarketId": 70472,
+      "id": 1576398688,
+      "name": "1x2"
+    },
+    {
+      "shortName": "Total",
+      "desktopOddIds": [
+        [
+          4010402335
+        ],
+        [
+          4010402336
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402335
+        ],
+        [
+          4010402336
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 2,
+      "typeId": 18,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "id": 1576398651,
+      "name": "Total"
+    },
+    {
+      "shortName": "Double chance",
+      "desktopOddIds": [
+        [
+          4010402445
+        ],
+        [
+          4010402443
+        ],
+        [
+          4010402444
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402445,
+          4010402443,
+          4010402444
+        ]
+      ],
+      "isBB": true,
+      "so": 3,
+      "typeId": 10,
+      "sportMarketId": 70495,
+      "id": 1576398682,
+      "name": "Double chance"
+    },
+    {
+      "shortName": "Odd/even",
+      "desktopOddIds": [
+        [
+          4010403487
+        ],
+        [
+          4010403488
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010403487
+        ],
+        [
+          4010403488
+        ]
+      ],
+      "isBB": true,
+      "so": 16,
+      "typeId": 26,
+      "sportMarketId": 70535,
+      "id": 1576398994,
+      "name": "Odd/even"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010402473
+        ],
+        [
+          4010402474
+        ],
+        [
+          4010402475
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402473,
+          4010402474,
+          4010402475
+        ]
+      ],
+      "isBB": true,
+      "so": 17,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576398689,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010402448
+        ],
+        [
+          4010402446
+        ],
+        [
+          4010402447
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402448,
+          4010402446,
+          4010402447
+        ]
+      ],
+      "isBB": true,
+      "so": 18,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576398683,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010402343
+        ],
+        [
+          4010402344
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402343
+        ],
+        [
+          4010402344
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 19,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576398655,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010403489
+        ],
+        [
+          4010403490
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010403489
+        ],
+        [
+          4010403490
+        ]
+      ],
+      "isBB": true,
+      "so": 23,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576398995,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "Correct score",
+      "desktopOddIds": [
+        [
+          4010402388,
+          4010402389,
+          4010402394,
+          4010402390,
+          4010402395,
+          4010402400,
+          4010402391,
+          4010402396,
+          4010402401,
+          4010402409
+        ],
+        [
+          4010402387,
+          4010402393,
+          4010402399,
+          4010402405,
+          4010402411,
+          4010402412
+        ],
+        [
+          4010402392,
+          4010402397,
+          4010402398,
+          4010402402,
+          4010402403,
+          4010402404,
+          4010402406,
+          4010402407,
+          4010402408,
+          4010402410
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402388,
+          4010402389,
+          4010402394,
+          4010402390,
+          4010402395,
+          4010402400,
+          4010402391,
+          4010402396,
+          4010402401,
+          4010402409
+        ],
+        [
+          4010402387,
+          4010402393,
+          4010402399,
+          4010402405,
+          4010402411,
+          4010402412
+        ],
+        [
+          4010402392,
+          4010402397,
+          4010402398,
+          4010402402,
+          4010402403,
+          4010402404,
+          4010402406,
+          4010402407,
+          4010402408,
+          4010402410
+        ]
+      ],
+      "isBB": true,
+      "variant": 3,
+      "so": 46,
+      "typeId": 45,
+      "sportMarketId": 70566,
+      "id": 1576398677,
+      "name": "Correct score"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010402347
+        ],
+        [
+          4010402348
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402347
+        ],
+        [
+          4010402348
+        ]
+      ],
+      "isBB": true,
+      "variant": 8,
+      "so": 48,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576398657,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "Goal range",
+      "desktopOddIds": [
+        [
+          4010402679,
+          4010402677,
+          4010402678,
+          4010402680
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402679
+        ],
+        [
+          4010402677,
+          4010402678,
+          4010402680
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 25,
+      "sportMarketId": 72136,
+      "id": 1576398749,
+      "name": "Goal range"
+    },
+    {
+      "shortName": "1st half - 1x2",
+      "desktopOddIds": [
+        [
+          4010402473
+        ],
+        [
+          4010402474
+        ],
+        [
+          4010402475
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402473,
+          4010402474,
+          4010402475
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 60,
+      "sportMarketId": 70591,
+      "id": 1576398689,
+      "name": "1st half - 1x2"
+    },
+    {
+      "shortName": "1st half - double chance",
+      "desktopOddIds": [
+        [
+          4010402448
+        ],
+        [
+          4010402446
+        ],
+        [
+          4010402447
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402448,
+          4010402446,
+          4010402447
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 63,
+      "sportMarketId": 70599,
+      "id": 1576398683,
+      "name": "1st half - double chance"
+    },
+    {
+      "shortName": "1st half - total",
+      "desktopOddIds": [
+        [
+          4010402343
+        ],
+        [
+          4010402344
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402343
+        ],
+        [
+          4010402344
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 68,
+      "sportMarketId": 70615,
+      "sv": "1.5",
+      "id": 1576398655,
+      "name": "1st half - total"
+    },
+    {
+      "shortName": "1st half - first goal",
+      "desktopOddIds": [
+        [
+          4018925056
+        ],
+        [
+          4018925058
+        ],
+        [
+          4018925057
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018925056,
+          4018925058,
+          4018925057
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 62,
+      "sportMarketId": 70598,
+      "sv": "1",
+      "id": 1578982662,
+      "name": "1st half - first goal"
+    },
+    {
+      "shortName": "1st half - Odd/even",
+      "desktopOddIds": [
+        [
+          4010403489
+        ],
+        [
+          4010403490
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010403489
+        ],
+        [
+          4010403490
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 74,
+      "sportMarketId": 70630,
+      "id": 1576398995,
+      "name": "1st half - Odd/even"
+    },
+    {
+      "shortName": "1x2 (match) & 1st half both teams score",
+      "desktopOddIds": [
+        [
+          4010402983,
+          4010402984
+        ],
+        [
+          4010402985,
+          4010402986
+        ],
+        [
+          4010402987,
+          4010402988
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402983,
+          4010402984
+        ],
+        [
+          4010402985,
+          4010402986
+        ],
+        [
+          4010402987,
+          4010402988
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31065,
+      "sportMarketId": 74493,
+      "id": 1576398778,
+      "name": "1x2 (match) & 1st half both teams score"
+    },
+    {
+      "shortName": "2nd half - double chance",
+      "desktopOddIds": [
+        [
+          4010402451
+        ],
+        [
+          4010402449
+        ],
+        [
+          4010402450
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402451,
+          4010402449,
+          4010402450
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 85,
+      "sportMarketId": 70648,
+      "id": 1576398684,
+      "name": "2nd half - double chance"
+    },
+    {
+      "shortName": "2nd half - total",
+      "desktopOddIds": [
+        [
+          4010402347
+        ],
+        [
+          4010402348
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402347
+        ],
+        [
+          4010402348
+        ]
+      ],
+      "isBB": false,
+      "variant": 8,
+      "so": 0,
+      "typeId": 90,
+      "sportMarketId": 70657,
+      "sv": "1.5",
+      "id": 1576398657,
+      "name": "2nd half - total"
+    },
+    {
+      "shortName": "1x2 (match) & 2nd half both teams score",
+      "desktopOddIds": [
+        [
+          4010402989,
+          4010402990,
+          4010402991,
+          4010402992,
+          4010402993,
+          4010402994
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4010402989,
+          4010402990,
+          4010402991,
+          4010402992,
+          4010402993,
+          4010402994
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 31066,
+      "sportMarketId": 74494,
+      "id": 1576398779,
+      "name": "1x2 (match) & 2nd half both teams score"
+    },
+    {
+      "shortName": "1x2 & total",
+      "desktopOddIds": [
+        [
+          4018925040,
+          4010402555,
+          4018925046,
+          4018925038,
+          4010402553,
+          4018925044
+        ],
+        [
+          4018925043,
+          4010402558,
+          4018925049,
+          4018925042,
+          4010402557,
+          4018925048
+        ],
+        [
+          4018925041,
+          4010402556,
+          4018925047,
+          4018925039,
+          4010402554,
+          4018925045
+        ]
+      ],
+      "mobileOddIds": [
+        [
+          4018925040,
+          4010402555,
+          4018925046,
+          4018925043,
+          4010402558,
+          4018925049,
+          4018925041,
+          4010402556,
+          4018925047,
+          4018925038,
+          4010402553,
+          4018925044,
+          4018925042,
+          4010402557,
+          4018925048,
+          4018925039,
+          4010402554,
+          4018925045
+        ]
+      ],
+      "isBB": false,
+      "so": 0,
+      "typeId": 37,
+      "sportMarketId": 70558,
+      "sv": "2.5",
+      "id": 1576398712,
+      "name": "1x2 & total"
+    }
+  ],
+  "childMarkets": [],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402470,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402471,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402472,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 9,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402445,
+      "name": "Atletico Sanluqueno or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402443,
+      "name": "Atletico Sanluqueno or Villarreal B"
+    },
+    {
+      "typeId": 11,
+      "price": 1.091,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402444,
+      "name": "Draw or Villarreal B"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4010402335,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isDBB": true,
+      "id": 4010402336,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 1,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402479,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 3,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402480,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 1,
+      "price": 3.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402635,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 7,
+      "price": 10.0,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "isDBB": true,
+      "id": 4010402637,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.3334,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402636,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 114,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402388,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402389,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402394,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402390,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402395,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402400,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402391,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402396,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402401,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402409,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402387,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402393,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402399,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402405,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402411,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402412,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402392,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402397,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402398,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402402,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402403,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402404,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402406,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402407,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402408,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402410,
+      "name": "3:4"
+    },
+    {
+      "typeId": 418,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402503,
+      "name": "Atletico Sanluqueno/Atletico Sanluqueno"
+    },
+    {
+      "typeId": 420,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402504,
+      "name": "Atletico Sanluqueno/X"
+    },
+    {
+      "typeId": 422,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402505,
+      "name": "Atletico Sanluqueno/Villarreal B"
+    },
+    {
+      "typeId": 424,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402506,
+      "name": "X/Atletico Sanluqueno"
+    },
+    {
+      "typeId": 426,
+      "price": 5.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402507,
+      "name": "Draw/Draw"
+    },
+    {
+      "typeId": 428,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402508,
+      "name": "X/Villarreal B"
+    },
+    {
+      "typeId": 430,
+      "price": 51.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402509,
+      "name": "Villarreal B/Atletico Sanluqueno"
+    },
+    {
+      "typeId": 432,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402510,
+      "name": "Villarreal B/X"
+    },
+    {
+      "typeId": 434,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402511,
+      "name": "Villarreal B/Villarreal B"
+    },
+    {
+      "typeId": 54,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402485,
+      "name": "0"
+    },
+    {
+      "typeId": 56,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402486,
+      "name": "1"
+    },
+    {
+      "typeId": 58,
+      "price": 3.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402487,
+      "name": "2"
+    },
+    {
+      "typeId": 734,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402489,
+      "name": "3"
+    },
+    {
+      "typeId": 712,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402488,
+      "name": "4"
+    },
+    {
+      "typeId": 966,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402490,
+      "name": "5+"
+    },
+    {
+      "typeId": 70,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010403487,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010403488,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402470,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 2,
+      "price": 3.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402471,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.4,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402472,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 12,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402335,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.7858,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402336,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 9,
+      "price": 2.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402445,
+      "name": "Atletico Sanluqueno or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.1819,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402443,
+      "name": "Atletico Sanluqueno or Villarreal B"
+    },
+    {
+      "typeId": 11,
+      "price": 1.091,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402444,
+      "name": "Draw or Villarreal B"
+    },
+    {
+      "typeId": 70,
+      "price": 1.85,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010403487,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.7858,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010403488,
+      "name": "Even"
+    },
+    {
+      "typeId": 1,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402473,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402474,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402475,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402448,
+      "name": "Atletico Sanluqueno or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402446,
+      "name": "Atletico Sanluqueno or Villarreal B"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402447,
+      "name": "Draw or Villarreal B"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402343,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402344,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010403489,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010403490,
+      "name": "Even"
+    },
+    {
+      "typeId": 114,
+      "price": 15.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402388,
+      "name": "1:0"
+    },
+    {
+      "typeId": 116,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402389,
+      "name": "2:0"
+    },
+    {
+      "typeId": 130,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402394,
+      "name": "2:1"
+    },
+    {
+      "typeId": 118,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402390,
+      "name": "3:0"
+    },
+    {
+      "typeId": 132,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402395,
+      "name": "3:1"
+    },
+    {
+      "typeId": 144,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402400,
+      "name": "3:2"
+    },
+    {
+      "typeId": 120,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402391,
+      "name": "4:0"
+    },
+    {
+      "typeId": 134,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402396,
+      "name": "4:1"
+    },
+    {
+      "typeId": 146,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402401,
+      "name": "4:2"
+    },
+    {
+      "typeId": 312,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402409,
+      "name": "4:3"
+    },
+    {
+      "typeId": 110,
+      "price": 9.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402387,
+      "name": "0:0"
+    },
+    {
+      "typeId": 128,
+      "price": 7.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402393,
+      "name": "1:1"
+    },
+    {
+      "typeId": 142,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402399,
+      "name": "2:2"
+    },
+    {
+      "typeId": 154,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402405,
+      "name": "3:3"
+    },
+    {
+      "typeId": 322,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402411,
+      "name": "4:4"
+    },
+    {
+      "typeId": 324,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402412,
+      "name": "Other"
+    },
+    {
+      "typeId": 126,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402392,
+      "name": "0:1"
+    },
+    {
+      "typeId": 138,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402397,
+      "name": "0:2"
+    },
+    {
+      "typeId": 140,
+      "price": 7.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402398,
+      "name": "1:2"
+    },
+    {
+      "typeId": 148,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402402,
+      "name": "0:3"
+    },
+    {
+      "typeId": 150,
+      "price": 12.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402403,
+      "name": "1:3"
+    },
+    {
+      "typeId": 152,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402404,
+      "name": "2:3"
+    },
+    {
+      "typeId": 156,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402406,
+      "name": "0:4"
+    },
+    {
+      "typeId": 158,
+      "price": 21.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402407,
+      "name": "1:4"
+    },
+    {
+      "typeId": 160,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402408,
+      "name": "2:4"
+    },
+    {
+      "typeId": 320,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402410,
+      "name": "3:4"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402347,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isBB": true,
+      "isDBB": true,
+      "id": 4010402348,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 730,
+      "price": 3.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402679,
+      "name": "0-1"
+    },
+    {
+      "typeId": 1735,
+      "price": 1.8889,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402677,
+      "name": "2-3"
+    },
+    {
+      "typeId": 1743,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402678,
+      "name": "4-6"
+    },
+    {
+      "typeId": 885,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402680,
+      "name": "7+"
+    },
+    {
+      "typeId": 1,
+      "price": 6.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402473,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 2,
+      "price": 2.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402474,
+      "name": "Draw"
+    },
+    {
+      "typeId": 3,
+      "price": 1.8182,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402475,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 9,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "isDBB": true,
+      "id": 4010402448,
+      "name": "Atletico Sanluqueno or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.4445,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010402446,
+      "name": "Atletico Sanluqueno or Villarreal B"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "isDBB": true,
+      "id": 4010402447,
+      "name": "Draw or Villarreal B"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010402343,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.3637,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010402344,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 1,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51627,
+      "id": 4018925056,
+      "name": "Atletico Sanluqueno"
+    },
+    {
+      "typeId": 7,
+      "price": 2.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "id": 4018925058,
+      "name": "None"
+    },
+    {
+      "typeId": 3,
+      "price": 1.7334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1",
+      "competitorId": 51638,
+      "id": 4018925057,
+      "name": "Villarreal B"
+    },
+    {
+      "typeId": 70,
+      "price": 2.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010403489,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "isDBB": true,
+      "id": 4010403490,
+      "name": "Even"
+    },
+    {
+      "typeId": 78,
+      "price": 36.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402983,
+      "name": "Atletico Sanluqueno & yes"
+    },
+    {
+      "typeId": 82,
+      "price": 20.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402985,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 86,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402987,
+      "name": "Villarreal B & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402984,
+      "name": "Atletico Sanluqueno & no"
+    },
+    {
+      "typeId": 84,
+      "price": 4.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402986,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 88,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402988,
+      "name": "Villarreal B & no"
+    },
+    {
+      "typeId": 9,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402451,
+      "name": "Atletico Sanluqueno or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402449,
+      "name": "Atletico Sanluqueno or Villarreal B"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402450,
+      "name": "Draw or Villarreal B"
+    },
+    {
+      "typeId": 12,
+      "price": 1.96,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010402347,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5556,
+      "isMB": true,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "isDBB": true,
+      "id": 4010402348,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 78,
+      "price": 26.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402989,
+      "name": "Atletico Sanluqueno & yes"
+    },
+    {
+      "typeId": 80,
+      "price": 8.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51627,
+      "id": 4010402990,
+      "name": "Atletico Sanluqueno & no"
+    },
+    {
+      "typeId": 82,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402991,
+      "name": "Draw & yes"
+    },
+    {
+      "typeId": 84,
+      "price": 5.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 4010402992,
+      "name": "Draw & no"
+    },
+    {
+      "typeId": 86,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402993,
+      "name": "Villarreal B & yes"
+    },
+    {
+      "typeId": 88,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "competitorId": 51638,
+      "id": 4010402994,
+      "name": "Villarreal B & no"
+    },
+    {
+      "typeId": 660,
+      "price": 11.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51627,
+      "id": 4018925040,
+      "name": "Atletico Sanluqueno & over 1.5"
+    },
+    {
+      "typeId": 660,
+      "price": 14.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51627,
+      "id": 4010402555,
+      "name": "Atletico Sanluqueno & over 2.5"
+    },
+    {
+      "typeId": 660,
+      "price": 31.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51627,
+      "id": 4018925046,
+      "name": "Atletico Sanluqueno & over 3.5"
+    },
+    {
+      "typeId": 800,
+      "price": 5.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4018925043,
+      "name": "Draw & over 1.5"
+    },
+    {
+      "typeId": 800,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010402558,
+      "name": "Draw & over 2.5"
+    },
+    {
+      "typeId": 800,
+      "price": 19.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018925049,
+      "name": "Draw & over 3.5"
+    },
+    {
+      "typeId": 662,
+      "price": 1.6364,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51638,
+      "id": 4018925041,
+      "name": "Villarreal B & over 1.5"
+    },
+    {
+      "typeId": 662,
+      "price": 2.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51638,
+      "id": 4010402556,
+      "name": "Villarreal B & over 2.5"
+    },
+    {
+      "typeId": 662,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51638,
+      "id": 4018925047,
+      "name": "Villarreal B & over 3.5"
+    },
+    {
+      "typeId": 656,
+      "price": 16.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51627,
+      "id": 4018925038,
+      "name": "Atletico Sanluqueno & under 1.5"
+    },
+    {
+      "typeId": 656,
+      "price": 13.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51627,
+      "id": 4010402553,
+      "name": "Atletico Sanluqueno & under 2.5"
+    },
+    {
+      "typeId": 656,
+      "price": 8.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51627,
+      "id": 4018925044,
+      "name": "Atletico Sanluqueno & under 3.5"
+    },
+    {
+      "typeId": 798,
+      "price": 10.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "id": 4018925042,
+      "name": "Draw & under 1.5"
+    },
+    {
+      "typeId": 798,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "id": 4010402557,
+      "name": "Draw & under 2.5"
+    },
+    {
+      "typeId": 798,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "id": 4018925048,
+      "name": "Draw & under 3.5"
+    },
+    {
+      "typeId": 658,
+      "price": 5.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "1.5",
+      "competitorId": 51638,
+      "id": 4018925039,
+      "name": "Villarreal B & under 1.5"
+    },
+    {
+      "typeId": 658,
+      "price": 3.1,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "2.5",
+      "competitorId": 51638,
+      "id": 4010402554,
+      "name": "Villarreal B & under 2.5"
+    },
+    {
+      "typeId": 658,
+      "price": 1.9334,
+      "isMB": false,
+      "oddStatus": 0,
+      "sv": "3.5",
+      "competitorId": 51638,
+      "id": 4018925045,
+      "name": "Villarreal B & under 3.5"
+    }
+  ],
+  "boosts": [],
+  "nonBoosts": [],
+  "isParlay": false,
+  "eventCode": 1591,
+  "rc": false,
+  "startDate": "2026-05-23T16:30:00Z",
+  "showAll": true
+}
