@@ -6,8 +6,9 @@ This script mathematically exploits sports betting casinos using advanced quanti
 
 ### 1. The Sharp Consensus (The Intelligence)
 We do not attempt to predict match outcomes through intuition. Instead, we pull live odds from multiple "Sharp" sources in parallel:
-- **Direct Harvesters**: We scrape **Pinnacle.com** directly using browser automation to get the most accurate, real-time data.
-- **Aggregators**: We use **BetExplorer** as a secondary consensus layer to gather data from other global market leaders.
+- **Pinnacle API**: Pulls odds from `guest.api.arcadia.pinnacle.com` REST API — no browser automation needed. Uses league-level markets endpoint for reliability, with per-matchup retry fallback. Handles both 3-way (moneyline) and 2-way (full market including O/U) matchup formats via intelligent counterpart detection.
+- **BetExplorer**: Scrapes league pages via Playwright, extracting decimal odds from table rows. Falls back to inline odds (from `<button>` elements) when the JSON odds endpoint is unavailable.
+- **1x2-Only Solver**: When O/U 2.5 odds aren't available, the solver can estimate lambdas from just the 1x2 moneyline using 3-constraint fitting (Home/Draw/Away probabilities → 2-parameter Poisson grid).
 - **De-Vigging & Weighting**: We remove the bookmaker's margin and apply a weighted consensus (**70% Pinnacle Direct**, **30% others**) to derive the final **Match Lambda** ($\lambda$). This variable represents the mathematically expected goal frequency of the match.
 
 ### 2. The Probability Grid (The Engine)
@@ -32,6 +33,7 @@ The system compares the casino's price against our Fair Price.
 
 ### 6. Performance Attribution & Category Tracking
 Every +EV bet is **categorized** by its parent market type and logged to the `simulated_bets` table in `bets.db` using a flat **$1.00 simulation stake**.
+Bets calculated using fallback lambdas (no real sharp odds backing them) are automatically **skipped** during session runs to prevent performance tracking distortion.
 - **Categorization**: Raw casino strings like `"1st Half - 1x2 & Both Teams to Score"` are normalized into canonical groups (e.g., `"1H 1x2 & BTTS"`) so performance can be compared across matches.
 - **Line Stability**: Even duplicate bets (same selection scraped in two runs) are logged separately. A selection appearing multiple times at the same price indicates a **stable, confident line**.
 - **Analytics Report**: The system automatically generates ROI reports in the `docs/` folder. It shows:
@@ -47,6 +49,10 @@ Every +EV bet is **categorized** by its parent market type and logged to the `si
 ### 1. Daily Entry Point (`run_session.py`)
 This is the primary script you should run 2-3x per day. It orchestrates the entire workflow:
 1. **Settle Results**: Checks for finished matches and updates `is_win` in the database.
+   - *Optimization*: Automatically skips checking matches that started less than 2.5 hours ago, dramatically speeding up the check-results routine and avoiding unnecessary network calls for matches still in progress.
+   - *Unified Lookup*: The system leverages SofaScore's JSON endpoints. It maps the event's UTC date and queries daily schedules (checking match day, day before, and day after to handle timezone drift).
+   - *Fuzzy Match & Timestamp Alignment*: Team names are cleaned and fuzzy-matched using substring check, word set intersection, and SequenceMatcher. The system filters candidate events by ensuring kickoff is within a 24-hour window, selecting the closest start time.
+   - *Direct JSON Extraction*: Authoritative match details (final score and non-cumulative period goals for 1st and 2nd half) are extracted directly from `/api/v1/event/{id}` JSON structure, eliminating fragile CSS scraping. It also automatically handles home/away team swaps.
 2. **Scan Leagues**: Discovers +EV bets and logs them for tracking.
 3. **Generate Report**: Updates `PERFORMANCE_SEGMENTATION.md` with the latest ROI data.
 

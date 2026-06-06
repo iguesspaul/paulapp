@@ -19,8 +19,9 @@ Handles all persistence logic for the SQLite `bets.db`.
 
 ### `orchestrator.py`
 The central logic loop that connects all modules during a scan.
-- **`run_full_scan(is_session)`**: Dynamically discovers all active leagues with prelive events from the casino API and processes up to 3 matches for each, capping total matches scanned at 50 to maximize coverage while maintaining performance.
-- **`process_match(match, ...)`**: Coordinates harvesting, lambda calculation, and EV detection for a single event.
+- **`run_full_scan(is_session)`**: Dynamically discovers all active leagues with prelive events from the casino API and processes up to 5 matches per league, capping total matches scanned at 100 to maximize coverage.
+- **`process_match(match, ...)`**: Coordinates harvesting (Pinnacle arcadia API + BetExplorer Playwright), lambda calculation (solver → consensus → fallback), and EV detection for a single event.
+  - *Fallback bet filtering*: When using the hardcoded default lambda (2.65) with no real sharp odds backing, bets are printed as `[FALLBACK BET (SKIPPED)]` and never logged to the `simulated_bets` table during session runs. This prevents performance tracking distortion.
   - *Error Risk*: High. If sharp harvesters fail or API schema changes, this function logs a skip and continues.
 
 ### `reporter.py`
@@ -29,10 +30,11 @@ Generates the markdown analytics report.
 
 ### `results_checker.py`
 The automation engine for settling bets.
-- **`resolve_results(db)`**: Finds unsettled matches in the DB and attempts to find their scores on BetExplorer.
-- **`fetch_result_from_betexplorer(page, be_path, ...)`**: Scrapes the results page for a specific league and fuzzy-matches team names to find scores.
-  - *Error Risk*: Medium. Website structure changes can break the scraper logic.
-- **`evaluate_selection(category, selection, home_goals, away_goals)`**: A rules engine that determines if a specific bet (e.g., "Over 2.5") won based on the final score.
+- **`resolve_results(db)`**: Finds unsettled matches in the DB, queries SofaScore daily schedules and search endpoints via Playwright, filters by kickoff time, and fetches detailed scores.
+  - *Optimization*: Skips any matches that started less than 2.5 hours ago to avoid unnecessary online lookups.
+  - *Time drift & Fuzzy matching*: Queries SofaScore scheduled events for the match date (and adjacent dates to handle time drift), matching team names using cleaning and SequenceMatcher/subset metrics. Ensures kickoff timestamp is within 24 hours of target.
+  - *Swapped team handling*: Automatically detects if the home/away teams are swapped in SofaScore's listing relative to our database and swaps the parsed scores accordingly.
+- **`evaluate_selection(category, selection, h1, a1, h2, a2, home_team=None, away_team=None)`**: A rules engine that determines if a specific bet won based on the half and full-time scores. Uses robust helper functions (`evaluate_double_chance`, `evaluate_1x2`, `evaluate_total`, `evaluate_btts`) to correctly match team names and standard formats.
 
 ### `tracker.py`
 The categorization and logging layer.

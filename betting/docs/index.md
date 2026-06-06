@@ -21,3 +21,4 @@ Welcome to the Sentinel Quant Agent documentation. This site is generated via **
 - [Session Log](SESSION_LOG.md) — History of automated runs.
 - [Architecture](src/SRC_DEBUG.md) — Deep dive into the codebase.
 
+

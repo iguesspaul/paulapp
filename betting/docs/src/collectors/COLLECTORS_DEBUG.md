@@ -11,7 +11,7 @@ Sub-package containing custom scraping adapters for elite sharp bookmakers (e.g.
 
 ### `scraper.py`
 Automates the discovery and fetching of upcoming matches and odds from target league sites.
-- **`find_matches(champ_id)`**: Locates upcoming matches in the casino for a specific championship ID.
+- **`find_matches(champ_id)`**: Locates upcoming matches in the casino for a specific championship ID. Extracts event start times using timezone-aware UTC datetime formatting to enable accurate 48-hour filtering and result checking.
 - **`discover_active_leagues()`**: Dynamically queries the Altenar sports menu API to discover all active soccer championships with prelive events, returning normalized paths.
 - **`fetch_page_json(url, output_path)`**: Fetches underlying API JSON data or page contents.
 

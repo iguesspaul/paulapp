@@ -28,17 +28,38 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
 
     # 1. Harvest Sharp Odds in Parallel
     results = await asyncio.gather(
-        betexplorer.harvest_sharp_odds(league_config['be_path'], team_a, team_b),
-        pinnacle.harvest(league_config['pin_path'], team_a, team_b)
+        betexplorer.harvest_sharp_odds(
+            league_config['be_path'], team_a, team_b,
+            league_name=league_config.get('name', ''),
+            country_name=league_config.get('country', '')
+        ),
+        pinnacle.harvest(league_config['pin_path'], team_a, team_b,
+                         league_name=league_config.get('name', ''),
+                         country_name=league_config.get('country', ''))
     )
 
     # Flatten results into a single list of book results
     sharp_results = []
-    for res in results:
-        if isinstance(res, list):
-            sharp_results.extend(res)
-        else:
-            sharp_results.append(res)
+    betexp_results, pin_result = results[0], results[1]
+    if isinstance(betexp_results, list):
+        sharp_results.extend(betexp_results)
+    else:
+        sharp_results.append(betexp_results)
+
+    # Log per-harvester status
+    pin_odds = pin_result.get('odds', {}) if isinstance(pin_result, dict) else {}
+    betexp_odds = any(r.get('odds') for r in (betexp_results if isinstance(betexp_results, list) else [betexp_results]))
+    if pin_odds:
+        print(f"[PINNACLE] Found odds for {team_a} vs {team_b}: {len(pin_odds)} markets")
+    else:
+        print(f"[PINNACLE] No odds found for {team_a} vs {team_b}")
+    if betexp_odds:
+        print(f"[BETEXPLORER] Found consensus odds for {team_a} vs {team_b}")
+    else:
+        print(f"[BETEXPLORER] No odds found for {team_a} vs {team_b}")
+
+    # Append Pinnacle result to sharp_results (it was logged but not added)
+    sharp_results.append(pin_result)
 
     # Check if we got any odds
     has_odds = any(entry.get('odds') for entry in sharp_results)
@@ -52,6 +73,7 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
 
     # 2. Calculate Implied Lambdas with Fallbacks
     home_lambda, away_lambda = None, None
+    using_fallback = False
     if has_odds:
         home_lambda, away_lambda = solve_implied_lambdas_from_consensus(sharp_results)
         
@@ -59,6 +81,7 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
         print(f"[SHARP] Solver Succeeded: Home Lambda = {home_lambda:.4f}, Away Lambda = {away_lambda:.4f}")
         prob_grid = ProbabilityGrid(home_lambda=home_lambda, away_lambda=away_lambda)
     else:
+        using_fallback = True
         # Fallback to single match_lambda logic
         match_lambda = None
         if has_odds:
@@ -69,7 +92,9 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                 with open("data/global_lambda.json", "r") as f:
                     g_data = json.load(f)
                     match_lambda = g_data.get("lambda")
-            
+                    if match_lambda:
+                        print(f"[FALLBACK] Using global_lambda.json: {match_lambda}")
+
             if match_lambda is None:
                 try:
                     from main import USER_TARGET_LAMBDA
@@ -77,7 +102,7 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                     match_lambda = USER_TARGET_LAMBDA
                 except ImportError:
                     match_lambda = 2.65
-                    print(f"[FALLBACK] Using default lambda: {match_lambda}")
+                    print(f"[FALLBACK WARNING] Using hardcoded default lambda: {match_lambda}")
                     
         if match_lambda is None:
             return
@@ -126,8 +151,14 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                     # Kelly stake for live use
                     stake = calculate_kelly_stake(odds, fair_prob, INITIAL_BANKROLL, KELLY_MULTIPLIER)
 
-                    # Simulation Mode: track every +EV bet at flat $1.00 if this is a recorded session
-                    category = "Other" # default
+                    # Simulation Mode: skip bets calculated with fallback lambdas
+                    # (no real sharp odds backing them — would distort performance tracking)
+                    if is_session and using_fallback:
+                        tag = "[FALLBACK BET (SKIPPED)]"
+                        print(f"{tag} [{m_name}] {name} @ {odds} | EV: {ev:+.2%} (no sharp odds, fallback lambda)")
+                        continue
+
+                    category = "Other"
                     if is_session:
                         start_time = match.get('start_time')
                         category, _ = tracker.log(

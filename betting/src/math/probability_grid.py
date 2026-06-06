@@ -2,6 +2,11 @@ import numpy as np
 from scipy.stats import poisson
 
 class ProbabilityGrid:
+    """
+    Constructs the final, canonical 7x7 Dixon-Coles Poisson probability grids 
+    for Full Match, 1st Half, and 2nd Half using the solved/consensus lambdas.
+    These grids are static and queried by MarketResolver to price casino betting markets.
+    """
     def __init__(self, match_lambda=None, home_lambda=None, away_lambda=None, ht_lambda=None, rho=-0.10):
         self.rho = rho
         

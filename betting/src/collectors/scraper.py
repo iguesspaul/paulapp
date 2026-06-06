@@ -1,7 +1,7 @@
 import urllib.request
 import json
 import asyncio
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from src.core.config import ALTENAR_BASE_URL, ALTENAR_COMMON_PARAMS
 
 def fetch_json(url):
@@ -23,7 +23,7 @@ async def find_matches(champ_id: int):
     matches = []
 
     if data and 'events' in data:
-        current_time = datetime.utcnow()
+        current_time = datetime.now(timezone.utc)
         # Set cutoff to 48 hours from now
         cutoff_time = current_time + timedelta(hours=48)
 
@@ -42,10 +42,10 @@ async def find_matches(champ_id: int):
                             event_time = datetime.fromisoformat(start_time_str.replace('Z', '+00:00'))
                         else:
                             # Try other common formats
-                            event_time = datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+                            event_time = datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S').replace(tzinfo=timezone.utc)
                     elif isinstance(start_time_str, (int, float)):
                         # Assume it's a Unix timestamp
-                        event_time = datetime.utcfromtimestamp(start_time_str)
+                        event_time = datetime.fromtimestamp(start_time_str, timezone.utc)
                     else:
                         # If we can't parse it, include the match (better to include than exclude)
                         event_time = current_time
@@ -99,6 +99,37 @@ def make_slug(s):
     s = re.sub(r'[\s-]+', '-', s)
     return s
 
+
+# Pinnacle uses org-based prefixes (CONMEBOL, UEFA, CAF, etc.) rather than
+# geographic country/region names for some competitions.  This map overrides
+# the auto-generated pin_path for known problem leagues.
+# Key: (country_slug, league_slug) — values of make_slug() applied to the
+#      casino's country and league names.
+# Value: the correct Pinnacle URL path segment.
+# NOTE: Legacy — Pinnacle harvester now uses the arcadia API directly (league name
+# matching, not URL path guessing). This table is kept for reference and any
+# future league-page navigation that may still need slug overrides.
+PIN_PATH_OVERRIDES: dict[tuple[str, str], str] = {
+    # CONMEBOL competitions
+    ("americas", "copa-sudamericana"): "conmebol-copa-sudamericana",
+    ("americas", "copa-libertadores"): "conmebol-copa-libertadores",
+    ("south-america", "copa-sudamericana"): "conmebol-copa-sudamericana",
+    ("south-america", "copa-libertadores"): "conmebol-copa-libertadores",
+    # CONMEBOL qualifier routes vary by host
+    ("americas", "conmebol-qualifiers"): "conmebol-qualifiers",
+    # UEFA competitions — Pinnacle uses 'uefa-' prefix
+    ("europe", "champions-league"): "uefa-champions-league",
+    ("europe", "europa-league"): "uefa-europa-league",
+    ("europe", "europa-conference-league"): "uefa-europa-conference-league",
+    ("europe", "nations-league"): "uefa-nations-league",
+    # CAF competitions
+    ("africa", "africa-cup-of-nations"): "caf-africa-cup-of-nations",
+    ("africa", "caf-champions-league"): "caf-champions-league",
+    # CONCACAF
+    ("central-america", "concacaf-champions-cup"): "concacaf-champions-cup",
+    ("north-america", "concacaf-champions-cup"): "concacaf-champions-cup",
+}
+
 async def discover_active_leagues():
     """
     Dynamically discovers all active soccer championships with prelive events from the Altenar menu.
@@ -137,11 +168,13 @@ async def discover_active_leagues():
                         league_slug = make_slug(champ_name)
                         
                         # Generate normalized paths
+                        be_path = f"soccer/{country_slug}/{league_slug}"
                         if league_slug == "laliga":
                             be_path = f"soccer/{country_slug}/laliga"
                             pin_path = f"{country_slug}-la-liga"
+                        elif (country_slug, league_slug) in PIN_PATH_OVERRIDES:
+                            pin_path = PIN_PATH_OVERRIDES[(country_slug, league_slug)]
                         else:
-                            be_path = f"soccer/{country_slug}/{league_slug}"
                             pin_path = f"{country_slug}-{league_slug}"
                             
                         extracted_leagues.append({
