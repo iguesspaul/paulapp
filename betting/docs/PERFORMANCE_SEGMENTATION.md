@@ -1,6 +1,6 @@
 # Performance Segmentation Report
 
-_Generated: 2026-05-17 22:26 UTC_
+_Generated: 2026-06-06 17:27 UTC_
 
 > **How to read this report:**
 > - **Volume**: How many times this category appeared as a +EV opportunity.
@@ -13,23 +13,20 @@ _Generated: 2026-05-17 22:26 UTC_
 
 | Category | Volume | Settled | Win Rate | Expected Win Rate | Model Accuracy | Yield (ROI) |
 |---|---|---|---|---|---|---|
-| Double Chance & Total | 591 | 62 | 46.8% | 58.6% | -11.8pp | +0.3% |
-| Total Goals | 311 | 33 | 30.3% | 55.2% | -24.9pp | -4.7% |
-| ⭐ **Correct Score** | 183 | 14 | 0.0% | 4.2% | **-4.2pp** | -7.7% |
-| ⭐ **HT/FT Correct Score** | 162 | 6 | 0.0% | 2.1% | **-2.1pp** | -3.7% |
-| 1H Total Goals | 89 | 7 | 14.3% | 54.1% | -39.9pp | -6.1% |
-| 1H 1x2 & BTTS | 84 | 7 | 0.0% | 17.4% | -17.4pp | -8.3% |
-| ⭐ **Multiscores** | 81 | 6 | 16.7% | 13.0% | **+3.7pp** | +3.1% |
-| 2H 1x2 & BTTS | 81 | 7 | 0.0% | 17.3% | -17.3pp | -8.6% |
-| 2H Total Goals | 75 | 4 | 25.0% | 57.4% | -32.4pp | -3.4% |
-| 1H Correct Score | 75 | 3 | 0.0% | 11.1% | -11.1pp | -4.0% |
-| 2H Correct Score | 60 | 3 | 0.0% | 9.4% | -9.4pp | -5.0% |
-| HT/FT Result | 58 | 3 | 0.0% | 24.4% | -24.4pp | -5.2% |
-| Double Chance & BTTS | 42 | 5 | 20.0% | 31.8% | -11.8pp | +1.2% |
-| 2H BTTS | 41 | 2 | 0.0% | 22.3% | -22.3pp | -4.9% |
-| ⭐ **2H Double Chance & BTTS** | 33 | 3 | 33.3% | 28.5% | **+4.8pp** | -1.5% |
-| 1H Double Chance & BTTS | 31 | 1 | 0.0% | 33.6% | -33.6pp | -3.2% |
-| BTTS | 26 | 1 | 0.0% | 54.2% | -54.2pp | -3.8% |
-| 1H BTTS | 11 | 1 | 0.0% | 23.4% | -23.4pp | -9.1% |
-| Team Win or BTTS | 5 | 0 | — | 56.1% | — | — |
-| Draw or BTTS | 5 | 0 | — | 61.0% | — | — |
+| Double Chance & Total | 187 | 140 | 47.9% | 60.5% | -12.7pp | -7.3% |
+| Total Goals | 88 | 60 | 53.3% | 61.8% | -8.4pp | -4.5% |
+| Correct Score | 43 | 19 | 0.0% | 6.4% | -6.4pp | -44.2% |
+| 1H Total Goals | 26 | 12 | 58.3% | 65.2% | -6.9pp | +0.5% |
+| 1x2 & Total | 20 | 13 | 100.0% | 33.9% | +66.1pp | +158.8% |
+| HT/FT Correct Score | 16 | 0 | — | 1.6% | — | — |
+| ⭐ **2H Total Goals** | 16 | 13 | 53.8% | 53.5% | **+0.3pp** | +16.9% |
+| 1H 1x2 & BTTS | 11 | 9 | 11.1% | 17.0% | -5.8pp | -45.5% |
+| 2H 1x2 & BTTS | 10 | 7 | 0.0% | 13.3% | -13.3pp | -70.0% |
+| BTTS | 8 | 1 | 0.0% | 46.3% | -46.3pp | -12.5% |
+| HT/FT Result | 6 | 6 | 50.0% | 22.8% | +27.2pp | +97.8% |
+| ⭐ **2H BTTS** | 6 | 6 | 16.7% | 13.9% | **+2.8pp** | +83.3% |
+| 2H Correct Score | 5 | 4 | 0.0% | 8.9% | -8.9pp | -80.0% |
+| ⭐ **Multiscores** | 2 | 2 | 0.0% | 0.7% | **-0.7pp** | -100.0% |
+| 2H Double Chance & BTTS | 1 | 1 | 0.0% | 44.2% | -44.2pp | -100.0% |
+| 2H 1x2 & Total | 1 | 0 | — | 60.5% | — | — |
+| 1H 1x2 & Total | 1 | 0 | — | 49.7% | — | — |

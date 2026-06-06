@@ -9,10 +9,7 @@ description: When working in /betting
 ## Operational Architecture
 
 **1. Data Pipeline**
-- **Harvesting**: Use async Playwright to intercept XHR `GetEventDetails` responses on JustBet. "Agent, the market_resolver.py is failing. It is returning the same Fair Price (1.39) for different markets like '1st half BTTS' and 'Full Match BTTS'.
-You must ensure the resolver uses the Half-Time Lambda (45% of total) for all 1st Half markets.
-You must ensure that '1x2 & BTTS' calculates the probability of BOTH occurring (Win * BTTS), not just one.
-Recalculate the Poisson grid and re-run. We are looking for realistic EVs between 5% and 25%."
+- **Harvesting**: Use async Playwright to intercept XHR `GetEventDetails` responses on JustBet. 
 - **Persistence**: Store raw JSON payloads in `bets.db` (`raw_payloads` table).
 - **Extraction**: Extract `{market_name, selection_name, price}` into flat lists. No business logic in parsers.
 
@@ -29,26 +26,29 @@ Recalculate the Poisson grid and re-run. We are looking for realistic EVs betwee
 - **Aggregates**: Handle "Winning Margin" and "Multiscores" by summing specific probability coordinates in the 7x7 grid.
 
 **4. Project State & Docs**
+- **Reference**: Use the docs as a reference point if you need quick information on the purposes of certain tools/files/folders
 - **MkDocs Integration**: All documentation must reside in the `docs/` folder and be compatible with MkDocs.
 - **Living Doc**: On every major logic change, update `docs/human.md` with a plain-language summary.
-- **Architecture Logs**: Maintain the `[FOLDER]_DEBUG.md` files within `docs/` to map functions and logic.
+- **Architecture Logs**: Maintain the `[FOLDER]_DEBUG.md` files within `docs/` to map functions and logic of the src/ folder
+- **Conciseness**: Keep documentation actionable and technical. Use the `docs/` structure to preserve original understanding of the file system.
 
 **5. Dynamic Lambda Scaling**
 - **Do NOT hardcode 45/55 splits.**
 - **Input Requirements**: The system should accept two primary inputs: `MATCH_LAMBDA` and `HT_LAMBDA`.
 - **Derivation**: 
     - If `HT_LAMBDA` is provided (from Sharp 1st Half lines), use it for all 1st half markets.
-    - If `HT_LAMBDA` is NOT provided, fallback to 45% of `MATCH_LAMBDA`, but log a "WARNING: HEURISTIC SPLIT" in `docs/index.md`.
+    - If `HT_LAMBDA` is NOT provided, fallback to 45% of `MATCH_LAMBDA`, but log a "WARNING: HEURISTIC SPLIT" to console
 - **2nd Half Logic**: `2H_LAMBDA` MUST always be `MATCH_LAMBDA - HT_LAMBDA`.
 
-**6. Documentation**
-- **Code-Doc Sync**: Anytime a change is made to a Python file, or a new file is added, you MUST update the corresponding `_DEBUG.md` file in `docs/` to reflect function changes, new inputs/outputs, or structural shifts.
-- **Conciseness**: Keep documentation actionable and technical. Use the `docs/` structure to preserve original understanding of the file system.
 
-
-**MAIN INSTRUCTION**
+**MAIN PIPELINE**
 Here is how the data pipeline works 
-Scrape JustBet for future odds -> scrape other bets to compare and calculate all logic -> calculate +EV bets -> scrape JustBet for passed matches and check results -> Check profits
+Resolve unsettled bets if matches finished -> Scrape JustBet for odds of upcoming matches -> scrape corresponding match odds from sharps -> calculate EV of bets using 7x7 grid-> output the bets with +EV
+
+**SCRAPING SPECIFICs**
+- You are allowed and recommended to create small temporary python tools to figure out where information is located on a website so that playwright can access the right information. 
+- These tools should NEVER write to the main database, or create any persistent storage. Simply read the output within the tool, evaluate/iterate on the tool until it gets the exact info we want to scrape
+- These temporary tools should always be deleted once theyve serve their purpose
 
 ## Output Protocol
 - Zero conversational fluff, summaries, or checklists.

@@ -44,3 +44,21 @@
 - **New +EV Bets Logged**: 1876
 - **Total Bets in DB**: 2044
 - **Report**: [PERFORMANCE_SEGMENTATION.md](PERFORMANCE_SEGMENTATION.md)
+
+## Session — 2026-05-24 19:28 UTC
+- **Duration**: 16m 45s
+- **New +EV Bets Logged**: 1434
+- **Total Bets in DB**: 1434
+- **Report**: [PERFORMANCE_SEGMENTATION.md](PERFORMANCE_SEGMENTATION.md)
+
+## Session — 2026-05-26 00:01 UTC
+- **Duration**: 130m 19s
+- **New +EV Bets Logged**: 576
+- **Total Bets in DB**: 721
+- **Report**: [PERFORMANCE_SEGMENTATION.md](PERFORMANCE_SEGMENTATION.md)
+
+## Session — 2026-06-06 02:38 UTC
+- **Duration**: 29m 52s
+- **New +EV Bets Logged**: 447
+- **Total Bets in DB**: 447
+- **Report**: [PERFORMANCE_SEGMENTATION.md](PERFORMANCE_SEGMENTATION.md)
