@@ -12,13 +12,18 @@ from src.collectors.casino_parser import CasinoParser
 from src.core.database import BettingDatabase
 from src.core.tracker import BetTracker
 
-# Simulation Mode: all tracked bets use a flat $1.00 stake for performance attribution.
-SIMULATION_STAKE = 1.0
+# Session accumulator — tracks totals across all matches processed in one scan run
+_session_stake_total = 0.0
+_session_ev_total = 0.0
+_session_bets_logged = 0
 
 async def process_match(match, league_config, db, tracker, parser, consensus_engine, is_session=True):
     """
     Processes a single match: harvests sharps, calculates EV, and saves.
+    Uses the current bankroll from the DB for Kelly sizing.
     """
+    global _session_stake_total, _session_ev_total, _session_bets_logged
+
     teams = match['name'].split(' vs. ')
     if len(teams) != 2:
         return
@@ -58,7 +63,7 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
     else:
         print(f"[BETEXPLORER] No odds found for {team_a} vs {team_b}")
 
-    # Append Pinnacle result to sharp_results (it was logged but not added)
+    # Append Pinnacle result to sharp_results
     sharp_results.append(pin_result)
 
     # Check if we got any odds
@@ -126,6 +131,9 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
 
     seen_bets = set()
 
+    # Get current bankroll from DB for Kelly sizing
+    current_bankroll = db.get_bankroll_balance()
+
     for market in raw_markets:
         m_name = market['name']
         for selection in market['selections']:
@@ -148,8 +156,8 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
 
                 # Log if in realistic EV range (5% to 25%)
                 if 0.05 < ev < 0.25:
-                    # Kelly stake for live use
-                    stake = calculate_kelly_stake(odds, fair_prob, INITIAL_BANKROLL, KELLY_MULTIPLIER)
+                    # Kelly stake sized against current bankroll
+                    stake = calculate_kelly_stake(odds, fair_prob, current_bankroll, KELLY_MULTIPLIER)
 
                     # Simulation Mode: skip bets calculated with fallback lambdas
                     # (no real sharp odds backing them — would distort performance tracking)
@@ -168,12 +176,16 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                             odds=odds,
                             fair_odds=fair_odds,
                             ev=ev,
-                            stake=SIMULATION_STAKE,
+                            stake=stake,
                             home_team=team_a,
                             away_team=team_b,
                             be_path=league_config['be_path'],
                             start_time=start_time
                         )
+                        # Accumulate totals for session summary
+                        _session_stake_total += stake
+                        _session_ev_total += stake * (fair_odds - 1) * fair_prob - stake * (1 - fair_prob)
+                        _session_bets_logged += 1
                     else:
                         from src.core.tracker import categorize
                         category = categorize(m_name)
@@ -182,14 +194,12 @@ async def process_match(match, league_config, db, tracker, parser, consensus_eng
                     print(f"{tag} [{category}] {m_name} | {name} @ {odds} | Fair: {fair_odds:.2f} | EV: {ev:+.2%} | STAKE: ${stake:.2f}")
 
 async def run_full_scan(is_session=True):
-    """Runs a full scan across dynamically discovered active leagues.
+    """Runs a full scan across dynamically discovered active leagues."""
+    global _session_stake_total, _session_ev_total, _session_bets_logged
+    _session_stake_total = 0.0
+    _session_ev_total = 0.0
+    _session_bets_logged = 0
 
-    This function now prioritizes the most recently upcoming matches by:
-    1. Filtering out live matches (already handled by API)
-    2. Filtering for matches scheduled within the next 48 hours
-    3. Sorting matches by start time to process nearest events first
-    4. Increasing match processing limit to capture more near-term opportunities
-    """
     print("--- Sentinel Multi-League Quant Agent Scan Started (Dynamic Mode) ---")
 
     db = BettingDatabase()
@@ -201,7 +211,7 @@ async def run_full_scan(is_session=True):
     print(f"Discovered {len(active_leagues)} active leagues with prelive events.")
 
     total_scanned_matches = 0
-    MATCH_LIMIT = 100  # Increased from 50 to process more relevant upcoming matches
+    MATCH_LIMIT = 100
 
     for league in active_leagues:
         if total_scanned_matches >= MATCH_LIMIT:
@@ -215,8 +225,6 @@ async def run_full_scan(is_session=True):
         matches = await find_matches(league['champ_id'])
         print(f"Found {len(matches)} upcoming matches in casino.")
 
-        # Process first 5 matches of the league (increased from 3), up to the total MATCH_LIMIT
-        # This gives us better coverage of near-term opportunities
         for match in matches[:5]:
             if total_scanned_matches >= MATCH_LIMIT:
                 break
@@ -224,3 +232,21 @@ async def run_full_scan(is_session=True):
             total_scanned_matches += 1
             await asyncio.sleep(2)
 
+    # Deduct committed stakes from bankroll and log session summary
+    if is_session and _session_bets_logged > 0:
+        balance_before = db.get_bankroll_balance()
+        balance_after = balance_before - _session_stake_total
+        db.set_bankroll_balance(balance_after)
+        db.record_session_summary(
+            session_type="scan",
+            total_stake_committed=round(_session_stake_total, 2),
+            theoretical_ev_profit=round(_session_ev_total, 2),
+            bets_logged=_session_bets_logged,
+            balance_before=round(balance_before, 2),
+            balance_after=round(balance_after, 2),
+        )
+        print(f"\n[BANKROLL] Session scan complete:")
+        print(f"  Bets logged    : {_session_bets_logged}")
+        print(f"  Total stake    : ${_session_stake_total:.2f}")
+        print(f"  Theoretical EV : ${_session_ev_total:+.2f}")
+        print(f"  Balance        : ${balance_before:.2f} -> ${balance_after:.2f}")

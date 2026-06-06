@@ -407,6 +407,7 @@ async def resolve_results(db):
     print(f"[RESULTS] Resolving {len(unsettled)} unsettled match(es)...")
     settled_count = 0
     skip_count = 0
+    total_pnl = 0.0
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -569,13 +570,19 @@ async def resolve_results(db):
 
                 db.settle_bet(bet_id, is_win=won, odds=odds, stake=stake)
                 settled_count += 1
+                profit = (odds - 1) * stake if won else -stake
+                total_pnl += profit
                 status_str = "WON" if won else "LOST"
-                print(f"  [SETTLED] {category} -> {selection}: {status_str} (Odds: {odds}, Stake: {stake})")
+                print(f"  [SETTLED] {category} -> {selection}: {status_str} (Odds: {odds}, Stake: {stake}, P&L: ${profit:+.2f})")
 
             await asyncio.sleep(1)
 
         await browser.close()
 
-    print(f"[RESULTS] Done — {settled_count} bets settled, {skip_count} skipped.")
-    return settled_count
+    print(f"[RESULTS] Done — {settled_count} bets settled, {skip_count} skipped, P&L: ${total_pnl:+.2f}.")
+    return {
+        "settled": settled_count,
+        "skipped": skip_count,
+        "total_pnl": round(total_pnl, 2),
+    }
 

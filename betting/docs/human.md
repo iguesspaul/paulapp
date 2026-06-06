@@ -32,7 +32,14 @@ The system compares the casino's price against our Fair Price.
 - **Edge Detection**: Only bets with an EV between **5% and 25%** are flagged. These are mathematically "mispriced" opportunities.
 
 ### 6. Performance Attribution & Category Tracking
-Every +EV bet is **categorized** by its parent market type and logged to the `simulated_bets` table in `bets.db` using a flat **$1.00 simulation stake**.
+Every +EV bet is **categorized** by its parent market type and logged to the `simulated_bets` table in `bets.db` using a **Kelly-weighted stake** sized against the current bankroll.
+- **Kelly Sizing**: `stake = fractional_kelly × bankroll` where `fractional_kelly = 0.20` (conservative 20% Kelly). Current bankroll starts at **$5,000** and is tracked in `bankroll_state` table.
+- **Bankroll Deduction**: Each session scan deducts the total committed stakes from the bankroll. When `check_results.py` settles bets, realized P&L is added back. This simulates real money deployment.
+- **Session Ledger**: Both scan and settlement events are logged in `session_summary` with stake committed, theoretical EV value, and actual P&L — visible in the PERFORMANCE report header.
+- **Report Sections**: The PERFORMANCE_SEGMENTATION.md now has three sections:
+  1. **Bankroll Overview** — current balance, total realized P&L, overall ROI
+  2. **Recent Sessions** — last 10 runs with stake, EV, and P&L per session
+  3. **Category Performance** — per-category Win Rate, Yield, Stake Exposure, and P&L ($)
 Bets calculated using fallback lambdas (no real sharp odds backing them) are automatically **skipped** during session runs to prevent performance tracking distortion.
 - **Categorization**: Raw casino strings like `"1st Half - 1x2 & Both Teams to Score"` are normalized into canonical groups (e.g., `"1H 1x2 & BTTS"`) so performance can be compared across matches.
 - **Line Stability**: Even duplicate bets (same selection scraped in two runs) are logged separately. A selection appearing multiple times at the same price indicates a **stable, confident line**.
