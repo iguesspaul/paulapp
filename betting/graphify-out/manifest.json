@@ -1,0 +1,222 @@
+{
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/check_results.py": {
+    "mtime": 1780774762.381523,
+    "ast_hash": "f44982ff5c805dd8ec58f21568aae98e",
+    "semantic_hash": "f44982ff5c805dd8ec58f21568aae98e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/clear_bets.py": {
+    "mtime": 1779030610.7721436,
+    "ast_hash": "ec75c9861f24e25b29df7eaf3ed92df9",
+    "semantic_hash": "ec75c9861f24e25b29df7eaf3ed92df9"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/main.py": {
+    "mtime": 1778976403.6893733,
+    "ast_hash": "e1edb3cb1218b5e008565499df13ef5b",
+    "semantic_hash": "e1edb3cb1218b5e008565499df13ef5b"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/run_session.py": {
+    "mtime": 1780774745.8680158,
+    "ast_hash": "cbf999c456a714bc1cb12da7163759ac",
+    "semantic_hash": "cbf999c456a714bc1cb12da7163759ac"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/__init__.py": {
+    "mtime": 1778804751.7325788,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/__init__.py": {
+    "mtime": 1778804751.73283,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/casino_parser.py": {
+    "mtime": 1778821022.3314476,
+    "ast_hash": "2f641f158e52964667b480a8a0a128f0",
+    "semantic_hash": "2f641f158e52964667b480a8a0a128f0"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/harvesters/__init__.py": {
+    "mtime": 1778823139.8872223,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/harvesters/betexplorer.py": {
+    "mtime": 1780710773.835153,
+    "ast_hash": "604acf310d94da7725dc4d6300c143c5",
+    "semantic_hash": "604acf310d94da7725dc4d6300c143c5"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/harvesters/normalizer.py": {
+    "mtime": 1780711223.8227487,
+    "ast_hash": "d0235a128f5c68389a90b5ad259cae6b",
+    "semantic_hash": "d0235a128f5c68389a90b5ad259cae6b"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/harvesters/pinnacle.py": {
+    "mtime": 1780712263.2843833,
+    "ast_hash": "440070e92f42fd9b9ea8728364a4cb42",
+    "semantic_hash": "440070e92f42fd9b9ea8728364a4cb42"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/market_resolver.py": {
+    "mtime": 1779055442.3222737,
+    "ast_hash": "61b19a1f28a2eb338e60c1730b94aa3c",
+    "semantic_hash": "61b19a1f28a2eb338e60c1730b94aa3c"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/collectors/scraper.py": {
+    "mtime": 1780701509.6031284,
+    "ast_hash": "472b114cd0df25436aeb97a1da8b4c69",
+    "semantic_hash": "472b114cd0df25436aeb97a1da8b4c69"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/__init__.py": {
+    "mtime": 1778804751.732677,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/config.py": {
+    "mtime": 1778970406.8148415,
+    "ast_hash": "d2a2263d9e5bea612dae8415eb96ca6f",
+    "semantic_hash": "d2a2263d9e5bea612dae8415eb96ca6f"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/database.py": {
+    "mtime": 1780774714.7689254,
+    "ast_hash": "cfeabd173b3e7be2b5948c16f53bc24c",
+    "semantic_hash": "cfeabd173b3e7be2b5948c16f53bc24c"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/orchestrator.py": {
+    "mtime": 1780774734.2011843,
+    "ast_hash": "28c51c7c1be9b4de503e6d62e548b895",
+    "semantic_hash": "28c51c7c1be9b4de503e6d62e548b895"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/reporter.py": {
+    "mtime": 1780774775.306053,
+    "ast_hash": "6eb5e810bca03f6c6487c4efa213c656",
+    "semantic_hash": "6eb5e810bca03f6c6487c4efa213c656"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/results_checker.py": {
+    "mtime": 1780774756.4560404,
+    "ast_hash": "0693e880db3df57cb201b4049a31df6e",
+    "semantic_hash": "0693e880db3df57cb201b4049a31df6e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/core/tracker.py": {
+    "mtime": 1779750316.1025653,
+    "ast_hash": "f3d4afc8865e4f5cb689c4d33ffa8e01",
+    "semantic_hash": "f3d4afc8865e4f5cb689c4d33ffa8e01"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/math/__init__.py": {
+    "mtime": 1778804751.7327542,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/math/bankroll_manager.py": {
+    "mtime": 1780774692.2807593,
+    "ast_hash": "5ac8f9ca120580476dc9ce29d6a8be31",
+    "semantic_hash": "5ac8f9ca120580476dc9ce29d6a8be31"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/math/ev.py": {
+    "mtime": 1778973387.507316,
+    "ast_hash": "b24d37cf05108999204b01af3b6023bf",
+    "semantic_hash": "b24d37cf05108999204b01af3b6023bf"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/math/probability_grid.py": {
+    "mtime": 1779721792.1665046,
+    "ast_hash": "4a3ec3bf5f6af56d5f9c4f7a990517c6",
+    "semantic_hash": "4a3ec3bf5f6af56d5f9c4f7a990517c6"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/src/math/sharp_consensus.py": {
+    "mtime": 1780711953.8831582,
+    "ast_hash": "db5d356c23d66773f82d2d82dfdc8e4e",
+    "semantic_hash": "db5d356c23d66773f82d2d82dfdc8e4e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/tests/diagnose_lamba.py": {
+    "mtime": 1780766631.139689,
+    "ast_hash": "854781585738849ae13f1bfbbfa9afd2",
+    "semantic_hash": "854781585738849ae13f1bfbbfa9afd2"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/tests/test_be_results.py": {
+    "mtime": 1780766631.1485631,
+    "ast_hash": "cab698f679196dc95fef539210324d54",
+    "semantic_hash": "cab698f679196dc95fef539210324d54"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/tests/test_quant_engine.py": {
+    "mtime": 1780766631.1573982,
+    "ast_hash": "43cc7577078e8be2acfe517dd7b505e7",
+    "semantic_hash": "43cc7577078e8be2acfe517dd7b505e7"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/tests/test_results_checker.py": {
+    "mtime": 1780766631.1666403,
+    "ast_hash": "2c92e424ea17e2ab54b69b6a95d02abe",
+    "semantic_hash": "2c92e424ea17e2ab54b69b6a95d02abe"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/CLAUDE.md": {
+    "mtime": 1780768485.3083737,
+    "ast_hash": "a66b06f25fcb8755dfdf4fbcf7c0028d",
+    "semantic_hash": "a66b06f25fcb8755dfdf4fbcf7c0028d"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/PERFORMANCE_SEGMENTATION.md": {
+    "mtime": 1780773876.505117,
+    "ast_hash": "949bf05dcd7be053ec58d7d9f83be1df",
+    "semantic_hash": "949bf05dcd7be053ec58d7d9f83be1df"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/RESULTS_DEBUG.md": {
+    "mtime": 1780692870.9631388,
+    "ast_hash": "b4b89af912b97aefe42726831b788466",
+    "semantic_hash": "b4b89af912b97aefe42726831b788466"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/SESSION_LOG.md": {
+    "mtime": 1780715328.8407152,
+    "ast_hash": "895b9960a3d09140b6557d9626f1b39e",
+    "semantic_hash": "895b9960a3d09140b6557d9626f1b39e"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/human.md": {
+    "mtime": 1780774781.1164365,
+    "ast_hash": "85a82271dd84f7d7d718b95cf5356db8",
+    "semantic_hash": "85a82271dd84f7d7d718b95cf5356db8"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/index.md": {
+    "mtime": 1780766708.9679625,
+    "ast_hash": "c7e64e5d84832ed5b615134c19195bf8",
+    "semantic_hash": "c7e64e5d84832ed5b615134c19195bf8"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/src/SRC_DEBUG.md": {
+    "mtime": 1779031669.5059187,
+    "ast_hash": "afdc6ae36b6f7938cc638233d7bf698f",
+    "semantic_hash": "afdc6ae36b6f7938cc638233d7bf698f"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/src/collectors/COLLECTORS_DEBUG.md": {
+    "mtime": 1779718996.4715397,
+    "ast_hash": "a7782d2af71b57bb6f6781f74021cb14",
+    "semantic_hash": "a7782d2af71b57bb6f6781f74021cb14"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/src/collectors/harvesters/HARVESTERS_DEBUG.md": {
+    "mtime": 1780715745.0678306,
+    "ast_hash": "ac508a7d594ca75619a0cac44bd10c17",
+    "semantic_hash": "ac508a7d594ca75619a0cac44bd10c17"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/src/core/CORE_DEBUG.md": {
+    "mtime": 1780774869.5618937,
+    "ast_hash": "ab8e3bf750712ba22f3acc46aaa9eab7",
+    "semantic_hash": "ab8e3bf750712ba22f3acc46aaa9eab7"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/docs/src/math/MATH_DEBUG.md": {
+    "mtime": 1780715756.5324073,
+    "ast_hash": "61a62e04a7532b130cd5aea4c4922aa3",
+    "semantic_hash": "61a62e04a7532b130cd5aea4c4922aa3"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/league_results.html": {
+    "mtime": 1779751163.4412115,
+    "ast_hash": "086707e4369f60afedcafb16050a7618",
+    "semantic_hash": "086707e4369f60afedcafb16050a7618"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/match_page.html": {
+    "mtime": 1779751353.0564413,
+    "ast_hash": "086707e4369f60afedcafb16050a7618",
+    "semantic_hash": "086707e4369f60afedcafb16050a7618"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/mkdocs.yml": {
+    "mtime": 1779031662.867694,
+    "ast_hash": "9ea45eab72f73080c8a88d40ecbe7821",
+    "semantic_hash": "9ea45eab72f73080c8a88d40ecbe7821"
+  },
+  "/Users/paulvantilburg/Documents/Code/paulapp/betting/requirements.txt": {
+    "mtime": 1778804385.433884,
+    "ast_hash": "6ff7bbaee9aa9b3e0b9b04c870622ae1",
+    "semantic_hash": "6ff7bbaee9aa9b3e0b9b04c870622ae1"
+  }
+}
