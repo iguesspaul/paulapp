@@ -11,9 +11,6 @@
 **2. Mathematical Engine (The Law)**
 - **Poisson**: All pricing must derive from a 7x7 NumPy probability grid (0-6 goals).
 - **Consensus**: Calculate `CONSENSUS_LAMBDA` by de-vigging sharp books (Pinnacle/Bet365). 
-- **Bias Constants**: 
-    - Home Advantage: 58% of $\lambda$ to Home, 42% to Away.
-    - Match Timing: 1st Half = 45% of total goals; 2nd Half = 55%.
 - **EV Calculation**: `(Fair_Prob * (Price - 1)) - (1 - Fair_Prob)`.
 
 **3. The Resolver Pattern**
@@ -41,9 +38,12 @@ Here is how the data pipeline works
 Resolve unsettled bets if matches finished -> Scrape JustBet for odds of upcoming matches -> scrape corresponding match odds from sharps -> calculate EV of bets using 7x7 grid-> output the bets with +EV
 
 **SCRAPING SPECIFICs**
-- You are allowed and recommended to create small temporary python tools to figure out where information is located on a website so that playwright can access the right information. 
-- These tools should NEVER write to the main database, or create any persistent storage. Simply read the output within the tool, evaluate/iterate on the tool until it gets the exact info we want to scrape
-- These temporary tools should always be deleted once theyve serve their purpose
+- You are allowed and recommended to create small temporary python scripts to figure out where information is located on a website so that playwright or api calls can access the right information. 
+- These scripts should NEVER write to the main database, or create any persistent storage. Simply read the output within the script, evaluate/iterate on the script until it gets the exact info we want to scrape
+- These temporary scripts should always be deleted once theyve served their purpose
+
+**TOOL CALLS**
+- For these tools: ls, find, grep, diff, wc, cat / head / tail <file>, use the rtk <command> prefix always
 
 ## Output Protocol
 - Zero conversational fluff, summaries, or checklists.
