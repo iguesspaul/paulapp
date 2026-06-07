@@ -4,10 +4,13 @@ check_results.py — Standalone tool to check and settle finished bets, then reg
 Does NOT run any league scans or place new bets.
 Updates the bankroll with realized P&L from settlements.
 """
+
 import asyncio
+
 from src.core.database import BettingDatabase
-from src.core.results_checker import resolve_results
 from src.core.reporter import generate_report
+from src.core.results_checker import resolve_results
+
 
 async def main():
     db = BettingDatabase()
@@ -36,7 +39,7 @@ async def main():
             balance_before=round(balance_before, 2),
             balance_after=balance_after,
         )
-        print(f"\n[BANKROLL] Settlement summary:")
+        print("\n[BANKROLL] Settlement summary:")
         print(f"  Bets settled : {settled}")
         print(f"  Bets skipped : {skipped}")
         print(f"  P&L          : ${total_pnl:+.2f}")
@@ -54,6 +57,7 @@ async def main():
     print("\n" + "=" * 50)
     print("  SETTLEMENT COMPLETE")
     print("=" * 50)
+
 
 if __name__ == "__main__":
     asyncio.run(main())

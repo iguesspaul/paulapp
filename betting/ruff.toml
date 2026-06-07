@@ -1,0 +1,22 @@
+target-version = "py313"
+line-length = 100
+
+[format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"
+
+[lint]
+select = [
+  "E",   # pycodestyle errors
+  "F",   # pyflakes (unused imports, undefined names)
+  "I",   # isort (import ordering)
+  "UP",  # pyupgrade (modern Python idioms)
+  "SIM", # flake8-simplify (simplify expressions)
+  "ARG", # unused function arguments
+  "RUF", # ruff-specific rules
+]
+ignore = [
+  "E501", # line-length (handled by formatter)
+  "RUF013", # implicit Optional (valid `str | None` syntax in 3.14)
+]

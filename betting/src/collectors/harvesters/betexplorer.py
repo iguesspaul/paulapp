@@ -20,8 +20,9 @@ Output format unchanged:
 import asyncio
 import json
 import re
-import urllib.request
 import urllib.parse
+import urllib.request
+
 from playwright.async_api import async_playwright
 
 try:
@@ -29,7 +30,9 @@ try:
 except ImportError:
     stealth_async = None
 
-from .normalizer import name_match_score, normalize, get_alias
+import contextlib
+
+from .normalizer import get_alias, name_match_score, normalize
 
 _TARGET_BOOKS = ["Pinnacle", "bet365", "SBOBET", "188BET", "Betfair"]
 _ODDS_HEADERS = {
@@ -55,7 +58,9 @@ def _be_path_to_url(be_path: str) -> str:
     return f"{_BE_BASE}/football/{path}/"
 
 
-def _search_league_url(league_name: str, country_name: str = "", all_matches: bool = False) -> str | None | list:
+def _search_league_url(
+    league_name: str, country_name: str = "", all_matches: bool = False
+) -> str | None | list:
     """
     Use BetExplorer's internal search API to find the correct league page URL.
     Searches by league name, then filters results by country name.
@@ -94,11 +99,11 @@ def _search_league_url(league_name: str, country_name: str = "", all_matches: bo
     # Format B: <a ...>Country: League</a>          (no bold, but still a valid result)
     bold_pattern = re.compile(
         r'<a\s+class="list-events__item__title"\s+href="(/football/[^"]+/)">'
-        r'([^<]+):\s*<b>([^<]+)</b>'
+        r"([^<]+):\s*<b>([^<]+)</b>"
     )
     plain_pattern = re.compile(
         r'<a\s+class="list-events__item__title"\s+href="(/football/[^"]+/)">'
-        r'([^<]+):\s*([^<]+)</a>'
+        r"([^<]+):\s*([^<]+)</a>"
     )
 
     # Collect both, deduplicate by URL (plain entries can duplicate <b> entries)
@@ -114,7 +119,7 @@ def _search_league_url(league_name: str, country_name: str = "", all_matches: bo
             raw_matches.append((href, country, league))
 
     if not raw_matches:
-        print(f"[BETEXPLORER] No competition links parsed from search")
+        print("[BETEXPLORER] No competition links parsed from search")
         return None
 
     matches = raw_matches
@@ -197,23 +202,19 @@ def _parse_json_1x2(data: dict) -> dict:
 
         raw_odds = row.get("odds", row.get("o", []))
         if isinstance(raw_odds, list) and len(raw_odds) >= 3:
-            try:
+            with contextlib.suppress(ValueError, TypeError):
                 result[book_match] = {
                     "1": float(raw_odds[0]),
                     "X": float(raw_odds[1]),
                     "2": float(raw_odds[2]),
                 }
-            except (ValueError, TypeError):
-                pass
         elif isinstance(raw_odds, dict):
-            try:
+            with contextlib.suppress(ValueError, TypeError):
                 result[book_match] = {
                     "1": float(raw_odds.get("1", raw_odds.get("home", 0))),
                     "X": float(raw_odds.get("X", raw_odds.get("draw", 0))),
                     "2": float(raw_odds.get("2", raw_odds.get("away", 0))),
                 }
-            except (ValueError, TypeError):
-                pass
 
     return result
 
@@ -249,13 +250,11 @@ def _parse_json_ou(data: dict) -> dict:
 
         raw_odds = row.get("odds", row.get("o", []))
         if isinstance(raw_odds, list) and len(raw_odds) >= 2:
-            try:
+            with contextlib.suppress(ValueError, TypeError):
                 result[book_match] = {
                     "Over2.5": float(raw_odds[0]),
                     "Under2.5": float(raw_odds[1]),
                 }
-            except (ValueError, TypeError):
-                pass
 
     return result
 
@@ -279,19 +278,19 @@ async def _find_match_id(page, league_url: str, team_a: str, team_b: str) -> tup
         return None, []
 
     # Scan all table rows for match candidates (team names + odds)
-    rows = await page.evaluate('''() => {
+    rows = await page.evaluate("""() => {
         return Array.from(document.querySelectorAll('tr'))
             .map(row => {
                 // Extract team-link text (e.g. "Vanuatu - Fiji" or "Haiti - Peru")
                 const links = Array.from(row.querySelectorAll('a'));
                 const teamLink = links.find(a => a.href.includes('/football/') && a.innerText.includes(' - '));
                 const text = teamLink ? teamLink.innerText.trim() : '';
-                
+
                 // Extract odds from <button> elements (decimal odds)
                 const odds = Array.from(row.querySelectorAll('button'))
                     .map(b => parseFloat(b.innerText))
                     .filter(v => !isNaN(v) && v > 1.0);
-                
+
                 // Extract matchId from deep URL for JSON fallback
                 let matchId = '';
                 if (teamLink) {
@@ -301,14 +300,14 @@ async def _find_match_id(page, league_url: str, team_a: str, team_b: str) -> tup
                         matchId = last;
                     }
                 }
-                
+
                 return { text: text, odds: odds, matchId: matchId };
             })
             .filter(r => r.text.includes(' - '));
-    }''')
+    }""")
 
     if not rows:
-        print(f"[BETEXPLORER] No match rows found on page")
+        print("[BETEXPLORER] No match rows found on page")
         return None, []
 
     # Score and find best match
@@ -320,8 +319,7 @@ async def _find_match_id(page, league_url: str, team_a: str, team_b: str) -> tup
         if len(parts) < 2:
             continue
 
-        score = (name_match_score(team_a, parts[0]) +
-                 name_match_score(team_b, parts[1])) / 2
+        score = (name_match_score(team_a, parts[0]) + name_match_score(team_b, parts[1])) / 2
 
         if score > best_score:
             best_score = score
@@ -330,11 +328,15 @@ async def _find_match_id(page, league_url: str, team_a: str, team_b: str) -> tup
     if best_score >= 0.35 and best_result:
         mid = best_result.get("matchId", "")
         odds = best_result.get("odds", [])
-        print(f"[BETEXPLORER] Found match via row scan (score={best_score:.2f}): {best_result['text']}")
+        print(
+            f"[BETEXPLORER] Found match via row scan (score={best_score:.2f}): {best_result['text']}"
+        )
         if mid:
             print(f"  matchId={mid}")
         if odds:
-            print(f"  inline odds (H/D/A): {odds[0] if len(odds) > 0 else '-'} / {odds[1] if len(odds) > 1 else '-'} / {odds[2] if len(odds) > 2 else '-'}")
+            print(
+                f"  inline odds (H/D/A): {odds[0] if len(odds) > 0 else '-'} / {odds[1] if len(odds) > 1 else '-'} / {odds[2] if len(odds) > 2 else '-'}"
+            )
         return mid, odds
 
     print(f"[BETEXPLORER] Could not find match for {team_a} vs {team_b} (best={best_score:.2f})")
@@ -349,7 +351,8 @@ async def _dom_fallback_odds(page, match_id: str, books: list) -> dict:
         await page.goto(match_url, wait_until="domcontentloaded", timeout=30000)
         await asyncio.sleep(2)
 
-        data = await page.evaluate('''(books) => {
+        data = await page.evaluate(
+            """(books) => {
             const res = {};
             books.forEach(b => res[b] = {});
             const rows = Array.from(document.querySelectorAll('tr'));
@@ -368,15 +371,18 @@ async def _dom_fallback_odds(page, match_id: str, books: list) -> dict:
                 }
             });
             return res;
-        }''', books)
+        }""",
+            books,
+        )
         return data
     except Exception as e:
         print(f"[BETEXPLORER] DOM fallback failed: {e}")
         return {}
 
 
-async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
-                              league_name: str = "", country_name: str = "") -> list:
+async def harvest_sharp_odds(
+    be_path: str, team_a: str, team_b: str, league_name: str = "", country_name: str = ""
+) -> list:
     """
     Harvests sharp book odds from BetExplorer.
 
@@ -390,9 +396,7 @@ async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent=_ODDS_HEADERS["User-Agent"]
-        )
+        context = await browser.new_context(user_agent=_ODDS_HEADERS["User-Agent"])
         page = await context.new_page()
         if stealth_async:
             await stealth_async(page)
@@ -413,7 +417,10 @@ async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
 
             # Try search API first (with aliased search term if available)
             if search_term:
-                print(f"[BETEXPLORER] Searching with term: '{search_term}'" + (f" (alias from '{league_name}')" if search_term != league_name else ""))
+                print(
+                    f"[BETEXPLORER] Searching with term: '{search_term}'"
+                    + (f" (alias from '{league_name}')" if search_term != league_name else "")
+                )
                 # Check if this league has multiple groups (like FNL 2)
                 league_urls = _search_league_url(search_term, country_name, all_matches=True)
                 if isinstance(league_urls, list):
@@ -435,7 +442,9 @@ async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
                     resolved_url = league_url
                     print(f"[BETEXPLORER] Search failed, falling back to be_path URL: {league_url}")
                 elif resolved_url != league_url:
-                    print(f"[BETEXPLORER] Using resolved URL (differs from be_path): {resolved_url}")
+                    print(
+                        f"[BETEXPLORER] Using resolved URL (differs from be_path): {resolved_url}"
+                    )
                 match_id, inline_odds = await _find_match_id(page, resolved_url, team_a, team_b)
 
             if not match_id:
@@ -456,7 +465,9 @@ async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
 
             # Strategy B: If JSON returned nothing, use inline odds from table row
             if not parsed_1x2 and inline_odds:
-                print(f"[BETEXPLORER] JSON endpoints failed, using inline odds from table: {inline_odds}")
+                print(
+                    f"[BETEXPLORER] JSON endpoints failed, using inline odds from table: {inline_odds}"
+                )
                 # Inline odds are decimal, typically [home, draw, away]
                 # We map these by position — assumes all target books share the same market price
                 if len(inline_odds) >= 3:
@@ -465,14 +476,16 @@ async def harvest_sharp_odds(be_path: str, team_a: str, team_b: str,
                         results[i]["odds"]["1"] = inline_odds[0]
                         results[i]["odds"]["X"] = inline_odds[1]
                         results[i]["odds"]["2"] = inline_odds[2]
-                        print(f"[BETEXPLORER] Set {book} 1x2 from inline odds: {inline_odds[0]}, {inline_odds[1]}, {inline_odds[2]}")
+                        print(
+                            f"[BETEXPLORER] Set {book} 1x2 from inline odds: {inline_odds[0]}, {inline_odds[1]}, {inline_odds[2]}"
+                        )
 
             # Strategy C: If both failed, try DOM fallback on the match page
             if not parsed_1x2 and not inline_odds:
                 print("[BETEXPLORER] JSON and inline odds both empty -- trying DOM fallback")
                 dom_data = await _dom_fallback_odds(page, match_id, _TARGET_BOOKS)
                 for book in _TARGET_BOOKS:
-                    if book in dom_data and dom_data[book]:
+                    if dom_data.get(book):
                         parsed_1x2[book] = dom_data[book]
 
             # Merge JSON/DOM results into results

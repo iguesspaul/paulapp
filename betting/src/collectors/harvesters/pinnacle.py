@@ -16,7 +16,15 @@ Output format unchanged:  {"book": "Pinnacle Direct", "odds": {"1": ..., "X": ..
 import json
 import time
 import urllib.request
-from .normalizer import normalize, name_match_score, normalize_slug, american_to_decimal, get_alias, make_slug
+
+from .normalizer import (
+    american_to_decimal,
+    get_alias,
+    make_slug,
+    name_match_score,
+    normalize,
+    normalize_slug,
+)
 
 _BASE = "https://guest.api.arcadia.pinnacle.com/0.1"
 _HEADERS = {
@@ -49,7 +57,7 @@ def _get_markets(matchup_id, league_id=None, participants=None) -> list | None:
 
     League-level: /leagues/{leagueId}/markets/straight (returns all matchups)
     Per-matchup: /matchups/{matchup_id}/markets/straight (often 401)
-    
+
     Some matchups have a 2-way format (home/away) with full markets and a 3-way
     format (home/away/draw) with only moneyline. When participants are provided,
     searches for the 2-way counterpart to get O/U markets.
@@ -64,13 +72,16 @@ def _get_markets(matchup_id, league_id=None, participants=None) -> list | None:
             if isinstance(all_markets, list):
                 # Try our exact matchup_id first
                 match_markets = [m for m in all_markets if m.get("matchupId") == matchup_id]
-                
+
                 # If we only got a moneyline market (no O/U), look for a 2-way
                 # counterpart with the same teams that has full markets
                 if len(match_markets) <= 1 and participants:
-                    team_names = {p.get("name", "").lower() for p in participants
-                                  if p.get("alignment") not in ("draw",)
-                                  and p.get("name", "").lower() not in ("neither", "draw")}
+                    team_names = {
+                        p.get("name", "").lower()
+                        for p in participants
+                        if p.get("alignment") not in ("draw",)
+                        and p.get("name", "").lower() not in ("neither", "draw")
+                    }
                     if team_names:
                         # Count markets per alternative matchup
                         market_counts = {}
@@ -79,12 +90,14 @@ def _get_markets(matchup_id, league_id=None, participants=None) -> list | None:
                             if mid == matchup_id:
                                 continue
                             market_counts[mid] = market_counts.get(mid, 0) + 1
-                        
+
                         # Get matchups to find team names for alternatives
                         alt_url = f"{_BASE}/leagues/{league_id}/matchups"
                         try:
                             alt_req = urllib.request.Request(alt_url, headers=_HEADERS)
-                            alt_matchups = json.loads(urllib.request.urlopen(alt_req, timeout=15).read())
+                            alt_matchups = json.loads(
+                                urllib.request.urlopen(alt_req, timeout=15).read()
+                            )
                             best_alt_id = None
                             best_alt_count = 0
                             for am in alt_matchups:
@@ -93,20 +106,26 @@ def _get_markets(matchup_id, league_id=None, participants=None) -> list | None:
                                     continue
                                 if amid not in market_counts:
                                     continue
-                                alt_names = {p.get("name", "").lower() for p in am.get("participants", [])}
+                                alt_names = {
+                                    p.get("name", "").lower() for p in am.get("participants", [])
+                                }
                                 # Check if this alt has the same team names (minus draw/neither)
                                 alt_teams = {n for n in alt_names if n not in ("neither", "draw")}
                                 if alt_teams == team_names and market_counts[amid] > best_alt_count:
                                     best_alt_id = amid
                                     best_alt_count = market_counts[amid]
-                            
+
                             if best_alt_id and best_alt_count > len(match_markets):
-                                alt_markets = [m for m in all_markets if m.get("matchupId") == best_alt_id]
-                                print(f"[PINNACLE] Found 2-way counterpart matchup {best_alt_id} with {len(alt_markets)} markets (vs {len(match_markets)} for 3-way {matchup_id})")
+                                alt_markets = [
+                                    m for m in all_markets if m.get("matchupId") == best_alt_id
+                                ]
+                                print(
+                                    f"[PINNACLE] Found 2-way counterpart matchup {best_alt_id} with {len(alt_markets)} markets (vs {len(match_markets)} for 3-way {matchup_id})"
+                                )
                                 return alt_markets
                         except Exception:
                             pass
-                
+
                 if match_markets:
                     return match_markets
         except Exception as e:
@@ -126,12 +145,14 @@ def _get_markets(matchup_id, league_id=None, participants=None) -> list | None:
                 markets = json.loads(resp.read())
                 if isinstance(markets, list):
                     if attempt > 0:
-                        print(f"[PINNACLE] Markets recovered after {attempt} retries on {endpoint.split('/')[-1]}")
+                        print(
+                            f"[PINNACLE] Markets recovered after {attempt} retries on {endpoint.split('/')[-1]}"
+                        )
                     return markets
             except urllib.error.HTTPError as e:
                 if e.code == 401:
                     if attempt < 2:
-                        wait = 0.5 * (2 ** attempt)
+                        wait = 0.5 * (2**attempt)
                         time.sleep(wait)
                         continue
                     print(f"[PINNACLE] Markets 401 on {endpoint.split('/')[-1]} after 3 attempts")
@@ -156,7 +177,9 @@ def _find_league(leagues: list, pin_path: str, known_name: str = "") -> dict | N
             if league.get("name") == known_name:
                 print(f"[PINNACLE] Exact match from alias: '{known_name}'")
                 return league
-        print(f"[PINNACLE] Alias exact match not found for '{known_name}', falling back to token scoring")
+        print(
+            f"[PINNACLE] Alias exact match not found for '{known_name}', falling back to token scoring"
+        )
 
     # Strategy 2: token-set intersection scoring
     slug_tokens = set(normalize_slug(pin_path).split())
@@ -196,16 +219,14 @@ def _find_matchup(matchups: list, team_a: str, team_b: str) -> dict | None:
         home_name = teams[0].get("name", "")
         away_name = teams[1].get("name", "")
 
-        score_direct = (name_match_score(team_a, home_name) +
-                        name_match_score(team_b, away_name)) / 2
-        score_swap = (name_match_score(team_a, away_name) +
-                      name_match_score(team_b, home_name)) / 2
+        score_direct = (
+            name_match_score(team_a, home_name) + name_match_score(team_b, away_name)
+        ) / 2
+        score_swap = (name_match_score(team_a, away_name) + name_match_score(team_b, home_name)) / 2
         score = max(score_direct, score_swap)
 
-        min_direct = min(name_match_score(team_a, home_name),
-                         name_match_score(team_b, away_name))
-        min_swap = min(name_match_score(team_a, away_name),
-                       name_match_score(team_b, home_name))
+        min_direct = min(name_match_score(team_a, home_name), name_match_score(team_b, away_name))
+        min_swap = min(name_match_score(team_a, away_name), name_match_score(team_b, home_name))
         if max(min_direct, min_swap) < 0.3:
             continue
 
@@ -367,8 +388,9 @@ def _parse_markets(markets: list, participants: list | None = None) -> dict:
     return odds
 
 
-async def harvest(pin_path: str, team_a: str, team_b: str,
-                  league_name: str = "", country_name: str = "") -> dict:
+async def harvest(
+    pin_path: str, team_a: str, team_b: str, league_name: str = "", country_name: str = ""
+) -> dict:
     """
     Fetch Pinnacle sharp odds via the public arcadia guest API.
     No Playwright or browser required — pure HTTP.
@@ -432,7 +454,7 @@ async def harvest(pin_path: str, team_a: str, team_b: str,
         if odds:
             print(f"[PINNACLE] Extracted odds: {odds}")
         else:
-            print(f"[PINNACLE] No 1x2/O/U odds found in markets (check market keys)")
+            print("[PINNACLE] No 1x2/O/U odds found in markets (check market keys)")
 
     except Exception as e:
         print(f"[PINNACLE] Harvest error: {e}")
@@ -440,6 +462,6 @@ async def harvest(pin_path: str, team_a: str, team_b: str,
     return result
 
 
-async def find_match_url(page, pin_path, team_a, team_b):
+async def find_match_url(page, pin_path, team_a, team_b):  # noqa: ARG001
     """Deprecated: Pinnacle now uses the arcadia API directly. Returns None."""
     return None

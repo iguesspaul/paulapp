@@ -5,6 +5,7 @@ def calculate_ev(fair_prob, odds):
     """
     return (fair_prob * odds) - 1.0
 
+
 def calculate_fair_odds(fair_prob):
     """
     Calculates the true fair decimal odds based on the true probability.

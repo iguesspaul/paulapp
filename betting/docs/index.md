@@ -20,5 +20,3 @@ Welcome to the Sentinel Quant Agent documentation. This site is generated via **
 - [Performance Segmentation](PERFORMANCE_SEGMENTATION.md) — ROI and Model Accuracy.
 - [Session Log](SESSION_LOG.md) — History of automated runs.
 - [Architecture](src/SRC_DEBUG.md) — Deep dive into the codebase.
-
-
